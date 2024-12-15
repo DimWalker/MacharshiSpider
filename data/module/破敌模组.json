@@ -1,0 +1,105 @@
+{
+  "data": {
+    "data": {
+      "ID": "30081",
+      "ModuleName": "破敌模组",
+      "name": "破敌模组",
+      "EntryLevel": "1",
+      "quality": "SSR",
+      "ModuleEffects": "30081/30082/30083/30084/30085/30086/30087/30088",
+      "WithPassiveSkills": [
+        {
+          "ID": "30081",
+          "name": "破敌模组",
+          "SpecificEffects": "主动攻击时，对携带减益效果的目标伤害提升<color=#F74848>3%</color>",
+          "BufCarried": "300811/300813",
+          "SkillIcon": "Icon_entry_10054",
+          "icon": "Icon_entry_10054",
+          "Status": 1,
+          "weight": 358
+        },
+        {
+          "ID": "30082",
+          "name": "破敌模组",
+          "SpecificEffects": "主动攻击时，对携带减益效果的目标伤害提升<color=#F74848>4%</color>",
+          "BufCarried": "300821/300823",
+          "SkillIcon": "Icon_entry_10054",
+          "icon": "Icon_entry_10054",
+          "Status": 1,
+          "weight": 359
+        },
+        {
+          "ID": "30083",
+          "name": "破敌模组",
+          "SpecificEffects": "主动攻击时，对携带减益效果的目标伤害提升<color=#F74848>6%</color>",
+          "BufCarried": "300831/300833",
+          "SkillIcon": "Icon_entry_10054",
+          "icon": "Icon_entry_10054",
+          "Status": 1,
+          "weight": 360
+        },
+        {
+          "ID": "30084",
+          "name": "破敌模组",
+          "SpecificEffects": "主动攻击时，对携带减益效果的目标伤害提升<color=#F74848>8%</color>",
+          "BufCarried": "300841/300843",
+          "SkillIcon": "Icon_entry_10054",
+          "icon": "Icon_entry_10054",
+          "Status": 1,
+          "weight": 361
+        },
+        {
+          "ID": "30085",
+          "name": "破敌模组",
+          "SpecificEffects": "主动攻击时，对携带减益效果的目标伤害提升<color=#F74848>10%</color>",
+          "BufCarried": "300851/300853",
+          "SkillIcon": "Icon_entry_10054",
+          "icon": "Icon_entry_10054",
+          "Status": 1,
+          "weight": 362
+        },
+        {
+          "ID": "30086",
+          "name": "破敌模组",
+          "SpecificEffects": "主动攻击时，对携带减益效果的目标伤害提升<color=#F74848>12%</color>",
+          "BufCarried": "300861/300863",
+          "SkillIcon": "Icon_entry_10054",
+          "icon": "Icon_entry_10054",
+          "Status": 1,
+          "weight": 363
+        },
+        {
+          "ID": "30087",
+          "name": "破敌模组",
+          "SpecificEffects": "主动攻击时，对携带减益效果的目标伤害提升<color=#F74848>14%</color>",
+          "BufCarried": "300871/300873",
+          "SkillIcon": "Icon_entry_10054",
+          "icon": "Icon_entry_10054",
+          "Status": 1,
+          "weight": 364
+        },
+        {
+          "ID": "30088",
+          "name": "破敌模组",
+          "SpecificEffects": "主动攻击时，对携带减益效果的目标伤害提升<color=#F74848>18%</color>；\n施加减益效果的持续回合<color=#F74848>+1</color>",
+          "BufCarried": "300881/300883/300884",
+          "SkillIcon": "Icon_entry_10054",
+          "icon": "Icon_entry_10054",
+          "Status": 1,
+          "weight": 365
+        }
+      ],
+      "introduce": "最佳的进攻时机并不是己方的全盛时期，而是对方机兵遭到削弱的时刻，这正是破敌模组遵循的基本战略。",
+      "ModuleIcon": "Icon_entry_10054",
+      "icon": "Icon_entry_10054",
+      "IconType": "GeneralSuit",
+      "ObtainingMethod": "商店购买",
+      "Status": 1,
+      "weight": 46
+    },
+    "now": "2024-12-13 15:09:41"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

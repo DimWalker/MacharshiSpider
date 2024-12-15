@@ -27,7 +27,7 @@
             "SkillIcon": "Icon_skill_passive_5177",
             "icon": "Icon_skill_passive_5177",
             "Status": 1,
-            "weight": 511,
+            "weight": 519,
             "id": "3028",
             "level": 2
           },
@@ -59,7 +59,7 @@
             "SkillIcon": "Icon_entry_40051",
             "icon": "Icon_entry_40051",
             "Status": 1,
-            "weight": 583,
+            "weight": 607,
             "id": "4005",
             "level": 2
           }
@@ -69,7 +69,7 @@
         "mechaIcon": "Icon_wap3301_1",
         "lihuiIcon": "icon_lihui_wap3301",
         "Status": 1,
-        "weight": 232,
+        "weight": 236,
         "manji": {
           "name": "破晓者-00",
           "durable": "11844",
@@ -91,7 +91,7 @@
               "SkillIcon": "Icon_skill_passive_5177",
               "icon": "Icon_skill_passive_5177",
               "Status": 1,
-              "weight": 517,
+              "weight": 525,
               "id": "3028",
               "level": 8
             },
@@ -123,13 +123,13 @@
               "SkillIcon": "Icon_entry_40051",
               "icon": "Icon_entry_40051",
               "Status": 1,
-              "weight": 585,
+              "weight": 609,
               "id": "4005",
               "level": 4
             }
           ],
           "Status": 1,
-          "weight": 232
+          "weight": 236
         }
       },
       {
@@ -148,7 +148,7 @@
         "introduce": "REV-00 破晓者-00\n由黑曜石研发的重型机兵。其出厂编号及研发定位均参考了另外两台被命名为破晓者的机型。REV-00是为了适配REV-01及REV-02的作战风格而研发的重型机兵，其搭载的「破晓核心」能在高强度的白热化战斗中，持续增幅火力与动能，高效的外装甲能有效抵御敌机的火力，为队友提供作战空间。",
         "mechaIcon": "Icon_wap3301_2",
         "Status": 1,
-        "weight": 233,
+        "weight": 237,
         "manji": {
           "name": "破晓者-00",
           "durable": "5894",
@@ -158,7 +158,7 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "2037:1/3028:2/4005:1/",
           "Status": 1,
-          "weight": 233
+          "weight": 237
         }
       },
       {
@@ -177,7 +177,7 @@
         "introduce": "REV-00 破晓者-00\n由黑曜石研发的重型机兵。其出厂编号及研发定位均参考了另外两台被命名为破晓者的机型。REV-00是为了适配REV-01及REV-02的作战风格而研发的重型机兵，其搭载的「破晓核心」能在高强度的白热化战斗中，持续增幅火力与动能，高效的外装甲能有效抵御敌机的火力，为队友提供作战空间。",
         "mechaIcon": "Icon_wap3301_3",
         "Status": 1,
-        "weight": 234,
+        "weight": 238,
         "manji": {
           "name": "破晓者-00",
           "durable": "5894",
@@ -187,7 +187,7 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "2037:1/3028:2/4005:1/",
           "Status": 1,
-          "weight": 234
+          "weight": 238
         }
       },
       {
@@ -207,7 +207,7 @@
         "introduce": "REV-00 破晓者-00\n由黑曜石研发的重型机兵。其出厂编号及研发定位均参考了另外两台被命名为破晓者的机型。REV-00是为了适配REV-01及REV-02的作战风格而研发的重型机兵，其搭载的「破晓核心」能在高强度的白热化战斗中，持续增幅火力与动能，高效的外装甲能有效抵御敌机的火力，为队友提供作战空间。",
         "mechaIcon": "Icon_wap3301_4",
         "Status": 1,
-        "weight": 235,
+        "weight": 239,
         "manji": {
           "name": "破晓者-00",
           "durable": "8785",
@@ -218,11 +218,11 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "2037:1/3028:2/4005:1/",
           "Status": 1,
-          "weight": 235
+          "weight": 239
         }
       }
     ],
-    "now": "2024-11-08 20:08:12"
+    "now": "2024-12-13 15:08:30"
   },
   "status": 1,
   "switch": null,

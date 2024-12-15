@@ -32,7 +32,7 @@
         "SkillIcon": "Icon_skill_talent_5131",
         "icon": "Icon_skill_talent_5131",
         "Status": 1,
-        "weight": 2483
+        "weight": 2565
       },
       "Talent3_5Ability": {
         "ID": "201251",
@@ -42,7 +42,7 @@
         "SkillIcon": "Icon_skill_talent_5131",
         "icon": "Icon_skill_talent_5131",
         "Status": 1,
-        "weight": 2484
+        "weight": 2566
       },
       "NeuralDriveTemplate": {
         "ID": "10103136",
@@ -71,7 +71,7 @@
                   "SkillIcon": "Icon_skill_passive_1003",
                   "icon": "Icon_skill_passive_1003",
                   "Status": 1,
-                  "weight": 2379
+                  "weight": 2461
                 }
               },
               {
@@ -89,7 +89,7 @@
                   "SkillIcon": "Icon_skill_passive_5006",
                   "icon": "Icon_skill_passive_5006",
                   "Status": 1,
-                  "weight": 2380
+                  "weight": 2462
                 }
               },
               {
@@ -107,7 +107,7 @@
                   "SkillIcon": "Icon_skill_passive_5004",
                   "icon": "Icon_skill_passive_5004",
                   "Status": 1,
-                  "weight": 2381
+                  "weight": 2463
                 }
               }
             ],
@@ -140,7 +140,7 @@
                   "SkillIcon": "Icon_skill_passive_1003",
                   "icon": "Icon_skill_passive_1003",
                   "Status": 1,
-                  "weight": 2382
+                  "weight": 2464
                 }
               },
               {
@@ -159,7 +159,7 @@
                   "SkillIcon": "Icon_skill_passive_5006",
                   "icon": "Icon_skill_passive_5006",
                   "Status": 1,
-                  "weight": 2383
+                  "weight": 2465
                 }
               },
               {
@@ -177,7 +177,7 @@
                   "SkillIcon": "Icon_skill_passive_5004",
                   "icon": "Icon_skill_passive_5004",
                   "Status": 1,
-                  "weight": 2384
+                  "weight": 2466
                 }
               }
             ],
@@ -210,7 +210,7 @@
                   "SkillIcon": "Icon_skill_passive_5007",
                   "icon": "Icon_skill_passive_5007",
                   "Status": 1,
-                  "weight": 2385
+                  "weight": 2467
                 }
               },
               {
@@ -228,7 +228,7 @@
                   "SkillIcon": "Icon_skill_passive_5004",
                   "icon": "Icon_skill_passive_5004",
                   "Status": 1,
-                  "weight": 2386
+                  "weight": 2468
                 }
               },
               {
@@ -247,7 +247,7 @@
                   "SkillIcon": "Icon_skill_passive_5155",
                   "icon": "Icon_skill_passive_5155",
                   "Status": 1,
-                  "weight": 2387
+                  "weight": 2469
                 }
               },
               {
@@ -266,7 +266,7 @@
                   "SkillIcon": "Icon_skill_passive_5007",
                   "icon": "Icon_skill_passive_5007",
                   "Status": 1,
-                  "weight": 2388
+                  "weight": 2470
                 }
               },
               {
@@ -285,7 +285,7 @@
                   "SkillIcon": "Icon_skill_passive_5007",
                   "icon": "Icon_skill_passive_5007",
                   "Status": 1,
-                  "weight": 2389
+                  "weight": 2471
                 }
               },
               {
@@ -304,7 +304,7 @@
                   "SkillIcon": "Icon_skill_passive_5007",
                   "icon": "Icon_skill_passive_5007",
                   "Status": 1,
-                  "weight": 2390
+                  "weight": 2472
                 }
               }
             ],
@@ -337,7 +337,7 @@
                   "SkillIcon": "Icon_skill_passive_5196",
                   "icon": "Icon_skill_passive_5196",
                   "Status": 1,
-                  "weight": 2479
+                  "weight": 2561
                 }
               },
               {
@@ -355,7 +355,7 @@
                   "SkillIcon": "Icon_skill_passive_5004",
                   "icon": "Icon_skill_passive_5004",
                   "Status": 1,
-                  "weight": 2391
+                  "weight": 2473
                 }
               },
               {
@@ -374,7 +374,7 @@
                   "SkillIcon": "Icon_skill_passive_5155",
                   "icon": "Icon_skill_passive_5155",
                   "Status": 1,
-                  "weight": 2392
+                  "weight": 2474
                 }
               },
               {
@@ -393,7 +393,7 @@
                   "SkillIcon": "Icon_skill_passive_5196",
                   "icon": "Icon_skill_passive_5196",
                   "Status": 1,
-                  "weight": 2480
+                  "weight": 2562
                 }
               },
               {
@@ -412,7 +412,7 @@
                   "SkillIcon": "Icon_skill_passive_5196",
                   "icon": "Icon_skill_passive_5196",
                   "Status": 1,
-                  "weight": 2481
+                  "weight": 2563
                 }
               },
               {
@@ -431,7 +431,7 @@
                   "SkillIcon": "Icon_skill_passive_5196",
                   "icon": "Icon_skill_passive_5196",
                   "Status": 1,
-                  "weight": 2482
+                  "weight": 2564
                 }
               }
             ],
@@ -504,7 +504,7 @@
             "SkillIcon": "Icon_skill_passive_1003",
             "icon": "Icon_skill_passive_1003",
             "Status": 1,
-            "weight": 2378
+            "weight": 2460
           }
         },
         {
@@ -695,7 +695,7 @@
             "SkillIcon": "Icon_skill_passive_1005",
             "icon": "Icon_skill_passive_1005",
             "Status": 1,
-            "weight": 2889
+            "weight": 2993
           }
         },
         {
@@ -723,7 +723,7 @@
             "SkillIcon": "Icon_skill_order_5112",
             "icon": "Icon_skill_order_5112",
             "Status": 1,
-            "weight": 272
+            "weight": 274
           }
         },
         {
@@ -751,7 +751,7 @@
             "SkillIcon": "Icon_skill_main_1151",
             "icon": "Icon_skill_main_1151",
             "Status": 1,
-            "weight": 273
+            "weight": 275
           }
         },
         {
@@ -776,7 +776,7 @@
             "SkillIcon": "Icon_skill_passive_5144",
             "icon": "Icon_skill_passive_5144",
             "Status": 1,
-            "weight": 2477
+            "weight": 2559
           }
         },
         {
@@ -804,7 +804,7 @@
             "SkillIcon": "Icon_skill_main_1152",
             "icon": "Icon_skill_main_1152",
             "Status": 1,
-            "weight": 274
+            "weight": 276
           }
         },
         {
@@ -829,7 +829,7 @@
             "SkillIcon": "Icon_skill_passive_1134",
             "icon": "Icon_skill_passive_1134",
             "Status": 1,
-            "weight": 2478
+            "weight": 2560
           }
         },
         {
@@ -850,14 +850,14 @@
             "ID": "201208",
             "remarks": "绘梨沙-仿生电脑",
             "name": "烈火燎原",
-            "describe": "同时使用两把喷火器对攻击范围内所有目标造成<color=#F74848>2×0.35</color>倍伤害；战后对射程内所有的地格施加<buf ID=4003081>[燃烧地形]</buf>，持续<color=#F74848>2</color>回合",
+            "describe": "同时使用两把喷火器对攻击范围内所有目标造成<color=#F74848>2×0.35</color>倍伤害；战后对射程内所有的地格施加<terrian ID=4003081 />，持续<color=#F74848>2</color>回合",
             "type": "SpecialAssault",
             "Ap": "6",
             "matchingWeaponType": "喷火器",
             "SkillIcon": "Icon_skill_order_1123",
             "icon": "Icon_skill_order_1123",
             "Status": 1,
-            "weight": 275
+            "weight": 277
           }
         },
         {
@@ -1118,7 +1118,7 @@
       ],
       "biomimetic_computer_type": 2
     },
-    "now": "2024-11-08 20:08:23"
+    "now": "2024-12-13 15:08:41"
   },
   "status": 1,
   "switch": null,

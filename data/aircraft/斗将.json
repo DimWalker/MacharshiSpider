@@ -58,7 +58,7 @@
               "SkillIcon": "Icon_entry_10053",
               "icon": "Icon_entry_10053",
               "Status": 1,
-              "weight": 343,
+              "weight": 351,
               "id": "3007",
               "level": 2
             },
@@ -90,7 +90,7 @@
               "SkillIcon": "Icon_entry_40091",
               "icon": "Icon_entry_40091",
               "Status": 1,
-              "weight": 617,
+              "weight": 641,
               "id": "4009",
               "level": 4
             }
@@ -186,7 +186,7 @@
         }
       }
     ],
-    "now": "2024-11-08 20:08:06"
+    "now": "2024-12-13 15:08:24"
   },
   "status": 1,
   "switch": null,

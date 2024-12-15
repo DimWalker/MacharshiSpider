@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "40231",
+      "ModuleName": "反格斗模组Ⅰ",
+      "name": "反格斗模组Ⅰ",
+      "EntryLevel": "1",
+      "quality": "SR",
+      "ModuleEffects": "40231/40232/40233/40234",
+      "WithPassiveSkills": [
+        {
+          "ID": "40231",
+          "name": "反格斗模组Ⅰ",
+          "SpecificEffects": "受格斗武器的伤害降低<color=#F74848>3%</color>",
+          "BufCarried": "402311",
+          "SkillIcon": "Icon_entry_40231",
+          "icon": "Icon_entry_40231",
+          "Status": 1,
+          "weight": 751
+        },
+        {
+          "ID": "40232",
+          "name": "反格斗模组Ⅰ",
+          "SpecificEffects": "受格斗武器的伤害降低<color=#F74848>5%</color>",
+          "BufCarried": "402321",
+          "SkillIcon": "Icon_entry_40231",
+          "icon": "Icon_entry_40231",
+          "Status": 1,
+          "weight": 752
+        },
+        {
+          "ID": "40233",
+          "name": "反格斗模组Ⅰ",
+          "SpecificEffects": "受格斗武器的伤害降低<color=#F74848>7%</color>",
+          "BufCarried": "402331",
+          "SkillIcon": "Icon_entry_40231",
+          "icon": "Icon_entry_40231",
+          "Status": 1,
+          "weight": 753
+        },
+        {
+          "ID": "40234",
+          "name": "反格斗模组Ⅰ",
+          "SpecificEffects": "受格斗武器的伤害降低<color=#F74848>10%</color>",
+          "BufCarried": "402341",
+          "SkillIcon": "Icon_entry_40231",
+          "icon": "Icon_entry_40231",
+          "Status": 1,
+          "weight": 754
+        }
+      ],
+      "introduce": "反格斗模组能够帮助机兵缓解格斗武器的打击伤害，给对方那些跃跃欲试的格斗家机师浇一盆冷水。",
+      "ModuleIcon": "Icon_entry_40231",
+      "icon": "Icon_entry_40231",
+      "IconType": "PropertyA",
+      "ObtainingMethod": "商店购买",
+      "Status": 1,
+      "weight": 104
+    },
+    "now": "2024-12-13 15:09:32"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

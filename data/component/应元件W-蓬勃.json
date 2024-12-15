@@ -1,0 +1,24 @@
+{
+  "data": {
+    "data": {
+      "ID": "4203",
+      "ModuleName": "应元件W-蓬勃",
+      "name": "应元件W-蓬勃",
+      "quality": "SSR",
+      "ModuleType": "Function",
+      "IconType": "Function",
+      "ModuleSubtype": "7",
+      "ProbabilityLevel": "7",
+      "ModuleDescription": "战后驱散自身<color=#F74848>1</color>个减益效果",
+      "attention": "■ 仅限双手武器/背部武器使用\n■ 每回合仅限生效一次\n■ 无法与同类型应元件共同使用",
+      "IconPath": "Icon_skill_passive_5002",
+      "icon": "Icon_skill_passive_5002",
+      "Status": 1,
+      "weight": 207
+    },
+    "now": "2024-12-13 15:09:49"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

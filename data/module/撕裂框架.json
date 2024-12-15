@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "20031",
+      "ModuleName": "撕裂框架",
+      "name": "撕裂框架",
+      "EntryLevel": "1",
+      "quality": "SSR",
+      "ModuleEffects": "20031/20032/20033/20034",
+      "WithPassiveSkills": [
+        {
+          "ID": "20031",
+          "name": "撕裂框架",
+          "SpecificEffects": "造成暴击后使回避率提升<color=#F74848>3%</color>，完全回避后使暴击率提升<color=#F74848>3%</color>，持续<color=#F74848>1</color>回合",
+          "BufCarried": "200311/200313",
+          "SkillIcon": "Icon_entry_10001",
+          "icon": "Icon_entry_10001",
+          "Status": 1,
+          "weight": 126
+        },
+        {
+          "ID": "20032",
+          "name": "撕裂框架",
+          "SpecificEffects": "造成暴击后使回避率提升<color=#F74848>6%</color>，完全回避后使暴击率提升<color=#F74848>6%</color>，持续<color=#F74848>1</color>回合",
+          "BufCarried": "200321/200323",
+          "SkillIcon": "Icon_entry_10001",
+          "icon": "Icon_entry_10001",
+          "Status": 1,
+          "weight": 127
+        },
+        {
+          "ID": "20033",
+          "name": "撕裂框架",
+          "SpecificEffects": "造成暴击后使回避率提升<color=#F74848>10%</color>，完全回避后使暴击率提升<color=#F74848>10%</color>，持续<color=#F74848>1</color>回合",
+          "BufCarried": "200331/200333",
+          "SkillIcon": "Icon_entry_10001",
+          "icon": "Icon_entry_10001",
+          "Status": 1,
+          "weight": 128
+        },
+        {
+          "ID": "20034",
+          "name": "撕裂框架",
+          "SpecificEffects": "造成暴击后使回避率提升<color=#F74848>15%</color>，完全回避后使暴击率提升<color=#F74848>15%</color>，持续<color=#F74848>1</color>回合",
+          "BufCarried": "200341/200343",
+          "SkillIcon": "Icon_entry_10001",
+          "icon": "Icon_entry_10001",
+          "Status": 1,
+          "weight": 129
+        }
+      ],
+      "introduce": "晨星同盟在芯片技术上的新突破，能够满足3台同轴机兵观察镜同时锁定目标传输的信息计算，赋予机兵强悍的闪避与打击的精确度。",
+      "ModuleIcon": "Icon_entry_10001",
+      "icon": "Icon_entry_10001",
+      "IconType": "SuitS",
+      "ObtainingMethod": "模组生产",
+      "Status": 1,
+      "weight": 13
+    },
+    "now": "2024-12-13 15:09:47"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "40252",
+      "ModuleName": "反战术模组Ⅱ",
+      "name": "反战术模组Ⅱ",
+      "EntryLevel": "2",
+      "quality": "SSR",
+      "ModuleEffects": "40251/40252/40253/40254",
+      "WithPassiveSkills": [
+        {
+          "ID": "40251",
+          "name": "反战术模组Ⅰ",
+          "SpecificEffects": "受范围攻击的伤害降低<color=#F74848>3%</color>",
+          "BufCarried": "402511",
+          "SkillIcon": "Icon_entry_40251",
+          "icon": "Icon_entry_40251",
+          "Status": 1,
+          "weight": 767
+        },
+        {
+          "ID": "40252",
+          "name": "反战术模组Ⅰ",
+          "SpecificEffects": "受范围攻击的伤害降低<color=#F74848>5%</color>",
+          "BufCarried": "402521",
+          "SkillIcon": "Icon_entry_40251",
+          "icon": "Icon_entry_40251",
+          "Status": 1,
+          "weight": 768
+        },
+        {
+          "ID": "40253",
+          "name": "反战术模组Ⅰ",
+          "SpecificEffects": "受范围攻击的伤害降低<color=#F74848>7%</color>",
+          "BufCarried": "402531",
+          "SkillIcon": "Icon_entry_40251",
+          "icon": "Icon_entry_40251",
+          "Status": 1,
+          "weight": 769
+        },
+        {
+          "ID": "40254",
+          "name": "反战术模组Ⅰ",
+          "SpecificEffects": "受范围攻击的伤害降低<color=#F74848>10%</color>",
+          "BufCarried": "402541",
+          "SkillIcon": "Icon_entry_40251",
+          "icon": "Icon_entry_40251",
+          "Status": 1,
+          "weight": 770
+        }
+      ],
+      "introduce": "反战术模组Ⅱ型有一批忠实客户在坚持购买，不难想象他们在战场上都遭遇了些什么。",
+      "ModuleIcon": "Icon_entry_40251",
+      "icon": "Icon_entry_40251",
+      "IconType": "PropertyS",
+      "ObtainingMethod": "商店购买",
+      "Status": 1,
+      "weight": 109
+    },
+    "now": "2024-12-13 15:09:31"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

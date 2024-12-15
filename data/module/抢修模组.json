@@ -1,0 +1,105 @@
+{
+  "data": {
+    "data": {
+      "ID": "30221",
+      "ModuleName": "抢修模组",
+      "name": "抢修模组",
+      "EntryLevel": "1",
+      "quality": "SSR",
+      "ModuleEffects": "30221/30222/30223/30224/30225/30226/30227/30228",
+      "WithPassiveSkills": [
+        {
+          "ID": "30221",
+          "name": "抢修模组",
+          "SpecificEffects": "主动修理时，对耐久值最低部位的修理量提升<color=#F74848>6%</color>",
+          "BufCarried": "302211",
+          "SkillIcon": "Icon_entry_10011",
+          "icon": "Icon_entry_10011",
+          "Status": 1,
+          "weight": 470
+        },
+        {
+          "ID": "30222",
+          "name": "抢修模组",
+          "SpecificEffects": "主动修理时，对耐久值最低部位的修理量提升<color=#F74848>8%</color>",
+          "BufCarried": "302221",
+          "SkillIcon": "Icon_entry_10011",
+          "icon": "Icon_entry_10011",
+          "Status": 1,
+          "weight": 471
+        },
+        {
+          "ID": "30223",
+          "name": "抢修模组",
+          "SpecificEffects": "主动修理时，对耐久值最低部位的修理量提升<color=#F74848>12%</color>",
+          "BufCarried": "302231",
+          "SkillIcon": "Icon_entry_10011",
+          "icon": "Icon_entry_10011",
+          "Status": 1,
+          "weight": 472
+        },
+        {
+          "ID": "30224",
+          "name": "抢修模组",
+          "SpecificEffects": "主动修理时，对耐久值最低部位的修理量提升<color=#F74848>16%</color>",
+          "BufCarried": "302241",
+          "SkillIcon": "Icon_entry_10011",
+          "icon": "Icon_entry_10011",
+          "Status": 1,
+          "weight": 473
+        },
+        {
+          "ID": "30225",
+          "name": "抢修模组",
+          "SpecificEffects": "主动修理时，对耐久值最低部位的修理量提升<color=#F74848>20%</color>",
+          "BufCarried": "302251",
+          "SkillIcon": "Icon_entry_10011",
+          "icon": "Icon_entry_10011",
+          "Status": 1,
+          "weight": 474
+        },
+        {
+          "ID": "30226",
+          "name": "抢修模组",
+          "SpecificEffects": "主动修理时，对耐久值最低部位的修理量提升<color=#F74848>24%</color>",
+          "BufCarried": "302261",
+          "SkillIcon": "Icon_entry_10011",
+          "icon": "Icon_entry_10011",
+          "Status": 1,
+          "weight": 475
+        },
+        {
+          "ID": "30227",
+          "name": "抢修模组",
+          "SpecificEffects": "主动修理时，对耐久值最低部位的修理量提升<color=#F74848>28%</color>",
+          "BufCarried": "302271",
+          "SkillIcon": "Icon_entry_10011",
+          "icon": "Icon_entry_10011",
+          "Status": 1,
+          "weight": 476
+        },
+        {
+          "ID": "30228",
+          "name": "抢修模组",
+          "SpecificEffects": "主动修理时，对耐久值最低部位的修理量提升<color=#F74848>36%</color>;\n主动修理时可额外修复<color=#F74848>1</color>个损毁部位",
+          "BufCarried": "302281/302283",
+          "SkillIcon": "Icon_entry_10011",
+          "icon": "Icon_entry_10011",
+          "Status": 1,
+          "weight": 477
+        }
+      ],
+      "introduce": "搭载抢修模组的维修型机兵能更好地适应快节奏的战斗，它们总能第一时间确定并修复友方机兵的破损部位，使其重返战场。",
+      "ModuleIcon": "Icon_entry_10011",
+      "icon": "Icon_entry_10011",
+      "IconType": "GeneralSuit",
+      "ObtainingMethod": "商店购买",
+      "Status": 1,
+      "weight": 56
+    },
+    "now": "2024-12-13 15:09:40"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

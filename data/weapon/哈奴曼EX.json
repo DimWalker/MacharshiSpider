@@ -1,0 +1,162 @@
+{
+  "data": {
+    "data": [
+      {
+        "ID": "40123122",
+        "name": "哈奴曼EX",
+        "quality": "SSR",
+        "grade": "70",
+        "WeaponType1": "Heavy",
+        "WeaponType2": "Missile",
+        "type": "Missile",
+        "LimitedModelOfWeapon": "Medium",
+        "RestrictionsPositionOfWeapon": "Shoulder",
+        "range": "3-6",
+        "WeaponWeight": "800",
+        "WeaponBasicAttackingPower": "475",
+        "WeaponHitPoint": "3178",
+        "WeaponUnderstanding": "3758",
+        "NumberOfBullets": "2",
+        "InitiativeSkill": [
+          {
+            "ID": "4011",
+            "remarks": "导弹攻击",
+            "name": "定点打击",
+            "describe": "使用导弹攻击单个目标，对命中部位造成<color=#F74848>1.0</color>倍伤害，对其他部位造成主体伤害<color=#F74848>50%</color>的溅射伤害",
+            "type": "SpecialAssault",
+            "CD": "0",
+            "Ap": "2",
+            "matchingWeaponType": "导弹",
+            "SkillIcon": "Icon_skill_order_1001",
+            "icon": "Icon_skill_order_1001",
+            "Status": 1,
+            "weight": 524
+          }
+        ],
+        "IconResourcePath": "Icon_weapon_40100301",
+        "icon": "Icon_weapon_40100301",
+        "describe": "集成了最新一代铸造工艺的机兵武器。由高精度的机载导弹改良而来的机兵用导弹武装，在打击精度、装备维护、环境适性等各方面，均达到了同类武器的顶尖。是绝大多数战术机师的首选。",
+        "Status": 1,
+        "weight": 558
+      },
+      {
+        "ID": "40123123",
+        "name": "哈奴曼EX",
+        "quality": "SSR",
+        "grade": "70",
+        "WeaponType1": "Heavy",
+        "WeaponType2": "Missile",
+        "type": "Missile",
+        "LimitedModelOfWeapon": "Medium",
+        "RestrictionsPositionOfWeapon": "Shoulder",
+        "range": "3-6",
+        "WeaponWeight": "800",
+        "WeaponBasicAttackingPower": "475",
+        "WeaponHitPoint": "3178",
+        "WeaponUnderstanding": "3758",
+        "NumberOfBullets": "2",
+        "InitiativeSkill": [
+          {
+            "ID": "4011",
+            "remarks": "导弹攻击",
+            "name": "定点打击",
+            "describe": "使用导弹攻击单个目标，对命中部位造成<color=#F74848>1.0</color>倍伤害，对其他部位造成主体伤害<color=#F74848>50%</color>的溅射伤害",
+            "type": "SpecialAssault",
+            "CD": "0",
+            "Ap": "2",
+            "matchingWeaponType": "导弹",
+            "SkillIcon": "Icon_skill_order_1001",
+            "icon": "Icon_skill_order_1001",
+            "Status": 1,
+            "weight": 524
+          }
+        ],
+        "IconResourcePath": "Icon_weapon_40100301",
+        "icon": "Icon_weapon_40100301",
+        "describe": "集成了最新一代铸造工艺的机兵武器。由高精度的机载导弹改良而来的机兵用导弹武装，在打击精度、装备维护、环境适性等各方面，均达到了同类武器的顶尖。是绝大多数战术机师的首选。",
+        "Status": 1,
+        "weight": 661
+      },
+      {
+        "ID": "40123124",
+        "name": "哈奴曼EX",
+        "quality": "SSR",
+        "grade": "70",
+        "WeaponType1": "Heavy",
+        "WeaponType2": "Missile",
+        "type": "Missile",
+        "LimitedModelOfWeapon": "Medium",
+        "RestrictionsPositionOfWeapon": "Shoulder",
+        "range": "3-6",
+        "WeaponWeight": "800",
+        "WeaponBasicAttackingPower": "475",
+        "WeaponHitPoint": "3178",
+        "WeaponUnderstanding": "3758",
+        "NumberOfBullets": "2",
+        "InitiativeSkill": [
+          {
+            "ID": "4011",
+            "remarks": "导弹攻击",
+            "name": "定点打击",
+            "describe": "使用导弹攻击单个目标，对命中部位造成<color=#F74848>1.0</color>倍伤害，对其他部位造成主体伤害<color=#F74848>50%</color>的溅射伤害",
+            "type": "SpecialAssault",
+            "CD": "0",
+            "Ap": "2",
+            "matchingWeaponType": "导弹",
+            "SkillIcon": "Icon_skill_order_1001",
+            "icon": "Icon_skill_order_1001",
+            "Status": 1,
+            "weight": 524
+          }
+        ],
+        "IconResourcePath": "Icon_weapon_40100301",
+        "icon": "Icon_weapon_40100301",
+        "describe": "集成了最新一代铸造工艺的机兵武器。由高精度的机载导弹改良而来的机兵用导弹武装，在打击精度、装备维护、环境适性等各方面，均达到了同类武器的顶尖。是绝大多数战术机师的首选。",
+        "Status": 1,
+        "weight": 662
+      },
+      {
+        "ID": "40123125",
+        "name": "哈奴曼EX",
+        "quality": "SSR",
+        "grade": "70",
+        "WeaponType1": "Heavy",
+        "WeaponType2": "Missile",
+        "type": "Missile",
+        "LimitedModelOfWeapon": "Medium",
+        "RestrictionsPositionOfWeapon": "Shoulder",
+        "range": "3-6",
+        "WeaponWeight": "800",
+        "WeaponBasicAttackingPower": "475",
+        "WeaponHitPoint": "3178",
+        "WeaponUnderstanding": "3758",
+        "NumberOfBullets": "2",
+        "InitiativeSkill": [
+          {
+            "ID": "4011",
+            "remarks": "导弹攻击",
+            "name": "定点打击",
+            "describe": "使用导弹攻击单个目标，对命中部位造成<color=#F74848>1.0</color>倍伤害，对其他部位造成主体伤害<color=#F74848>50%</color>的溅射伤害",
+            "type": "SpecialAssault",
+            "CD": "0",
+            "Ap": "2",
+            "matchingWeaponType": "导弹",
+            "SkillIcon": "Icon_skill_order_1001",
+            "icon": "Icon_skill_order_1001",
+            "Status": 1,
+            "weight": 524
+          }
+        ],
+        "IconResourcePath": "Icon_weapon_40100301",
+        "icon": "Icon_weapon_40100301",
+        "describe": "集成了最新一代铸造工艺的机兵武器。由高精度的机载导弹改良而来的机兵用导弹武装，在打击精度、装备维护、环境适性等各方面，均达到了同类武器的顶尖。是绝大多数战术机师的首选。",
+        "Status": 1,
+        "weight": 663
+      }
+    ],
+    "now": "2024-12-13 15:08:55"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

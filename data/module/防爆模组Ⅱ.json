@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "40082",
+      "ModuleName": "防爆模组Ⅱ",
+      "name": "防爆模组Ⅱ",
+      "EntryLevel": "2",
+      "quality": "SSR",
+      "ModuleEffects": "40081/40082/40083/40084",
+      "WithPassiveSkills": [
+        {
+          "ID": "40081",
+          "name": "防爆模组Ⅰ",
+          "SpecificEffects": "被暴击率降低<color=#F74848>3%</color>",
+          "BufCarried": "400811",
+          "SkillIcon": "Icon_entry_40081",
+          "icon": "Icon_entry_40081",
+          "Status": 1,
+          "weight": 630
+        },
+        {
+          "ID": "40082",
+          "name": "防爆模组Ⅰ",
+          "SpecificEffects": "被暴击率降低<color=#F74848>5%</color>",
+          "BufCarried": "400821",
+          "SkillIcon": "Icon_entry_40081",
+          "icon": "Icon_entry_40081",
+          "Status": 1,
+          "weight": 631
+        },
+        {
+          "ID": "40083",
+          "name": "防爆模组Ⅰ",
+          "SpecificEffects": "被暴击率降低<color=#F74848>7%</color>",
+          "BufCarried": "400831",
+          "SkillIcon": "Icon_entry_40081",
+          "icon": "Icon_entry_40081",
+          "Status": 1,
+          "weight": 632
+        },
+        {
+          "ID": "40084",
+          "name": "防爆模组Ⅰ",
+          "SpecificEffects": "被暴击率降低<color=#F74848>10%</color>",
+          "BufCarried": "400841",
+          "SkillIcon": "Icon_entry_40081",
+          "icon": "Icon_entry_40081",
+          "Status": 1,
+          "weight": 633
+        }
+      ],
+      "introduce": "防爆模组Ⅱ型经常是斗技场冠军机兵的标配，在那些顶尖战斗中，保护关键部位的重要性不言而喻。",
+      "ModuleIcon": "Icon_entry_40081",
+      "icon": "Icon_entry_40081",
+      "IconType": "PropertyS",
+      "ObtainingMethod": "商店购买",
+      "Status": 1,
+      "weight": 75
+    },
+    "now": "2024-12-13 15:09:37"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

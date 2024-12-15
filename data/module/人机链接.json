@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "20011",
+      "ModuleName": "人机链接",
+      "name": "人机链接",
+      "EntryLevel": "1",
+      "quality": "SSR",
+      "ModuleEffects": "20011/20012/20013/20014",
+      "WithPassiveSkills": [
+        {
+          "ID": "20011",
+          "name": "人机链接",
+          "SpecificEffects": "主动攻击对战时<color=#F74848>20%</color>概率触发<buf ID=900001>[追击]</buf>，造成<color=#F74848>0.3</color>倍伤害，每回合最多发动<color=#F74848>1</color>次",
+          "BufCarried": "200111",
+          "SkillIcon": "Icon_entry_10036",
+          "icon": "Icon_entry_10036",
+          "Status": 1,
+          "weight": 118
+        },
+        {
+          "ID": "20012",
+          "name": "人机链接",
+          "SpecificEffects": "主动攻击对战时<color=#F74848>40%</color>概率触发<buf ID=900001>[追击]</buf>，造成<color=#F74848>0.3</color>倍伤害，每回合最多发动<color=#F74848>1</color>次",
+          "BufCarried": "200121",
+          "SkillIcon": "Icon_entry_10036",
+          "icon": "Icon_entry_10036",
+          "Status": 1,
+          "weight": 119
+        },
+        {
+          "ID": "20013",
+          "name": "人机链接",
+          "SpecificEffects": "主动攻击对战时<color=#F74848>70%</color>概率触发<buf ID=900001>[追击]</buf>，造成<color=#F74848>0.3</color>倍伤害，每回合最多发动<color=#F74848>1</color>次",
+          "BufCarried": "200131",
+          "SkillIcon": "Icon_entry_10036",
+          "icon": "Icon_entry_10036",
+          "Status": 1,
+          "weight": 120
+        },
+        {
+          "ID": "20014",
+          "name": "人机链接",
+          "SpecificEffects": "主动攻击对战时<color=#F74848>100%</color>概率触发<buf ID=900001>[追击]</buf>，造成<color=#F74848>0.3</color>倍伤害，每回合最多发动<color=#F74848>1</color>次",
+          "BufCarried": "200141",
+          "SkillIcon": "Icon_entry_10036",
+          "icon": "Icon_entry_10036",
+          "Status": 1,
+          "weight": 121
+        }
+      ],
+      "introduce": "黑曜石机兵独有的人机连结装置，赋予机兵极端操作性与杀伤力的同时也拒绝了常规机师的驾驶，只有经过深度改造的机师才能发挥其全部威力。",
+      "ModuleIcon": "Icon_entry_10036",
+      "icon": "Icon_entry_10036",
+      "IconType": "SuitS",
+      "ObtainingMethod": "模组生产",
+      "Status": 1,
+      "weight": 11
+    },
+    "now": "2024-12-13 15:09:47"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

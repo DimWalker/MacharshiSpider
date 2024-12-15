@@ -1,0 +1,63 @@
+{
+  "data": {
+    "data": [
+      {
+        "ID": "30215121",
+        "name": "魔笛",
+        "quality": "SSSR",
+        "grade": "70",
+        "WeaponType1": "Sniper",
+        "WeaponType2": "HeavySniper",
+        "type": "HeavySniper",
+        "LimitedModelOfWeapon": "Light/Medium/Heavy",
+        "RestrictionsPositionOfWeapon": "DoubleHand",
+        "range": "2-4",
+        "WeaponWeight": "1000",
+        "WeaponBasicAttackingPower": "646",
+        "WeaponHitPoint": "1560",
+        "WeaponUnderstanding": "4603",
+        "PassiveSkill": [
+          {
+            "ID": "53011",
+            "name": "追踪调律",
+            "SpecificEffects": "使用狙击步枪与距离<color=#F74848>3</color>格及以上目标对战时，命中率和伤害提升<color=#F74848>10%</color>，距离每多<color=#F74848>1</color>格，命中率和伤害继续提升<color=#F74848>5%</color>，最多<color=#F74848>25%</color>",
+            "BufCarried": "530111/530112/530113",
+            "SkillIcon": "Icon_skill_passive_5136",
+            "icon": "Icon_skill_passive_5136",
+            "Status": 1,
+            "weight": 823
+          },
+          {
+            "ID": "53012",
+            "name": "情报整备",
+            "SpecificEffects": "强化<buf ID=900074>[情报收集]</buf>效果：<buf ID=900074>[情报收集]</buf>可额外恢复<color=#F74848>1</color>AP，并且范围内有机兵被击毁时，暴击率额外提升<color=#F74848>5%</color>，最多提升<color=#F74848>25%</color>",
+            "BufCarried": "530121",
+            "SkillIcon": "Icon_skill_passive_5206",
+            "icon": "Icon_skill_passive_5206",
+            "Status": 1,
+            "weight": 824
+          },
+          {
+            "ID": "53010",
+            "name": "凝神待发",
+            "SpecificEffects": "普通攻击前，若没有移动过，本次攻击可以<buf ID=900014>[瞄准]</buf>，每回合最多发动<color=#F74848>3</color>次",
+            "BufCarried": "530101/530102",
+            "SkillIcon": "Icon_skill_passive_5186",
+            "icon": "Icon_skill_passive_5186",
+            "Status": 1,
+            "weight": 822
+          }
+        ],
+        "IconResourcePath": "Icon_weapon_30200302",
+        "icon": "Icon_weapon_30200302",
+        "describe": "乐器，歌剧，狙击枪，或是手风琴上的音栓……同样的名字，同样的致命。但最可怕的却是，当她反问自己，若还能回到演奏终止的那一天，她是否会选择其他命运……她选择了犹豫。",
+        "Status": 1,
+        "weight": 711
+      }
+    ],
+    "now": "2024-12-13 15:08:58"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

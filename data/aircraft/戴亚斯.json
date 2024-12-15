@@ -43,7 +43,7 @@
             "SkillIcon": "Icon_entry_10025",
             "icon": "Icon_entry_10025",
             "Status": 1,
-            "weight": 391,
+            "weight": 399,
             "id": "3013",
             "level": 2
           },
@@ -59,7 +59,7 @@
             "SkillIcon": "Icon_entry_40051",
             "icon": "Icon_entry_40051",
             "Status": 1,
-            "weight": 583,
+            "weight": 607,
             "id": "4005",
             "level": 2
           }
@@ -69,7 +69,7 @@
         "mechaIcon": "Icon_wap3011_1",
         "lihuiIcon": "icon_lihui_wap3011",
         "Status": 1,
-        "weight": 188,
+        "weight": 192,
         "manji": {
           "name": "戴亚斯",
           "durable": "10620",
@@ -107,7 +107,7 @@
               "SkillIcon": "Icon_entry_10025",
               "icon": "Icon_entry_10025",
               "Status": 1,
-              "weight": 397,
+              "weight": 405,
               "id": "3013",
               "level": 8
             },
@@ -123,13 +123,13 @@
               "SkillIcon": "Icon_entry_40051",
               "icon": "Icon_entry_40051",
               "Status": 1,
-              "weight": 585,
+              "weight": 609,
               "id": "4005",
               "level": 4
             }
           ],
           "Status": 1,
-          "weight": 188
+          "weight": 192
         }
       },
       {
@@ -148,7 +148,7 @@
         "introduce": "HU-35 戴亚斯\n由联合设计局制造的重型机兵，由北陆联合订购并装备。\n内置“狂怒”的核心，最初因为黑市拳赛被走私到北陆联合，用于机兵地下拳赛，后因性能优异被编入北陆联合军方序列。",
         "mechaIcon": "Icon_wap3011_2",
         "Status": 1,
-        "weight": 189,
+        "weight": 193,
         "manji": {
           "name": "戴亚斯",
           "durable": "5616",
@@ -158,7 +158,7 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "2019:1/3013:2/4005:1/",
           "Status": 1,
-          "weight": 189
+          "weight": 193
         }
       },
       {
@@ -177,7 +177,7 @@
         "introduce": "HU-35 戴亚斯\n由联合设计局制造的重型机兵，由北陆联合订购并装备。\n内置“狂怒”的核心，最初因为黑市拳赛被走私到北陆联合，用于机兵地下拳赛，后因性能优异被编入北陆联合军方序列。",
         "mechaIcon": "Icon_wap3011_3",
         "Status": 1,
-        "weight": 190,
+        "weight": 194,
         "manji": {
           "name": "戴亚斯",
           "durable": "5616",
@@ -187,7 +187,7 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "2019:1/3013:2/4005:1/",
           "Status": 1,
-          "weight": 190
+          "weight": 194
         }
       },
       {
@@ -207,7 +207,7 @@
         "introduce": "HU-35 戴亚斯\n由联合设计局制造的重型机兵，由北陆联合订购并装备。\n内置“狂怒”的核心，最初因为黑市拳赛被走私到北陆联合，用于机兵地下拳赛，后因性能优异被编入北陆联合军方序列。",
         "mechaIcon": "Icon_wap3011_4",
         "Status": 1,
-        "weight": 191,
+        "weight": 195,
         "manji": {
           "name": "戴亚斯",
           "durable": "8146",
@@ -218,11 +218,11 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "2019:1/3013:2/4005:1/",
           "Status": 1,
-          "weight": 191
+          "weight": 195
         }
       }
     ],
-    "now": "2024-11-08 20:08:09"
+    "now": "2024-12-13 15:08:27"
   },
   "status": 1,
   "switch": null,

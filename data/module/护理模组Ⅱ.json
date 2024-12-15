@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "40092",
+      "ModuleName": "护理模组Ⅱ",
+      "name": "护理模组Ⅱ",
+      "EntryLevel": "2",
+      "quality": "SSR",
+      "ModuleEffects": "40091/40092/40093/40094",
+      "WithPassiveSkills": [
+        {
+          "ID": "40091",
+          "name": "护理模组Ⅰ",
+          "SpecificEffects": "受修理量提升<color=#F74848>3%</color>",
+          "BufCarried": "400911",
+          "SkillIcon": "Icon_entry_40091",
+          "icon": "Icon_entry_40091",
+          "Status": 1,
+          "weight": 638
+        },
+        {
+          "ID": "40092",
+          "name": "护理模组Ⅰ",
+          "SpecificEffects": "受修理量提升<color=#F74848>5%</color>",
+          "BufCarried": "400921",
+          "SkillIcon": "Icon_entry_40091",
+          "icon": "Icon_entry_40091",
+          "Status": 1,
+          "weight": 639
+        },
+        {
+          "ID": "40093",
+          "name": "护理模组Ⅰ",
+          "SpecificEffects": "受修理量提升<color=#F74848>7%</color>",
+          "BufCarried": "400931",
+          "SkillIcon": "Icon_entry_40091",
+          "icon": "Icon_entry_40091",
+          "Status": 1,
+          "weight": 640
+        },
+        {
+          "ID": "40094",
+          "name": "护理模组Ⅰ",
+          "SpecificEffects": "受修理量提升<color=#F74848>10%</color>",
+          "BufCarried": "400941",
+          "SkillIcon": "Icon_entry_40091",
+          "icon": "Icon_entry_40091",
+          "Status": 1,
+          "weight": 641
+        }
+      ],
+      "introduce": "曾经有一批机械师联合起来提倡所有机兵都应该预装护理模组Ⅱ型，好让战场上的机械师少受点罪，但没人理会他们。",
+      "ModuleIcon": "Icon_entry_40091",
+      "icon": "Icon_entry_40091",
+      "IconType": "PropertyS",
+      "ObtainingMethod": "商店购买",
+      "Status": 1,
+      "weight": 77
+    },
+    "now": "2024-12-13 15:09:36"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

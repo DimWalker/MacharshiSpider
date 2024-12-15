@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "40011",
+      "ModuleName": "校准模组Ⅰ",
+      "name": "校准模组Ⅰ",
+      "EntryLevel": "1",
+      "quality": "SR",
+      "ModuleEffects": "40011/40012/40013/40014",
+      "WithPassiveSkills": [
+        {
+          "ID": "40011",
+          "name": "校准模组Ⅰ",
+          "SpecificEffects": "命中率提升<color=#F74848>3%</color>",
+          "BufCarried": "400111",
+          "SkillIcon": "Icon_entry_40011",
+          "icon": "Icon_entry_40011",
+          "Status": 1,
+          "weight": 574
+        },
+        {
+          "ID": "40012",
+          "name": "校准模组Ⅰ",
+          "SpecificEffects": "命中率提升<color=#F74848>5%</color>",
+          "BufCarried": "400121",
+          "SkillIcon": "Icon_entry_40011",
+          "icon": "Icon_entry_40011",
+          "Status": 1,
+          "weight": 575
+        },
+        {
+          "ID": "40013",
+          "name": "校准模组Ⅰ",
+          "SpecificEffects": "命中率提升<color=#F74848>7%</color>",
+          "BufCarried": "400131",
+          "SkillIcon": "Icon_entry_40011",
+          "icon": "Icon_entry_40011",
+          "Status": 1,
+          "weight": 576
+        },
+        {
+          "ID": "40014",
+          "name": "校准模组Ⅰ",
+          "SpecificEffects": "命中率提升<color=#F74848>10%</color>",
+          "BufCarried": "400141",
+          "SkillIcon": "Icon_entry_40011",
+          "icon": "Icon_entry_40011",
+          "Status": 1,
+          "weight": 577
+        }
+      ],
+      "introduce": "校准模组在各大机兵配件市场上广为流传，经常有军校的学生托人送到学校，用来应对射击课程的补考。",
+      "ModuleIcon": "Icon_entry_40011",
+      "icon": "Icon_entry_40011",
+      "IconType": "PropertyA",
+      "ObtainingMethod": "商店购买",
+      "Status": 1,
+      "weight": 60
+    },
+    "now": "2024-12-13 15:09:39"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

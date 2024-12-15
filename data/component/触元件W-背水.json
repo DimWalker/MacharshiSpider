@@ -1,0 +1,24 @@
+{
+  "data": {
+    "data": {
+      "ID": "3081",
+      "ModuleName": "触元件W-背水",
+      "name": "触元件W-背水",
+      "quality": "R",
+      "ModuleType": "Condition",
+      "IconType": "Condition",
+      "ModuleSubtype": "4",
+      "ProbabilityLevel": "6",
+      "ModuleDescription": "主动攻击时，若自身耐久低于<color=#F74848>50%</color>",
+      "attention": "■ 仅限双手武器/背部武器使用\n■ 无法与同类型触元件共同使用",
+      "IconPath": "Icon_skill_passive_5194",
+      "icon": "Icon_skill_passive_5194",
+      "Status": 1,
+      "weight": 146
+    },
+    "now": "2024-12-13 15:09:59"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

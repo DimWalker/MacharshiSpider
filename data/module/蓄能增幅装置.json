@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "20231",
+      "ModuleName": "蓄能增幅装置",
+      "name": "蓄能增幅装置",
+      "EntryLevel": "1",
+      "quality": "SSR",
+      "ModuleEffects": "20231/20232/20233/20234",
+      "WithPassiveSkills": [
+        {
+          "ID": "20231",
+          "name": "蓄能增幅装置",
+          "SpecificEffects": "自身AP大于<color=#F74848>2</color>时，超出的每点AP将使伤害提升<color=#F74848>2%</color>，最多<color=#F74848>6%</color>",
+          "BufCarried": "202311",
+          "SkillIcon": "Icon_entry_10019",
+          "icon": "Icon_entry_10019",
+          "Status": 1,
+          "weight": 206
+        },
+        {
+          "ID": "20232",
+          "name": "蓄能增幅装置",
+          "SpecificEffects": "自身AP大于<color=#F74848>2</color>时，超出的每点AP将使伤害提升<color=#F74848>4%</color>，最多<color=#F74848>12%</color>",
+          "BufCarried": "202321",
+          "SkillIcon": "Icon_entry_10019",
+          "icon": "Icon_entry_10019",
+          "Status": 1,
+          "weight": 207
+        },
+        {
+          "ID": "20233",
+          "name": "蓄能增幅装置",
+          "SpecificEffects": "自身AP大于<color=#F74848>2</color>时，超出的每点AP将使伤害提升<color=#F74848>4%</color>，最多<color=#F74848>20%</color>",
+          "BufCarried": "202331",
+          "SkillIcon": "Icon_entry_10019",
+          "icon": "Icon_entry_10019",
+          "Status": 1,
+          "weight": 208
+        },
+        {
+          "ID": "20234",
+          "name": "蓄能增幅装置",
+          "SpecificEffects": "自身AP大于<color=#F74848>2</color>时，超出的每点AP将使伤害提升<color=#F74848>6%</color>，最多<color=#F74848>30%</color>",
+          "BufCarried": "202341",
+          "SkillIcon": "Icon_entry_10019",
+          "icon": "Icon_entry_10019",
+          "Status": 1,
+          "weight": 209
+        }
+      ],
+      "introduce": "增幅装置的设计理念来自引擎的涡轮增压模式，通过对输出能量的再利用作为增幅手段，该装置能大幅度增强机兵爆发力，但本身占用的体积使其很难应用于其他机型。",
+      "ModuleIcon": "Icon_entry_10019",
+      "icon": "Icon_entry_10019",
+      "IconType": "SuitS",
+      "ObtainingMethod": "模组生产",
+      "Status": 1,
+      "weight": 27
+    },
+    "now": "2024-12-13 15:09:45"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

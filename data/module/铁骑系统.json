@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "20351",
+      "ModuleName": "铁骑系统",
+      "name": "铁骑系统",
+      "EntryLevel": "1",
+      "quality": "SSR",
+      "ModuleEffects": "20351/20352/20353/20354",
+      "WithPassiveSkills": [
+        {
+          "ID": "20351",
+          "name": "铁骑系统",
+          "SpecificEffects": "双手只装配一把武器时，伤害提升<color=#F74848>4%</color>",
+          "BufCarried": "203511",
+          "SkillIcon": "Icon_entry_10070",
+          "icon": "Icon_entry_10070",
+          "Status": 1,
+          "weight": 254
+        },
+        {
+          "ID": "20352",
+          "name": "铁骑系统",
+          "SpecificEffects": "双手只装配一把武器时，伤害提升<color=#F74848>8%</color>",
+          "BufCarried": "203521",
+          "SkillIcon": "Icon_entry_10070",
+          "icon": "Icon_entry_10070",
+          "Status": 1,
+          "weight": 255
+        },
+        {
+          "ID": "20353",
+          "name": "铁骑系统",
+          "SpecificEffects": "双手只装配一把武器时，伤害提升<color=#F74848>14%</color>",
+          "BufCarried": "203531",
+          "SkillIcon": "Icon_entry_10070",
+          "icon": "Icon_entry_10070",
+          "Status": 1,
+          "weight": 256
+        },
+        {
+          "ID": "20354",
+          "name": "铁骑系统",
+          "SpecificEffects": "双手只装配一把武器时，伤害提升<color=#F74848>20%</color>",
+          "BufCarried": "203541",
+          "SkillIcon": "Icon_entry_10070",
+          "icon": "Icon_entry_10070",
+          "Status": 1,
+          "weight": 257
+        }
+      ],
+      "introduce": "由KATANA和黑曜石联合研发的最尖端人机直连系统，可使符合条件的机师达到超越当前技术阈值的超高同步率。",
+      "ModuleIcon": "Icon_entry_10070",
+      "icon": "Icon_entry_10070",
+      "IconType": "SuitS",
+      "ObtainingMethod": "模组生产",
+      "Status": 1,
+      "weight": 33
+    },
+    "now": "2024-12-13 15:09:44"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

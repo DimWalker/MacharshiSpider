@@ -32,7 +32,7 @@
         "SkillIcon": "Icon_skill_talent_5142",
         "icon": "Icon_skill_talent_5142",
         "Status": 1,
-        "weight": 2782
+        "weight": 2886
       },
       "Talent3_5Ability": {
         "ID": "500751",
@@ -42,7 +42,7 @@
         "SkillIcon": "Icon_skill_talent_5142",
         "icon": "Icon_skill_talent_5142",
         "Status": 1,
-        "weight": 2783
+        "weight": 2887
       },
       "NeuralDriveTemplate": {
         "ID": "10103135",
@@ -71,7 +71,7 @@
                   "SkillIcon": "Icon_skill_passive_1003",
                   "icon": "Icon_skill_passive_1003",
                   "Status": 1,
-                  "weight": 2708
+                  "weight": 2812
                 }
               },
               {
@@ -90,7 +90,7 @@
                   "SkillIcon": "Icon_skill_passive_5014",
                   "icon": "Icon_skill_passive_5014",
                   "Status": 1,
-                  "weight": 2709
+                  "weight": 2813
                 }
               },
               {
@@ -108,7 +108,7 @@
                   "SkillIcon": "Icon_skill_passive_5004",
                   "icon": "Icon_skill_passive_5004",
                   "Status": 1,
-                  "weight": 2710
+                  "weight": 2814
                 }
               }
             ],
@@ -141,7 +141,7 @@
                   "SkillIcon": "Icon_skill_passive_1003",
                   "icon": "Icon_skill_passive_1003",
                   "Status": 1,
-                  "weight": 2711
+                  "weight": 2815
                 }
               },
               {
@@ -159,7 +159,7 @@
                   "SkillIcon": "Icon_skill_passive_5014",
                   "icon": "Icon_skill_passive_5014",
                   "Status": 1,
-                  "weight": 2712
+                  "weight": 2816
                 }
               },
               {
@@ -177,7 +177,7 @@
                   "SkillIcon": "Icon_skill_passive_5004",
                   "icon": "Icon_skill_passive_5004",
                   "Status": 1,
-                  "weight": 2713
+                  "weight": 2817
                 }
               }
             ],
@@ -210,7 +210,7 @@
                   "SkillIcon": "Icon_skill_passive_3002",
                   "icon": "Icon_skill_passive_3002",
                   "Status": 1,
-                  "weight": 2714
+                  "weight": 2818
                 }
               },
               {
@@ -228,7 +228,7 @@
                   "SkillIcon": "Icon_skill_passive_5004",
                   "icon": "Icon_skill_passive_5004",
                   "Status": 1,
-                  "weight": 2715
+                  "weight": 2819
                 }
               },
               {
@@ -247,7 +247,7 @@
                   "SkillIcon": "Icon_skill_passive_5155",
                   "icon": "Icon_skill_passive_5155",
                   "Status": 1,
-                  "weight": 2716
+                  "weight": 2820
                 }
               },
               {
@@ -266,7 +266,7 @@
                   "SkillIcon": "Icon_skill_passive_3002",
                   "icon": "Icon_skill_passive_3002",
                   "Status": 1,
-                  "weight": 2717
+                  "weight": 2821
                 }
               },
               {
@@ -285,7 +285,7 @@
                   "SkillIcon": "Icon_skill_passive_3002",
                   "icon": "Icon_skill_passive_3002",
                   "Status": 1,
-                  "weight": 2718
+                  "weight": 2822
                 }
               },
               {
@@ -304,7 +304,7 @@
                   "SkillIcon": "Icon_skill_passive_3002",
                   "icon": "Icon_skill_passive_3002",
                   "Status": 1,
-                  "weight": 2719
+                  "weight": 2823
                 }
               }
             ],
@@ -337,7 +337,7 @@
                   "SkillIcon": "Icon_skill_passive_3129",
                   "icon": "Icon_skill_passive_3129",
                   "Status": 1,
-                  "weight": 2778
+                  "weight": 2882
                 }
               },
               {
@@ -355,7 +355,7 @@
                   "SkillIcon": "Icon_skill_passive_5004",
                   "icon": "Icon_skill_passive_5004",
                   "Status": 1,
-                  "weight": 2720
+                  "weight": 2824
                 }
               },
               {
@@ -374,7 +374,7 @@
                   "SkillIcon": "Icon_skill_passive_5014",
                   "icon": "Icon_skill_passive_5014",
                   "Status": 1,
-                  "weight": 2721
+                  "weight": 2825
                 }
               },
               {
@@ -393,7 +393,7 @@
                   "SkillIcon": "Icon_skill_passive_3129",
                   "icon": "Icon_skill_passive_3129",
                   "Status": 1,
-                  "weight": 2779
+                  "weight": 2883
                 }
               },
               {
@@ -412,7 +412,7 @@
                   "SkillIcon": "Icon_skill_passive_3129",
                   "icon": "Icon_skill_passive_3129",
                   "Status": 1,
-                  "weight": 2780
+                  "weight": 2884
                 }
               },
               {
@@ -426,12 +426,12 @@
                 "PassiveSkill": {
                   "ID": "500746",
                   "name": "真亦假4",
-                  "SpecificEffects": "<buf ID=900108>[幻象]</buf>持续时间延长至<color=#F74848>1</color>回合，并获得指令<buf ID=900107>[归位]</buf>",
+                  "SpecificEffects": "<buf ID=900108>[幻象]</buf>持续时间延长至<color=#F74848>1</color>回合，并获得指令<skill mainSkill=500746>[归位]</skill>",
                   "BufCarried": "5007461",
                   "SkillIcon": "Icon_skill_passive_3129",
                   "icon": "Icon_skill_passive_3129",
                   "Status": 1,
-                  "weight": 2781
+                  "weight": 2885
                 }
               }
             ],
@@ -496,7 +496,7 @@
             "SkillIcon": "Icon_skill_passive_1003",
             "icon": "Icon_skill_passive_1003",
             "Status": 1,
-            "weight": 2707
+            "weight": 2811
           }
         },
         {
@@ -659,7 +659,7 @@
           "UnitName": "晶体单元",
           "UnitType": "1",
           "ActivateUnitConsumption": "2:1:10803007:5/2:1:10805007:5/2:1:10803006:8/2:1:10805006:8/",
-          "describe": "神经驱动解锁γ分区\n\n达到算力<color=#F74848>1</color>可激活：\n· <buf ID=900106>[假作真]</buf>在传送后立即对目标进行修理，恢复所有部位的耐久值，修理量为修理背包的<color=#F74848>2</color>倍，可修复<color=#F74848>1</color>个损毁部位\n达到算力<color=#F74848>4</color>可激活：\n· AP的上限值<color=#F74848>+1</color>\n达到算力<color=#F74848>7</color>可激活：\n· 每回合首次使用修理技能的AP消耗<color=#F74848>-1</color>，最低<color=#F74848>1</color>点\n达到算力<color=#F74848>10</color>可激活：\n· <buf ID=900106>[假作真]</buf>间隔<color=#F74848>3</color>回合可以再次发动\n达到算力<color=#F74848>13</color>可激活：\n· 发动<buf ID=900106>[假作真]</buf>时，驱散目标身上<color=#F74848>2</color>个减益效果\n达到算力<color=#F74848>16</color>可激活：\n· <buf ID=900108>[幻象]</buf>持续时间延长至<color=#F74848>1</color>回合，并获得指令<buf ID=900107>[归位]</buf>\n",
+          "describe": "神经驱动解锁γ分区\n\n达到算力<color=#F74848>1</color>可激活：\n· <buf ID=900106>[假作真]</buf>在传送后立即对目标进行修理，恢复所有部位的耐久值，修理量为修理背包的<color=#F74848>2</color>倍，可修复<color=#F74848>1</color>个损毁部位\n达到算力<color=#F74848>4</color>可激活：\n· AP的上限值<color=#F74848>+1</color>\n达到算力<color=#F74848>7</color>可激活：\n· 每回合首次使用修理技能的AP消耗<color=#F74848>-1</color>，最低<color=#F74848>1</color>点\n达到算力<color=#F74848>10</color>可激活：\n· <buf ID=900106>[假作真]</buf>间隔<color=#F74848>3</color>回合可以再次发动\n达到算力<color=#F74848>13</color>可激活：\n· 发动<buf ID=900106>[假作真]</buf>时，驱散目标身上<color=#F74848>2</color>个减益效果\n达到算力<color=#F74848>16</color>可激活：\n· <buf ID=900108>[幻象]</buf>持续时间延长至<color=#F74848>1</color>回合，并获得指令<skill mainSkill=500746>[归位]</skill>\n",
           "AttributeBonus": "PilotGammaChipBandwidthAdd:4",
           "icon": "Icon_zoneskill_0005",
           "Status": 1,
@@ -687,7 +687,7 @@
             "SkillIcon": "Icon_skill_passive_3106",
             "icon": "Icon_skill_passive_3106",
             "Status": 1,
-            "weight": 2774
+            "weight": 2878
           }
         },
         {
@@ -716,7 +716,7 @@
             "SkillIcon": "Icon_skill_order_3002",
             "icon": "Icon_skill_order_3002",
             "Status": 1,
-            "weight": 427
+            "weight": 441
           }
         },
         {
@@ -741,7 +741,7 @@
             "SkillIcon": "Icon_skill_passive_5152",
             "icon": "Icon_skill_passive_5152",
             "Status": 1,
-            "weight": 2775
+            "weight": 2879
           }
         },
         {
@@ -766,7 +766,7 @@
             "SkillIcon": "Icon_skill_passive_5170",
             "icon": "Icon_skill_passive_5170",
             "Status": 1,
-            "weight": 2776
+            "weight": 2880
           }
         },
         {
@@ -795,7 +795,7 @@
             "SkillIcon": "Icon_skill_order_3114",
             "icon": "Icon_skill_order_3114",
             "Status": 1,
-            "weight": 382
+            "weight": 396
           }
         },
         {
@@ -820,7 +820,7 @@
             "SkillIcon": "Icon_skill_passive_3103",
             "icon": "Icon_skill_passive_3103",
             "Status": 1,
-            "weight": 2777
+            "weight": 2881
           }
         },
         {
@@ -849,7 +849,7 @@
             "SkillIcon": "Icon_skill_order_3115",
             "icon": "Icon_skill_order_3115",
             "Status": 1,
-            "weight": 383
+            "weight": 397
           }
         },
         {
@@ -1110,7 +1110,7 @@
       ],
       "biomimetic_computer_type": 2
     },
-    "now": "2024-11-08 20:08:26"
+    "now": "2024-12-13 15:08:43"
   },
   "status": 1,
   "switch": null,

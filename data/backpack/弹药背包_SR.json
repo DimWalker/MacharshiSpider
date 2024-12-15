@@ -1,0 +1,32 @@
+{
+  "data": {
+    "data": {
+      "ID": "60900103",
+      "name": "弹药背包",
+      "quality": "SR",
+      "weight": "125",
+      "BackpackMainType": "Ammo",
+      "AssemblableAirmenType": "Medium",
+      "BackpackIcon": "Icon_backpack_61100101",
+      "icon": "Icon_backpack_61100101",
+      "WithPassiveSkills": [
+        {
+          "ID": "60191",
+          "name": "战术弹量增加Ⅰ",
+          "SpecificEffects": "战术武器弹量<color=#F74848>+1</color>；\n机兵躯干耐久值提升<color=#F74848>8%</color>，造成伤害提升<color=#F74848>3%</color>；",
+          "SkillIcon": "Icon_skill_passive_5163",
+          "icon": "Icon_skill_passive_5163",
+          "Status": 1,
+          "weight": 996
+        }
+      ],
+      "HowGet": "无",
+      "RelatedDescription": "储存了战术武器弹药，让机兵火箭或导弹有了更多的发射机会。",
+      "Status": 1
+    },
+    "now": "2024-12-13 15:09:28"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

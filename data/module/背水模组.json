@@ -1,0 +1,105 @@
+{
+  "data": {
+    "data": {
+      "ID": "30141",
+      "ModuleName": "背水模组",
+      "name": "背水模组",
+      "EntryLevel": "1",
+      "quality": "SSR",
+      "ModuleEffects": "30141/30142/30143/30144/30145/30146/30147/30148",
+      "WithPassiveSkills": [
+        {
+          "ID": "30141",
+          "name": "背水模组",
+          "SpecificEffects": "自身的耐久值百分比低于<color=#F74848>40%</color>时，伤害提升<color=#F74848>3%</color>",
+          "BufCarried": "301411",
+          "SkillIcon": "Icon_entry_10056",
+          "icon": "Icon_entry_10056",
+          "Status": 1,
+          "weight": 406
+        },
+        {
+          "ID": "30142",
+          "name": "背水模组",
+          "SpecificEffects": "自身的耐久值百分比低于<color=#F74848>40%</color>时，伤害提升<color=#F74848>4%</color>",
+          "BufCarried": "301421",
+          "SkillIcon": "Icon_entry_10056",
+          "icon": "Icon_entry_10056",
+          "Status": 1,
+          "weight": 407
+        },
+        {
+          "ID": "30143",
+          "name": "背水模组",
+          "SpecificEffects": "自身的耐久值百分比低于<color=#F74848>40%</color>时，伤害提升<color=#F74848>6%</color>",
+          "BufCarried": "301431",
+          "SkillIcon": "Icon_entry_10056",
+          "icon": "Icon_entry_10056",
+          "Status": 1,
+          "weight": 408
+        },
+        {
+          "ID": "30144",
+          "name": "背水模组",
+          "SpecificEffects": "自身的耐久值百分比低于<color=#F74848>50%</color>时，伤害提升<color=#F74848>8%</color>",
+          "BufCarried": "301441",
+          "SkillIcon": "Icon_entry_10056",
+          "icon": "Icon_entry_10056",
+          "Status": 1,
+          "weight": 409
+        },
+        {
+          "ID": "30145",
+          "name": "背水模组",
+          "SpecificEffects": "自身的耐久值百分比低于<color=#F74848>50%</color>时，伤害提升<color=#F74848>10%</color>",
+          "BufCarried": "301451",
+          "SkillIcon": "Icon_entry_10056",
+          "icon": "Icon_entry_10056",
+          "Status": 1,
+          "weight": 410
+        },
+        {
+          "ID": "30146",
+          "name": "背水模组",
+          "SpecificEffects": "自身的耐久值百分比低于<color=#F74848>60%</color>时，伤害提升<color=#F74848>12%</color>",
+          "BufCarried": "301461",
+          "SkillIcon": "Icon_entry_10056",
+          "icon": "Icon_entry_10056",
+          "Status": 1,
+          "weight": 411
+        },
+        {
+          "ID": "30147",
+          "name": "背水模组",
+          "SpecificEffects": "自身的耐久值百分比低于<color=#F74848>60%</color>时，伤害提升<color=#F74848>14%</color>",
+          "BufCarried": "301471",
+          "SkillIcon": "Icon_entry_10056",
+          "icon": "Icon_entry_10056",
+          "Status": 1,
+          "weight": 412
+        },
+        {
+          "ID": "30148",
+          "name": "背水模组",
+          "SpecificEffects": "自身的耐久值百分比低于<color=#F74848>60%</color>时，伤害提升<color=#F74848>18%</color>;\n躯干遭遇过量伤害时不会损毁，该效果间隔<color=#F74848>5</color>回合才可再次触发",
+          "BufCarried": "301481/301483",
+          "SkillIcon": "Icon_entry_10056",
+          "icon": "Icon_entry_10056",
+          "Status": 1,
+          "weight": 413
+        }
+      ],
+      "introduce": "对于搭载背水模组的机兵而言，自身的装甲反而是性能的限制器，他们的反击时刻在装甲被击破时才刚刚开始。",
+      "ModuleIcon": "Icon_entry_10056",
+      "icon": "Icon_entry_10056",
+      "IconType": "GeneralSuit",
+      "ObtainingMethod": "商店购买",
+      "Status": 1,
+      "weight": 50
+    },
+    "now": "2024-12-13 15:09:41"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

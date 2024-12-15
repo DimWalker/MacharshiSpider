@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "20421",
+      "ModuleName": "无瑕者单元",
+      "name": "无瑕者单元",
+      "EntryLevel": "1",
+      "quality": "SSR",
+      "ModuleEffects": "20421/20422/20423/20424",
+      "WithPassiveSkills": [
+        {
+          "ID": "20421",
+          "name": "无瑕者单元",
+          "SpecificEffects": "格斗家攻击时，伤害提升<color=#F74848>4%</color>，对耐久值最高的部位额外提升<color=#F74848>2%</color>",
+          "BufCarried": "204211/204212",
+          "SkillIcon": "Icon_entry_10080",
+          "icon": "Icon_entry_10080",
+          "Status": 1,
+          "weight": 282
+        },
+        {
+          "ID": "20422",
+          "name": "无瑕者单元",
+          "SpecificEffects": "格斗家攻击时，伤害提升<color=#F74848>8%</color>，对耐久值最高的部位额外提升<color=#F74848>4%</color>",
+          "BufCarried": "204221/204222",
+          "SkillIcon": "Icon_entry_10080",
+          "icon": "Icon_entry_10080",
+          "Status": 1,
+          "weight": 283
+        },
+        {
+          "ID": "20423",
+          "name": "无瑕者单元",
+          "SpecificEffects": "格斗家攻击时，伤害提升<color=#F74848>12%</color>，对耐久值最高的部位额外提升<color=#F74848>8%</color>",
+          "BufCarried": "204231/204232",
+          "SkillIcon": "Icon_entry_10080",
+          "icon": "Icon_entry_10080",
+          "Status": 1,
+          "weight": 284
+        },
+        {
+          "ID": "20424",
+          "name": "无瑕者单元",
+          "SpecificEffects": "格斗家攻击时，伤害提升<color=#F74848>18%</color>，对耐久值最高的部位额外提升<color=#F74848>12%</color>",
+          "BufCarried": "204241/204242",
+          "SkillIcon": "Icon_entry_10080",
+          "icon": "Icon_entry_10080",
+          "Status": 1,
+          "weight": 285
+        }
+      ],
+      "introduce": "由「受验者」单元改进而来的全新中枢，能极大地提高机兵动能和控制力。",
+      "ModuleIcon": "Icon_entry_10080",
+      "icon": "Icon_entry_10080",
+      "IconType": "SuitS",
+      "ObtainingMethod": "模组生产",
+      "Status": 1,
+      "weight": 37
+    },
+    "now": "2024-12-13 15:09:43"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

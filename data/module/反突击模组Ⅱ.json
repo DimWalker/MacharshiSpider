@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "40222",
+      "ModuleName": "反突击模组Ⅱ",
+      "name": "反突击模组Ⅱ",
+      "EntryLevel": "2",
+      "quality": "SSR",
+      "ModuleEffects": "40221/40222/40223/40224",
+      "WithPassiveSkills": [
+        {
+          "ID": "40221",
+          "name": "反突击模组Ⅰ",
+          "SpecificEffects": "受突击武器的伤害降低<color=#F74848>3%</color>",
+          "BufCarried": "402211",
+          "SkillIcon": "Icon_entry_40221",
+          "icon": "Icon_entry_40221",
+          "Status": 1,
+          "weight": 742
+        },
+        {
+          "ID": "40222",
+          "name": "反突击模组Ⅰ",
+          "SpecificEffects": "受突击武器的伤害降低<color=#F74848>5%</color>",
+          "BufCarried": "402221",
+          "SkillIcon": "Icon_entry_40221",
+          "icon": "Icon_entry_40221",
+          "Status": 1,
+          "weight": 743
+        },
+        {
+          "ID": "40223",
+          "name": "反突击模组Ⅰ",
+          "SpecificEffects": "受突击武器的伤害降低<color=#F74848>7%</color>",
+          "BufCarried": "402231",
+          "SkillIcon": "Icon_entry_40221",
+          "icon": "Icon_entry_40221",
+          "Status": 1,
+          "weight": 744
+        },
+        {
+          "ID": "40224",
+          "name": "反突击模组Ⅰ",
+          "SpecificEffects": "受突击武器的伤害降低<color=#F74848>10%</color>",
+          "BufCarried": "402241",
+          "SkillIcon": "Icon_entry_40221",
+          "icon": "Icon_entry_40221",
+          "Status": 1,
+          "weight": 745
+        }
+      ],
+      "introduce": "那些仗着距离优势倾泻火力的突击手很让人火大？试着装配反突击模组Ⅱ型，迎着子弹上去给他们机兵来上一拳！",
+      "ModuleIcon": "Icon_entry_40221",
+      "icon": "Icon_entry_40221",
+      "IconType": "PropertyS",
+      "ObtainingMethod": "商店购买",
+      "Status": 1,
+      "weight": 103
+    },
+    "now": "2024-12-13 15:09:32"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

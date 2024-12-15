@@ -1,0 +1,34 @@
+{
+  "data": {
+    "data": {
+      "ID": "60700103",
+      "name": "修理背包",
+      "quality": "SR",
+      "weight": "800",
+      "BackpackMainType": "Heal",
+      "AssemblableAirmenType": "Medium",
+      "BackpackIcon": "Icon_backpack_60400101",
+      "icon": "Icon_backpack_60400101",
+      "WithPassiveSkills": [
+        {
+          "ID": "60231",
+          "name": "修理装置Ⅰ",
+          "SpecificEffects": "行动开始时对自己释放<color=#F74848>1</color>次<color=#F74848>0.6</color>倍修理量的修理，不可修复破损的部位",
+          "BufCarried": "602311",
+          "SkillIcon": "Icon_skill_passive_3102",
+          "icon": "Icon_skill_passive_3102",
+          "Status": 1,
+          "weight": 1001
+        }
+      ],
+      "HowGet": "无",
+      "RelatedDescription": "配备了修理臂的机兵背包，能在战场上为机兵提供全面的专业维修。",
+      "AmountOfRepair": "183",
+      "Status": 1
+    },
+    "now": "2024-12-13 15:09:06"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

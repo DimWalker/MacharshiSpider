@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "40081",
+      "ModuleName": "防爆模组Ⅰ",
+      "name": "防爆模组Ⅰ",
+      "EntryLevel": "1",
+      "quality": "SR",
+      "ModuleEffects": "40081/40082/40083/40084",
+      "WithPassiveSkills": [
+        {
+          "ID": "40081",
+          "name": "防爆模组Ⅰ",
+          "SpecificEffects": "被暴击率降低<color=#F74848>3%</color>",
+          "BufCarried": "400811",
+          "SkillIcon": "Icon_entry_40081",
+          "icon": "Icon_entry_40081",
+          "Status": 1,
+          "weight": 630
+        },
+        {
+          "ID": "40082",
+          "name": "防爆模组Ⅰ",
+          "SpecificEffects": "被暴击率降低<color=#F74848>5%</color>",
+          "BufCarried": "400821",
+          "SkillIcon": "Icon_entry_40081",
+          "icon": "Icon_entry_40081",
+          "Status": 1,
+          "weight": 631
+        },
+        {
+          "ID": "40083",
+          "name": "防爆模组Ⅰ",
+          "SpecificEffects": "被暴击率降低<color=#F74848>7%</color>",
+          "BufCarried": "400831",
+          "SkillIcon": "Icon_entry_40081",
+          "icon": "Icon_entry_40081",
+          "Status": 1,
+          "weight": 632
+        },
+        {
+          "ID": "40084",
+          "name": "防爆模组Ⅰ",
+          "SpecificEffects": "被暴击率降低<color=#F74848>10%</color>",
+          "BufCarried": "400841",
+          "SkillIcon": "Icon_entry_40081",
+          "icon": "Icon_entry_40081",
+          "Status": 1,
+          "weight": 633
+        }
+      ],
+      "introduce": "在面对一些高端机兵时，用于保护关键部位的防爆模组才能发挥出应有的作用，因为那些机兵总是朝着这些地方打。",
+      "ModuleIcon": "Icon_entry_40081",
+      "icon": "Icon_entry_40081",
+      "IconType": "PropertyA",
+      "ObtainingMethod": "商店购买",
+      "Status": 1,
+      "weight": 74
+    },
+    "now": "2024-12-13 15:09:37"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

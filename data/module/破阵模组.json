@@ -1,0 +1,105 @@
+{
+  "data": {
+    "data": {
+      "ID": "30071",
+      "ModuleName": "破阵模组",
+      "name": "破阵模组",
+      "EntryLevel": "1",
+      "quality": "SSR",
+      "ModuleEffects": "30071/30072/30073/30074/30075/30076/30077/30078",
+      "WithPassiveSkills": [
+        {
+          "ID": "30071",
+          "name": "破阵模组",
+          "SpecificEffects": "主动使用范围攻击时，造成的伤害提升<color=#F74848>3%</color>",
+          "BufCarried": "300711",
+          "SkillIcon": "Icon_entry_10053",
+          "icon": "Icon_entry_10053",
+          "Status": 1,
+          "weight": 350
+        },
+        {
+          "ID": "30072",
+          "name": "破阵模组",
+          "SpecificEffects": "主动使用范围攻击时，造成的伤害提升<color=#F74848>4%</color>",
+          "BufCarried": "300721",
+          "SkillIcon": "Icon_entry_10053",
+          "icon": "Icon_entry_10053",
+          "Status": 1,
+          "weight": 351
+        },
+        {
+          "ID": "30073",
+          "name": "破阵模组",
+          "SpecificEffects": "主动使用范围攻击时，造成的伤害提升<color=#F74848>6%</color>",
+          "BufCarried": "300731",
+          "SkillIcon": "Icon_entry_10053",
+          "icon": "Icon_entry_10053",
+          "Status": 1,
+          "weight": 352
+        },
+        {
+          "ID": "30074",
+          "name": "破阵模组",
+          "SpecificEffects": "主动使用范围攻击时，造成的伤害提升<color=#F74848>8%</color>",
+          "BufCarried": "300741",
+          "SkillIcon": "Icon_entry_10053",
+          "icon": "Icon_entry_10053",
+          "Status": 1,
+          "weight": 353
+        },
+        {
+          "ID": "30075",
+          "name": "破阵模组",
+          "SpecificEffects": "主动使用范围攻击时，造成的伤害提升<color=#F74848>10%</color>",
+          "BufCarried": "300751",
+          "SkillIcon": "Icon_entry_10053",
+          "icon": "Icon_entry_10053",
+          "Status": 1,
+          "weight": 354
+        },
+        {
+          "ID": "30076",
+          "name": "破阵模组",
+          "SpecificEffects": "主动使用范围攻击时，造成的伤害提升<color=#F74848>12%</color>",
+          "BufCarried": "300761",
+          "SkillIcon": "Icon_entry_10053",
+          "icon": "Icon_entry_10053",
+          "Status": 1,
+          "weight": 355
+        },
+        {
+          "ID": "30077",
+          "name": "破阵模组",
+          "SpecificEffects": "主动使用范围攻击时，造成的伤害提升<color=#F74848>14%</color>",
+          "BufCarried": "300771",
+          "SkillIcon": "Icon_entry_10053",
+          "icon": "Icon_entry_10053",
+          "Status": 1,
+          "weight": 356
+        },
+        {
+          "ID": "30078",
+          "name": "破阵模组",
+          "SpecificEffects": "主动使用范围攻击时，造成的伤害提升<color=#F74848>18%</color>；\n若同时打击的目标大于等于<color=#F74848>3</color>个，则在战斗后对命中的目标施加<buf ID=7101504>[移动阻碍Ⅰ]</buf>，持续<color=#F74848>2</color>回合",
+          "BufCarried": "300781/300783",
+          "SkillIcon": "Icon_entry_10053",
+          "icon": "Icon_entry_10053",
+          "Status": 1,
+          "weight": 357
+        }
+      ],
+      "introduce": "火箭轰炸、长柄横扫、机枪扫射……如果你喜欢这些大范围杀伤的技能，那么请为你的机兵装配破阵模组，它会让你满意的。",
+      "ModuleIcon": "Icon_entry_10053",
+      "icon": "Icon_entry_10053",
+      "IconType": "GeneralSuit",
+      "ObtainingMethod": "商店购买",
+      "Status": 1,
+      "weight": 45
+    },
+    "now": "2024-12-13 15:09:42"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

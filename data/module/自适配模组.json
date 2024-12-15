@@ -1,0 +1,105 @@
+{
+  "data": {
+    "data": {
+      "ID": "30151",
+      "ModuleName": "自适配模组",
+      "name": "自适配模组",
+      "EntryLevel": "1",
+      "quality": "SSR",
+      "ModuleEffects": "30151/30152/30153/30154/30155/30156/30157/30158",
+      "WithPassiveSkills": [
+        {
+          "ID": "30151",
+          "name": "自适配模组",
+          "SpecificEffects": "自身的耐久值百分比低于<color=#F74848>50%</color>时，遭受伤害降低<color=#F74848>3%</color>",
+          "BufCarried": "301511",
+          "SkillIcon": "Icon_entry_10057",
+          "icon": "Icon_entry_10057",
+          "Status": 1,
+          "weight": 414
+        },
+        {
+          "ID": "30152",
+          "name": "自适配模组",
+          "SpecificEffects": "自身的耐久值百分比低于<color=#F74848>50%</color>时，遭受伤害降低<color=#F74848>4%</color>",
+          "BufCarried": "301521",
+          "SkillIcon": "Icon_entry_10057",
+          "icon": "Icon_entry_10057",
+          "Status": 1,
+          "weight": 415
+        },
+        {
+          "ID": "30153",
+          "name": "自适配模组",
+          "SpecificEffects": "自身的耐久值百分比低于<color=#F74848>50%</color>时，遭受伤害降低<color=#F74848>6%</color>",
+          "BufCarried": "301531",
+          "SkillIcon": "Icon_entry_10057",
+          "icon": "Icon_entry_10057",
+          "Status": 1,
+          "weight": 416
+        },
+        {
+          "ID": "30154",
+          "name": "自适配模组",
+          "SpecificEffects": "自身的耐久值百分比低于<color=#F74848>50%</color>时，遭受伤害降低<color=#F74848>8%</color>",
+          "BufCarried": "301541",
+          "SkillIcon": "Icon_entry_10057",
+          "icon": "Icon_entry_10057",
+          "Status": 1,
+          "weight": 417
+        },
+        {
+          "ID": "30155",
+          "name": "自适配模组",
+          "SpecificEffects": "自身的耐久值百分比低于<color=#F74848>50%</color>时，遭受伤害降低<color=#F74848>10%</color>",
+          "BufCarried": "301551",
+          "SkillIcon": "Icon_entry_10057",
+          "icon": "Icon_entry_10057",
+          "Status": 1,
+          "weight": 418
+        },
+        {
+          "ID": "30156",
+          "name": "自适配模组",
+          "SpecificEffects": "自身的耐久值百分比低于<color=#F74848>50%</color>时，遭受伤害降低<color=#F74848>12%</color>",
+          "BufCarried": "301561",
+          "SkillIcon": "Icon_entry_10057",
+          "icon": "Icon_entry_10057",
+          "Status": 1,
+          "weight": 419
+        },
+        {
+          "ID": "30157",
+          "name": "自适配模组",
+          "SpecificEffects": "自身的耐久值百分比低于<color=#F74848>50%</color>时，遭受伤害降低<color=#F74848>14%</color>",
+          "BufCarried": "301571",
+          "SkillIcon": "Icon_entry_10057",
+          "icon": "Icon_entry_10057",
+          "Status": 1,
+          "weight": 420
+        },
+        {
+          "ID": "30158",
+          "name": "自适配模组",
+          "SpecificEffects": "自身的耐久值百分比低于<color=#F74848>50%</color>时，遭受伤害降低<color=#F74848>18%</color>；\n耐久值大于等于<color=#F74848>50%</color>时，伤害提升<color=#F74848>20%</color>",
+          "BufCarried": "301581/301583",
+          "SkillIcon": "Icon_entry_10057",
+          "icon": "Icon_entry_10057",
+          "Status": 1,
+          "weight": 421
+        }
+      ],
+      "introduce": "自适配模组能显著地提升机兵的生存性，在检测到外层装甲遭受严重打击时会模块脱落以减少本体所受的冲击，从而增强战场生存能力。",
+      "ModuleIcon": "Icon_entry_10057",
+      "icon": "Icon_entry_10057",
+      "IconType": "GeneralSuit",
+      "ObtainingMethod": "商店购买",
+      "Status": 1,
+      "weight": 51
+    },
+    "now": "2024-12-13 15:09:41"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

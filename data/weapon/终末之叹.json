@@ -1,0 +1,63 @@
+{
+  "data": {
+    "data": [
+      {
+        "ID": "20115121",
+        "name": "终末之叹",
+        "quality": "SSSR",
+        "grade": "70",
+        "WeaponType1": "Assault",
+        "WeaponType2": "MachineGun",
+        "type": "MachineGun",
+        "LimitedModelOfWeapon": "Light/Medium/Heavy",
+        "RestrictionsPositionOfWeapon": "Hand",
+        "range": "1-3",
+        "WeaponWeight": "500",
+        "WeaponBasicAttackingPower": "1442",
+        "WeaponHitPoint": "3182",
+        "WeaponUnderstanding": "4603",
+        "PassiveSkill": [
+          {
+            "ID": "53002",
+            "name": "扩容火力",
+            "SpecificEffects": "机枪子弹数<color=#F74848>+1</color>，效果无法重复生效；\n同时装备两把机枪时，<buf ID=900002>[协力攻击]</buf>升级成<buf ID=900069>[双枪协力]</buf>",
+            "BufCarried": "530021/530022",
+            "SkillIcon": "Icon_skill_passive_5136",
+            "icon": "Icon_skill_passive_5136",
+            "Status": 1,
+            "weight": 814
+          },
+          {
+            "ID": "53003",
+            "name": "终极体",
+            "SpecificEffects": "强化<buf ID=900066>[原型体]</buf>效果：使用双手类机枪技能主动攻击对战时，战前获得<buf ID=7100104>[命中率提升Ⅱ]</buf>和<buf ID=7100404>[暴击率提升Ⅱ]</buf>，持续<color=#F74848>2</color>回合，并会在敌机反击结束后使用对侧手臂发动<buf ID=900001>[追击]</buf>，造成<color=#F74848>0.4（0.5）</color>倍伤害",
+            "BufCarried": "530031/530032/530033",
+            "SkillIcon": "Icon_skill_passive_5199",
+            "icon": "Icon_skill_passive_5199",
+            "Status": 1,
+            "weight": 815
+          },
+          {
+            "ID": "53001",
+            "name": "蹁跹",
+            "SpecificEffects": "主动攻击后，若击破部位，战后可额外移动<color=#F74848>2</color>格;\n仅在使用当前武器时生效",
+            "BufCarried": "530011",
+            "SkillIcon": "Icon_skill_passive_5198",
+            "icon": "Icon_skill_passive_5198",
+            "Status": 1,
+            "weight": 813
+          }
+        ],
+        "IconResourcePath": "Icon_weapon_20100402",
+        "icon": "Icon_weapon_20100402",
+        "describe": "根据洛莎·迪亚兹的数据而研制的特制版夜魇，在控件和激发装置上都采用了可被脑波直接控制的钢岚合金……不知是何原因，这套武装自出厂后就一直留在武器库里，那位瓦尔基里一次都没有使用过。",
+        "Status": 1,
+        "weight": 706
+      }
+    ],
+    "now": "2024-12-13 15:08:57"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

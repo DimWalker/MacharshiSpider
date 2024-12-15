@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "40022",
+      "ModuleName": "暴击模组Ⅱ",
+      "name": "暴击模组Ⅱ",
+      "EntryLevel": "2",
+      "quality": "SSR",
+      "ModuleEffects": "40021/40022/40023/40024",
+      "WithPassiveSkills": [
+        {
+          "ID": "40021",
+          "name": "暴击模组Ⅰ",
+          "SpecificEffects": "暴击率提升<color=#F74848>3%</color>",
+          "BufCarried": "400211",
+          "SkillIcon": "Icon_entry_40021",
+          "icon": "Icon_entry_40021",
+          "Status": 1,
+          "weight": 582
+        },
+        {
+          "ID": "40022",
+          "name": "暴击模组Ⅰ",
+          "SpecificEffects": "暴击率提升<color=#F74848>5%</color>",
+          "BufCarried": "400221",
+          "SkillIcon": "Icon_entry_40021",
+          "icon": "Icon_entry_40021",
+          "Status": 1,
+          "weight": 583
+        },
+        {
+          "ID": "40023",
+          "name": "暴击模组Ⅰ",
+          "SpecificEffects": "暴击率提升<color=#F74848>7%</color>",
+          "BufCarried": "400231",
+          "SkillIcon": "Icon_entry_40021",
+          "icon": "Icon_entry_40021",
+          "Status": 1,
+          "weight": 584
+        },
+        {
+          "ID": "40024",
+          "name": "暴击模组Ⅰ",
+          "SpecificEffects": "暴击率提升<color=#F74848>10%</color>",
+          "BufCarried": "400241",
+          "SkillIcon": "Icon_entry_40021",
+          "icon": "Icon_entry_40021",
+          "Status": 1,
+          "weight": 585
+        }
+      ],
+      "introduce": "需要小心那些装配Ⅱ型暴击模组的敌人，他们的攻击总是更为刁钻、有力，同样的出力下能造成更大的破坏。",
+      "ModuleIcon": "Icon_entry_40021",
+      "icon": "Icon_entry_40021",
+      "IconType": "PropertyS",
+      "ObtainingMethod": "商店购买",
+      "Status": 1,
+      "weight": 63
+    },
+    "now": "2024-12-13 15:09:39"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

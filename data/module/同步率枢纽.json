@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "20081",
+      "ModuleName": "同步率枢纽",
+      "name": "同步率枢纽",
+      "EntryLevel": "1",
+      "quality": "SSR",
+      "ModuleEffects": "20081/20082/20083/20084",
+      "WithPassiveSkills": [
+        {
+          "ID": "20081",
+          "name": "同步率枢纽",
+          "SpecificEffects": "双肩装配两把种类一致的武器时，伤害提升<color=#F74848>4%</color>",
+          "BufCarried": "200811",
+          "SkillIcon": "Icon_entry_10039",
+          "icon": "Icon_entry_10039",
+          "Status": 1,
+          "weight": 146
+        },
+        {
+          "ID": "20082",
+          "name": "同步率枢纽",
+          "SpecificEffects": "双肩装配两把种类一致的武器时，伤害提升<color=#F74848>8%</color>",
+          "BufCarried": "200821",
+          "SkillIcon": "Icon_entry_10039",
+          "icon": "Icon_entry_10039",
+          "Status": 1,
+          "weight": 147
+        },
+        {
+          "ID": "20083",
+          "name": "同步率枢纽",
+          "SpecificEffects": "双肩装配两把种类一致的武器时，伤害提升<color=#F74848>14%</color>",
+          "BufCarried": "200831",
+          "SkillIcon": "Icon_entry_10039",
+          "icon": "Icon_entry_10039",
+          "Status": 1,
+          "weight": 148
+        },
+        {
+          "ID": "20084",
+          "name": "同步率枢纽",
+          "SpecificEffects": "双肩装配两把种类一致的武器时，伤害提升<color=#F74848>20%</color>",
+          "BufCarried": "200841",
+          "SkillIcon": "Icon_entry_10039",
+          "icon": "Icon_entry_10039",
+          "Status": 1,
+          "weight": 149
+        }
+      ],
+      "introduce": "同步率枢纽是安装在日弩肩部的频率同步装置，使用纳米晶体管线对远程火力装置进行对接和能量分配，有效提升整体打击威力。",
+      "ModuleIcon": "Icon_entry_10039",
+      "icon": "Icon_entry_10039",
+      "IconType": "SuitS",
+      "ObtainingMethod": "模组生产",
+      "Status": 1,
+      "weight": 17
+    },
+    "now": "2024-12-13 15:09:46"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

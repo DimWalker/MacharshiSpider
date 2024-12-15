@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "40031",
+      "ModuleName": "增伤模组Ⅰ",
+      "name": "增伤模组Ⅰ",
+      "EntryLevel": "1",
+      "quality": "SR",
+      "ModuleEffects": "40031/40032/40033/40034",
+      "WithPassiveSkills": [
+        {
+          "ID": "40031",
+          "name": "增伤模组Ⅰ",
+          "SpecificEffects": "暴击伤害提升<color=#F74848>3%</color>",
+          "BufCarried": "400311",
+          "SkillIcon": "Icon_entry_40031",
+          "icon": "Icon_entry_40031",
+          "Status": 1,
+          "weight": 590
+        },
+        {
+          "ID": "40032",
+          "name": "增伤模组Ⅰ",
+          "SpecificEffects": "暴击伤害提升<color=#F74848>5%</color>",
+          "BufCarried": "400321",
+          "SkillIcon": "Icon_entry_40031",
+          "icon": "Icon_entry_40031",
+          "Status": 1,
+          "weight": 591
+        },
+        {
+          "ID": "40033",
+          "name": "增伤模组Ⅰ",
+          "SpecificEffects": "暴击伤害提升<color=#F74848>7%</color>",
+          "BufCarried": "400331",
+          "SkillIcon": "Icon_entry_40031",
+          "icon": "Icon_entry_40031",
+          "Status": 1,
+          "weight": 592
+        },
+        {
+          "ID": "40034",
+          "name": "增伤模组Ⅰ",
+          "SpecificEffects": "暴击伤害提升<color=#F74848>10%</color>",
+          "BufCarried": "400341",
+          "SkillIcon": "Icon_entry_40031",
+          "icon": "Icon_entry_40031",
+          "Status": 1,
+          "weight": 593
+        }
+      ],
+      "introduce": "增伤模组因为其发动的不稳定性，并不适合大部分机兵，但在它们起到作用时，会给机师带来意想不到的惊喜。",
+      "ModuleIcon": "Icon_entry_40031",
+      "icon": "Icon_entry_40031",
+      "IconType": "PropertyA",
+      "ObtainingMethod": "商店购买",
+      "Status": 1,
+      "weight": 64
+    },
+    "now": "2024-12-13 15:09:38"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

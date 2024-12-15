@@ -1,0 +1,73 @@
+{
+  "data": {
+    "data": [
+      {
+        "ID": "20213021",
+        "name": "龙息",
+        "quality": "SSR",
+        "grade": "12",
+        "WeaponType1": "Assault",
+        "WeaponType2": "HeavyMachineGun",
+        "type": "HeavyMachineGun",
+        "LimitedModelOfWeapon": "Light/Medium/Heavy",
+        "RestrictionsPositionOfWeapon": "DoubleHand",
+        "range": "1-3",
+        "WeaponWeight": "900",
+        "WeaponBasicAttackingPower": "199",
+        "WeaponHitPoint": "327",
+        "WeaponUnderstanding": "966",
+        "IconResourcePath": "Icon_weapon_20400301",
+        "icon": "Icon_weapon_20400301",
+        "describe": "配备了内置型雷达和红外追踪系统，辅助型火控系统能自主锁定目标，从开火到转移目标均可实现半自动化操作。",
+        "Status": 1,
+        "weight": 296
+      },
+      {
+        "ID": "20213031",
+        "name": "龙息",
+        "quality": "SSR",
+        "grade": "21",
+        "WeaponType1": "Assault",
+        "WeaponType2": "HeavyMachineGun",
+        "type": "HeavyMachineGun",
+        "LimitedModelOfWeapon": "Light/Medium/Heavy",
+        "RestrictionsPositionOfWeapon": "DoubleHand",
+        "range": "1-3",
+        "WeaponWeight": "900",
+        "WeaponBasicAttackingPower": "239",
+        "WeaponHitPoint": "374",
+        "WeaponUnderstanding": "1104",
+        "IconResourcePath": "Icon_weapon_20400301",
+        "icon": "Icon_weapon_20400301",
+        "describe": "配备了内置型雷达和红外追踪系统，辅助型火控系统能自主锁定目标，从开火到转移目标均可实现半自动化操作。",
+        "Status": 1,
+        "weight": 297
+      },
+      {
+        "ID": "20213032",
+        "name": "龙息",
+        "quality": "SSR",
+        "grade": "27",
+        "WeaponType1": "Assault",
+        "WeaponType2": "HeavyMachineGun",
+        "type": "HeavyMachineGun",
+        "LimitedModelOfWeapon": "Light/Medium/Heavy",
+        "RestrictionsPositionOfWeapon": "DoubleHand",
+        "range": "1-3",
+        "WeaponWeight": "900",
+        "WeaponBasicAttackingPower": "277",
+        "WeaponHitPoint": "401",
+        "WeaponUnderstanding": "1183",
+        "IconResourcePath": "Icon_weapon_20400301",
+        "icon": "Icon_weapon_20400301",
+        "describe": "配备了内置型雷达和红外追踪系统，辅助型火控系统能自主锁定目标，从开火到转移目标均可实现半自动化操作。",
+        "Status": 1,
+        "weight": 298
+      }
+    ],
+    "now": "2024-12-13 15:08:48"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

@@ -1,0 +1,33 @@
+{
+  "data": {
+    "data": {
+      "ID": "60402705",
+      "name": "飞行强化背包·协力",
+      "quality": "UR",
+      "weight": "150",
+      "BackpackMainType": "Flow",
+      "AssemblableAirmenType": "Light",
+      "BackpackIcon": "Icon_BackPack_60350101",
+      "icon": "Icon_BackPack_60350101",
+      "WithPassiveSkills": [
+        {
+          "ID": "61214",
+          "name": "飞行装置Ⅰ·协力",
+          "SpecificEffects": "机兵移动方式变为漂浮，可翻越低障碍；\n协力攻击时，伤害提升<color=#F74848>15%</color>，暴击率提升<color=#F74848>10%</color>；\n机兵躯干耐久值提升<color=#F74848>10%</color>，造成伤害提升<color=#F74848>5%</color>；",
+          "BufCarried": "602111/600731",
+          "SkillIcon": "Icon_skill_passive_5127",
+          "icon": "Icon_skill_passive_5127",
+          "Status": 1,
+          "weight": 1097
+        }
+      ],
+      "HowGet": "无",
+      "RelatedDescription": "喷射装置能够驱动机兵在短距离上飞行，快速越过障碍，前往难以抵达的战场角落。同时集成了强化机兵协力攻击能力的功能。",
+      "Status": 1
+    },
+    "now": "2024-12-13 15:09:16"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

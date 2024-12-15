@@ -1,0 +1,33 @@
+{
+  "data": {
+    "data": {
+      "ID": "60202305",
+      "name": "移动强化背包·警戒",
+      "quality": "UR",
+      "weight": "150",
+      "BackpackMainType": "MovePointAdd",
+      "AssemblableAirmenType": "Light",
+      "BackpackIcon": "Icon_BackPack_60500101",
+      "icon": "Icon_BackPack_60500101",
+      "WithPassiveSkills": [
+        {
+          "ID": "61219",
+          "name": "移动强化Ⅰ·警戒",
+          "SpecificEffects": "机兵移动力增加<color=#F74848>1</color>格；\n警戒射击时，命中率提升<color=#F74848>15%</color>，暴击率提升<color=#F74848>10%</color>；\n机兵躯干耐久值提升<color=#F74848>10%</color>，造成伤害提升<color=#F74848>5%</color>；",
+          "BufCarried": "600331",
+          "SkillIcon": "Icon_skill_passive_5123",
+          "icon": "Icon_skill_passive_5123",
+          "Status": 1,
+          "weight": 1087
+        }
+      ],
+      "HowGet": "无",
+      "RelatedDescription": "直接将额外动能输送到腿部传动装置，无论是使用滑轮还是步行，机兵的移动力都能得到提升。同时集成了强化机兵警戒射击能力的功能。",
+      "Status": 1
+    },
+    "now": "2024-12-13 15:09:21"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

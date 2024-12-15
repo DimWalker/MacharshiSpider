@@ -27,7 +27,7 @@
             "SkillIcon": "Icon_skill_passive_1106",
             "icon": "Icon_skill_passive_1106",
             "Status": 1,
-            "weight": 503,
+            "weight": 511,
             "id": "3027",
             "level": 2
           },
@@ -91,7 +91,7 @@
             "SkillIcon": "Icon_skill_passive_1126",
             "icon": "Icon_skill_passive_1126",
             "Status": 1,
-            "weight": 756,
+            "weight": 780,
             "id": "4027",
             "level": 2
           },
@@ -139,7 +139,7 @@
               "SkillIcon": "Icon_skill_passive_1106",
               "icon": "Icon_skill_passive_1106",
               "Status": 1,
-              "weight": 509,
+              "weight": 517,
               "id": "3027",
               "level": 8
             },
@@ -187,7 +187,7 @@
               "SkillIcon": "Icon_skill_passive_1126",
               "icon": "Icon_skill_passive_1126",
               "Status": 1,
-              "weight": 758,
+              "weight": 782,
               "id": "4027",
               "level": 4
             },
@@ -318,7 +318,7 @@
         }
       }
     ],
-    "now": "2024-11-08 20:08:12"
+    "now": "2024-12-13 15:08:30"
   },
   "status": 1,
   "switch": null,

@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "40201",
+      "ModuleName": "电磁炮模组Ⅰ",
+      "name": "电磁炮模组Ⅰ",
+      "EntryLevel": "1",
+      "quality": "SR",
+      "ModuleEffects": "40201/40202/40203/40204",
+      "WithPassiveSkills": [
+        {
+          "ID": "40201",
+          "name": "电磁炮模组Ⅰ",
+          "SpecificEffects": "电磁炮的伤害提升<color=#F74848>3%</color>",
+          "BufCarried": "402011",
+          "SkillIcon": "Icon_entry_40201",
+          "icon": "Icon_entry_40201",
+          "Status": 1,
+          "weight": 726
+        },
+        {
+          "ID": "40202",
+          "name": "电磁炮模组Ⅰ",
+          "SpecificEffects": "电磁炮的伤害提升<color=#F74848>5%</color>",
+          "BufCarried": "402021",
+          "SkillIcon": "Icon_entry_40201",
+          "icon": "Icon_entry_40201",
+          "Status": 1,
+          "weight": 727
+        },
+        {
+          "ID": "40203",
+          "name": "电磁炮模组Ⅰ",
+          "SpecificEffects": "电磁炮的伤害提升<color=#F74848>7%</color>",
+          "BufCarried": "402031",
+          "SkillIcon": "Icon_entry_40201",
+          "icon": "Icon_entry_40201",
+          "Status": 1,
+          "weight": 728
+        },
+        {
+          "ID": "40204",
+          "name": "电磁炮模组Ⅰ",
+          "SpecificEffects": "电磁炮的伤害提升<color=#F74848>10%</color>",
+          "BufCarried": "402041",
+          "SkillIcon": "Icon_entry_40201",
+          "icon": "Icon_entry_40201",
+          "Status": 1,
+          "weight": 729
+        }
+      ],
+      "introduce": "电磁炮模组能够进一步榨干供能的机兵，让电磁炮射出的弹药有更可怕的穿透力，追求一举击溃一条线上的敌人。",
+      "ModuleIcon": "Icon_entry_40201",
+      "icon": "Icon_entry_40201",
+      "IconType": "PropertyA",
+      "ObtainingMethod": "商店购买",
+      "Status": 1,
+      "weight": 98
+    },
+    "now": "2024-12-13 15:09:33"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

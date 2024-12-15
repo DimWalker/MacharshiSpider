@@ -1,0 +1,33 @@
+{
+  "data": {
+    "data": {
+      "ID": "60600703",
+      "name": "强化背包·协力",
+      "quality": "SR",
+      "weight": "125",
+      "BackpackMainType": "Enhance",
+      "AssemblableAirmenType": "Light/Medium/Heavy",
+      "BackpackIcon": "Icon_backpack_60600101",
+      "icon": "Icon_backpack_60600101",
+      "WithPassiveSkills": [
+        {
+          "ID": "60072",
+          "name": "协力强化Ⅱ",
+          "SpecificEffects": "协力攻击时，伤害提升<color=#F74848>9%</color>，暴击率提升<color=#F74848>6%</color>；\n机兵躯干耐久值提升<color=#F74848>8%</color>",
+          "BufCarried": "600721",
+          "SkillIcon": "Icon_skill_passive_1144",
+          "icon": "Icon_skill_passive_1144",
+          "Status": 1,
+          "weight": 963
+        }
+      ],
+      "HowGet": "无",
+      "RelatedDescription": "通过安装不同的战斗辅助芯片配合额外的调控一体装置，针对机兵的协力攻击能力进行了针对性提升。",
+      "Status": 1
+    },
+    "now": "2024-12-13 15:09:27"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

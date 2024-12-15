@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "40182",
+      "ModuleName": "导弹模组Ⅱ",
+      "name": "导弹模组Ⅱ",
+      "EntryLevel": "2",
+      "quality": "SSR",
+      "ModuleEffects": "40181/40182/40183/40184",
+      "WithPassiveSkills": [
+        {
+          "ID": "40181",
+          "name": "导弹模组Ⅰ",
+          "SpecificEffects": "导弹的伤害提升<color=#F74848>3%</color>",
+          "BufCarried": "401811",
+          "SkillIcon": "Icon_entry_40181",
+          "icon": "Icon_entry_40181",
+          "Status": 1,
+          "weight": 710
+        },
+        {
+          "ID": "40182",
+          "name": "导弹模组Ⅰ",
+          "SpecificEffects": "导弹的伤害提升<color=#F74848>5%</color>",
+          "BufCarried": "401821",
+          "SkillIcon": "Icon_entry_40181",
+          "icon": "Icon_entry_40181",
+          "Status": 1,
+          "weight": 711
+        },
+        {
+          "ID": "40183",
+          "name": "导弹模组Ⅰ",
+          "SpecificEffects": "导弹的伤害提升<color=#F74848>7%</color>",
+          "BufCarried": "401831",
+          "SkillIcon": "Icon_entry_40181",
+          "icon": "Icon_entry_40181",
+          "Status": 1,
+          "weight": 712
+        },
+        {
+          "ID": "40184",
+          "name": "导弹模组Ⅰ",
+          "SpecificEffects": "导弹的伤害提升<color=#F74848>10%</color>",
+          "BufCarried": "401841",
+          "SkillIcon": "Icon_entry_40181",
+          "icon": "Icon_entry_40181",
+          "Status": 1,
+          "weight": 713
+        }
+      ],
+      "introduce": "至今导弹供应商会仍在联合抵制导弹模组Ⅱ型的公开售卖，因为该模组的出现，机师们能用更少的导弹消灭敌人，这对他们商品的销量是毁灭性的打击。",
+      "ModuleIcon": "Icon_entry_40181",
+      "icon": "Icon_entry_40181",
+      "IconType": "PropertyS",
+      "ObtainingMethod": "商店购买",
+      "Status": 1,
+      "weight": 95
+    },
+    "now": "2024-12-13 15:09:33"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

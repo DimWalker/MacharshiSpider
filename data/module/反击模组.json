@@ -1,0 +1,105 @@
+{
+  "data": {
+    "data": {
+      "ID": "30131",
+      "ModuleName": "反击模组",
+      "name": "反击模组",
+      "EntryLevel": "1",
+      "quality": "SSR",
+      "ModuleEffects": "30131/30132/30133/30134/30135/30136/30137/30138",
+      "WithPassiveSkills": [
+        {
+          "ID": "30131",
+          "name": "反击模组",
+          "SpecificEffects": "发动反击时，伤害提升<color=#F74848>3%</color>",
+          "BufCarried": "301311",
+          "SkillIcon": "Icon_entry_10025",
+          "icon": "Icon_entry_10025",
+          "Status": 1,
+          "weight": 398
+        },
+        {
+          "ID": "30132",
+          "name": "反击模组",
+          "SpecificEffects": "发动反击时，伤害提升<color=#F74848>4%</color>",
+          "BufCarried": "301321",
+          "SkillIcon": "Icon_entry_10025",
+          "icon": "Icon_entry_10025",
+          "Status": 1,
+          "weight": 399
+        },
+        {
+          "ID": "30133",
+          "name": "反击模组",
+          "SpecificEffects": "发动反击时，伤害提升<color=#F74848>6%</color>",
+          "BufCarried": "301331",
+          "SkillIcon": "Icon_entry_10025",
+          "icon": "Icon_entry_10025",
+          "Status": 1,
+          "weight": 400
+        },
+        {
+          "ID": "30134",
+          "name": "反击模组",
+          "SpecificEffects": "发动反击时，伤害提升<color=#F74848>8%</color>",
+          "BufCarried": "301341",
+          "SkillIcon": "Icon_entry_10025",
+          "icon": "Icon_entry_10025",
+          "Status": 1,
+          "weight": 401
+        },
+        {
+          "ID": "30135",
+          "name": "反击模组",
+          "SpecificEffects": "发动反击时，伤害提升<color=#F74848>10%</color>",
+          "BufCarried": "301351",
+          "SkillIcon": "Icon_entry_10025",
+          "icon": "Icon_entry_10025",
+          "Status": 1,
+          "weight": 402
+        },
+        {
+          "ID": "30136",
+          "name": "反击模组",
+          "SpecificEffects": "发动反击时，伤害提升<color=#F74848>12%</color>",
+          "BufCarried": "301361",
+          "SkillIcon": "Icon_entry_10025",
+          "icon": "Icon_entry_10025",
+          "Status": 1,
+          "weight": 403
+        },
+        {
+          "ID": "30137",
+          "name": "反击模组",
+          "SpecificEffects": "发动反击时，伤害提升<color=#F74848>14%</color>",
+          "BufCarried": "301371",
+          "SkillIcon": "Icon_entry_10025",
+          "icon": "Icon_entry_10025",
+          "Status": 1,
+          "weight": 404
+        },
+        {
+          "ID": "30138",
+          "name": "反击模组",
+          "SpecificEffects": "发动反击时，伤害提升<color=#F74848>18%</color>；\n每回合可(额外)发动<color=#F74848>1</color>次反击先手",
+          "BufCarried": "301381/301383",
+          "SkillIcon": "Icon_entry_10025",
+          "icon": "Icon_entry_10025",
+          "Status": 1,
+          "weight": 405
+        }
+      ],
+      "introduce": "一些自信的机师会选用反击模组，他们有信心在对手发起攻击而露出破绽的刹那进行反击，以达到一击制敌的目的。",
+      "ModuleIcon": "Icon_entry_10025",
+      "icon": "Icon_entry_10025",
+      "IconType": "GeneralSuit",
+      "ObtainingMethod": "商店购买",
+      "Status": 1,
+      "weight": 49
+    },
+    "now": "2024-12-13 15:09:41"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

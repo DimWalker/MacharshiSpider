@@ -1,0 +1,62 @@
+{
+  "data": {
+    "data": [
+      {
+        "ID": "10415121",
+        "name": "寒碑",
+        "quality": "SSSR",
+        "grade": "70",
+        "WeaponType1": "Melee",
+        "WeaponType2": "Shield",
+        "type": "Shield",
+        "LimitedModelOfWeapon": "Heavy",
+        "RestrictionsPositionOfWeapon": "Hand",
+        "range": "1",
+        "WeaponWeight": "390",
+        "WeaponBasicAttackingPower": "385",
+        "WeaponHitPoint": "3494",
+        "ShieldbloodBase": "2427",
+        "PassiveSkill": [
+          {
+            "ID": "53017",
+            "name": "自适应框架",
+            "SpecificEffects": "盾牌每损失<color=#F74848>33%</color>最大耐久值，获得<color=#F74848>1</color>层<buf ID=530172>[反击伤害提升]</buf>，可叠加<color=#F74848>5</color>层",
+            "BufCarried": "530171",
+            "SkillIcon": "Icon_skill_passive_5120",
+            "icon": "Icon_skill_passive_5120",
+            "Status": 1,
+            "weight": 829
+          },
+          {
+            "ID": "53018",
+            "name": "先机克敌",
+            "SpecificEffects": "强化<buf ID=900076>[先发制人]</buf>效果：<buf ID=900023>[反击先手]</buf>和<buf ID=900028>[反击追击]</buf>不再有次数限制，战后恢复单个部位耐久值，优先恢复持盾手臂，恢复量为造成伤害的<color=#F74848>25%</color>",
+            "BufCarried": "530181",
+            "SkillIcon": "Icon_skill_passive_5208",
+            "icon": "Icon_skill_passive_5208",
+            "Status": 1,
+            "weight": 830
+          },
+          {
+            "ID": "53016",
+            "name": "冲压装甲",
+            "SpecificEffects": "盾牌伤害减免提升至<color=#F74848>20%</color>",
+            "SkillIcon": "Icon_skill_passive_2117",
+            "icon": "Icon_skill_passive_2117",
+            "Status": 1,
+            "weight": 828
+          }
+        ],
+        "IconResourcePath": "Icon_weapon_10400401",
+        "icon": "Icon_weapon_10400401",
+        "describe": "密密麻麻的名字刻满了装甲的内侧，与其说是武器，不如说是坟碑。这个奥维特的亡魂便是用这样的方式守护那已不存在的一切……失去了归处的亡者什么都不是，而他会背负着亡者们继续战斗下去。",
+        "Status": 1,
+        "weight": 702
+      }
+    ],
+    "now": "2024-12-13 15:08:58"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

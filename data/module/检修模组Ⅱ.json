@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "40212",
+      "ModuleName": "检修模组Ⅱ",
+      "name": "检修模组Ⅱ",
+      "EntryLevel": "2",
+      "quality": "SSR",
+      "ModuleEffects": "40211/40212/40213/40214",
+      "WithPassiveSkills": [
+        {
+          "ID": "40211",
+          "name": "检修模组Ⅰ",
+          "SpecificEffects": "修理背包的修理量提升<color=#F74848>3%</color>",
+          "BufCarried": "402111",
+          "SkillIcon": "Icon_entry_40211",
+          "icon": "Icon_entry_40211",
+          "Status": 1,
+          "weight": 734
+        },
+        {
+          "ID": "40212",
+          "name": "检修模组Ⅰ",
+          "SpecificEffects": "修理背包的修理量提升<color=#F74848>5%</color>",
+          "BufCarried": "402121",
+          "SkillIcon": "Icon_entry_40211",
+          "icon": "Icon_entry_40211",
+          "Status": 1,
+          "weight": 735
+        },
+        {
+          "ID": "40213",
+          "name": "检修模组Ⅰ",
+          "SpecificEffects": "修理背包的修理量提升<color=#F74848>7%</color>",
+          "BufCarried": "402131",
+          "SkillIcon": "Icon_entry_40211",
+          "icon": "Icon_entry_40211",
+          "Status": 1,
+          "weight": 736
+        },
+        {
+          "ID": "40214",
+          "name": "检修模组Ⅰ",
+          "SpecificEffects": "修理背包的修理量提升<color=#F74848>10%</color>",
+          "BufCarried": "402141",
+          "SkillIcon": "Icon_entry_40211",
+          "icon": "Icon_entry_40211",
+          "Status": 1,
+          "weight": 737
+        }
+      ],
+      "introduce": "所有机械师们都在哄抢维修模组Ⅱ型，不知道那些厂商是怎么想的，这玩意应该为所有出厂的维修型机兵都预装配才对。",
+      "ModuleIcon": "Icon_entry_40211",
+      "icon": "Icon_entry_40211",
+      "IconType": "PropertyS",
+      "ObtainingMethod": "商店购买",
+      "Status": 1,
+      "weight": 101
+    },
+    "now": "2024-12-13 15:09:32"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

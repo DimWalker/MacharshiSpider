@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "40171",
+      "ModuleName": "轻型步枪模组Ⅰ",
+      "name": "轻型步枪模组Ⅰ",
+      "EntryLevel": "1",
+      "quality": "SR",
+      "ModuleEffects": "40171/40172/40173/40174",
+      "WithPassiveSkills": [
+        {
+          "ID": "40171",
+          "name": "轻型步枪模组Ⅰ",
+          "SpecificEffects": "轻型步枪的伤害提升<color=#F74848>3%</color>",
+          "BufCarried": "401711",
+          "SkillIcon": "Icon_entry_40171",
+          "icon": "Icon_entry_40171",
+          "Status": 1,
+          "weight": 702
+        },
+        {
+          "ID": "40172",
+          "name": "轻型步枪模组Ⅰ",
+          "SpecificEffects": "轻型步枪的伤害提升<color=#F74848>5%</color>",
+          "BufCarried": "401721",
+          "SkillIcon": "Icon_entry_40171",
+          "icon": "Icon_entry_40171",
+          "Status": 1,
+          "weight": 703
+        },
+        {
+          "ID": "40173",
+          "name": "轻型步枪模组Ⅰ",
+          "SpecificEffects": "轻型步枪的伤害提升<color=#F74848>7%</color>",
+          "BufCarried": "401731",
+          "SkillIcon": "Icon_entry_40171",
+          "icon": "Icon_entry_40171",
+          "Status": 1,
+          "weight": 704
+        },
+        {
+          "ID": "40174",
+          "name": "轻型步枪模组Ⅰ",
+          "SpecificEffects": "轻型步枪的伤害提升<color=#F74848>10%</color>",
+          "BufCarried": "401741",
+          "SkillIcon": "Icon_entry_40171",
+          "icon": "Icon_entry_40171",
+          "Status": 1,
+          "weight": 705
+        }
+      ],
+      "introduce": "轻型步枪模组能将机兵一部分的制动能力直接导入枪械内部，使得子弹拥有更强的穿透力，以追求一击破敌。",
+      "ModuleIcon": "Icon_entry_40171",
+      "icon": "Icon_entry_40171",
+      "IconType": "PropertyA",
+      "ObtainingMethod": "商店购买",
+      "Status": 1,
+      "weight": 92
+    },
+    "now": "2024-12-13 15:09:34"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

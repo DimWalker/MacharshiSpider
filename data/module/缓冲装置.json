@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "10081",
+      "ModuleName": "缓冲装置",
+      "name": "缓冲装置",
+      "EntryLevel": "1",
+      "quality": "SR",
+      "ModuleEffects": "10081/10082/10083/10084",
+      "WithPassiveSkills": [
+        {
+          "ID": "10081",
+          "name": "缓冲装置",
+          "SpecificEffects": "遭受伤害时有<color=#F74848>25%</color>的概率发动，护甲值提升<color=#F74848>25%</color>",
+          "BufCarried": "100811",
+          "SkillIcon": "Icon_entry_10015",
+          "icon": "Icon_entry_10015",
+          "Status": 1,
+          "weight": 102
+        },
+        {
+          "ID": "10082",
+          "name": "缓冲装置",
+          "SpecificEffects": "遭受伤害时有<color=#F74848>40%</color>的概率发动，护甲值提升<color=#F74848>30%</color>",
+          "BufCarried": "100821",
+          "SkillIcon": "Icon_entry_10015",
+          "icon": "Icon_entry_10015",
+          "Status": 1,
+          "weight": 103
+        },
+        {
+          "ID": "10083",
+          "name": "缓冲装置",
+          "SpecificEffects": "遭受伤害时有<color=#F74848>55%</color>的概率发动，护甲值提升<color=#F74848>35%</color>",
+          "BufCarried": "100831",
+          "SkillIcon": "Icon_entry_10015",
+          "icon": "Icon_entry_10015",
+          "Status": 1,
+          "weight": 104
+        },
+        {
+          "ID": "10084",
+          "name": "缓冲装置",
+          "SpecificEffects": "遭受伤害时有<color=#F74848>70%</color>的概率发动，护甲值提升<color=#F74848>45%</color>",
+          "BufCarried": "100841",
+          "SkillIcon": "Icon_entry_10015",
+          "icon": "Icon_entry_10015",
+          "Status": 1,
+          "weight": 105
+        }
+      ],
+      "introduce": "缓冲装置对机兵表面的装甲进行改良，在不影响原构造的情况下叠增纤维甲层，使其获得更强的防护能力。",
+      "ModuleIcon": "Icon_entry_10015",
+      "icon": "Icon_entry_10015",
+      "IconType": "SuitA",
+      "ObtainingMethod": "模组生产",
+      "Status": 1,
+      "weight": 7
+    },
+    "now": "2024-12-13 15:09:48"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

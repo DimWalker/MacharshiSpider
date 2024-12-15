@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "40132",
+      "ModuleName": "霰弹枪模组Ⅱ",
+      "name": "霰弹枪模组Ⅱ",
+      "EntryLevel": "2",
+      "quality": "SSR",
+      "ModuleEffects": "40131/40132/40133/40134",
+      "WithPassiveSkills": [
+        {
+          "ID": "40131",
+          "name": "霰弹枪模组Ⅰ",
+          "SpecificEffects": "霰弹枪的伤害提升<color=#F74848>3%</color>",
+          "BufCarried": "401311",
+          "SkillIcon": "Icon_entry_40131",
+          "icon": "Icon_entry_40131",
+          "Status": 1,
+          "weight": 670
+        },
+        {
+          "ID": "40132",
+          "name": "霰弹枪模组Ⅰ",
+          "SpecificEffects": "霰弹枪的伤害提升<color=#F74848>5%</color>",
+          "BufCarried": "401321",
+          "SkillIcon": "Icon_entry_40131",
+          "icon": "Icon_entry_40131",
+          "Status": 1,
+          "weight": 671
+        },
+        {
+          "ID": "40133",
+          "name": "霰弹枪模组Ⅰ",
+          "SpecificEffects": "霰弹枪的伤害提升<color=#F74848>7%</color>",
+          "BufCarried": "401331",
+          "SkillIcon": "Icon_entry_40131",
+          "icon": "Icon_entry_40131",
+          "Status": 1,
+          "weight": 672
+        },
+        {
+          "ID": "40134",
+          "name": "霰弹枪模组Ⅰ",
+          "SpecificEffects": "霰弹枪的伤害提升<color=#F74848>10%</color>",
+          "BufCarried": "401341",
+          "SkillIcon": "Icon_entry_40131",
+          "icon": "Icon_entry_40131",
+          "Status": 1,
+          "weight": 673
+        }
+      ],
+      "introduce": "些许地区会禁用霰弹枪模组Ⅱ型，装配该模组的机兵不知道什么是手下留情，他们手里的霰弹枪更是如此。",
+      "ModuleIcon": "Icon_entry_40131",
+      "icon": "Icon_entry_40131",
+      "IconType": "PropertyS",
+      "ObtainingMethod": "商店购买",
+      "Status": 1,
+      "weight": 85
+    },
+    "now": "2024-12-13 15:09:35"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

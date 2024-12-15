@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "40062",
+      "ModuleName": "护甲模组Ⅱ",
+      "name": "护甲模组Ⅱ",
+      "EntryLevel": "2",
+      "quality": "SSR",
+      "ModuleEffects": "40061/40062/40063/40064",
+      "WithPassiveSkills": [
+        {
+          "ID": "40061",
+          "name": "护甲模组Ⅰ",
+          "SpecificEffects": "护甲值提升<color=#F74848>10%</color>",
+          "BufCarried": "400611",
+          "SkillIcon": "Icon_entry_40061",
+          "icon": "Icon_entry_40061",
+          "Status": 1,
+          "weight": 614
+        },
+        {
+          "ID": "40062",
+          "name": "护甲模组Ⅰ",
+          "SpecificEffects": "护甲值提升<color=#F74848>17%</color>",
+          "BufCarried": "400621",
+          "SkillIcon": "Icon_entry_40061",
+          "icon": "Icon_entry_40061",
+          "Status": 1,
+          "weight": 615
+        },
+        {
+          "ID": "40063",
+          "name": "护甲模组Ⅰ",
+          "SpecificEffects": "护甲值提升<color=#F74848>25%</color>",
+          "BufCarried": "400631",
+          "SkillIcon": "Icon_entry_40061",
+          "icon": "Icon_entry_40061",
+          "Status": 1,
+          "weight": 616
+        },
+        {
+          "ID": "40064",
+          "name": "护甲模组Ⅰ",
+          "SpecificEffects": "护甲值提升<color=#F74848>35%</color>",
+          "BufCarried": "400641",
+          "SkillIcon": "Icon_entry_40061",
+          "icon": "Icon_entry_40061",
+          "Status": 1,
+          "weight": 617
+        }
+      ],
+      "introduce": "当一个配满护甲模组Ⅱ型的机兵出现在战场上时会显著地降低敌方的进攻欲望，毕竟浪费弹药是一种不好的行为。",
+      "ModuleIcon": "Icon_entry_40061",
+      "icon": "Icon_entry_40061",
+      "IconType": "PropertyS",
+      "ObtainingMethod": "商店购买",
+      "Status": 1,
+      "weight": 71
+    },
+    "now": "2024-12-13 15:09:37"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

@@ -32,7 +32,7 @@
         "SkillIcon": "Icon_skill_talent_1118",
         "icon": "Icon_skill_talent_1118",
         "Status": 1,
-        "weight": 2459
+        "weight": 2541
       },
       "Talent3_5Ability": {
         "ID": "200951",
@@ -42,7 +42,7 @@
         "SkillIcon": "Icon_skill_talent_1118",
         "icon": "Icon_skill_talent_1118",
         "Status": 1,
-        "weight": 2460
+        "weight": 2542
       },
       "NeuralDriveTemplate": {
         "ID": "10103115",
@@ -71,7 +71,7 @@
                   "SkillIcon": "Icon_skill_passive_1003",
                   "icon": "Icon_skill_passive_1003",
                   "Status": 1,
-                  "weight": 2379
+                  "weight": 2461
                 }
               },
               {
@@ -89,7 +89,7 @@
                   "SkillIcon": "Icon_skill_passive_5006",
                   "icon": "Icon_skill_passive_5006",
                   "Status": 1,
-                  "weight": 2380
+                  "weight": 2462
                 }
               },
               {
@@ -107,7 +107,7 @@
                   "SkillIcon": "Icon_skill_passive_5004",
                   "icon": "Icon_skill_passive_5004",
                   "Status": 1,
-                  "weight": 2381
+                  "weight": 2463
                 }
               }
             ],
@@ -140,7 +140,7 @@
                   "SkillIcon": "Icon_skill_passive_1003",
                   "icon": "Icon_skill_passive_1003",
                   "Status": 1,
-                  "weight": 2382
+                  "weight": 2464
                 }
               },
               {
@@ -159,7 +159,7 @@
                   "SkillIcon": "Icon_skill_passive_5006",
                   "icon": "Icon_skill_passive_5006",
                   "Status": 1,
-                  "weight": 2383
+                  "weight": 2465
                 }
               },
               {
@@ -177,7 +177,7 @@
                   "SkillIcon": "Icon_skill_passive_5004",
                   "icon": "Icon_skill_passive_5004",
                   "Status": 1,
-                  "weight": 2384
+                  "weight": 2466
                 }
               }
             ],
@@ -210,7 +210,7 @@
                   "SkillIcon": "Icon_skill_passive_5007",
                   "icon": "Icon_skill_passive_5007",
                   "Status": 1,
-                  "weight": 2385
+                  "weight": 2467
                 }
               },
               {
@@ -228,7 +228,7 @@
                   "SkillIcon": "Icon_skill_passive_5004",
                   "icon": "Icon_skill_passive_5004",
                   "Status": 1,
-                  "weight": 2386
+                  "weight": 2468
                 }
               },
               {
@@ -247,7 +247,7 @@
                   "SkillIcon": "Icon_skill_passive_5155",
                   "icon": "Icon_skill_passive_5155",
                   "Status": 1,
-                  "weight": 2387
+                  "weight": 2469
                 }
               },
               {
@@ -266,7 +266,7 @@
                   "SkillIcon": "Icon_skill_passive_5007",
                   "icon": "Icon_skill_passive_5007",
                   "Status": 1,
-                  "weight": 2388
+                  "weight": 2470
                 }
               },
               {
@@ -285,7 +285,7 @@
                   "SkillIcon": "Icon_skill_passive_5007",
                   "icon": "Icon_skill_passive_5007",
                   "Status": 1,
-                  "weight": 2389
+                  "weight": 2471
                 }
               },
               {
@@ -304,7 +304,7 @@
                   "SkillIcon": "Icon_skill_passive_5007",
                   "icon": "Icon_skill_passive_5007",
                   "Status": 1,
-                  "weight": 2390
+                  "weight": 2472
                 }
               }
             ],
@@ -333,11 +333,11 @@
                   "ID": "200941",
                   "name": "毁灭者1",
                   "SpecificEffects": "<buf ID=2009501>[无畏之军]</buf>将同时使自身的暴击率提升<color=#F74848>5%</color>，最多<color=#F74848>20%</color>",
-                  "BufCarried": "2009411/2009412",
+                  "BufCarried": "2009411",
                   "SkillIcon": "Icon_skill_passive_4105",
                   "icon": "Icon_skill_passive_4105",
                   "Status": 1,
-                  "weight": 2455
+                  "weight": 2537
                 }
               },
               {
@@ -355,7 +355,7 @@
                   "SkillIcon": "Icon_skill_passive_5004",
                   "icon": "Icon_skill_passive_5004",
                   "Status": 1,
-                  "weight": 2391
+                  "weight": 2473
                 }
               },
               {
@@ -374,7 +374,7 @@
                   "SkillIcon": "Icon_skill_passive_5155",
                   "icon": "Icon_skill_passive_5155",
                   "Status": 1,
-                  "weight": 2392
+                  "weight": 2474
                 }
               },
               {
@@ -393,7 +393,7 @@
                   "SkillIcon": "Icon_skill_passive_4105",
                   "icon": "Icon_skill_passive_4105",
                   "Status": 1,
-                  "weight": 2456
+                  "weight": 2538
                 }
               },
               {
@@ -412,7 +412,7 @@
                   "SkillIcon": "Icon_skill_passive_4105",
                   "icon": "Icon_skill_passive_4105",
                   "Status": 1,
-                  "weight": 2457
+                  "weight": 2539
                 }
               },
               {
@@ -427,11 +427,11 @@
                   "ID": "200946",
                   "name": "毁灭者4",
                   "SpecificEffects": "<buf ID=2009501>[无畏之军]</buf>的效果提升至每台敌机<color=#F74848>7.5%</color>，最多<color=#F74848>30%</color>",
-                  "BufCarried": "2009461/2009462/2009463/2009464",
+                  "BufCarried": "2009461/2009463",
                   "SkillIcon": "Icon_skill_passive_4105",
                   "icon": "Icon_skill_passive_4105",
                   "Status": 1,
-                  "weight": 2458
+                  "weight": 2540
                 }
               }
             ],
@@ -504,7 +504,7 @@
             "SkillIcon": "Icon_skill_passive_1003",
             "icon": "Icon_skill_passive_1003",
             "Status": 1,
-            "weight": 2378
+            "weight": 2460
           }
         },
         {
@@ -695,7 +695,7 @@
             "SkillIcon": "Icon_skill_passive_5138",
             "icon": "Icon_skill_passive_5138",
             "Status": 1,
-            "weight": 2452
+            "weight": 2534
           }
         },
         {
@@ -720,7 +720,7 @@
             "SkillIcon": "Icon_skill_passive_1001",
             "icon": "Icon_skill_passive_1001",
             "Status": 1,
-            "weight": 2879
+            "weight": 2983
           }
         },
         {
@@ -748,7 +748,7 @@
             "SkillIcon": "Icon_skill_order_1010",
             "icon": "Icon_skill_order_1010",
             "Status": 1,
-            "weight": 438
+            "weight": 452
           }
         },
         {
@@ -773,7 +773,7 @@
             "SkillIcon": "Icon_skill_passive_2109",
             "icon": "Icon_skill_passive_2109",
             "Status": 1,
-            "weight": 2453
+            "weight": 2535
           }
         },
         {
@@ -802,7 +802,7 @@
             "SkillIcon": "Icon_skill_order_5004",
             "icon": "Icon_skill_order_5004",
             "Status": 1,
-            "weight": 260
+            "weight": 262
           }
         },
         {
@@ -827,7 +827,7 @@
             "SkillIcon": "Icon_skill_passive_5142",
             "icon": "Icon_skill_passive_5142",
             "Status": 1,
-            "weight": 2454
+            "weight": 2536
           }
         },
         {
@@ -855,7 +855,7 @@
             "SkillIcon": "Icon_skill_main_1131",
             "icon": "Icon_skill_main_1131",
             "Status": 1,
-            "weight": 261
+            "weight": 263
           }
         },
         {
@@ -1116,7 +1116,7 @@
       ],
       "biomimetic_computer_type": 2
     },
-    "now": "2024-11-08 20:08:16"
+    "now": "2024-12-13 15:08:34"
   },
   "status": 1,
   "switch": null,

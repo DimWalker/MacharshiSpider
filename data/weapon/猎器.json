@@ -1,0 +1,63 @@
+{
+  "data": {
+    "data": [
+      {
+        "ID": "10215121",
+        "name": "猎器",
+        "quality": "SSSR",
+        "grade": "70",
+        "WeaponType1": "Melee",
+        "WeaponType2": "PileBunker",
+        "type": "PileBunker",
+        "LimitedModelOfWeapon": "Light/Medium/Heavy",
+        "RestrictionsPositionOfWeapon": "Hand",
+        "range": "1",
+        "WeaponWeight": "300",
+        "WeaponBasicAttackingPower": "681",
+        "WeaponHitPoint": "3245",
+        "WeaponUnderstanding": "4603",
+        "PassiveSkill": [
+          {
+            "ID": "53014",
+            "name": "强袭",
+            "SpecificEffects": "同时使用两把打桩机攻击时，造成伤害提升<color=#F74848>20%</color>，遭受伤害降低<color=#F74848>20%</color>",
+            "BufCarried": "530141/530142",
+            "SkillIcon": "Icon_skill_passive_1143",
+            "icon": "Icon_skill_passive_1143",
+            "Status": 1,
+            "weight": 826
+          },
+          {
+            "ID": "53015",
+            "name": "孑立",
+            "SpecificEffects": "强化<buf ID=900075>[独行]</buf>效果：出击时获得<color=#F74848>3</color>层<buf ID=1012512>[磁能覆甲]</buf>，持续<color=#F74848>1</color>回合；手臂遭受过量伤害时，若拥有<buf ID=1012512>[磁能覆甲]</buf>，将触发<buf ID=900003>[不屈]</buf>，触发效果后立即移除所有<buf ID=1012512>[磁能覆甲]</buf>",
+            "BufCarried": "530151",
+            "SkillIcon": "Icon_skill_passive_5207",
+            "icon": "Icon_skill_passive_5207",
+            "Status": 1,
+            "weight": 827
+          },
+          {
+            "ID": "53013",
+            "name": "起爆",
+            "SpecificEffects": "造成伤害时，对命中的部位造成<color=#F74848>15%</color>武器攻击力的<buf ID=900017>[固定伤害]</buf>",
+            "BufCarried": "530131",
+            "SkillIcon": "Icon_skill_passive_1115",
+            "icon": "Icon_skill_passive_1115",
+            "Status": 1,
+            "weight": 825
+          }
+        ],
+        "IconResourcePath": "Icon_weapon_10200302",
+        "icon": "Icon_weapon_10200302",
+        "describe": "「卡米拉，这是为你准备的……没错，我们很快就要回去那座岛。在那里，不只是我所告诉你的那些，还有许多许多，那些你所失去的，都将由你自己夺回。」",
+        "Status": 1,
+        "weight": 698
+      }
+    ],
+    "now": "2024-12-13 15:08:57"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

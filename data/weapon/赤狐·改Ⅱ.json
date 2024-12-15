@@ -1,0 +1,43 @@
+{
+  "data": {
+    "data": [
+      {
+        "ID": "30214122",
+        "name": "赤狐·改Ⅱ",
+        "quality": "UR",
+        "grade": "70",
+        "WeaponType1": "Sniper",
+        "WeaponType2": "HeavySniper",
+        "type": "HeavySniper",
+        "LimitedModelOfWeapon": "Light/Medium/Heavy",
+        "RestrictionsPositionOfWeapon": "DoubleHand",
+        "range": "2-4",
+        "WeaponWeight": "1000",
+        "WeaponBasicAttackingPower": "638",
+        "WeaponHitPoint": "1545",
+        "WeaponUnderstanding": "4558",
+        "PassiveSkill": [
+          {
+            "ID": "53049",
+            "name": "屏息凝神",
+            "SpecificEffects": "<buf ID=900014>[瞄准]</buf>时，伤害提升<color=#F74848>15%</color>",
+            "BufCarried": "530491",
+            "SkillIcon": "Icon_skill_passive_5103",
+            "icon": "Icon_skill_passive_5103",
+            "Status": 1,
+            "weight": 861
+          }
+        ],
+        "IconResourcePath": "Icon_weapon_30200301",
+        "icon": "Icon_weapon_30200301",
+        "describe": "顶尖狙击枪赤狐的最新改款，在粒子射线瞄准器上加装了更加先进的校准芯片和采样模组。通过调用机兵侦测器和轨迹模拟技术进一步提高命中率和易用性。",
+        "Status": 1,
+        "weight": 693
+      }
+    ],
+    "now": "2024-12-13 15:09:04"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

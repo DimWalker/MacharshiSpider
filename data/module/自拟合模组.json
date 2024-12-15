@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "20411",
+      "ModuleName": "自拟合模组",
+      "name": "自拟合模组",
+      "EntryLevel": "1",
+      "quality": "SSR",
+      "ModuleEffects": "20411/20412/20413/20414",
+      "WithPassiveSkills": [
+        {
+          "ID": "20411",
+          "name": "自拟合模组",
+          "SpecificEffects": "与部位完好的敌机对战时，伤害提升<color=#F74848>5%</color>",
+          "BufCarried": "204111",
+          "SkillIcon": "Icon_entry_10081",
+          "icon": "Icon_entry_10081",
+          "Status": 1,
+          "weight": 278
+        },
+        {
+          "ID": "20412",
+          "name": "自拟合模组",
+          "SpecificEffects": "与部位完好的敌机对战时，伤害提升<color=#F74848>10%</color>",
+          "BufCarried": "204121",
+          "SkillIcon": "Icon_entry_10081",
+          "icon": "Icon_entry_10081",
+          "Status": 1,
+          "weight": 279
+        },
+        {
+          "ID": "20413",
+          "name": "自拟合模组",
+          "SpecificEffects": "与部位完好的敌机对战时，伤害提升<color=#F74848>16%</color>",
+          "BufCarried": "204131",
+          "SkillIcon": "Icon_entry_10081",
+          "icon": "Icon_entry_10081",
+          "Status": 1,
+          "weight": 280
+        },
+        {
+          "ID": "20414",
+          "name": "自拟合模组",
+          "SpecificEffects": "与部位完好的敌机对战时，伤害提升<color=#F74848>25%</color>",
+          "BufCarried": "204141",
+          "SkillIcon": "Icon_entry_10081",
+          "icon": "Icon_entry_10081",
+          "Status": 1,
+          "weight": 281
+        }
+      ],
+      "introduce": "前线工程师为了方便装甲替换而构建的组件控制中枢，后被厂商官方采纳改造后，成为了能方便应对各种危机情况及临场调换的自拟合模组。",
+      "ModuleIcon": "Icon_entry_10081",
+      "icon": "Icon_entry_10081",
+      "IconType": "SuitS",
+      "ObtainingMethod": "模组生产",
+      "Status": 1,
+      "weight": 36
+    },
+    "now": "2024-12-13 15:09:43"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

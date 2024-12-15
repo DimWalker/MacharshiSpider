@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "20291",
+      "ModuleName": "恒温模组",
+      "name": "恒温模组",
+      "EntryLevel": "1",
+      "quality": "SSR",
+      "ModuleEffects": "20291/20292/20293/20294",
+      "WithPassiveSkills": [
+        {
+          "ID": "20291",
+          "name": "恒温模组",
+          "SpecificEffects": "主动攻击时，若命中的目标大于等于<color=#F74848>4</color>个，战后回复<color=#F74848>1</color>AP，该效果间隔<color=#F74848>2</color>回合才可再次触发",
+          "BufCarried": "202911",
+          "SkillIcon": "Icon_entry_10063",
+          "icon": "Icon_entry_10063",
+          "Status": 1,
+          "weight": 230
+        },
+        {
+          "ID": "20292",
+          "name": "恒温模组",
+          "SpecificEffects": "主动攻击时，若命中的目标大于等于<color=#F74848>4</color>个，战后回复<color=#F74848>1</color>AP，该效果间隔<color=#F74848>1</color>回合才可再次触发",
+          "BufCarried": "202921",
+          "SkillIcon": "Icon_entry_10063",
+          "icon": "Icon_entry_10063",
+          "Status": 1,
+          "weight": 231
+        },
+        {
+          "ID": "20293",
+          "name": "恒温模组",
+          "SpecificEffects": "主动攻击时，若命中的目标大于等于<color=#F74848>3</color>个，战后回复<color=#F74848>1</color>AP，该效果间隔<color=#F74848>1</color>回合才可再次触发",
+          "BufCarried": "202931",
+          "SkillIcon": "Icon_entry_10063",
+          "icon": "Icon_entry_10063",
+          "Status": 1,
+          "weight": 232
+        },
+        {
+          "ID": "20294",
+          "name": "恒温模组",
+          "SpecificEffects": "主动攻击时，若命中的目标大于等于<color=#F74848>3</color>个，战后回复<color=#F74848>1</color>AP，每回合最多发动<color=#F74848>1</color>次",
+          "BufCarried": "202941",
+          "SkillIcon": "Icon_entry_10063",
+          "icon": "Icon_entry_10063",
+          "Status": 1,
+          "weight": 233
+        }
+      ],
+      "introduce": "由费尔迪南特博士带领的旧极夏团队研发的战斗模组，加装了该模组的机兵能精确计算敌方机体与环境温度参数，为驾驶员提供更精确的打击信息。",
+      "ModuleIcon": "Icon_entry_10063",
+      "icon": "Icon_entry_10063",
+      "IconType": "SuitS",
+      "ObtainingMethod": "模组生产",
+      "Status": 1,
+      "weight": 29
+    },
+    "now": "2024-12-13 15:09:44"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

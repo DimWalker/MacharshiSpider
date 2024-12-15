@@ -1,0 +1,24 @@
+{
+  "data": {
+    "data": {
+      "ID": "2161",
+      "ModuleName": "应元件-战栗",
+      "name": "应元件-战栗",
+      "quality": "R",
+      "ModuleType": "Function",
+      "IconType": "Function",
+      "ModuleSubtype": "7",
+      "ProbabilityLevel": "1",
+      "ModuleDescription": "战后为目标添加<buf ID=7101105>[回避率降低Ⅲ]</buf>，持续<color=#F74848>1</color>回合",
+      "attention": "■ 相同减益效果无法重复叠加\n■ 每回合仅限生效一次\n■ 无法与同类型应元件共同使用",
+      "IconPath": "Icon_skill_passive_5187",
+      "icon": "Icon_skill_passive_5187",
+      "Status": 1,
+      "weight": 105
+    },
+    "now": "2024-12-13 15:10:06"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

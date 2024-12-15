@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "40241",
+      "ModuleName": "反狙击模组Ⅰ",
+      "name": "反狙击模组Ⅰ",
+      "EntryLevel": "1",
+      "quality": "SR",
+      "ModuleEffects": "40241/40242/40243/40244",
+      "WithPassiveSkills": [
+        {
+          "ID": "40241",
+          "name": "反狙击模组Ⅰ",
+          "SpecificEffects": "受射击武器的伤害降低<color=#F74848>3%</color>",
+          "BufCarried": "402411",
+          "SkillIcon": "Icon_entry_40241",
+          "icon": "Icon_entry_40241",
+          "Status": 1,
+          "weight": 759
+        },
+        {
+          "ID": "40242",
+          "name": "反狙击模组Ⅰ",
+          "SpecificEffects": "受射击武器的伤害降低<color=#F74848>5%</color>",
+          "BufCarried": "402421",
+          "SkillIcon": "Icon_entry_40241",
+          "icon": "Icon_entry_40241",
+          "Status": 1,
+          "weight": 760
+        },
+        {
+          "ID": "40243",
+          "name": "反狙击模组Ⅰ",
+          "SpecificEffects": "受射击武器的伤害降低<color=#F74848>7%</color>",
+          "BufCarried": "402431",
+          "SkillIcon": "Icon_entry_40241",
+          "icon": "Icon_entry_40241",
+          "Status": 1,
+          "weight": 761
+        },
+        {
+          "ID": "40244",
+          "name": "反狙击模组Ⅰ",
+          "SpecificEffects": "受射击武器的伤害降低<color=#F74848>10%</color>",
+          "BufCarried": "402441",
+          "SkillIcon": "Icon_entry_40241",
+          "icon": "Icon_entry_40241",
+          "Status": 1,
+          "weight": 762
+        }
+      ],
+      "introduce": "许多狙击型机兵比起提升自己的伤害与命中率，更愿意购买反狙击模组来与对方的狙击型机兵进行对抗。",
+      "ModuleIcon": "Icon_entry_40241",
+      "icon": "Icon_entry_40241",
+      "IconType": "PropertyA",
+      "ObtainingMethod": "商店购买",
+      "Status": 1,
+      "weight": 106
+    },
+    "now": "2024-12-13 15:09:32"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

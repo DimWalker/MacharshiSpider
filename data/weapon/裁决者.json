@@ -1,0 +1,90 @@
+{
+  "data": {
+    "data": [
+      {
+        "ID": "50116121",
+        "name": "裁决者",
+        "quality": "SSSR",
+        "grade": "70",
+        "WeaponType1": "Heavy",
+        "WeaponType2": "RailGun",
+        "type": "RailGun",
+        "LimitedModelOfWeapon": "Medium",
+        "RestrictionsPositionOfWeapon": "Back",
+        "range": "1-5",
+        "WeaponWeight": "1100",
+        "WeaponBasicAttackingPower": "783",
+        "WeaponHitPoint": "4992",
+        "WeaponUnderstanding": "4603",
+        "NumberOfBullets": "3",
+        "InitiativeSkill": [
+          {
+            "ID": "5011",
+            "remarks": "电磁炮攻击",
+            "name": "电磁激荡",
+            "describe": "使用电磁炮攻击纵向<color=#F74848>5</color>格范围内的所有目标，造成<color=#F74848>1.0</color>倍范围伤害",
+            "type": "SpecialAssault",
+            "CD": "0",
+            "Ap": "3",
+            "matchingWeaponType": "电磁炮",
+            "SkillIcon": "Icon_skill_order_1005",
+            "icon": "Icon_skill_order_1005",
+            "Status": 1,
+            "weight": 527
+          }
+        ],
+        "PassiveSkill": [
+          {
+            "ID": "53032",
+            "name": "充沛",
+            "SpecificEffects": "使用电磁炮攻击时，弹仓中每有<color=#F74848>1</color>发弹药，伤害提升<color=#F74848>6%</color>，最多提升<color=#F74848>30%</color>",
+            "BufCarried": "530321/530322/530323/530324/530325",
+            "SkillIcon": "Icon_skill_passive_5143",
+            "icon": "Icon_skill_passive_5143",
+            "Status": 1,
+            "weight": 844
+          },
+          {
+            "ID": "53033",
+            "name": "鼎新",
+            "SpecificEffects": "强化<buf ID=900091>[晨星科技]</buf>效果：敌机行动结束时，可使用电磁炮触发<buf ID=900013>[警戒射击]</buf>，对攻击范围内所有目标造成<color=#F74848>0.35</color>倍伤害，<buf ID=3000341>[禁区2]</buf>解锁后可增加相同次数；连续使用电磁炮攻击时伤害提升<color=#F74848>10%</color>，可叠加<color=#F74848>3</color>层，行动结束时重置",
+            "BufCarried": "530331/530332/530334",
+            "SkillIcon": "Icon_skill_passive_5215",
+            "icon": "Icon_skill_passive_5215",
+            "Status": 1,
+            "weight": 845
+          },
+          {
+            "ID": "61254",
+            "name": "首攻强化Ⅲ",
+            "SpecificEffects": "每回合第<color=#F74848>1</color>次主动攻击时，伤害提升<color=#F74848>7.5%</color>，暴击率提升<color=#F74848>5%</color>；\n机兵躯干耐久值提升<color=#F74848>10%</color>，造成伤害提升<color=#F74848>5%</color>",
+            "BufCarried": "600433",
+            "SkillIcon": "Icon_skill_passive_5119",
+            "icon": "Icon_skill_passive_5119",
+            "Status": 1,
+            "weight": 1131
+          },
+          {
+            "ID": "53031",
+            "name": "弹药回收",
+            "SpecificEffects": "使用电磁炮主动攻击时，若击破部位，战后装填<color=#F74848>1</color>发弹药，该效果间隔<color=#F74848>1</color>回合才可再次触发",
+            "BufCarried": "530311",
+            "SkillIcon": "Icon_skill_passive_5140",
+            "icon": "Icon_skill_passive_5140",
+            "Status": 1,
+            "weight": 843
+          }
+        ],
+        "IconResourcePath": "Icon_weapon_50100401",
+        "icon": "Icon_weapon_50100401",
+        "describe": "将干扰背包与机载电磁炮合二为一的全新杰作，首次克服了背包与电磁炮基座复合的难题，使得裁决者电磁炮成为兼具干扰背包与远程战术打击的战场利器。",
+        "Status": 1,
+        "weight": 716
+      }
+    ],
+    "now": "2024-12-13 15:09:03"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

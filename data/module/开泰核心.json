@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "20201",
+      "ModuleName": "开泰核心",
+      "name": "开泰核心",
+      "EntryLevel": "1",
+      "quality": "SSR",
+      "ModuleEffects": "20201/20202/20203/20204",
+      "WithPassiveSkills": [
+        {
+          "ID": "20201",
+          "name": "开泰核心",
+          "SpecificEffects": "使用<color=#F74848>3</color>AP及以上技能攻击时，伤害和命中率提升<color=#F74848>3%</color>",
+          "BufCarried": "202011",
+          "SkillIcon": "Icon_entry_10041",
+          "icon": "Icon_entry_10041",
+          "Status": 1,
+          "weight": 194
+        },
+        {
+          "ID": "20202",
+          "name": "开泰核心",
+          "SpecificEffects": "使用<color=#F74848>3</color>AP及以上技能攻击时，伤害和命中率提升<color=#F74848>4%</color>，每多消耗<color=#F74848>1</color>点，效果继续提升<color=#F74848>1%</color>，最多<color=#F74848>6%</color>",
+          "BufCarried": "202021/202022/202023",
+          "SkillIcon": "Icon_entry_10041",
+          "icon": "Icon_entry_10041",
+          "Status": 1,
+          "weight": 195
+        },
+        {
+          "ID": "20203",
+          "name": "开泰核心",
+          "SpecificEffects": "使用<color=#F74848>3</color>AP及以上技能攻击时，伤害和命中率提升<color=#F74848>7%</color>，每多消耗<color=#F74848>1</color>点，效果继续提升<color=#F74848>2%</color>，最多<color=#F74848>11%</color>",
+          "BufCarried": "202031/202032/202033",
+          "SkillIcon": "Icon_entry_10041",
+          "icon": "Icon_entry_10041",
+          "Status": 1,
+          "weight": 196
+        },
+        {
+          "ID": "20204",
+          "name": "开泰核心",
+          "SpecificEffects": "使用<color=#F74848>3</color>AP及以上技能攻击时，伤害和命中率提升<color=#F74848>10%</color>，每多消耗<color=#F74848>1</color>点，效果继续提升<color=#F74848>2%</color>，最多<color=#F74848>16%</color>",
+          "BufCarried": "202041/202042/202043",
+          "SkillIcon": "Icon_entry_10041",
+          "icon": "Icon_entry_10041",
+          "Status": 1,
+          "weight": 197
+        }
+      ],
+      "introduce": "顶尖的仿生作战系统能在打击时调动肩部核心的动能，从而使威力倍增。",
+      "ModuleIcon": "Icon_entry_10041",
+      "icon": "Icon_entry_10041",
+      "IconType": "SuitS",
+      "ObtainingMethod": "模组生产",
+      "Status": 1,
+      "weight": 25
+    },
+    "now": "2024-12-13 15:09:45"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

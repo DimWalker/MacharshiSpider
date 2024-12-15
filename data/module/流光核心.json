@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "20401",
+      "ModuleName": "流光核心",
+      "name": "流光核心",
+      "EntryLevel": "1",
+      "quality": "SSR",
+      "ModuleEffects": "20401/20402/20403/20404",
+      "WithPassiveSkills": [
+        {
+          "ID": "20401",
+          "name": "流光核心",
+          "SpecificEffects": "攻击时，与目标每距离<color=#F74848>1</color>格，本次攻击造成的伤害提升<color=#F74848>2%</color>，最多提升<color=#F74848>6%</color>",
+          "BufCarried": "204011",
+          "SkillIcon": "Icon_entry_10079",
+          "icon": "Icon_entry_10079",
+          "Status": 1,
+          "weight": 274
+        },
+        {
+          "ID": "20402",
+          "name": "流光核心",
+          "SpecificEffects": "攻击时，与目标每距离<color=#F74848>1</color>格，本次攻击造成的伤害提升<color=#F74848>2.5%</color>，最多提升<color=#F74848>10%</color>",
+          "BufCarried": "204021",
+          "SkillIcon": "Icon_entry_10079",
+          "icon": "Icon_entry_10079",
+          "Status": 1,
+          "weight": 275
+        },
+        {
+          "ID": "20403",
+          "name": "流光核心",
+          "SpecificEffects": "攻击时，与目标每距离<color=#F74848>1</color>格，本次攻击造成的伤害提升<color=#F74848>3%</color>，最多提升<color=#F74848>15%</color>",
+          "BufCarried": "204031",
+          "SkillIcon": "Icon_entry_10079",
+          "icon": "Icon_entry_10079",
+          "Status": 1,
+          "weight": 276
+        },
+        {
+          "ID": "20404",
+          "name": "流光核心",
+          "SpecificEffects": "攻击时，与目标每距离<color=#F74848>1</color>格，本次攻击造成的伤害提升<color=#F74848>5%</color>，最多提升<color=#F74848>25%</color>",
+          "BufCarried": "204041",
+          "SkillIcon": "Icon_entry_10079",
+          "icon": "Icon_entry_10079",
+          "Status": 1,
+          "weight": 277
+        }
+      ],
+      "introduce": "专为远程打击场景研发的机兵核心，能让身在远处的机兵发挥最大威力。",
+      "ModuleIcon": "Icon_entry_10079",
+      "icon": "Icon_entry_10079",
+      "IconType": "SuitS",
+      "ObtainingMethod": "模组生产",
+      "Status": 1,
+      "weight": 35
+    },
+    "now": "2024-12-13 15:09:43"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

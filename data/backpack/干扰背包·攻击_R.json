@@ -1,0 +1,33 @@
+{
+  "data": {
+    "data": {
+      "ID": "60500102",
+      "name": "干扰背包·攻击",
+      "quality": "R",
+      "weight": "100",
+      "BackpackMainType": "EMP",
+      "AssemblableAirmenType": "Light/Medium/Heavy",
+      "BackpackIcon": "Icon_backpack_60200101",
+      "icon": "Icon_backpack_60200101",
+      "WithPassiveSkills": [
+        {
+          "ID": "60091",
+          "name": "攻击压制Ⅰ",
+          "SpecificEffects": "对战时，使敌人伤害降低<color=#F74848>4%</color>；\n机兵躯干耐久值提升<color=#F74848>6%</color>",
+          "BufCarried": "600911",
+          "SkillIcon": "Icon_skill_passive_1107",
+          "icon": "Icon_skill_passive_1107",
+          "Status": 1,
+          "weight": 968
+        }
+      ],
+      "HowGet": "无",
+      "RelatedDescription": "装配了高频干扰波段发射装置的机兵背包，通过波段重叠对敌机的攻击能力造成影响。",
+      "Status": 1
+    },
+    "now": "2024-12-13 15:09:28"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

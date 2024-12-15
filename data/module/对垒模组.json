@@ -1,0 +1,105 @@
+{
+  "data": {
+    "data": {
+      "ID": "30041",
+      "ModuleName": "对垒模组",
+      "name": "对垒模组",
+      "EntryLevel": "1",
+      "quality": "SSR",
+      "ModuleEffects": "30041/30042/30043/30044/30045/30046/30047/30048",
+      "WithPassiveSkills": [
+        {
+          "ID": "30041",
+          "name": "对垒模组",
+          "SpecificEffects": "主动攻击对战时，若目标可以反击，遭受伤害降低<color=#F74848>3%</color>",
+          "BufCarried": "300411",
+          "SkillIcon": "Icon_entry_10050",
+          "icon": "Icon_entry_10050",
+          "Status": 1,
+          "weight": 326
+        },
+        {
+          "ID": "30042",
+          "name": "对垒模组",
+          "SpecificEffects": "主动攻击对战时，若目标可以反击，遭受伤害降低<color=#F74848>4%</color>",
+          "BufCarried": "300421",
+          "SkillIcon": "Icon_entry_10050",
+          "icon": "Icon_entry_10050",
+          "Status": 1,
+          "weight": 327
+        },
+        {
+          "ID": "30043",
+          "name": "对垒模组",
+          "SpecificEffects": "主动攻击对战时，若目标可以反击，遭受伤害降低<color=#F74848>6%</color>",
+          "BufCarried": "300431",
+          "SkillIcon": "Icon_entry_10050",
+          "icon": "Icon_entry_10050",
+          "Status": 1,
+          "weight": 328
+        },
+        {
+          "ID": "30044",
+          "name": "对垒模组",
+          "SpecificEffects": "主动攻击对战时，若目标可以反击，遭受伤害降低<color=#F74848>8%</color>",
+          "BufCarried": "300441",
+          "SkillIcon": "Icon_entry_10050",
+          "icon": "Icon_entry_10050",
+          "Status": 1,
+          "weight": 329
+        },
+        {
+          "ID": "30045",
+          "name": "对垒模组",
+          "SpecificEffects": "主动攻击对战时，若目标可以反击，遭受伤害降低<color=#F74848>10%</color>",
+          "BufCarried": "300451",
+          "SkillIcon": "Icon_entry_10050",
+          "icon": "Icon_entry_10050",
+          "Status": 1,
+          "weight": 330
+        },
+        {
+          "ID": "30046",
+          "name": "对垒模组",
+          "SpecificEffects": "主动攻击对战时，若目标可以反击，遭受伤害降低<color=#F74848>12%</color>",
+          "BufCarried": "300461",
+          "SkillIcon": "Icon_entry_10050",
+          "icon": "Icon_entry_10050",
+          "Status": 1,
+          "weight": 331
+        },
+        {
+          "ID": "30047",
+          "name": "对垒模组",
+          "SpecificEffects": "主动攻击对战时，若目标可以反击，遭受伤害降低<color=#F74848>14%</color>",
+          "BufCarried": "300471",
+          "SkillIcon": "Icon_entry_10050",
+          "icon": "Icon_entry_10050",
+          "Status": 1,
+          "weight": 332
+        },
+        {
+          "ID": "30048",
+          "name": "对垒模组",
+          "SpecificEffects": "主动攻击对战时，若目标可以反击，遭受伤害降低<color=#F74848>18%</color>；\n主动攻击对战后，恢复自身造成伤害<color=#F74848>25%</color>的耐久值",
+          "BufCarried": "300481/300484",
+          "SkillIcon": "Icon_entry_10050",
+          "icon": "Icon_entry_10050",
+          "Status": 1,
+          "weight": 333
+        }
+      ],
+      "introduce": "机兵的战斗就是钢铁的碰撞，对垒模组能让机兵在与敌人的对拼当中屹立不倒，将其正面击溃。",
+      "ModuleIcon": "Icon_entry_10050",
+      "icon": "Icon_entry_10050",
+      "IconType": "GeneralSuit",
+      "ObtainingMethod": "商店购买",
+      "Status": 1,
+      "weight": 43
+    },
+    "now": "2024-12-13 15:09:42"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "40121",
+      "ModuleName": "长柄模组Ⅰ",
+      "name": "长柄模组Ⅰ",
+      "EntryLevel": "1",
+      "quality": "SR",
+      "ModuleEffects": "40121/40122/40123/40124",
+      "WithPassiveSkills": [
+        {
+          "ID": "40121",
+          "name": "长柄模组Ⅰ",
+          "SpecificEffects": "长柄武器的伤害提升<color=#F74848>3%</color>",
+          "BufCarried": "401211",
+          "SkillIcon": "Icon_entry_40121",
+          "icon": "Icon_entry_40121",
+          "Status": 1,
+          "weight": 662
+        },
+        {
+          "ID": "40122",
+          "name": "长柄模组Ⅰ",
+          "SpecificEffects": "长柄武器的伤害提升<color=#F74848>5%</color>",
+          "BufCarried": "401221",
+          "SkillIcon": "Icon_entry_40121",
+          "icon": "Icon_entry_40121",
+          "Status": 1,
+          "weight": 663
+        },
+        {
+          "ID": "40123",
+          "name": "长柄模组Ⅰ",
+          "SpecificEffects": "长柄武器的伤害提升<color=#F74848>7%</color>",
+          "BufCarried": "401231",
+          "SkillIcon": "Icon_entry_40121",
+          "icon": "Icon_entry_40121",
+          "Status": 1,
+          "weight": 664
+        },
+        {
+          "ID": "40124",
+          "name": "长柄模组Ⅰ",
+          "SpecificEffects": "长柄武器的伤害提升<color=#F74848>10%</color>",
+          "BufCarried": "401241",
+          "SkillIcon": "Icon_entry_40121",
+          "icon": "Icon_entry_40121",
+          "Status": 1,
+          "weight": 665
+        }
+      ],
+      "introduce": "为了让你的机兵更流畅地使用长柄武器这最沉重的格斗武器，长柄模组是不可或缺的，它能巧妙地利用惯性以减少机兵的出力负担。",
+      "ModuleIcon": "Icon_entry_40121",
+      "icon": "Icon_entry_40121",
+      "IconType": "PropertyA",
+      "ObtainingMethod": "商店购买",
+      "Status": 1,
+      "weight": 82
+    },
+    "now": "2024-12-13 15:09:36"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

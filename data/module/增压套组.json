@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "10021",
+      "ModuleName": "增压套组",
+      "name": "增压套组",
+      "EntryLevel": "1",
+      "quality": "SR",
+      "ModuleEffects": "10021/10022/10023/10024",
+      "WithPassiveSkills": [
+        {
+          "ID": "10021",
+          "name": "增压套组",
+          "SpecificEffects": "使用突击武器攻击时有<color=#F74848>25%</color>的概率发动，伤害提升<color=#F74848>8%</color>",
+          "BufCarried": "100211",
+          "SkillIcon": "Icon_entry_10032",
+          "icon": "Icon_entry_10032",
+          "Status": 1,
+          "weight": 78
+        },
+        {
+          "ID": "10022",
+          "name": "增压套组",
+          "SpecificEffects": "使用突击武器攻击时有<color=#F74848>40%</color>的概率发动，伤害提升<color=#F74848>10%</color>",
+          "BufCarried": "100221",
+          "SkillIcon": "Icon_entry_10032",
+          "icon": "Icon_entry_10032",
+          "Status": 1,
+          "weight": 79
+        },
+        {
+          "ID": "10023",
+          "name": "增压套组",
+          "SpecificEffects": "使用突击武器攻击时有<color=#F74848>55%</color>的概率发动，伤害提升<color=#F74848>12%</color>",
+          "BufCarried": "100231",
+          "SkillIcon": "Icon_entry_10032",
+          "icon": "Icon_entry_10032",
+          "Status": 1,
+          "weight": 80
+        },
+        {
+          "ID": "10024",
+          "name": "增压套组",
+          "SpecificEffects": "使用突击武器攻击时有<color=#F74848>70%</color>的概率发动，伤害提升<color=#F74848>15%</color>",
+          "BufCarried": "100241",
+          "SkillIcon": "Icon_entry_10032",
+          "icon": "Icon_entry_10032",
+          "Status": 1,
+          "weight": 81
+        }
+      ],
+      "introduce": "为加强突击武器的杀伤力，部分机兵设计会与枪械的导气套组连接，将机体运动所产生的气体化作枪械动能的一部分，让每一次射击都更为致命。",
+      "ModuleIcon": "Icon_entry_10032",
+      "icon": "Icon_entry_10032",
+      "IconType": "SuitA",
+      "ObtainingMethod": "模组生产",
+      "Status": 1,
+      "weight": 1
+    },
+    "now": "2024-12-13 15:09:49"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

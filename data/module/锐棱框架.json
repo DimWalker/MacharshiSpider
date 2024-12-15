@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "20331",
+      "ModuleName": "锐棱框架",
+      "name": "锐棱框架",
+      "EntryLevel": "1",
+      "quality": "SSR",
+      "ModuleEffects": "20331/20332/20333/20334",
+      "WithPassiveSkills": [
+        {
+          "ID": "20331",
+          "name": "锐棱框架",
+          "SpecificEffects": "位于任意友方地形效果上时，造成伤害提升<color=#F74848>3%</color>，遭受伤害降低<color=#F74848>3%</color>",
+          "BufCarried": "203311",
+          "SkillIcon": "Icon_entry_10065",
+          "icon": "Icon_entry_10065",
+          "Status": 1,
+          "weight": 246
+        },
+        {
+          "ID": "20332",
+          "name": "锐棱框架",
+          "SpecificEffects": "位于任意友方地形效果上时，造成伤害提升<color=#F74848>6%</color>，遭受伤害降低<color=#F74848>6%</color>",
+          "BufCarried": "203321",
+          "SkillIcon": "Icon_entry_10065",
+          "icon": "Icon_entry_10065",
+          "Status": 1,
+          "weight": 247
+        },
+        {
+          "ID": "20333",
+          "name": "锐棱框架",
+          "SpecificEffects": "位于任意友方地形效果上时，造成伤害提升<color=#F74848>10%</color>，遭受伤害降低<color=#F74848>10%</color>",
+          "BufCarried": "203331",
+          "SkillIcon": "Icon_entry_10065",
+          "icon": "Icon_entry_10065",
+          "Status": 1,
+          "weight": 248
+        },
+        {
+          "ID": "20334",
+          "name": "锐棱框架",
+          "SpecificEffects": "位于任意友方地形效果上时，造成伤害提升<color=#F74848>15%</color>，遭受伤害降低<color=#F74848>15%</color>",
+          "BufCarried": "203341",
+          "SkillIcon": "Icon_entry_10065",
+          "icon": "Icon_entry_10065",
+          "Status": 1,
+          "weight": 249
+        }
+      ],
+      "introduce": "希德制造在最新的宝石系列机兵中推出的新型内骨骼框架，能根据冲击动量协同核心计算机进行防护调整，并在特殊状态下为应急修理提供支撑。",
+      "ModuleIcon": "Icon_entry_10065",
+      "icon": "Icon_entry_10065",
+      "IconType": "SuitS",
+      "ObtainingMethod": "模组生产",
+      "Status": 1,
+      "weight": 32
+    },
+    "now": "2024-12-13 15:09:44"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

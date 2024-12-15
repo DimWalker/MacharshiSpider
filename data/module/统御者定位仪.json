@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "20151",
+      "ModuleName": "统御者定位仪",
+      "name": "统御者定位仪",
+      "EntryLevel": "1",
+      "quality": "SSR",
+      "ModuleEffects": "20151/20152/20153/20154",
+      "WithPassiveSkills": [
+        {
+          "ID": "20151",
+          "name": "统御者定位仪",
+          "SpecificEffects": "对战时，若命中率超过<color=#F74848>70%</color>时，超出的每<color=#F74848>1%</color>命中率将提升<color=#F74848>0.5%</color>伤害，最多<color=#F74848>5%</color>",
+          "BufCarried": "201511",
+          "SkillIcon": "Icon_entry_10006",
+          "icon": "Icon_entry_10006",
+          "Status": 1,
+          "weight": 174
+        },
+        {
+          "ID": "20152",
+          "name": "统御者定位仪",
+          "SpecificEffects": "对战时，若命中率超过<color=#F74848>70%</color>时，超出的每<color=#F74848>1%</color>命中率将提升<color=#F74848>0.5%</color>伤害，最多<color=#F74848>10%</color>",
+          "BufCarried": "201521",
+          "SkillIcon": "Icon_entry_10006",
+          "icon": "Icon_entry_10006",
+          "Status": 1,
+          "weight": 175
+        },
+        {
+          "ID": "20153",
+          "name": "统御者定位仪",
+          "SpecificEffects": "对战时，若命中率超过<color=#F74848>70%</color>时，超出的每<color=#F74848>1%</color>命中率将提升<color=#F74848>1%</color>伤害，最多<color=#F74848>16%</color>",
+          "BufCarried": "201531",
+          "SkillIcon": "Icon_entry_10006",
+          "icon": "Icon_entry_10006",
+          "Status": 1,
+          "weight": 176
+        },
+        {
+          "ID": "20154",
+          "name": "统御者定位仪",
+          "SpecificEffects": "对战时，若命中率超过<color=#F74848>70%</color>时，超出的每<color=#F74848>1%</color>命中率将提升<color=#F74848>1%</color>伤害，最多<color=#F74848>25%</color>",
+          "BufCarried": "201541",
+          "SkillIcon": "Icon_entry_10006",
+          "icon": "Icon_entry_10006",
+          "Status": 1,
+          "weight": 177
+        }
+      ],
+      "introduce": "将弹道瞄点修正到敌机的要害是统御者定位仪的拿手好戏，该模组自带火控增强和射击干涉装置，这意味着机师无法手下留情，放过对手一马。",
+      "ModuleIcon": "Icon_entry_10006",
+      "icon": "Icon_entry_10006",
+      "IconType": "SuitS",
+      "ObtainingMethod": "模组生产",
+      "Status": 1,
+      "weight": 22
+    },
+    "now": "2024-12-13 15:09:45"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "10071",
+      "ModuleName": "减震系统",
+      "name": "减震系统",
+      "EntryLevel": "1",
+      "quality": "SR",
+      "ModuleEffects": "10071/10072/10073/10074",
+      "WithPassiveSkills": [
+        {
+          "ID": "10071",
+          "name": "减震系统",
+          "SpecificEffects": "遭受伤害时有<color=#F74848>25%</color>的概率发动，遭受伤害降低<color=#F74848>8%</color>",
+          "BufCarried": "100711",
+          "SkillIcon": "Icon_entry_10071",
+          "icon": "Icon_entry_10071",
+          "Status": 1,
+          "weight": 98
+        },
+        {
+          "ID": "10072",
+          "name": "减震系统",
+          "SpecificEffects": "遭受伤害时有<color=#F74848>40%</color>的概率发动，遭受伤害降低<color=#F74848>10%</color>",
+          "BufCarried": "100721",
+          "SkillIcon": "Icon_entry_10071",
+          "icon": "Icon_entry_10071",
+          "Status": 1,
+          "weight": 99
+        },
+        {
+          "ID": "10073",
+          "name": "减震系统",
+          "SpecificEffects": "遭受伤害时有<color=#F74848>55%</color>的概率发动，遭受伤害降低<color=#F74848>12%</color>",
+          "BufCarried": "100731",
+          "SkillIcon": "Icon_entry_10071",
+          "icon": "Icon_entry_10071",
+          "Status": 1,
+          "weight": 100
+        },
+        {
+          "ID": "10074",
+          "name": "减震系统",
+          "SpecificEffects": "遭受伤害时有<color=#F74848>70%</color>的概率发动，遭受伤害降低<color=#F74848>15%</color>",
+          "BufCarried": "100741",
+          "SkillIcon": "Icon_entry_10071",
+          "icon": "Icon_entry_10071",
+          "Status": 1,
+          "weight": 101
+        }
+      ],
+      "introduce": "参杂钢岚合金制作成的防护金属液是一类经典的非牛顿流体，将其覆盖于机兵表层构成减震系统，在战斗中遭到冲击时，能有效降低对手的伤害。",
+      "ModuleIcon": "Icon_entry_10071",
+      "icon": "Icon_entry_10071",
+      "IconType": "SuitA",
+      "ObtainingMethod": "模组生产",
+      "Status": 1,
+      "weight": 6
+    },
+    "now": "2024-12-13 15:09:48"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

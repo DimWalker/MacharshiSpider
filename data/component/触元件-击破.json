@@ -1,0 +1,24 @@
+{
+  "data": {
+    "data": {
+      "ID": "1133",
+      "ModuleName": "触元件-击破",
+      "name": "触元件-击破",
+      "quality": "SSR",
+      "ModuleType": "Condition",
+      "IconType": "Condition",
+      "ModuleSubtype": "8",
+      "ProbabilityLevel": "7",
+      "ModuleDescription": "主动攻击对战时，若击破部件",
+      "attention": "■ 战术武器无法触发\n■ 无法与同类型触元件共同使用",
+      "IconPath": "Icon_skill_RnD_P_1001",
+      "icon": "Icon_skill_RnD_P_1001",
+      "Status": 1,
+      "weight": 36
+    },
+    "now": "2024-12-13 15:10:17"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

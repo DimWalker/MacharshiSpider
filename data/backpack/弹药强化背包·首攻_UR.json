@@ -1,0 +1,33 @@
+{
+  "data": {
+    "data": {
+      "ID": "60902405",
+      "name": "弹药强化背包·首攻",
+      "quality": "UR",
+      "weight": "150",
+      "BackpackMainType": "Ammo",
+      "AssemblableAirmenType": "Medium",
+      "BackpackIcon": "Icon_backpack_61100101",
+      "icon": "Icon_backpack_61100101",
+      "WithPassiveSkills": [
+        {
+          "ID": "61191",
+          "name": "战术弹量增加Ⅱ·首攻",
+          "SpecificEffects": "战术武器弹量<color=#F74848>+2</color>；\n每回合第<color=#F74848>1</color>次主动攻击时，伤害提升<color=#F74848>7.5%</color>，暴击率提升<color=#F74848>5%</color>；\n机兵躯干耐久值提升<color=#F74848>10%</color>，造成伤害提升<color=#F74848>5%</color>；",
+          "BufCarried": "600433",
+          "SkillIcon": "Icon_skill_passive_5163",
+          "icon": "Icon_skill_passive_5163",
+          "Status": 1,
+          "weight": 1077
+        }
+      ],
+      "HowGet": "无",
+      "RelatedDescription": "储存了战术武器弹药，让机兵火箭或导弹有了更多的发射机会。同时集成了强化机兵每回合首次攻击能力的功能。",
+      "Status": 1
+    },
+    "now": "2024-12-13 15:09:18"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

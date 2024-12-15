@@ -1,0 +1,24 @@
+{
+  "data": {
+    "data": {
+      "ID": "4051",
+      "ModuleName": "应元件W-穿甲",
+      "name": "应元件W-穿甲",
+      "quality": "R",
+      "ModuleType": "Function",
+      "IconType": "Function",
+      "ModuleSubtype": "6",
+      "ProbabilityLevel": "9",
+      "ModuleDescription": "无视目标<color=#F74848>30%</color>的护甲值",
+      "attention": "■ 仅限双手武器/背部武器使用\n■ 无法与同类型应元件共同使用",
+      "IconPath": "Icon_skill_passive_5016",
+      "icon": "Icon_skill_passive_5016",
+      "Status": 1,
+      "weight": 177
+    },
+    "now": "2024-12-13 15:09:54"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

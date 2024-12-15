@@ -1,0 +1,33 @@
+{
+  "data": {
+    "data": {
+      "ID": "60600302",
+      "name": "强化背包·警戒",
+      "quality": "R",
+      "weight": "100",
+      "BackpackMainType": "Enhance",
+      "AssemblableAirmenType": "Light/Medium/Heavy",
+      "BackpackIcon": "Icon_backpack_60600101",
+      "icon": "Icon_backpack_60600101",
+      "WithPassiveSkills": [
+        {
+          "ID": "60031",
+          "name": "警戒强化Ⅰ",
+          "SpecificEffects": "警戒射击时，命中率提升<color=#F74848>6%</color>，暴击率提升<color=#F74848>4%</color>；\n机兵躯干耐久值提升<color=#F74848>6%</color>",
+          "BufCarried": "600311",
+          "SkillIcon": "Icon_skill_passive_4001",
+          "icon": "Icon_skill_passive_4001",
+          "Status": 1,
+          "weight": 950
+        }
+      ],
+      "HowGet": "无",
+      "RelatedDescription": "通过安装不同的战斗辅助芯片配合额外的调控一体装置，针对机兵的警戒射击能力进行了针对性提升。",
+      "Status": 1
+    },
+    "now": "2024-12-13 15:09:30"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

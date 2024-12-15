@@ -1,0 +1,24 @@
+{
+  "data": {
+    "data": {
+      "ID": "2133",
+      "ModuleName": "应元件-号令",
+      "name": "应元件-号令",
+      "quality": "SSR",
+      "ModuleType": "Function",
+      "IconType": "Function",
+      "ModuleSubtype": "10",
+      "ProbabilityLevel": "3",
+      "ModuleDescription": "令周围<color=#F74848>3</color>格以内友军一同进行<buf ID=900002>[协力攻击]</buf>",
+      "attention": "■ 战术武器无法触发\n■ 该效果间隔1回合才可再次发动\n■ 协力攻击造成0.2倍伤害，该协力攻击不要求友军拥有协力能力，也不消耗协力次数\n■ 无法与同类型应元件共同使用",
+      "IconPath": "Icon_skill_RnD_P_2001",
+      "icon": "Icon_skill_RnD_P_2001",
+      "Status": 1,
+      "weight": 102
+    },
+    "now": "2024-12-13 15:10:06"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

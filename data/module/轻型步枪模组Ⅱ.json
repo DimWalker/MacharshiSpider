@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "40172",
+      "ModuleName": "轻型步枪模组Ⅱ",
+      "name": "轻型步枪模组Ⅱ",
+      "EntryLevel": "2",
+      "quality": "SSR",
+      "ModuleEffects": "40171/40172/40173/40174",
+      "WithPassiveSkills": [
+        {
+          "ID": "40171",
+          "name": "轻型步枪模组Ⅰ",
+          "SpecificEffects": "轻型步枪的伤害提升<color=#F74848>3%</color>",
+          "BufCarried": "401711",
+          "SkillIcon": "Icon_entry_40171",
+          "icon": "Icon_entry_40171",
+          "Status": 1,
+          "weight": 702
+        },
+        {
+          "ID": "40172",
+          "name": "轻型步枪模组Ⅰ",
+          "SpecificEffects": "轻型步枪的伤害提升<color=#F74848>5%</color>",
+          "BufCarried": "401721",
+          "SkillIcon": "Icon_entry_40171",
+          "icon": "Icon_entry_40171",
+          "Status": 1,
+          "weight": 703
+        },
+        {
+          "ID": "40173",
+          "name": "轻型步枪模组Ⅰ",
+          "SpecificEffects": "轻型步枪的伤害提升<color=#F74848>7%</color>",
+          "BufCarried": "401731",
+          "SkillIcon": "Icon_entry_40171",
+          "icon": "Icon_entry_40171",
+          "Status": 1,
+          "weight": 704
+        },
+        {
+          "ID": "40174",
+          "name": "轻型步枪模组Ⅰ",
+          "SpecificEffects": "轻型步枪的伤害提升<color=#F74848>10%</color>",
+          "BufCarried": "401741",
+          "SkillIcon": "Icon_entry_40171",
+          "icon": "Icon_entry_40171",
+          "Status": 1,
+          "weight": 705
+        }
+      ],
+      "introduce": "注意，轻型步枪模组Ⅱ型并不能让你的机兵打得更准，如果有这方面需求的话，官方的建议仍然是去使用狙击步枪。",
+      "ModuleIcon": "Icon_entry_40171",
+      "icon": "Icon_entry_40171",
+      "IconType": "PropertyS",
+      "ObtainingMethod": "商店购买",
+      "Status": 1,
+      "weight": 93
+    },
+    "now": "2024-12-13 15:09:34"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

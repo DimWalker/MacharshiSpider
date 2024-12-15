@@ -1,0 +1,24 @@
+{
+  "data": {
+    "data": {
+      "ID": "1051",
+      "ModuleName": "触元件-合击",
+      "name": "触元件-合击",
+      "quality": "R",
+      "ModuleType": "Condition",
+      "IconType": "Condition",
+      "ModuleSubtype": "2",
+      "ProbabilityLevel": "1",
+      "ModuleDescription": "发动协力攻击时",
+      "attention": "■ 格斗武器无法触发\n■ 无法与同类型触元件共同使用",
+      "IconPath": "Icon_skill_passive_1110",
+      "icon": "Icon_skill_passive_1110",
+      "Status": 1,
+      "weight": 12
+    },
+    "now": "2024-12-13 15:10:21"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

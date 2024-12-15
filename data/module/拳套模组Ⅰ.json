@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "40111",
+      "ModuleName": "拳套模组Ⅰ",
+      "name": "拳套模组Ⅰ",
+      "EntryLevel": "1",
+      "quality": "SR",
+      "ModuleEffects": "40111/40112/40113/40114",
+      "WithPassiveSkills": [
+        {
+          "ID": "40111",
+          "name": "拳套模组Ⅰ",
+          "SpecificEffects": "拳套的伤害提升<color=#F74848>3%</color>",
+          "BufCarried": "401111",
+          "SkillIcon": "Icon_entry_40111",
+          "icon": "Icon_entry_40111",
+          "Status": 1,
+          "weight": 654
+        },
+        {
+          "ID": "40112",
+          "name": "拳套模组Ⅰ",
+          "SpecificEffects": "拳套的伤害提升<color=#F74848>5%</color>",
+          "BufCarried": "401121",
+          "SkillIcon": "Icon_entry_40111",
+          "icon": "Icon_entry_40111",
+          "Status": 1,
+          "weight": 655
+        },
+        {
+          "ID": "40113",
+          "name": "拳套模组Ⅰ",
+          "SpecificEffects": "拳套的伤害提升<color=#F74848>7%</color>",
+          "BufCarried": "401131",
+          "SkillIcon": "Icon_entry_40111",
+          "icon": "Icon_entry_40111",
+          "Status": 1,
+          "weight": 656
+        },
+        {
+          "ID": "40114",
+          "name": "拳套模组Ⅰ",
+          "SpecificEffects": "拳套的伤害提升<color=#F74848>10%</color>",
+          "BufCarried": "401141",
+          "SkillIcon": "Icon_entry_40111",
+          "icon": "Icon_entry_40111",
+          "Status": 1,
+          "weight": 657
+        }
+      ],
+      "introduce": "一些机兵的手部结构并不适合直接进行直接打击，但拳套模组能完美解决这个问题。",
+      "ModuleIcon": "Icon_entry_40111",
+      "icon": "Icon_entry_40111",
+      "IconType": "PropertyA",
+      "ObtainingMethod": "商店购买",
+      "Status": 1,
+      "weight": 80
+    },
+    "now": "2024-12-13 15:09:36"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

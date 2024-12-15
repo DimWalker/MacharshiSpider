@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "20311",
+      "ModuleName": "光昼监测器",
+      "name": "光昼监测器",
+      "EntryLevel": "1",
+      "quality": "SSR",
+      "ModuleEffects": "20311/20312/20313/20314",
+      "WithPassiveSkills": [
+        {
+          "ID": "20311",
+          "name": "光昼监测器",
+          "SpecificEffects": "主动攻击对战后，若发动<buf ID=900004>[再攻击]</buf>，使自身伤害提升<color=#F74848>2%</color>，可叠加<color=#F74848>3</color>层，持续<color=#F74848>2</color>回合",
+          "BufCarried": "203111",
+          "SkillIcon": "Icon_entry_10064",
+          "icon": "Icon_entry_10064",
+          "Status": 1,
+          "weight": 238
+        },
+        {
+          "ID": "20312",
+          "name": "光昼监测器",
+          "SpecificEffects": "主动攻击对战后，若发动<buf ID=900004>[再攻击]</buf>，使自身伤害提升<color=#F74848>4%</color>，可叠加<color=#F74848>3</color>层，持续<color=#F74848>2</color>回合",
+          "BufCarried": "203121",
+          "SkillIcon": "Icon_entry_10064",
+          "icon": "Icon_entry_10064",
+          "Status": 1,
+          "weight": 239
+        },
+        {
+          "ID": "20313",
+          "name": "光昼监测器",
+          "SpecificEffects": "主动攻击对战后，若发动<buf ID=900004>[再攻击]</buf>，使自身伤害提升<color=#F74848>4%</color>，可叠加<color=#F74848>5</color>层，持续<color=#F74848>2</color>回合",
+          "BufCarried": "203131",
+          "SkillIcon": "Icon_entry_10064",
+          "icon": "Icon_entry_10064",
+          "Status": 1,
+          "weight": 240
+        },
+        {
+          "ID": "20314",
+          "name": "光昼监测器",
+          "SpecificEffects": "主动攻击对战后，若发动<buf ID=900004>[再攻击]</buf>，使自身伤害提升<color=#F74848>6%</color>，可叠加<color=#F74848>5</color>层，持续<color=#F74848>2</color>回合",
+          "BufCarried": "203141",
+          "SkillIcon": "Icon_entry_10064",
+          "icon": "Icon_entry_10064",
+          "Status": 1,
+          "weight": 241
+        }
+      ],
+      "introduce": "以极致化的索敌监测和弹道修正为设计目的而研发的索敌模组。使得雷克斯能在狙击适性上超越其他竞争轻型机的关键所在。",
+      "ModuleIcon": "Icon_entry_10064",
+      "icon": "Icon_entry_10064",
+      "IconType": "SuitS",
+      "ObtainingMethod": "模组生产",
+      "Status": 1,
+      "weight": 31
+    },
+    "now": "2024-12-13 15:09:44"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

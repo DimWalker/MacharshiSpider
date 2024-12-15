@@ -1,0 +1,24 @@
+{
+  "data": {
+    "data": {
+      "ID": "2021",
+      "ModuleName": "应元件-破臂",
+      "name": "应元件-破臂",
+      "quality": "R",
+      "ModuleType": "Function",
+      "IconType": "Function",
+      "ModuleSubtype": "6",
+      "ProbabilityLevel": "5",
+      "ModuleDescription": "对手臂伤害提升<color=#F74848>24%</color>",
+      "attention": "■ 无法与同类型应元件共同使用",
+      "IconPath": "Icon_skill_passive_1147",
+      "icon": "Icon_skill_passive_1147",
+      "Status": 1,
+      "weight": 69
+    },
+    "now": "2024-12-13 15:10:12"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

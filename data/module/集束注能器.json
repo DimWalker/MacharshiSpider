@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "20101",
+      "ModuleName": "集束注能器",
+      "name": "集束注能器",
+      "EntryLevel": "1",
+      "quality": "SSR",
+      "ModuleEffects": "20101/20102/20103/20104",
+      "WithPassiveSkills": [
+        {
+          "ID": "20101",
+          "name": "集束注能器",
+          "SpecificEffects": "主动使用范围攻击，若目标少于等于<color=#F74848>2</color>个时，伤害提升<color=#F74848>5%</color>",
+          "BufCarried": "201011",
+          "SkillIcon": "Icon_entry_10045",
+          "icon": "Icon_entry_10045",
+          "Status": 1,
+          "weight": 154
+        },
+        {
+          "ID": "20102",
+          "name": "集束注能器",
+          "SpecificEffects": "主动使用范围攻击，若目标少于等于<color=#F74848>2</color>个时，伤害提升<color=#F74848>10%</color>",
+          "BufCarried": "201021",
+          "SkillIcon": "Icon_entry_10045",
+          "icon": "Icon_entry_10045",
+          "Status": 1,
+          "weight": 155
+        },
+        {
+          "ID": "20103",
+          "name": "集束注能器",
+          "SpecificEffects": "主动使用范围攻击，若目标少于等于<color=#F74848>2</color>个时，伤害提升<color=#F74848>16%</color>",
+          "BufCarried": "201031",
+          "SkillIcon": "Icon_entry_10045",
+          "icon": "Icon_entry_10045",
+          "Status": 1,
+          "weight": 156
+        },
+        {
+          "ID": "20104",
+          "name": "集束注能器",
+          "SpecificEffects": "主动使用范围攻击，若目标少于等于<color=#F74848>2</color>个时，伤害提升<color=#F74848>25%</color>",
+          "BufCarried": "201041",
+          "SkillIcon": "Icon_entry_10045",
+          "icon": "Icon_entry_10045",
+          "Status": 1,
+          "weight": 157
+        }
+      ],
+      "introduce": "狼獾的飞弹辅助装置由一台特殊的雷达和集束注能器组成，当雷达检测到杀伤半径内敌机数量较少时，可以调整飞弹内装药配比来强化域内杀伤能力。",
+      "ModuleIcon": "Icon_entry_10045",
+      "icon": "Icon_entry_10045",
+      "IconType": "SuitS",
+      "ObtainingMethod": "模组生产",
+      "Status": 1,
+      "weight": 19
+    },
+    "now": "2024-12-13 15:09:46"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

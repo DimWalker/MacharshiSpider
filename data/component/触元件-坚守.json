@@ -1,0 +1,24 @@
+{
+  "data": {
+    "data": {
+      "ID": "1061",
+      "ModuleName": "触元件-坚守",
+      "name": "触元件-坚守",
+      "quality": "R",
+      "ModuleType": "Condition",
+      "IconType": "Condition",
+      "ModuleSubtype": "3",
+      "ProbabilityLevel": "1",
+      "ModuleDescription": "持盾手受到攻击时",
+      "attention": "■ 仅限盾牌武器使用\n■ 无法与同类型触元件共同使用",
+      "IconPath": "Icon_skill_passive_3101",
+      "icon": "Icon_skill_passive_3101",
+      "Status": 1,
+      "weight": 15
+    },
+    "now": "2024-12-13 15:10:20"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

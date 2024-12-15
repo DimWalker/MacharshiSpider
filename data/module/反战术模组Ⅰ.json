@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "40251",
+      "ModuleName": "反战术模组Ⅰ",
+      "name": "反战术模组Ⅰ",
+      "EntryLevel": "1",
+      "quality": "SR",
+      "ModuleEffects": "40251/40252/40253/40254",
+      "WithPassiveSkills": [
+        {
+          "ID": "40251",
+          "name": "反战术模组Ⅰ",
+          "SpecificEffects": "受范围攻击的伤害降低<color=#F74848>3%</color>",
+          "BufCarried": "402511",
+          "SkillIcon": "Icon_entry_40251",
+          "icon": "Icon_entry_40251",
+          "Status": 1,
+          "weight": 767
+        },
+        {
+          "ID": "40252",
+          "name": "反战术模组Ⅰ",
+          "SpecificEffects": "受范围攻击的伤害降低<color=#F74848>5%</color>",
+          "BufCarried": "402521",
+          "SkillIcon": "Icon_entry_40251",
+          "icon": "Icon_entry_40251",
+          "Status": 1,
+          "weight": 768
+        },
+        {
+          "ID": "40253",
+          "name": "反战术模组Ⅰ",
+          "SpecificEffects": "受范围攻击的伤害降低<color=#F74848>7%</color>",
+          "BufCarried": "402531",
+          "SkillIcon": "Icon_entry_40251",
+          "icon": "Icon_entry_40251",
+          "Status": 1,
+          "weight": 769
+        },
+        {
+          "ID": "40254",
+          "name": "反战术模组Ⅰ",
+          "SpecificEffects": "受范围攻击的伤害降低<color=#F74848>10%</color>",
+          "BufCarried": "402541",
+          "SkillIcon": "Icon_entry_40251",
+          "icon": "Icon_entry_40251",
+          "Status": 1,
+          "weight": 770
+        }
+      ],
+      "introduce": "为了应对无从反击的范围战术打击，反战术模组应运而生，成为了机兵配件市场上的热销款式。",
+      "ModuleIcon": "Icon_entry_40251",
+      "icon": "Icon_entry_40251",
+      "IconType": "PropertyA",
+      "ObtainingMethod": "商店购买",
+      "Status": 1,
+      "weight": 108
+    },
+    "now": "2024-12-13 15:09:31"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

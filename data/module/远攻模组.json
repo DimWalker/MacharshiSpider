@@ -1,0 +1,105 @@
+{
+  "data": {
+    "data": {
+      "ID": "30171",
+      "ModuleName": "远攻模组",
+      "name": "远攻模组",
+      "EntryLevel": "1",
+      "quality": "SSR",
+      "ModuleEffects": "30171/30172/30173/30174/30175/30176/30177/30178",
+      "WithPassiveSkills": [
+        {
+          "ID": "30171",
+          "name": "远攻模组",
+          "SpecificEffects": "自身周围<color=#F74848>2</color>格内没有敌机时，伤害提升<color=#F74848>3%</color>",
+          "BufCarried": "301711",
+          "SkillIcon": "Icon_entry_10026",
+          "icon": "Icon_entry_10026",
+          "Status": 1,
+          "weight": 430
+        },
+        {
+          "ID": "30172",
+          "name": "远攻模组",
+          "SpecificEffects": "自身周围<color=#F74848>2</color>格内没有敌机时，伤害提升<color=#F74848>4%</color>",
+          "BufCarried": "301721",
+          "SkillIcon": "Icon_entry_10026",
+          "icon": "Icon_entry_10026",
+          "Status": 1,
+          "weight": 431
+        },
+        {
+          "ID": "30173",
+          "name": "远攻模组",
+          "SpecificEffects": "自身周围<color=#F74848>2</color>格内没有敌机时，伤害提升<color=#F74848>6%</color>",
+          "BufCarried": "301731",
+          "SkillIcon": "Icon_entry_10026",
+          "icon": "Icon_entry_10026",
+          "Status": 1,
+          "weight": 432
+        },
+        {
+          "ID": "30174",
+          "name": "远攻模组",
+          "SpecificEffects": "自身周围<color=#F74848>2</color>格内没有敌机时，伤害提升<color=#F74848>8%</color>",
+          "BufCarried": "301741",
+          "SkillIcon": "Icon_entry_10026",
+          "icon": "Icon_entry_10026",
+          "Status": 1,
+          "weight": 433
+        },
+        {
+          "ID": "30175",
+          "name": "远攻模组",
+          "SpecificEffects": "自身周围<color=#F74848>2</color>格内没有敌机时，伤害提升<color=#F74848>10%</color>",
+          "BufCarried": "301751",
+          "SkillIcon": "Icon_entry_10026",
+          "icon": "Icon_entry_10026",
+          "Status": 1,
+          "weight": 434
+        },
+        {
+          "ID": "30176",
+          "name": "远攻模组",
+          "SpecificEffects": "自身周围<color=#F74848>2</color>格内没有敌机时，伤害提升<color=#F74848>12%</color>",
+          "BufCarried": "301761",
+          "SkillIcon": "Icon_entry_10026",
+          "icon": "Icon_entry_10026",
+          "Status": 1,
+          "weight": 435
+        },
+        {
+          "ID": "30177",
+          "name": "远攻模组",
+          "SpecificEffects": "自身周围<color=#F74848>2</color>格内没有敌机时，伤害提升<color=#F74848>14%</color>",
+          "BufCarried": "301771",
+          "SkillIcon": "Icon_entry_10026",
+          "icon": "Icon_entry_10026",
+          "Status": 1,
+          "weight": 436
+        },
+        {
+          "ID": "30178",
+          "name": "远攻模组",
+          "SpecificEffects": "自身周围<color=#F74848>2</color>格内没有敌机时，伤害提升<color=#F74848>18%</color>；\n展开光环，使自身周围<color=#F74848>2</color>格的友军命中率提升<color=#F74848>8%</color>",
+          "BufCarried": "301781/301783",
+          "SkillIcon": "Icon_entry_10026",
+          "icon": "Icon_entry_10026",
+          "Status": 1,
+          "weight": 437
+        }
+      ],
+      "introduce": "在确保身周没有格斗型机兵时，搭载远攻模组的射击型机兵就能开始肆意地射击，而不必担心那可怕的拳套与打桩机。",
+      "ModuleIcon": "Icon_entry_10026",
+      "icon": "Icon_entry_10026",
+      "IconType": "GeneralSuit",
+      "ObtainingMethod": "商店购买",
+      "Status": 1,
+      "weight": 53
+    },
+    "now": "2024-12-13 15:09:40"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

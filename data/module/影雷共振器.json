@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "20441",
+      "ModuleName": "影雷共振器",
+      "name": "影雷共振器",
+      "EntryLevel": "1",
+      "quality": "SSR",
+      "ModuleEffects": "20441/20442/20443/20444",
+      "WithPassiveSkills": [
+        {
+          "ID": "20441",
+          "name": "影雷共振器",
+          "SpecificEffects": "自身每获得<color=#F74848>1</color>个增益效果，伤害提升<color=#F74848>2%</color>，最多<color=#F74848>6%</color>，持续<color=#F74848>2</color>回合",
+          "BufCarried": "204411",
+          "SkillIcon": "Icon_skill_passive_1145",
+          "icon": "Icon_skill_passive_1145",
+          "Status": 1,
+          "weight": 290
+        },
+        {
+          "ID": "20442",
+          "name": "影雷共振器",
+          "SpecificEffects": "自身每获得<color=#F74848>1</color>个增益效果，伤害提升<color=#F74848>4%</color>，最多<color=#F74848>12%</color>，持续<color=#F74848>2</color>回合",
+          "BufCarried": "204421",
+          "SkillIcon": "Icon_skill_passive_1145",
+          "icon": "Icon_skill_passive_1145",
+          "Status": 1,
+          "weight": 291
+        },
+        {
+          "ID": "20443",
+          "name": "影雷共振器",
+          "SpecificEffects": "自身每获得<color=#F74848>1</color>个增益效果，伤害提升<color=#F74848>4%</color>，最多<color=#F74848>20%</color>，持续<color=#F74848>2</color>回合",
+          "BufCarried": "204431",
+          "SkillIcon": "Icon_skill_passive_1145",
+          "icon": "Icon_skill_passive_1145",
+          "Status": 1,
+          "weight": 292
+        },
+        {
+          "ID": "20444",
+          "name": "影雷共振器",
+          "SpecificEffects": "自身每获得<color=#F74848>1</color>个增益效果，伤害提升<color=#F74848>6%</color>，最多<color=#F74848>30%</color>，持续<color=#F74848>2</color>回合",
+          "BufCarried": "204441",
+          "SkillIcon": "Icon_skill_passive_1145",
+          "icon": "Icon_skill_passive_1145",
+          "Status": 1,
+          "weight": 293
+        }
+      ],
+      "introduce": "影子兔上搭载的机兵核心，能最大化利用增益优势，实现远超常规表现的强力打击。",
+      "ModuleIcon": "Icon_skill_passive_1145",
+      "icon": "Icon_skill_passive_1145",
+      "IconType": "SuitS",
+      "ObtainingMethod": "模组生产",
+      "Status": 1,
+      "weight": 39
+    },
+    "now": "2024-12-13 15:09:43"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

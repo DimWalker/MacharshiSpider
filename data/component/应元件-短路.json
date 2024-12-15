@@ -1,0 +1,24 @@
+{
+  "data": {
+    "data": {
+      "ID": "2223",
+      "ModuleName": "应元件-短路",
+      "name": "应元件-短路",
+      "quality": "SSR",
+      "ModuleType": "Function",
+      "IconType": "Function",
+      "ModuleSubtype": "7",
+      "ProbabilityLevel": "4",
+      "ModuleDescription": "战后对目标所有部位造成共计<color=#F74848>0.4</color>倍武器攻击的固定伤害",
+      "attention": "■ 相同减益效果无法重复叠加\n■ 每回合仅限生效一次\n■ 无法与同类型应元件共同使用",
+      "IconPath": "Icon_skill_passive_1165",
+      "icon": "Icon_skill_passive_1165",
+      "Status": 1,
+      "weight": 114
+    },
+    "now": "2024-12-13 15:10:05"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

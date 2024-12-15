@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "40152",
+      "ModuleName": "重机枪模组Ⅱ",
+      "name": "重机枪模组Ⅱ",
+      "EntryLevel": "2",
+      "quality": "SSR",
+      "ModuleEffects": "40151/40152/40153/40154",
+      "WithPassiveSkills": [
+        {
+          "ID": "40151",
+          "name": "重机枪模组Ⅰ",
+          "SpecificEffects": "重机枪的伤害提升<color=#F74848>3%</color>",
+          "BufCarried": "401511",
+          "SkillIcon": "Icon_entry_40151",
+          "icon": "Icon_entry_40151",
+          "Status": 1,
+          "weight": 686
+        },
+        {
+          "ID": "40152",
+          "name": "重机枪模组Ⅰ",
+          "SpecificEffects": "重机枪的伤害提升<color=#F74848>5%</color>",
+          "BufCarried": "401521",
+          "SkillIcon": "Icon_entry_40151",
+          "icon": "Icon_entry_40151",
+          "Status": 1,
+          "weight": 687
+        },
+        {
+          "ID": "40153",
+          "name": "重机枪模组Ⅰ",
+          "SpecificEffects": "重机枪的伤害提升<color=#F74848>7%</color>",
+          "BufCarried": "401531",
+          "SkillIcon": "Icon_entry_40151",
+          "icon": "Icon_entry_40151",
+          "Status": 1,
+          "weight": 688
+        },
+        {
+          "ID": "40154",
+          "name": "重机枪模组Ⅰ",
+          "SpecificEffects": "重机枪的伤害提升<color=#F74848>10%</color>",
+          "BufCarried": "401541",
+          "SkillIcon": "Icon_entry_40151",
+          "icon": "Icon_entry_40151",
+          "Status": 1,
+          "weight": 689
+        }
+      ],
+      "introduce": "想让你的重机枪更能突突突突突突突突突吗？那就为你的机兵装配重机枪模组Ⅱ型吧！",
+      "ModuleIcon": "Icon_entry_40151",
+      "icon": "Icon_entry_40151",
+      "IconType": "PropertyS",
+      "ObtainingMethod": "商店购买",
+      "Status": 1,
+      "weight": 89
+    },
+    "now": "2024-12-13 15:09:34"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

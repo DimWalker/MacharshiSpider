@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "40072",
+      "ModuleName": "承伤模组Ⅱ",
+      "name": "承伤模组Ⅱ",
+      "EntryLevel": "2",
+      "quality": "SSR",
+      "ModuleEffects": "40071/40072/40073/40074",
+      "WithPassiveSkills": [
+        {
+          "ID": "40071",
+          "name": "承伤模组Ⅰ",
+          "SpecificEffects": "遭受伤害降低<color=#F74848>3%</color>",
+          "BufCarried": "400711",
+          "SkillIcon": "Icon_entry_40071",
+          "icon": "Icon_entry_40071",
+          "Status": 1,
+          "weight": 622
+        },
+        {
+          "ID": "40072",
+          "name": "承伤模组Ⅰ",
+          "SpecificEffects": "遭受伤害降低<color=#F74848>5%</color>",
+          "BufCarried": "400721",
+          "SkillIcon": "Icon_entry_40071",
+          "icon": "Icon_entry_40071",
+          "Status": 1,
+          "weight": 623
+        },
+        {
+          "ID": "40073",
+          "name": "承伤模组Ⅰ",
+          "SpecificEffects": "遭受伤害降低<color=#F74848>7%</color>",
+          "BufCarried": "400731",
+          "SkillIcon": "Icon_entry_40071",
+          "icon": "Icon_entry_40071",
+          "Status": 1,
+          "weight": 624
+        },
+        {
+          "ID": "40074",
+          "name": "承伤模组Ⅰ",
+          "SpecificEffects": "遭受伤害降低<color=#F74848>10%</color>",
+          "BufCarried": "400741",
+          "SkillIcon": "Icon_entry_40071",
+          "icon": "Icon_entry_40071",
+          "Status": 1,
+          "weight": 625
+        }
+      ],
+      "introduce": "在承担守护者这一职责的机师圈子里，你的机兵有更多的承伤模组Ⅱ型，就能收获更多羡慕的目光。",
+      "ModuleIcon": "Icon_entry_40071",
+      "icon": "Icon_entry_40071",
+      "IconType": "PropertyS",
+      "ObtainingMethod": "商店购买",
+      "Status": 1,
+      "weight": 73
+    },
+    "now": "2024-12-13 15:09:37"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

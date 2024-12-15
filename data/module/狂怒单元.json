@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "20191",
+      "ModuleName": "狂怒单元",
+      "name": "狂怒单元",
+      "EntryLevel": "1",
+      "quality": "SSR",
+      "ModuleEffects": "20191/20192/20193/20194",
+      "WithPassiveSkills": [
+        {
+          "ID": "20191",
+          "name": "狂怒单元",
+          "SpecificEffects": "遭受攻击对战后，使自身伤害提升<color=#F74848>2%</color>，可叠加<color=#F74848>3</color>层，持续<color=#F74848>1</color>回合",
+          "BufCarried": "201911",
+          "SkillIcon": "Icon_entry_10003",
+          "icon": "Icon_entry_10003",
+          "Status": 1,
+          "weight": 190
+        },
+        {
+          "ID": "20192",
+          "name": "狂怒单元",
+          "SpecificEffects": "遭受攻击对战后，使自身伤害提升<color=#F74848>4%</color>，可叠加<color=#F74848>3</color>层，持续<color=#F74848>1</color>回合",
+          "BufCarried": "201921",
+          "SkillIcon": "Icon_entry_10003",
+          "icon": "Icon_entry_10003",
+          "Status": 1,
+          "weight": 191
+        },
+        {
+          "ID": "20193",
+          "name": "狂怒单元",
+          "SpecificEffects": "遭受攻击对战后，使自身伤害提升<color=#F74848>4%</color>，可叠加<color=#F74848>5</color>层，持续<color=#F74848>1</color>回合",
+          "BufCarried": "201931",
+          "SkillIcon": "Icon_entry_10003",
+          "icon": "Icon_entry_10003",
+          "Status": 1,
+          "weight": 192
+        },
+        {
+          "ID": "20194",
+          "name": "狂怒单元",
+          "SpecificEffects": "遭受攻击对战后，使自身伤害提升<color=#F74848>6%</color>，可叠加<color=#F74848>5</color>层，持续<color=#F74848>1</color>回合",
+          "BufCarried": "201941",
+          "SkillIcon": "Icon_entry_10003",
+          "icon": "Icon_entry_10003",
+          "Status": 1,
+          "weight": 193
+        }
+      ],
+      "introduce": "为戴亚斯设计的“狂怒”特化的攻击单元，如果判定敌机能威胁到己方要害，该模组会将作战模式调整为强化要害打击模式以反制敌机。",
+      "ModuleIcon": "Icon_entry_10003",
+      "icon": "Icon_entry_10003",
+      "IconType": "SuitS",
+      "ObtainingMethod": "模组生产",
+      "Status": 1,
+      "weight": 24
+    },
+    "now": "2024-12-13 15:09:45"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

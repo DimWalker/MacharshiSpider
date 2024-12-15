@@ -18,7 +18,7 @@
         "mechaIcon": "Icon_wap2037_1",
         "lihuiIcon": "icon_lihui_wap2037",
         "Status": 1,
-        "weight": 136,
+        "weight": 140,
         "manji": {
           "name": "野隼",
           "durable": "6559",
@@ -27,7 +27,7 @@
           "output": "1870",
           "Antiriot": "3192",
           "Status": 1,
-          "weight": 136,
+          "weight": 140,
           "ModuleCarried": []
         },
         "ModuleCarried": []
@@ -46,7 +46,7 @@
         "introduce": "LTX-27 野隼\n拉尼亚凯亚开发的中型机兵，强调以低成本实现精准狙击的特殊机型。\n野隼配备的“山雀”光学瞄具使其拥有优秀的精准射击能力，除此之外的部位强度仅与民用机兵相当。因为这一特性，该机种在低烈度常规作战中表现突出，而在复杂立体战场下则备受考验。",
         "mechaIcon": "Icon_wap2037_2",
         "Status": 1,
-        "weight": 137,
+        "weight": 141,
         "manji": {
           "name": "野隼",
           "durable": "2943",
@@ -54,7 +54,7 @@
           "fire": "781",
           "Hit": "1496",
           "Status": 1,
-          "weight": 137
+          "weight": 141
         }
       },
       {
@@ -71,7 +71,7 @@
         "introduce": "LTX-27 野隼\n拉尼亚凯亚开发的中型机兵，强调以低成本实现精准狙击的特殊机型。\n野隼配备的“山雀”光学瞄具使其拥有优秀的精准射击能力，除此之外的部位强度仅与民用机兵相当。因为这一特性，该机种在低烈度常规作战中表现突出，而在复杂立体战场下则备受考验。",
         "mechaIcon": "Icon_wap2037_3",
         "Status": 1,
-        "weight": 138,
+        "weight": 142,
         "manji": {
           "name": "野隼",
           "durable": "2943",
@@ -79,7 +79,7 @@
           "fire": "781",
           "Hit": "1496",
           "Status": 1,
-          "weight": 138
+          "weight": 142
         }
       },
       {
@@ -97,7 +97,7 @@
         "introduce": "LTX-27 野隼\n拉尼亚凯亚开发的中型机兵，强调以低成本实现精准狙击的特殊机型。\n野隼配备的“山雀”光学瞄具使其拥有优秀的精准射击能力，除此之外的部位强度仅与民用机兵相当。因为这一特性，该机种在低烈度常规作战中表现突出，而在复杂立体战场下则备受考验。",
         "mechaIcon": "Icon_wap2037_4",
         "Status": 1,
-        "weight": 139,
+        "weight": 143,
         "manji": {
           "name": "野隼",
           "durable": "4765",
@@ -106,11 +106,11 @@
           "Dodge": "2778",
           "move": "3000",
           "Status": 1,
-          "weight": 139
+          "weight": 143
         }
       }
     ],
-    "now": "2024-11-08 20:08:08"
+    "now": "2024-12-13 15:08:26"
   },
   "status": 1,
   "switch": null,

@@ -1,0 +1,105 @@
+{
+  "data": {
+    "data": {
+      "ID": "30021",
+      "ModuleName": "处决模组",
+      "name": "处决模组",
+      "EntryLevel": "1",
+      "quality": "SSR",
+      "ModuleEffects": "30021/30022/30023/30024/30025/30026/30027/30028",
+      "WithPassiveSkills": [
+        {
+          "ID": "30021",
+          "name": "处决模组",
+          "SpecificEffects": "攻击耐久值百分比低于<color=#F74848>40%</color>的部位时，伤害提升<color=#F74848>3%</color>",
+          "BufCarried": "300211",
+          "SkillIcon": "Icon_entry_10048",
+          "icon": "Icon_entry_10048",
+          "Status": 1,
+          "weight": 310
+        },
+        {
+          "ID": "30022",
+          "name": "处决模组",
+          "SpecificEffects": "攻击耐久值百分比低于<color=#F74848>40%</color>的部位时，伤害提升<color=#F74848>4%</color>",
+          "BufCarried": "300221",
+          "SkillIcon": "Icon_entry_10048",
+          "icon": "Icon_entry_10048",
+          "Status": 1,
+          "weight": 311
+        },
+        {
+          "ID": "30023",
+          "name": "处决模组",
+          "SpecificEffects": "攻击耐久值百分比低于<color=#F74848>40%</color>的部位时，伤害提升<color=#F74848>6%</color>",
+          "BufCarried": "300231",
+          "SkillIcon": "Icon_entry_10048",
+          "icon": "Icon_entry_10048",
+          "Status": 1,
+          "weight": 312
+        },
+        {
+          "ID": "30024",
+          "name": "处决模组",
+          "SpecificEffects": "攻击耐久值百分比低于<color=#F74848>50%</color>的部位时，伤害提升<color=#F74848>8%</color>",
+          "BufCarried": "300241",
+          "SkillIcon": "Icon_entry_10048",
+          "icon": "Icon_entry_10048",
+          "Status": 1,
+          "weight": 313
+        },
+        {
+          "ID": "30025",
+          "name": "处决模组",
+          "SpecificEffects": "攻击耐久值百分比低于<color=#F74848>50%</color>的部位时，伤害提升<color=#F74848>10%</color>",
+          "BufCarried": "300251",
+          "SkillIcon": "Icon_entry_10048",
+          "icon": "Icon_entry_10048",
+          "Status": 1,
+          "weight": 314
+        },
+        {
+          "ID": "30026",
+          "name": "处决模组",
+          "SpecificEffects": "攻击耐久值百分比低于<color=#F74848>60%</color>的部位时，伤害提升<color=#F74848>12%</color>",
+          "BufCarried": "300261",
+          "SkillIcon": "Icon_entry_10048",
+          "icon": "Icon_entry_10048",
+          "Status": 1,
+          "weight": 315
+        },
+        {
+          "ID": "30027",
+          "name": "处决模组",
+          "SpecificEffects": "攻击耐久值百分比低于<color=#F74848>60%</color>的部位时，伤害提升<color=#F74848>14%</color>",
+          "BufCarried": "300271",
+          "SkillIcon": "Icon_entry_10048",
+          "icon": "Icon_entry_10048",
+          "Status": 1,
+          "weight": 316
+        },
+        {
+          "ID": "30028",
+          "name": "处决模组",
+          "SpecificEffects": "攻击耐久值百分比低于<color=#F74848>60%</color>的部位时，伤害提升<color=#F74848>18%</color>；\n若击破部位则会发动<buf ID=900001>[追击]</buf>，造成<color=#F74848>0.25</color>倍伤害",
+          "BufCarried": "300281/300287",
+          "SkillIcon": "Icon_entry_10048",
+          "icon": "Icon_entry_10048",
+          "Status": 1,
+          "weight": 317
+        }
+      ],
+      "introduce": "处决模组是一般佣兵最为喜爱的机兵模组，没有人会讨厌给对手最后一击的感觉。",
+      "ModuleIcon": "Icon_entry_10048",
+      "icon": "Icon_entry_10048",
+      "IconType": "GeneralSuit",
+      "ObtainingMethod": "商店购买",
+      "Status": 1,
+      "weight": 41
+    },
+    "now": "2024-12-13 15:09:42"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

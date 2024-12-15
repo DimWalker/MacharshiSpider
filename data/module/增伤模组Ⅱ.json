@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "40032",
+      "ModuleName": "增伤模组Ⅱ",
+      "name": "增伤模组Ⅱ",
+      "EntryLevel": "2",
+      "quality": "SSR",
+      "ModuleEffects": "40031/40032/40033/40034",
+      "WithPassiveSkills": [
+        {
+          "ID": "40031",
+          "name": "增伤模组Ⅰ",
+          "SpecificEffects": "暴击伤害提升<color=#F74848>3%</color>",
+          "BufCarried": "400311",
+          "SkillIcon": "Icon_entry_40031",
+          "icon": "Icon_entry_40031",
+          "Status": 1,
+          "weight": 590
+        },
+        {
+          "ID": "40032",
+          "name": "增伤模组Ⅰ",
+          "SpecificEffects": "暴击伤害提升<color=#F74848>5%</color>",
+          "BufCarried": "400321",
+          "SkillIcon": "Icon_entry_40031",
+          "icon": "Icon_entry_40031",
+          "Status": 1,
+          "weight": 591
+        },
+        {
+          "ID": "40033",
+          "name": "增伤模组Ⅰ",
+          "SpecificEffects": "暴击伤害提升<color=#F74848>7%</color>",
+          "BufCarried": "400331",
+          "SkillIcon": "Icon_entry_40031",
+          "icon": "Icon_entry_40031",
+          "Status": 1,
+          "weight": 592
+        },
+        {
+          "ID": "40034",
+          "name": "增伤模组Ⅰ",
+          "SpecificEffects": "暴击伤害提升<color=#F74848>10%</color>",
+          "BufCarried": "400341",
+          "SkillIcon": "Icon_entry_40031",
+          "icon": "Icon_entry_40031",
+          "Status": 1,
+          "weight": 593
+        }
+      ],
+      "introduce": "有些顶尖机兵会配满Ⅱ增伤模组，追求极致的杀伤力，仅用一击终结战斗。",
+      "ModuleIcon": "Icon_entry_40031",
+      "icon": "Icon_entry_40031",
+      "IconType": "PropertyS",
+      "ObtainingMethod": "商店购买",
+      "Status": 1,
+      "weight": 65
+    },
+    "now": "2024-12-13 15:09:38"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

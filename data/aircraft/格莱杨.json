@@ -27,7 +27,7 @@
             "SkillIcon": "Icon_entry_40011",
             "icon": "Icon_entry_40011",
             "Status": 1,
-            "weight": 551,
+            "weight": 575,
             "id": "4001",
             "level": 2
           },
@@ -59,7 +59,7 @@
             "SkillIcon": "Icon_entry_10047",
             "icon": "Icon_entry_10047",
             "Status": 1,
-            "weight": 295,
+            "weight": 303,
             "id": "3001",
             "level": 2
           }
@@ -91,7 +91,7 @@
               "SkillIcon": "Icon_entry_40011",
               "icon": "Icon_entry_40011",
               "Status": 1,
-              "weight": 553,
+              "weight": 577,
               "id": "4001",
               "level": 4
             },
@@ -123,7 +123,7 @@
               "SkillIcon": "Icon_entry_10047",
               "icon": "Icon_entry_10047",
               "Status": 1,
-              "weight": 301,
+              "weight": 309,
               "id": "3001",
               "level": 8
             }
@@ -222,7 +222,7 @@
         }
       }
     ],
-    "now": "2024-11-08 20:08:05"
+    "now": "2024-12-13 15:08:23"
   },
   "status": 1,
   "switch": null,

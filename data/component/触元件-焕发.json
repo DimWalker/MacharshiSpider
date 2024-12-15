@@ -1,0 +1,24 @@
+{
+  "data": {
+    "data": {
+      "ID": "1161",
+      "ModuleName": "触元件-焕发",
+      "name": "触元件-焕发",
+      "quality": "R",
+      "ModuleType": "Condition",
+      "IconType": "Condition",
+      "ModuleSubtype": "4",
+      "ProbabilityLevel": "2",
+      "ModuleDescription": "主动攻击时，若自身耐久为<color=#F74848>100%</color>",
+      "attention": "■ 无法与同类型触元件共同使用",
+      "IconPath": "Icon_skill_passive_3128",
+      "icon": "Icon_skill_passive_3128",
+      "Status": 1,
+      "weight": 39
+    },
+    "now": "2024-12-13 15:10:16"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

@@ -143,6 +143,6 @@ def pilot_to_csv():
 
 
 if __name__ == "__main__":
-    # aircraft_to_csv()
-    # aircraft_to_csv_2()
+    aircraft_to_csv()
+    aircraft_to_csv_2()
     pilot_to_csv()

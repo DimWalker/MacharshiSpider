@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "10041",
+      "ModuleName": "照准框架",
+      "name": "照准框架",
+      "EntryLevel": "1",
+      "quality": "SR",
+      "ModuleEffects": "10041/10042/10043/10044",
+      "WithPassiveSkills": [
+        {
+          "ID": "10041",
+          "name": "照准框架",
+          "SpecificEffects": "使用战术武器攻击时有<color=#F74848>25%</color>的概率发动，伤害提升<color=#F74848>8%</color>",
+          "BufCarried": "100411",
+          "SkillIcon": "Icon_entry_10034",
+          "icon": "Icon_entry_10034",
+          "Status": 1,
+          "weight": 86
+        },
+        {
+          "ID": "10042",
+          "name": "照准框架",
+          "SpecificEffects": "使用战术武器攻击时有<color=#F74848>40%</color>的概率发动，伤害提升<color=#F74848>10%</color>",
+          "BufCarried": "100421",
+          "SkillIcon": "Icon_entry_10034",
+          "icon": "Icon_entry_10034",
+          "Status": 1,
+          "weight": 87
+        },
+        {
+          "ID": "10043",
+          "name": "照准框架",
+          "SpecificEffects": "使用战术武器攻击时有<color=#F74848>55%</color>的概率发动，伤害提升<color=#F74848>12%</color>",
+          "BufCarried": "100431",
+          "SkillIcon": "Icon_entry_10034",
+          "icon": "Icon_entry_10034",
+          "Status": 1,
+          "weight": 88
+        },
+        {
+          "ID": "10044",
+          "name": "照准框架",
+          "SpecificEffects": "使用战术武器攻击时有<color=#F74848>70%</color>的概率发动，伤害提升<color=#F74848>15%</color>",
+          "BufCarried": "100441",
+          "SkillIcon": "Icon_entry_10034",
+          "icon": "Icon_entry_10034",
+          "Status": 1,
+          "weight": 89
+        }
+      ],
+      "introduce": "加装额外的照准框架，确保每一次战术兵器弹药的发射可以命中，从而发挥出其全部杀伤力。",
+      "ModuleIcon": "Icon_entry_10034",
+      "icon": "Icon_entry_10034",
+      "IconType": "SuitA",
+      "ObtainingMethod": "模组生产",
+      "Status": 1,
+      "weight": 3
+    },
+    "now": "2024-12-13 15:09:48"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

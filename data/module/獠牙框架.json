@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "20061",
+      "ModuleName": "獠牙框架",
+      "name": "獠牙框架",
+      "EntryLevel": "1",
+      "quality": "SSR",
+      "ModuleEffects": "20061/20062/20063/20064",
+      "WithPassiveSkills": [
+        {
+          "ID": "20061",
+          "name": "獠牙框架",
+          "SpecificEffects": "双手装配两把<buf ID=900047>[类型]</buf>不一致的武器时，伤害提升<color=#F74848>4%</color>",
+          "BufCarried": "200611",
+          "SkillIcon": "Icon_entry_10002",
+          "icon": "Icon_entry_10002",
+          "Status": 1,
+          "weight": 138
+        },
+        {
+          "ID": "20062",
+          "name": "獠牙框架",
+          "SpecificEffects": "双手装配两把<buf ID=900047>[类型]</buf>不一致的武器时，伤害提升<color=#F74848>8%</color>",
+          "BufCarried": "200621",
+          "SkillIcon": "Icon_entry_10002",
+          "icon": "Icon_entry_10002",
+          "Status": 1,
+          "weight": 139
+        },
+        {
+          "ID": "20063",
+          "name": "獠牙框架",
+          "SpecificEffects": "双手装配两把<buf ID=900047>[类型]</buf>不一致的武器时，伤害提升<color=#F74848>14%</color>",
+          "BufCarried": "200631",
+          "SkillIcon": "Icon_entry_10002",
+          "icon": "Icon_entry_10002",
+          "Status": 1,
+          "weight": 140
+        },
+        {
+          "ID": "20064",
+          "name": "獠牙框架",
+          "SpecificEffects": "双手装配两把<buf ID=900047>[类型]</buf>不一致的武器时，伤害提升<color=#F74848>20%</color>",
+          "BufCarried": "200641",
+          "SkillIcon": "Icon_entry_10002",
+          "icon": "Icon_entry_10002",
+          "Status": 1,
+          "weight": 141
+        }
+      ],
+      "introduce": "黑曜石秘密开发的獠牙框架是将机兵打造成纯粹歼灭机器的装置，它能够在机师状态不佳的情况下接管机兵的一切功能，以机师为载体，发挥其最大的战斗潜能。",
+      "ModuleIcon": "Icon_entry_10002",
+      "icon": "Icon_entry_10002",
+      "IconType": "SuitS",
+      "ObtainingMethod": "模组生产",
+      "Status": 1,
+      "weight": 15
+    },
+    "now": "2024-12-13 15:09:47"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

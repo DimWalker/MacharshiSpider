@@ -32,7 +32,7 @@
         "SkillIcon": "Icon_skill_talent_3102",
         "icon": "Icon_skill_talent_3102",
         "Status": 1,
-        "weight": 2750
+        "weight": 2854
       },
       "Talent3_5Ability": {
         "ID": "500451",
@@ -42,7 +42,7 @@
         "SkillIcon": "Icon_skill_talent_3102",
         "icon": "Icon_skill_talent_3102",
         "Status": 1,
-        "weight": 2751
+        "weight": 2855
       },
       "NeuralDriveTemplate": {
         "ID": "10103111",
@@ -71,7 +71,7 @@
                   "SkillIcon": "Icon_skill_passive_1003",
                   "icon": "Icon_skill_passive_1003",
                   "Status": 1,
-                  "weight": 2708
+                  "weight": 2812
                 }
               },
               {
@@ -90,7 +90,7 @@
                   "SkillIcon": "Icon_skill_passive_5014",
                   "icon": "Icon_skill_passive_5014",
                   "Status": 1,
-                  "weight": 2709
+                  "weight": 2813
                 }
               },
               {
@@ -108,7 +108,7 @@
                   "SkillIcon": "Icon_skill_passive_5004",
                   "icon": "Icon_skill_passive_5004",
                   "Status": 1,
-                  "weight": 2710
+                  "weight": 2814
                 }
               }
             ],
@@ -141,7 +141,7 @@
                   "SkillIcon": "Icon_skill_passive_1003",
                   "icon": "Icon_skill_passive_1003",
                   "Status": 1,
-                  "weight": 2711
+                  "weight": 2815
                 }
               },
               {
@@ -159,7 +159,7 @@
                   "SkillIcon": "Icon_skill_passive_5014",
                   "icon": "Icon_skill_passive_5014",
                   "Status": 1,
-                  "weight": 2712
+                  "weight": 2816
                 }
               },
               {
@@ -177,7 +177,7 @@
                   "SkillIcon": "Icon_skill_passive_5004",
                   "icon": "Icon_skill_passive_5004",
                   "Status": 1,
-                  "weight": 2713
+                  "weight": 2817
                 }
               }
             ],
@@ -210,7 +210,7 @@
                   "SkillIcon": "Icon_skill_passive_3002",
                   "icon": "Icon_skill_passive_3002",
                   "Status": 1,
-                  "weight": 2714
+                  "weight": 2818
                 }
               },
               {
@@ -228,7 +228,7 @@
                   "SkillIcon": "Icon_skill_passive_5004",
                   "icon": "Icon_skill_passive_5004",
                   "Status": 1,
-                  "weight": 2715
+                  "weight": 2819
                 }
               },
               {
@@ -247,7 +247,7 @@
                   "SkillIcon": "Icon_skill_passive_5155",
                   "icon": "Icon_skill_passive_5155",
                   "Status": 1,
-                  "weight": 2716
+                  "weight": 2820
                 }
               },
               {
@@ -266,7 +266,7 @@
                   "SkillIcon": "Icon_skill_passive_3002",
                   "icon": "Icon_skill_passive_3002",
                   "Status": 1,
-                  "weight": 2717
+                  "weight": 2821
                 }
               },
               {
@@ -285,7 +285,7 @@
                   "SkillIcon": "Icon_skill_passive_3002",
                   "icon": "Icon_skill_passive_3002",
                   "Status": 1,
-                  "weight": 2718
+                  "weight": 2822
                 }
               },
               {
@@ -304,7 +304,7 @@
                   "SkillIcon": "Icon_skill_passive_3002",
                   "icon": "Icon_skill_passive_3002",
                   "Status": 1,
-                  "weight": 2719
+                  "weight": 2823
                 }
               }
             ],
@@ -337,7 +337,7 @@
                   "SkillIcon": "Icon_skill_passive_3109",
                   "icon": "Icon_skill_passive_3109",
                   "Status": 1,
-                  "weight": 2746
+                  "weight": 2850
                 }
               },
               {
@@ -355,7 +355,7 @@
                   "SkillIcon": "Icon_skill_passive_5004",
                   "icon": "Icon_skill_passive_5004",
                   "Status": 1,
-                  "weight": 2720
+                  "weight": 2824
                 }
               },
               {
@@ -374,7 +374,7 @@
                   "SkillIcon": "Icon_skill_passive_5014",
                   "icon": "Icon_skill_passive_5014",
                   "Status": 1,
-                  "weight": 2721
+                  "weight": 2825
                 }
               },
               {
@@ -393,7 +393,7 @@
                   "SkillIcon": "Icon_skill_passive_3109",
                   "icon": "Icon_skill_passive_3109",
                   "Status": 1,
-                  "weight": 2747
+                  "weight": 2851
                 }
               },
               {
@@ -412,7 +412,7 @@
                   "SkillIcon": "Icon_skill_passive_3109",
                   "icon": "Icon_skill_passive_3109",
                   "Status": 1,
-                  "weight": 2748
+                  "weight": 2852
                 }
               },
               {
@@ -431,7 +431,7 @@
                   "SkillIcon": "Icon_skill_passive_3109",
                   "icon": "Icon_skill_passive_3109",
                   "Status": 1,
-                  "weight": 2749
+                  "weight": 2853
                 }
               }
             ],
@@ -504,7 +504,7 @@
             "SkillIcon": "Icon_skill_passive_1003",
             "icon": "Icon_skill_passive_1003",
             "Status": 1,
-            "weight": 2707
+            "weight": 2811
           }
         },
         {
@@ -699,7 +699,7 @@
             "SkillIcon": "Icon_skill_order_3002",
             "icon": "Icon_skill_order_3002",
             "Status": 1,
-            "weight": 427
+            "weight": 441
           }
         },
         {
@@ -724,7 +724,7 @@
             "SkillIcon": "Icon_skill_passive_3106",
             "icon": "Icon_skill_passive_3106",
             "Status": 1,
-            "weight": 2743
+            "weight": 2847
           }
         },
         {
@@ -749,7 +749,7 @@
             "SkillIcon": "Icon_skill_passive_5017",
             "icon": "Icon_skill_passive_5017",
             "Status": 1,
-            "weight": 2892
+            "weight": 2996
           }
         },
         {
@@ -774,7 +774,7 @@
             "SkillIcon": "Icon_skill_passive_3107",
             "icon": "Icon_skill_passive_3107",
             "Status": 1,
-            "weight": 2744
+            "weight": 2848
           }
         },
         {
@@ -803,7 +803,7 @@
             "SkillIcon": "Icon_skill_order_3112",
             "icon": "Icon_skill_order_3112",
             "Status": 1,
-            "weight": 372
+            "weight": 386
           }
         },
         {
@@ -828,7 +828,7 @@
             "SkillIcon": "Icon_skill_passive_5168",
             "icon": "Icon_skill_passive_5168",
             "Status": 1,
-            "weight": 2745
+            "weight": 2849
           }
         },
         {
@@ -857,7 +857,7 @@
             "SkillIcon": "Icon_skill_order_3113",
             "icon": "Icon_skill_order_3113",
             "Status": 1,
-            "weight": 373
+            "weight": 387
           }
         },
         {
@@ -1118,7 +1118,7 @@
       ],
       "biomimetic_computer_type": 2
     },
-    "now": "2024-11-08 20:08:22"
+    "now": "2024-12-13 15:08:40"
   },
   "status": 1,
   "switch": null,

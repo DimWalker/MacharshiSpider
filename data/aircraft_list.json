@@ -531,9 +531,18 @@
         "quality": "SSR",
         "icon": "Icon_mecha_wap2302",
         "mechaIcon": "Icon_wap2302_1"
+      },
+      {
+        "ID": "20180103",
+        "name": "复仇女神",
+        "position": "躯干",
+        "type": "Medium",
+        "quality": "SSR",
+        "icon": "Icon_mecha_wap2018",
+        "mechaIcon": "Icon_wap2018_1"
       }
     ],
-    "now": "2024-11-08 20:08:04"
+    "now": "2024-12-13 15:08:21"
   },
   "status": 1,
   "switch": null,

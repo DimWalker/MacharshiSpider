@@ -1,0 +1,105 @@
+{
+  "data": {
+    "data": {
+      "ID": "30191",
+      "ModuleName": "避害模组",
+      "name": "避害模组",
+      "EntryLevel": "1",
+      "quality": "SSR",
+      "ModuleEffects": "30191/30192/30193/30194/30195/30196/30197/30198",
+      "WithPassiveSkills": [
+        {
+          "ID": "30191",
+          "name": "避害模组",
+          "SpecificEffects": "遭受攻击对战时，若无法反击，回避率提升<color=#F74848>3%</color>",
+          "BufCarried": "301911",
+          "SkillIcon": "Icon_entry_10028",
+          "icon": "Icon_entry_10028",
+          "Status": 1,
+          "weight": 446
+        },
+        {
+          "ID": "30192",
+          "name": "避害模组",
+          "SpecificEffects": "遭受攻击对战时，若无法反击，回避率提升<color=#F74848>4%</color>",
+          "BufCarried": "301921",
+          "SkillIcon": "Icon_entry_10028",
+          "icon": "Icon_entry_10028",
+          "Status": 1,
+          "weight": 447
+        },
+        {
+          "ID": "30193",
+          "name": "避害模组",
+          "SpecificEffects": "遭受攻击对战时，若无法反击，回避率提升<color=#F74848>6%</color>",
+          "BufCarried": "301931",
+          "SkillIcon": "Icon_entry_10028",
+          "icon": "Icon_entry_10028",
+          "Status": 1,
+          "weight": 448
+        },
+        {
+          "ID": "30194",
+          "name": "避害模组",
+          "SpecificEffects": "遭受攻击对战时，若无法反击，回避率提升<color=#F74848>8%</color>",
+          "BufCarried": "301941",
+          "SkillIcon": "Icon_entry_10028",
+          "icon": "Icon_entry_10028",
+          "Status": 1,
+          "weight": 449
+        },
+        {
+          "ID": "30195",
+          "name": "避害模组",
+          "SpecificEffects": "遭受攻击对战时，若无法反击，回避率提升<color=#F74848>10%</color>",
+          "BufCarried": "301951",
+          "SkillIcon": "Icon_entry_10028",
+          "icon": "Icon_entry_10028",
+          "Status": 1,
+          "weight": 450
+        },
+        {
+          "ID": "30196",
+          "name": "避害模组",
+          "SpecificEffects": "遭受攻击对战时，若无法反击，回避率提升<color=#F74848>12%</color>",
+          "BufCarried": "301961",
+          "SkillIcon": "Icon_entry_10028",
+          "icon": "Icon_entry_10028",
+          "Status": 1,
+          "weight": 451
+        },
+        {
+          "ID": "30197",
+          "name": "避害模组",
+          "SpecificEffects": "遭受攻击对战时，若无法反击，回避率提升<color=#F74848>14%</color>",
+          "BufCarried": "301971",
+          "SkillIcon": "Icon_entry_10028",
+          "icon": "Icon_entry_10028",
+          "Status": 1,
+          "weight": 452
+        },
+        {
+          "ID": "30198",
+          "name": "避害模组",
+          "SpecificEffects": "遭受攻击对战时，若无法反击，回避率提升<color=#F74848>18%</color>；\n完全回避后使自身获得<buf ID=7100901>[移动力提升]</buf>，持续<color=#F74848>1</color>回合",
+          "BufCarried": "301981/301983",
+          "SkillIcon": "Icon_entry_10028",
+          "icon": "Icon_entry_10028",
+          "Status": 1,
+          "weight": 453
+        }
+      ],
+      "introduce": "专为轻型机兵开发的避害模组，在确定自身无法进行反击时将额外性能全部用于规避弹道，有效提高机兵的生存能力。",
+      "ModuleIcon": "Icon_entry_10028",
+      "icon": "Icon_entry_10028",
+      "IconType": "GeneralSuit",
+      "ObtainingMethod": "商店购买",
+      "Status": 1,
+      "weight": 54
+    },
+    "now": "2024-12-13 15:09:40"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "20091",
+      "ModuleName": "远雷火控仪",
+      "name": "远雷火控仪",
+      "EntryLevel": "1",
+      "quality": "SSR",
+      "ModuleEffects": "20091/20092/20093/20094",
+      "WithPassiveSkills": [
+        {
+          "ID": "20091",
+          "name": "远雷火控仪",
+          "SpecificEffects": "主动使用范围攻击，范围内每有<color=#F74848>1</color>个目标，战斗前获得伤害提升<color=#F74848>2%</color>，可叠加<color=#F74848>3</color>层，持续<color=#F74848>2</color>回合",
+          "BufCarried": "200911/200912/200913",
+          "SkillIcon": "Icon_entry_10044",
+          "icon": "Icon_entry_10044",
+          "Status": 1,
+          "weight": 150
+        },
+        {
+          "ID": "20092",
+          "name": "远雷火控仪",
+          "SpecificEffects": "主动使用范围攻击，范围内每有<color=#F74848>1</color>个目标，战斗前获得伤害提升<color=#F74848>4%</color>，可叠加<color=#F74848>3</color>层，持续<color=#F74848>2</color>回合",
+          "BufCarried": "200921/200922/200923",
+          "SkillIcon": "Icon_entry_10044",
+          "icon": "Icon_entry_10044",
+          "Status": 1,
+          "weight": 151
+        },
+        {
+          "ID": "20093",
+          "name": "远雷火控仪",
+          "SpecificEffects": "主动使用范围攻击，范围内每有<color=#F74848>1</color>个目标，战斗前获得伤害提升<color=#F74848>4%</color>，可叠加<color=#F74848>5</color>层，持续<color=#F74848>2</color>回合",
+          "BufCarried": "200931/200932/200933/200934/200935",
+          "SkillIcon": "Icon_entry_10044",
+          "icon": "Icon_entry_10044",
+          "Status": 1,
+          "weight": 152
+        },
+        {
+          "ID": "20094",
+          "name": "远雷火控仪",
+          "SpecificEffects": "主动使用范围攻击，范围内每有<color=#F74848>1</color>个目标，战斗前获得伤害提升<color=#F74848>6%</color>，可叠加<color=#F74848>5</color>层，持续<color=#F74848>2</color>回合",
+          "BufCarried": "200941/200942/200943/200944/200945",
+          "SkillIcon": "Icon_entry_10044",
+          "icon": "Icon_entry_10044",
+          "Status": 1,
+          "weight": 153
+        }
+      ],
+      "introduce": "这种被用于大型战役的战争机器保留了最初的对区域压制设计，当完成对一片区域的杀伤后，远雷火控仪能迅速给出地形和敌机位置的综合反馈，并引导下一次威力更强的打击。",
+      "ModuleIcon": "Icon_entry_10044",
+      "icon": "Icon_entry_10044",
+      "IconType": "SuitS",
+      "ObtainingMethod": "模组生产",
+      "Status": 1,
+      "weight": 18
+    },
+    "now": "2024-12-13 15:09:46"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

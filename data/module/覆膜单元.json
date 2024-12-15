@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "20121",
+      "ModuleName": "覆膜单元",
+      "name": "覆膜单元",
+      "EntryLevel": "1",
+      "quality": "SSR",
+      "ModuleEffects": "20121/20122/20123/20124",
+      "WithPassiveSkills": [
+        {
+          "ID": "20121",
+          "name": "覆膜单元",
+          "SpecificEffects": "主动修理时，溢出的修理量将临时提升耐久值上限，最多<color=#F74848>3%</color>",
+          "BufCarried": "201211",
+          "SkillIcon": "Icon_entry_10008",
+          "icon": "Icon_entry_10008",
+          "Status": 1,
+          "weight": 162
+        },
+        {
+          "ID": "20122",
+          "name": "覆膜单元",
+          "SpecificEffects": "主动修理时，溢出的修理量将临时提升耐久值上限，最多<color=#F74848>6%</color>",
+          "BufCarried": "201221",
+          "SkillIcon": "Icon_entry_10008",
+          "icon": "Icon_entry_10008",
+          "Status": 1,
+          "weight": 163
+        },
+        {
+          "ID": "20123",
+          "name": "覆膜单元",
+          "SpecificEffects": "主动修理时，溢出的修理量将临时提升耐久值上限，最多<color=#F74848>10%</color>",
+          "BufCarried": "201231",
+          "SkillIcon": "Icon_entry_10008",
+          "icon": "Icon_entry_10008",
+          "Status": 1,
+          "weight": 164
+        },
+        {
+          "ID": "20124",
+          "name": "覆膜单元",
+          "SpecificEffects": "主动修理时，溢出的修理量将临时提升耐久值上限，最多<color=#F74848>15%</color>",
+          "BufCarried": "201241",
+          "SkillIcon": "Icon_entry_10008",
+          "icon": "Icon_entry_10008",
+          "Status": 1,
+          "weight": 165
+        }
+      ],
+      "introduce": "合格的维修机能够将机兵还原到它最初的状态，而优秀的修理机则能让机兵更进一步，超越自我。在修理的最后一步，朝阳会为目标焊上额外的防护板，它们坚固而可靠。",
+      "ModuleIcon": "Icon_entry_10008",
+      "icon": "Icon_entry_10008",
+      "IconType": "SuitS",
+      "ObtainingMethod": "模组生产",
+      "Status": 1,
+      "weight": 21
+    },
+    "now": "2024-12-13 15:09:46"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

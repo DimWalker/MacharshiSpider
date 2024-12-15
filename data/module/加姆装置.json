@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "20251",
+      "ModuleName": "加姆装置",
+      "name": "加姆装置",
+      "EntryLevel": "1",
+      "quality": "SSR",
+      "ModuleEffects": "20251/20252/20253/20254",
+      "WithPassiveSkills": [
+        {
+          "ID": "20251",
+          "name": "加姆装置",
+          "SpecificEffects": "进入敌方回合后，伤害提升<color=#F74848>6%</color>",
+          "BufCarried": "202511",
+          "SkillIcon": "Icon_entry_10020",
+          "icon": "Icon_entry_10020",
+          "Status": 1,
+          "weight": 214
+        },
+        {
+          "ID": "20252",
+          "name": "加姆装置",
+          "SpecificEffects": "进入敌方回合后，伤害提升<color=#F74848>12%</color>",
+          "BufCarried": "202521",
+          "SkillIcon": "Icon_entry_10020",
+          "icon": "Icon_entry_10020",
+          "Status": 1,
+          "weight": 215
+        },
+        {
+          "ID": "20253",
+          "name": "加姆装置",
+          "SpecificEffects": "进入敌方回合后，伤害提升<color=#F74848>20%</color>",
+          "BufCarried": "202531",
+          "SkillIcon": "Icon_entry_10020",
+          "icon": "Icon_entry_10020",
+          "Status": 1,
+          "weight": 216
+        },
+        {
+          "ID": "20254",
+          "name": "加姆装置",
+          "SpecificEffects": "进入敌方回合后，伤害提升<color=#F74848>30%</color>",
+          "BufCarried": "202541",
+          "SkillIcon": "Icon_entry_10020",
+          "icon": "Icon_entry_10020",
+          "Status": 1,
+          "weight": 217
+        }
+      ],
+      "introduce": "海拉所搭载的加姆装置能够根据战况及时给予强化，实现人机同步共鸣，极大程度地强化在战斗中的反击能力。",
+      "ModuleIcon": "Icon_entry_10020",
+      "icon": "Icon_entry_10020",
+      "IconType": "SuitS",
+      "ObtainingMethod": "模组生产",
+      "Status": 1,
+      "weight": 28
+    },
+    "now": "2024-12-13 15:09:44"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

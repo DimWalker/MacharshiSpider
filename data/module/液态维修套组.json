@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "20171",
+      "ModuleName": "液态维修套组",
+      "name": "液态维修套组",
+      "EntryLevel": "1",
+      "quality": "SSR",
+      "ModuleEffects": "20171/20172/20173/20174",
+      "WithPassiveSkills": [
+        {
+          "ID": "20171",
+          "name": "液态维修套组",
+          "SpecificEffects": "耐久值低于<color=#F74848>50%</color>时，遭受伤害后有<color=#F74848>40%</color>的概率恢复<color=#F74848>3%</color>的耐久值，每回合最多发动<color=#F74848>2</color>次",
+          "BufCarried": "201711",
+          "SkillIcon": "Icon_entry_10009",
+          "icon": "Icon_entry_10009",
+          "Status": 1,
+          "weight": 182
+        },
+        {
+          "ID": "20172",
+          "name": "液态维修套组",
+          "SpecificEffects": "耐久值低于<color=#F74848>50%</color>时，遭受伤害后有<color=#F74848>60%</color>的概率恢复<color=#F74848>4%</color>的耐久值，每回合最多发动<color=#F74848>2</color>次",
+          "BufCarried": "201721",
+          "SkillIcon": "Icon_entry_10009",
+          "icon": "Icon_entry_10009",
+          "Status": 1,
+          "weight": 183
+        },
+        {
+          "ID": "20173",
+          "name": "液态维修套组",
+          "SpecificEffects": "耐久值低于<color=#F74848>50%</color>时，遭受伤害后有<color=#F74848>80%</color>的概率恢复<color=#F74848>5%</color>的耐久值，每回合最多发动<color=#F74848>2</color>次",
+          "BufCarried": "201731",
+          "SkillIcon": "Icon_entry_10009",
+          "icon": "Icon_entry_10009",
+          "Status": 1,
+          "weight": 184
+        },
+        {
+          "ID": "20174",
+          "name": "液态维修套组",
+          "SpecificEffects": "耐久值低于<color=#F74848>50%</color>时，遭受伤害后有<color=#F74848>100%</color>的概率恢复<color=#F74848>6%</color>的耐久值，每回合最多发动<color=#F74848>2</color>次",
+          "BufCarried": "201741",
+          "SkillIcon": "Icon_entry_10009",
+          "icon": "Icon_entry_10009",
+          "Status": 1,
+          "weight": 185
+        }
+      ],
+      "introduce": "遍布装甲底层的管线是吉尔莱斯战地生存能力的保障，数以百万计的纳米机器人运行在管线溶液中，时刻寻找装甲上的破损部位进行修补，让机兵保持完整的防御性能。",
+      "ModuleIcon": "Icon_entry_10009",
+      "icon": "Icon_entry_10009",
+      "IconType": "SuitS",
+      "ObtainingMethod": "模组生产",
+      "Status": 1,
+      "weight": 23
+    },
+    "now": "2024-12-13 15:09:45"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

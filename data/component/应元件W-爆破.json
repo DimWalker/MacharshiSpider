@@ -1,0 +1,24 @@
+{
+  "data": {
+    "data": {
+      "ID": "4061",
+      "ModuleName": "应元件W-爆破",
+      "name": "应元件W-爆破",
+      "quality": "R",
+      "ModuleType": "Function",
+      "IconType": "Function",
+      "ModuleSubtype": "6",
+      "ProbabilityLevel": "7",
+      "ModuleDescription": "对命中部位以外的<color=#F74848>1</color>个部位造成<color=#F74848>18%</color>武器攻击力的固定伤害",
+      "attention": "■ 仅限单发武器使用\n■ 无法在战斗外触发\n■ 无法在未命中时触发\n■ 仅限双手武器/背部武器使用\n■ 无法与同类型应元件共同使用",
+      "IconPath": "Icon_skill_passive_1006",
+      "icon": "Icon_skill_passive_1006",
+      "Status": 1,
+      "weight": 180
+    },
+    "now": "2024-12-13 15:09:53"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

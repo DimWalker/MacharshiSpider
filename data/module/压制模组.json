@@ -1,0 +1,105 @@
+{
+  "data": {
+    "data": {
+      "ID": "30031",
+      "ModuleName": "压制模组",
+      "name": "压制模组",
+      "EntryLevel": "1",
+      "quality": "SSR",
+      "ModuleEffects": "30031/30032/30033/30034/30035/30036/30037/30038",
+      "WithPassiveSkills": [
+        {
+          "ID": "30031",
+          "name": "压制模组",
+          "SpecificEffects": "主动攻击对战时若目标无法反击，伤害提升<color=#F74848>3%</color>",
+          "BufCarried": "300311",
+          "SkillIcon": "Icon_entry_10049",
+          "icon": "Icon_entry_10049",
+          "Status": 1,
+          "weight": 318
+        },
+        {
+          "ID": "30032",
+          "name": "压制模组",
+          "SpecificEffects": "主动攻击对战时若目标无法反击，伤害提升<color=#F74848>4%</color>",
+          "BufCarried": "300321",
+          "SkillIcon": "Icon_entry_10049",
+          "icon": "Icon_entry_10049",
+          "Status": 1,
+          "weight": 319
+        },
+        {
+          "ID": "30033",
+          "name": "压制模组",
+          "SpecificEffects": "主动攻击对战时若目标无法反击，伤害提升<color=#F74848>6%</color>",
+          "BufCarried": "300331",
+          "SkillIcon": "Icon_entry_10049",
+          "icon": "Icon_entry_10049",
+          "Status": 1,
+          "weight": 320
+        },
+        {
+          "ID": "30034",
+          "name": "压制模组",
+          "SpecificEffects": "主动攻击对战时若目标无法反击，伤害提升<color=#F74848>8%</color>",
+          "BufCarried": "300341",
+          "SkillIcon": "Icon_entry_10049",
+          "icon": "Icon_entry_10049",
+          "Status": 1,
+          "weight": 321
+        },
+        {
+          "ID": "30035",
+          "name": "压制模组",
+          "SpecificEffects": "主动攻击对战时若目标无法反击，伤害提升<color=#F74848>10%</color>",
+          "BufCarried": "300351",
+          "SkillIcon": "Icon_entry_10049",
+          "icon": "Icon_entry_10049",
+          "Status": 1,
+          "weight": 322
+        },
+        {
+          "ID": "30036",
+          "name": "压制模组",
+          "SpecificEffects": "主动攻击对战时若目标无法反击，伤害提升<color=#F74848>12%</color>",
+          "BufCarried": "300361",
+          "SkillIcon": "Icon_entry_10049",
+          "icon": "Icon_entry_10049",
+          "Status": 1,
+          "weight": 323
+        },
+        {
+          "ID": "30037",
+          "name": "压制模组",
+          "SpecificEffects": "主动攻击对战时若目标无法反击，伤害提升<color=#F74848>14%</color>",
+          "BufCarried": "300371",
+          "SkillIcon": "Icon_entry_10049",
+          "icon": "Icon_entry_10049",
+          "Status": 1,
+          "weight": 324
+        },
+        {
+          "ID": "30038",
+          "name": "压制模组",
+          "SpecificEffects": "主动攻击对战时若目标无法反击，伤害提升<color=#F74848>18%</color>；\n同等条件下，在对战前驱散目标<color=#F74848>1</color>个增益效果",
+          "BufCarried": "300381/300383",
+          "SkillIcon": "Icon_entry_10049",
+          "icon": "Icon_entry_10049",
+          "Status": 1,
+          "weight": 325
+        }
+      ],
+      "introduce": "压制模组为远处的狙击型机兵再添一份威慑力，在检测到敌方无法进行反击时，它将调用更多的动力用于攻击，以此获得更大的破坏力。",
+      "ModuleIcon": "Icon_entry_10049",
+      "icon": "Icon_entry_10049",
+      "IconType": "GeneralSuit",
+      "ObtainingMethod": "商店购买",
+      "Status": 1,
+      "weight": 42
+    },
+    "now": "2024-12-13 15:09:42"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

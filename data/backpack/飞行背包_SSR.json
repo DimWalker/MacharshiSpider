@@ -1,0 +1,33 @@
+{
+  "data": {
+    "data": {
+      "ID": "60400104",
+      "name": "飞行背包",
+      "quality": "SSR",
+      "weight": "150",
+      "BackpackMainType": "Flow",
+      "AssemblableAirmenType": "Light",
+      "BackpackIcon": "Icon_BackPack_60350101",
+      "icon": "Icon_BackPack_60350101",
+      "WithPassiveSkills": [
+        {
+          "ID": "60211",
+          "name": "飞行装置Ⅰ",
+          "SpecificEffects": "机兵移动方式变为漂浮，可翻越低障碍；\n机兵躯干耐久值提升<color=#F74848>10%</color>，造成伤害提升<color=#F74848>5%</color>；",
+          "BufCarried": "602111",
+          "SkillIcon": "Icon_skill_passive_5127",
+          "icon": "Icon_skill_passive_5127",
+          "Status": 1,
+          "weight": 999
+        }
+      ],
+      "HowGet": "无",
+      "RelatedDescription": "喷射装置能够驱动机兵在短距离上飞行，快速越过障碍，前往难以抵达的战场角落。",
+      "Status": 1
+    },
+    "now": "2024-12-13 15:09:07"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

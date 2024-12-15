@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "10111",
+      "ModuleName": "内循环枢纽",
+      "name": "内循环枢纽",
+      "EntryLevel": "1",
+      "quality": "SR",
+      "ModuleEffects": "10111/10112/10113/10114",
+      "WithPassiveSkills": [
+        {
+          "ID": "10111",
+          "name": "内循环枢纽",
+          "SpecificEffects": "施放AP消耗大于等于<color=#F74848>3</color>的技能时有<color=#F74848>5%</color>的概率发动，战斗后返还<color=#F74848>1</color>AP",
+          "BufCarried": "101111",
+          "SkillIcon": "Icon_entry_10017",
+          "icon": "Icon_entry_10017",
+          "Status": 1,
+          "weight": 114
+        },
+        {
+          "ID": "10112",
+          "name": "内循环枢纽",
+          "SpecificEffects": "施放AP消耗大于等于<color=#F74848>3</color>的技能时有<color=#F74848>10%</color>的概率发动，战斗后返还<color=#F74848>1</color>AP",
+          "BufCarried": "101121",
+          "SkillIcon": "Icon_entry_10017",
+          "icon": "Icon_entry_10017",
+          "Status": 1,
+          "weight": 115
+        },
+        {
+          "ID": "10113",
+          "name": "内循环枢纽",
+          "SpecificEffects": "施放AP消耗大于等于<color=#F74848>3</color>的技能时有<color=#F74848>15%</color>的概率发动，战斗后返还<color=#F74848>1</color>AP",
+          "BufCarried": "101131",
+          "SkillIcon": "Icon_entry_10017",
+          "icon": "Icon_entry_10017",
+          "Status": 1,
+          "weight": 116
+        },
+        {
+          "ID": "10114",
+          "name": "内循环枢纽",
+          "SpecificEffects": "施放AP消耗大于等于<color=#F74848>3</color>的技能时有<color=#F74848>25%</color>的概率发动，战斗后返还<color=#F74848>1</color>AP",
+          "BufCarried": "101141",
+          "SkillIcon": "Icon_entry_10017",
+          "icon": "Icon_entry_10017",
+          "Status": 1,
+          "weight": 117
+        }
+      ],
+      "introduce": "装配更多的能量监控仪器以对机兵内部的能量循环装置进行进一步优化，将机兵运作的部分制动能量进行回收，在之后的行动中作为辅助制动力释放利用。",
+      "ModuleIcon": "Icon_entry_10017",
+      "icon": "Icon_entry_10017",
+      "IconType": "SuitA",
+      "ObtainingMethod": "模组生产",
+      "Status": 1,
+      "weight": 10
+    },
+    "now": "2024-12-13 15:09:47"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

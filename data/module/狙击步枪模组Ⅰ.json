@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "40161",
+      "ModuleName": "狙击步枪模组Ⅰ",
+      "name": "狙击步枪模组Ⅰ",
+      "EntryLevel": "1",
+      "quality": "SR",
+      "ModuleEffects": "40161/40162/40163/40164",
+      "WithPassiveSkills": [
+        {
+          "ID": "40161",
+          "name": "狙击步枪模组Ⅰ",
+          "SpecificEffects": "狙击步枪的伤害提升<color=#F74848>3%</color>",
+          "BufCarried": "401611",
+          "SkillIcon": "Icon_entry_40161",
+          "icon": "Icon_entry_40161",
+          "Status": 1,
+          "weight": 694
+        },
+        {
+          "ID": "40162",
+          "name": "狙击步枪模组Ⅰ",
+          "SpecificEffects": "狙击步枪的伤害提升<color=#F74848>5%</color>",
+          "BufCarried": "401621",
+          "SkillIcon": "Icon_entry_40161",
+          "icon": "Icon_entry_40161",
+          "Status": 1,
+          "weight": 695
+        },
+        {
+          "ID": "40163",
+          "name": "狙击步枪模组Ⅰ",
+          "SpecificEffects": "狙击步枪的伤害提升<color=#F74848>7%</color>",
+          "BufCarried": "401631",
+          "SkillIcon": "Icon_entry_40161",
+          "icon": "Icon_entry_40161",
+          "Status": 1,
+          "weight": 696
+        },
+        {
+          "ID": "40164",
+          "name": "狙击步枪模组Ⅰ",
+          "SpecificEffects": "狙击步枪的伤害提升<color=#F74848>10%</color>",
+          "BufCarried": "401641",
+          "SkillIcon": "Icon_entry_40161",
+          "icon": "Icon_entry_40161",
+          "Status": 1,
+          "weight": 697
+        }
+      ],
+      "introduce": "狙击步枪模组带来的威力提升确保了狙击手每一次射击都能有相应的回报，而不是令人沮丧的一无所获。",
+      "ModuleIcon": "Icon_entry_40161",
+      "icon": "Icon_entry_40161",
+      "IconType": "PropertyA",
+      "ObtainingMethod": "商店购买",
+      "Status": 1,
+      "weight": 90
+    },
+    "now": "2024-12-13 15:09:34"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

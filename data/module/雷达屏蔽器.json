@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "10061",
+      "ModuleName": "雷达屏蔽器",
+      "name": "雷达屏蔽器",
+      "EntryLevel": "1",
+      "quality": "SR",
+      "ModuleEffects": "10061/10062/10063/10064",
+      "WithPassiveSkills": [
+        {
+          "ID": "10061",
+          "name": "雷达屏蔽器",
+          "SpecificEffects": "遭受攻击和反击时有<color=#F74848>25%</color>的概率发动，回避率提升<color=#F74848>6%</color>",
+          "BufCarried": "100611",
+          "SkillIcon": "Icon_entry_10014",
+          "icon": "Icon_entry_10014",
+          "Status": 1,
+          "weight": 94
+        },
+        {
+          "ID": "10062",
+          "name": "雷达屏蔽器",
+          "SpecificEffects": "遭受攻击和反击时有<color=#F74848>40%</color>的概率发动，回避率提升<color=#F74848>8%</color>",
+          "BufCarried": "100621",
+          "SkillIcon": "Icon_entry_10014",
+          "icon": "Icon_entry_10014",
+          "Status": 1,
+          "weight": 95
+        },
+        {
+          "ID": "10063",
+          "name": "雷达屏蔽器",
+          "SpecificEffects": "遭受攻击和反击时有<color=#F74848>55%</color>的概率发动，回避率提升<color=#F74848>10%</color>",
+          "BufCarried": "100631",
+          "SkillIcon": "Icon_entry_10014",
+          "icon": "Icon_entry_10014",
+          "Status": 1,
+          "weight": 96
+        },
+        {
+          "ID": "10064",
+          "name": "雷达屏蔽器",
+          "SpecificEffects": "遭受攻击和反击时有<color=#F74848>70%</color>的概率发动，回避率提升<color=#F74848>12%</color>",
+          "BufCarried": "100641",
+          "SkillIcon": "Icon_entry_10014",
+          "icon": "Icon_entry_10014",
+          "Status": 1,
+          "weight": 97
+        }
+      ],
+      "introduce": "该仪器能将大部分机兵的火控雷达屏蔽，让那些过度依赖辅助瞄准的驾驶员原形毕露，陷入不知所措的境地。",
+      "ModuleIcon": "Icon_entry_10014",
+      "icon": "Icon_entry_10014",
+      "IconType": "SuitA",
+      "ObtainingMethod": "模组生产",
+      "Status": 1,
+      "weight": 5
+    },
+    "now": "2024-12-13 15:09:48"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

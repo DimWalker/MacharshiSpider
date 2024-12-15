@@ -1,0 +1,24 @@
+{
+  "data": {
+    "data": {
+      "ID": "4121",
+      "ModuleName": "应元件W-奋发",
+      "name": "应元件W-奋发",
+      "quality": "R",
+      "ModuleType": "Function",
+      "IconType": "Function",
+      "ModuleSubtype": "7",
+      "ProbabilityLevel": "5",
+      "ModuleDescription": "战后为自己添加<buf ID=7100403>[暴击率提升Ⅱ]</buf>，持续<color=#F74848>1</color>回合",
+      "attention": "■ 仅限双手武器/背部武器使用\n■ 相同增益效果无法重复叠加\n■ 无法与同类型应元件共同使用",
+      "IconPath": "Icon_skill_passive_4002",
+      "icon": "Icon_skill_passive_4002",
+      "Status": 1,
+      "weight": 198
+    },
+    "now": "2024-12-13 15:09:51"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

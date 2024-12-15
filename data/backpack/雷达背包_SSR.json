@@ -1,0 +1,33 @@
+{
+  "data": {
+    "data": {
+      "ID": "60800104",
+      "name": "雷达背包",
+      "quality": "SSR",
+      "weight": "150",
+      "BackpackMainType": "Radar",
+      "AssemblableAirmenType": "Light/Medium/Heavy",
+      "BackpackIcon": "Icon_backpack_60800101",
+      "icon": "Icon_backpack_60800101",
+      "WithPassiveSkills": [
+        {
+          "ID": "60182",
+          "name": "战术武器引导Ⅱ",
+          "SpecificEffects": "使机兵周围<color=#F74848>2</color>格范围，成为友方导弹、火箭的可攻击区域；\n机兵躯干耐久值提升<color=#F74848>10%</color>，造成伤害提升<color=#F74848>5%</color>；",
+          "BufCarried": "601821",
+          "SkillIcon": "Icon_skill_passive_5119",
+          "icon": "Icon_skill_passive_5119",
+          "Status": 1,
+          "weight": 995
+        }
+      ],
+      "HowGet": "无",
+      "RelatedDescription": "小型化的机兵定位装置，开启能让友方机兵获得定位，引导飞弹对范围内目标进行精准打击。",
+      "Status": 1
+    },
+    "now": "2024-12-13 15:09:10"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "20211",
+      "ModuleName": "强波干扰仪",
+      "name": "强波干扰仪",
+      "EntryLevel": "1",
+      "quality": "SSR",
+      "ModuleEffects": "20211/20212/20213/20214",
+      "WithPassiveSkills": [
+        {
+          "ID": "20211",
+          "name": "强波干扰仪",
+          "SpecificEffects": "展开光环，使周围<color=#F74848>2</color>格范围内的敌机回避率下降<color=#F74848>2.5%</color>",
+          "BufCarried": "202111",
+          "SkillIcon": "Icon_entry_10042",
+          "icon": "Icon_entry_10042",
+          "Status": 1,
+          "weight": 198
+        },
+        {
+          "ID": "20212",
+          "name": "强波干扰仪",
+          "SpecificEffects": "展开光环，使周围<color=#F74848>2</color>格范围内的敌机回避率下降<color=#F74848>5%</color>",
+          "BufCarried": "202121",
+          "SkillIcon": "Icon_entry_10042",
+          "icon": "Icon_entry_10042",
+          "Status": 1,
+          "weight": 199
+        },
+        {
+          "ID": "20213",
+          "name": "强波干扰仪",
+          "SpecificEffects": "展开光环，使周围<color=#F74848>2</color>格范围内的敌机回避率下降<color=#F74848>8%</color>",
+          "BufCarried": "202131",
+          "SkillIcon": "Icon_entry_10042",
+          "icon": "Icon_entry_10042",
+          "Status": 1,
+          "weight": 200
+        },
+        {
+          "ID": "20214",
+          "name": "强波干扰仪",
+          "SpecificEffects": "展开光环，使周围<color=#F74848>2</color>格范围内的敌机回避率下降<color=#F74848>12%</color>",
+          "BufCarried": "202141",
+          "SkillIcon": "Icon_entry_10042",
+          "icon": "Icon_entry_10042",
+          "Status": 1,
+          "weight": 201
+        }
+      ],
+      "introduce": "开启振波干扰装置时，周边机兵会受到严重的信号传输压制，其最直观表现就是无法通过移动和战术动作来完成一系列躲避，但友军通过安装频闭器可以免除影响。",
+      "ModuleIcon": "Icon_entry_10042",
+      "icon": "Icon_entry_10042",
+      "IconType": "SuitS",
+      "ObtainingMethod": "模组生产",
+      "Status": 1,
+      "weight": 26
+    },
+    "now": "2024-12-13 15:09:45"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

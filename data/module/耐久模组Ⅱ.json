@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "40052",
+      "ModuleName": "耐久模组Ⅱ",
+      "name": "耐久模组Ⅱ",
+      "EntryLevel": "2",
+      "quality": "SSR",
+      "ModuleEffects": "40051/40052/40053/40054",
+      "WithPassiveSkills": [
+        {
+          "ID": "40051",
+          "name": "耐久模组Ⅰ",
+          "SpecificEffects": "耐久值提升<color=#F74848>3%</color>",
+          "BufCarried": "400511",
+          "SkillIcon": "Icon_entry_40051",
+          "icon": "Icon_entry_40051",
+          "Status": 1,
+          "weight": 606
+        },
+        {
+          "ID": "40052",
+          "name": "耐久模组Ⅰ",
+          "SpecificEffects": "耐久值提升<color=#F74848>5%</color>",
+          "BufCarried": "400521",
+          "SkillIcon": "Icon_entry_40051",
+          "icon": "Icon_entry_40051",
+          "Status": 1,
+          "weight": 607
+        },
+        {
+          "ID": "40053",
+          "name": "耐久模组Ⅰ",
+          "SpecificEffects": "耐久值提升<color=#F74848>7%</color>",
+          "BufCarried": "400531",
+          "SkillIcon": "Icon_entry_40051",
+          "icon": "Icon_entry_40051",
+          "Status": 1,
+          "weight": 608
+        },
+        {
+          "ID": "40054",
+          "name": "耐久模组Ⅰ",
+          "SpecificEffects": "耐久值提升<color=#F74848>10%</color>",
+          "BufCarried": "400541",
+          "SkillIcon": "Icon_entry_40051",
+          "icon": "Icon_entry_40051",
+          "Status": 1,
+          "weight": 609
+        }
+      ],
+      "introduce": "如果你想要在战场上活得够久，耐久模组Ⅱ型永远是最好的选择。",
+      "ModuleIcon": "Icon_entry_40051",
+      "icon": "Icon_entry_40051",
+      "IconType": "PropertyS",
+      "ObtainingMethod": "商店购买",
+      "Status": 1,
+      "weight": 69
+    },
+    "now": "2024-12-13 15:09:38"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

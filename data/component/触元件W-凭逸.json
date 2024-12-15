@@ -1,0 +1,24 @@
+{
+  "data": {
+    "data": {
+      "ID": "3183",
+      "ModuleName": "触元件W-凭逸",
+      "name": "触元件W-凭逸",
+      "quality": "SSR",
+      "ModuleType": "Condition",
+      "IconType": "Condition",
+      "ModuleSubtype": "10",
+      "ProbabilityLevel": "7",
+      "ModuleDescription": "主动攻击时，自身拥有<color=#F74848>3</color>个及以上增益效果时",
+      "attention": "■ 仅限双手武器/背部武器使用\n■ 无法与同类型触元件共同使用",
+      "IconPath": "Icon_skill_passive_5222",
+      "icon": "Icon_skill_passive_5222",
+      "Status": 1,
+      "weight": 167
+    },
+    "now": "2024-12-13 15:09:56"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

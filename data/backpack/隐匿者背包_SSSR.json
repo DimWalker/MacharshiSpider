@@ -1,0 +1,33 @@
+{
+  "data": {
+    "data": {
+      "ID": "61001706",
+      "name": "隐匿者背包",
+      "quality": "SSSR",
+      "weight": "150",
+      "BackpackMainType": "Invisible",
+      "AssemblableAirmenType": "Light/Medium/Heavy",
+      "BackpackIcon": "Icon_backpack_60900201",
+      "icon": "Icon_backpack_60900201",
+      "WithPassiveSkills": [
+        {
+          "ID": "62301",
+          "name": "隐匿者驱动·增伤",
+          "SpecificEffects": "行动结束时如果周围<color=#F74848>2</color>格内没有敌军开启<buf ID=3004502>[隐形Ⅰ]</buf>，持续<color=#F74848>2</color>回合，触发间隔<color=#F74848>3</color>回合；\n行动开始时，若处于<buf ID=900033>[隐形]</buf>状态，立即回复<color=#F74848>1</color>AP；对战时，使敌人遭受伤害提升<color=#F74848>10%</color>；\n机兵躯干耐久值提升<color=#F74848>10%</color>，造成伤害提升<color=#F74848>5%</color>",
+          "BufCarried": "601531/602211/602212",
+          "SkillIcon": "Icon_skill_passive_5233",
+          "icon": "Icon_skill_passive_5233",
+          "Status": 1,
+          "weight": 1060
+        }
+      ],
+      "HowGet": "无",
+      "RelatedDescription": "旧式隐形干扰背包的改良升级款，先进的光学系统能够扭曲光线，让装配该型号背包的机兵处于某种程度上的隐形状态。同时集成了对敌机遭受伤害提升的功能。",
+      "Status": 1
+    },
+    "now": "2024-12-13 15:09:25"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "40091",
+      "ModuleName": "护理模组Ⅰ",
+      "name": "护理模组Ⅰ",
+      "EntryLevel": "1",
+      "quality": "SR",
+      "ModuleEffects": "40091/40092/40093/40094",
+      "WithPassiveSkills": [
+        {
+          "ID": "40091",
+          "name": "护理模组Ⅰ",
+          "SpecificEffects": "受修理量提升<color=#F74848>3%</color>",
+          "BufCarried": "400911",
+          "SkillIcon": "Icon_entry_40091",
+          "icon": "Icon_entry_40091",
+          "Status": 1,
+          "weight": 638
+        },
+        {
+          "ID": "40092",
+          "name": "护理模组Ⅰ",
+          "SpecificEffects": "受修理量提升<color=#F74848>5%</color>",
+          "BufCarried": "400921",
+          "SkillIcon": "Icon_entry_40091",
+          "icon": "Icon_entry_40091",
+          "Status": 1,
+          "weight": 639
+        },
+        {
+          "ID": "40093",
+          "name": "护理模组Ⅰ",
+          "SpecificEffects": "受修理量提升<color=#F74848>7%</color>",
+          "BufCarried": "400931",
+          "SkillIcon": "Icon_entry_40091",
+          "icon": "Icon_entry_40091",
+          "Status": 1,
+          "weight": 640
+        },
+        {
+          "ID": "40094",
+          "name": "护理模组Ⅰ",
+          "SpecificEffects": "受修理量提升<color=#F74848>10%</color>",
+          "BufCarried": "400941",
+          "SkillIcon": "Icon_entry_40091",
+          "icon": "Icon_entry_40091",
+          "Status": 1,
+          "weight": 641
+        }
+      ],
+      "introduce": "护理模组能让你的机兵预存更多的维修空间，让那些机械师维修时少费点劲。",
+      "ModuleIcon": "Icon_entry_40091",
+      "icon": "Icon_entry_40091",
+      "IconType": "PropertyA",
+      "ObtainingMethod": "商店购买",
+      "Status": 1,
+      "weight": 76
+    },
+    "now": "2024-12-13 15:09:37"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

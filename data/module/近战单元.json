@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "20051",
+      "ModuleName": "近战单元",
+      "name": "近战单元",
+      "EntryLevel": "1",
+      "quality": "SSR",
+      "ModuleEffects": "20051/20052/20053/20054",
+      "WithPassiveSkills": [
+        {
+          "ID": "20051",
+          "name": "近战单元",
+          "SpecificEffects": "与相邻<color=#F74848>1</color>圈的敌机对战时，命中率与暴击率提升<color=#F74848>3%</color>",
+          "BufCarried": "200511",
+          "SkillIcon": "Icon_entry_10005",
+          "icon": "Icon_entry_10005",
+          "Status": 1,
+          "weight": 134
+        },
+        {
+          "ID": "20052",
+          "name": "近战单元",
+          "SpecificEffects": "与相邻<color=#F74848>1</color>圈的敌机对战时，命中率与暴击率提升<color=#F74848>6%</color>",
+          "BufCarried": "200521",
+          "SkillIcon": "Icon_entry_10005",
+          "icon": "Icon_entry_10005",
+          "Status": 1,
+          "weight": 135
+        },
+        {
+          "ID": "20053",
+          "name": "近战单元",
+          "SpecificEffects": "与相邻<color=#F74848>1</color>圈的敌机对战时，命中率与暴击率提升<color=#F74848>10%</color>",
+          "BufCarried": "200531",
+          "SkillIcon": "Icon_entry_10005",
+          "icon": "Icon_entry_10005",
+          "Status": 1,
+          "weight": 136
+        },
+        {
+          "ID": "20054",
+          "name": "近战单元",
+          "SpecificEffects": "与相邻<color=#F74848>1</color>圈的敌机对战时，命中率与暴击率提升<color=#F74848>15%</color>",
+          "BufCarried": "200541",
+          "SkillIcon": "Icon_entry_10005",
+          "icon": "Icon_entry_10005",
+          "Status": 1,
+          "weight": 137
+        }
+      ],
+      "introduce": "完全根据强电场机型打造的特种钢骨骼，该设计通过整合近程打击型手臂和机舱内的操控修正模块，实现了打击端高效耐用，操控端安全精密的完美近程作战单元。",
+      "ModuleIcon": "Icon_entry_10005",
+      "icon": "Icon_entry_10005",
+      "IconType": "SuitS",
+      "ObtainingMethod": "模组生产",
+      "Status": 1,
+      "weight": 14
+    },
+    "now": "2024-12-13 15:09:47"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

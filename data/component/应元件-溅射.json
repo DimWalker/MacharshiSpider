@@ -1,0 +1,24 @@
+{
+  "data": {
+    "data": {
+      "ID": "2071",
+      "ModuleName": "应元件-溅射",
+      "name": "应元件-溅射",
+      "quality": "R",
+      "ModuleType": "Function",
+      "IconType": "Function",
+      "ModuleSubtype": "6",
+      "ProbabilityLevel": "5",
+      "ModuleDescription": "对命中部位以外的<color=#F74848>1</color>个部位造成<color=#F74848>12%</color>的溅射伤害",
+      "attention": "■ 仅限单发武器使用\n■ 无法在战斗外触发\n■ 无法在未命中时触发\n■ 无法与同类型应元件共同使用",
+      "IconPath": "Icon_skill_passive_1107",
+      "icon": "Icon_skill_passive_1107",
+      "Status": 1,
+      "weight": 84
+    },
+    "now": "2024-12-13 15:10:09"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

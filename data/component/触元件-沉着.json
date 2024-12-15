@@ -1,0 +1,24 @@
+{
+  "data": {
+    "data": {
+      "ID": "1153",
+      "ModuleName": "触元件-沉着",
+      "name": "触元件-沉着",
+      "quality": "SSR",
+      "ModuleType": "Condition",
+      "IconType": "Condition",
+      "ModuleSubtype": "11",
+      "ProbabilityLevel": "4",
+      "ModuleDescription": "主动攻击前，如果没有移动过",
+      "attention": "■ 无法与同类型触元件共同使用",
+      "IconPath": "Icon_RnD_P_1003",
+      "icon": "Icon_RnD_P_1003",
+      "Status": 1,
+      "weight": 38
+    },
+    "now": "2024-12-13 15:10:17"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

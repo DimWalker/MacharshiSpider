@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "20111",
+      "ModuleName": "协调模块",
+      "name": "协调模块",
+      "EntryLevel": "1",
+      "quality": "SSR",
+      "ModuleEffects": "20111/20112/20113/20114",
+      "WithPassiveSkills": [
+        {
+          "ID": "20111",
+          "name": "协调模块",
+          "SpecificEffects": "主动修理后，使最多<color=#F74848>1</color>个修理目标获得<buf ID=7100303>[伤害提升Ⅱ]</buf>，持续<color=#F74848>1</color>回合",
+          "BufCarried": "201111",
+          "SkillIcon": "Icon_entry_10040",
+          "icon": "Icon_entry_10040",
+          "Status": 1,
+          "weight": 158
+        },
+        {
+          "ID": "20112",
+          "name": "协调模块",
+          "SpecificEffects": "主动修理后，使最多<color=#F74848>2</color>个修理目标获得<buf ID=7100303>[伤害提升Ⅱ]</buf>，持续<color=#F74848>1</color>回合",
+          "BufCarried": "201121",
+          "SkillIcon": "Icon_entry_10040",
+          "icon": "Icon_entry_10040",
+          "Status": 1,
+          "weight": 159
+        },
+        {
+          "ID": "20113",
+          "name": "协调模块",
+          "SpecificEffects": "主动修理后，使最多<color=#F74848>2</color>个修理目标获得<buf ID=7100305>[伤害提升Ⅲ]</buf>，持续<color=#F74848>1</color>回合",
+          "BufCarried": "201131",
+          "SkillIcon": "Icon_entry_10040",
+          "icon": "Icon_entry_10040",
+          "Status": 1,
+          "weight": 160
+        },
+        {
+          "ID": "20114",
+          "name": "协调模块",
+          "SpecificEffects": "主动修理后，使最多<color=#F74848>3</color>个修理目标获得<buf ID=7100305>[伤害提升Ⅲ]</buf>，持续<color=#F74848>1</color>回合",
+          "BufCarried": "201141",
+          "SkillIcon": "Icon_entry_10040",
+          "icon": "Icon_entry_10040",
+          "Status": 1,
+          "weight": 161
+        }
+      ],
+      "introduce": "开拓者的修理系统通常会在完成维修任务后为武器附带一些调试优化，这种设计的初衷是为了对付米赫玛拓荒期横行的非法武装。",
+      "ModuleIcon": "Icon_entry_10040",
+      "icon": "Icon_entry_10040",
+      "IconType": "SuitS",
+      "ObtainingMethod": "模组生产",
+      "Status": 1,
+      "weight": 20
+    },
+    "now": "2024-12-13 15:09:46"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

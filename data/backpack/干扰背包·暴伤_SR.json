@@ -1,0 +1,33 @@
+{
+  "data": {
+    "data": {
+      "ID": "60500503",
+      "name": "干扰背包·暴伤",
+      "quality": "SR",
+      "weight": "125",
+      "BackpackMainType": "EMP",
+      "AssemblableAirmenType": "Light/Medium/Heavy",
+      "BackpackIcon": "Icon_backpack_60200101",
+      "icon": "Icon_backpack_60200101",
+      "WithPassiveSkills": [
+        {
+          "ID": "60132",
+          "name": "暴伤压制Ⅱ",
+          "SpecificEffects": "对战时，使敌人暴击伤害降低<color=#F74848>6%</color>；\n机兵躯干耐久值提升<color=#F74848>8%</color>",
+          "BufCarried": "601321",
+          "SkillIcon": "Icon_skill_passive_5157",
+          "icon": "Icon_skill_passive_5157",
+          "Status": 1,
+          "weight": 981
+        }
+      ],
+      "HowGet": "无",
+      "RelatedDescription": "装配了高频干扰波段发射装置的机兵背包，通过波段重叠对敌机的暴伤能力造成影响。",
+      "Status": 1
+    },
+    "now": "2024-12-13 15:09:26"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

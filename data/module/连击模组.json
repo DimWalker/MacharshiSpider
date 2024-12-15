@@ -1,0 +1,105 @@
+{
+  "data": {
+    "data": {
+      "ID": "30101",
+      "ModuleName": "连击模组",
+      "name": "连击模组",
+      "EntryLevel": "1",
+      "quality": "SSR",
+      "ModuleEffects": "30101/30102/30103/30104/30105/30106/30107/30108",
+      "WithPassiveSkills": [
+        {
+          "ID": "30101",
+          "name": "连击模组",
+          "SpecificEffects": "发动<buf ID=900004>[再攻击]</buf>时，伤害提升<color=#F74848>3%</color>",
+          "BufCarried": "301011",
+          "SkillIcon": "Icon_entry_10022",
+          "icon": "Icon_entry_10022",
+          "Status": 1,
+          "weight": 374
+        },
+        {
+          "ID": "30102",
+          "name": "连击模组",
+          "SpecificEffects": "发动<buf ID=900004>[再攻击]</buf>时，伤害提升<color=#F74848>4%</color>",
+          "BufCarried": "301021",
+          "SkillIcon": "Icon_entry_10022",
+          "icon": "Icon_entry_10022",
+          "Status": 1,
+          "weight": 375
+        },
+        {
+          "ID": "30103",
+          "name": "连击模组",
+          "SpecificEffects": "发动<buf ID=900004>[再攻击]</buf>时，伤害提升<color=#F74848>6%</color>",
+          "BufCarried": "301031",
+          "SkillIcon": "Icon_entry_10022",
+          "icon": "Icon_entry_10022",
+          "Status": 1,
+          "weight": 376
+        },
+        {
+          "ID": "30104",
+          "name": "连击模组",
+          "SpecificEffects": "发动<buf ID=900004>[再攻击]</buf>时，伤害提升<color=#F74848>8%</color>",
+          "BufCarried": "301041",
+          "SkillIcon": "Icon_entry_10022",
+          "icon": "Icon_entry_10022",
+          "Status": 1,
+          "weight": 377
+        },
+        {
+          "ID": "30105",
+          "name": "连击模组",
+          "SpecificEffects": "发动<buf ID=900004>[再攻击]</buf>时，伤害提升<color=#F74848>10%</color>",
+          "BufCarried": "301051",
+          "SkillIcon": "Icon_entry_10022",
+          "icon": "Icon_entry_10022",
+          "Status": 1,
+          "weight": 378
+        },
+        {
+          "ID": "30106",
+          "name": "连击模组",
+          "SpecificEffects": "发动<buf ID=900004>[再攻击]</buf>时，伤害提升<color=#F74848>12%</color>",
+          "BufCarried": "301061",
+          "SkillIcon": "Icon_entry_10022",
+          "icon": "Icon_entry_10022",
+          "Status": 1,
+          "weight": 379
+        },
+        {
+          "ID": "30107",
+          "name": "连击模组",
+          "SpecificEffects": "发动<buf ID=900004>[再攻击]</buf>时，伤害提升<color=#F74848>14%</color>",
+          "BufCarried": "301071",
+          "SkillIcon": "Icon_entry_10022",
+          "icon": "Icon_entry_10022",
+          "Status": 1,
+          "weight": 380
+        },
+        {
+          "ID": "30108",
+          "name": "连击模组",
+          "SpecificEffects": "发动<buf ID=900004>[再攻击]</buf>时，伤害提升<color=#F74848>18%</color>；\n每回合第一次<buf ID=900004>[再攻击]</buf>的AP消耗<color=#F74848>-1</color>，最低<color=#F74848>1</color>点",
+          "BufCarried": "301081/301083",
+          "SkillIcon": "Icon_entry_10022",
+          "icon": "Icon_entry_10022",
+          "Status": 1,
+          "weight": 381
+        }
+      ],
+      "introduce": "连击模组能让你的机体不断地攻击再攻击，用狂风骤雨般的攻击击溃敌人，成为真正的战场收割者。",
+      "ModuleIcon": "Icon_entry_10022",
+      "icon": "Icon_entry_10022",
+      "IconType": "GeneralSuit",
+      "ObtainingMethod": "商店购买",
+      "Status": 1,
+      "weight": 47
+    },
+    "now": "2024-12-13 15:09:41"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

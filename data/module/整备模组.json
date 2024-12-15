@@ -1,0 +1,105 @@
+{
+  "data": {
+    "data": {
+      "ID": "30161",
+      "ModuleName": "整备模组",
+      "name": "整备模组",
+      "EntryLevel": "1",
+      "quality": "SSR",
+      "ModuleEffects": "30161/30162/30163/30164/30165/30166/30167/30168",
+      "WithPassiveSkills": [
+        {
+          "ID": "30161",
+          "name": "整备模组",
+          "SpecificEffects": "自身的耐久值全满时，伤害提升<color=#F74848>1.5%</color>，遭受伤害降低<color=#F74848>1.5%</color>",
+          "BufCarried": "301611/301613",
+          "SkillIcon": "Icon_entry_10058",
+          "icon": "Icon_entry_10058",
+          "Status": 1,
+          "weight": 422
+        },
+        {
+          "ID": "30162",
+          "name": "整备模组",
+          "SpecificEffects": "自身的耐久值全满时，伤害提升<color=#F74848>2%</color>，遭受伤害降低<color=#F74848>2%</color>",
+          "BufCarried": "301621/301623",
+          "SkillIcon": "Icon_entry_10058",
+          "icon": "Icon_entry_10058",
+          "Status": 1,
+          "weight": 423
+        },
+        {
+          "ID": "30163",
+          "name": "整备模组",
+          "SpecificEffects": "自身的耐久值全满时，伤害提升<color=#F74848>3%</color>，遭受伤害降低<color=#F74848>3%</color>",
+          "BufCarried": "301631/301633",
+          "SkillIcon": "Icon_entry_10058",
+          "icon": "Icon_entry_10058",
+          "Status": 1,
+          "weight": 424
+        },
+        {
+          "ID": "30164",
+          "name": "整备模组",
+          "SpecificEffects": "自身的耐久值百分比大于等于<color=#F74848>90%</color>时，伤害提升<color=#F74848>4%</color>，遭受伤害降低<color=#F74848>4%</color>",
+          "BufCarried": "301641/301643",
+          "SkillIcon": "Icon_entry_10058",
+          "icon": "Icon_entry_10058",
+          "Status": 1,
+          "weight": 425
+        },
+        {
+          "ID": "30165",
+          "name": "整备模组",
+          "SpecificEffects": "自身的耐久值百分比大于等于<color=#F74848>90%</color>时，伤害提升<color=#F74848>5%</color>，遭受伤害降低<color=#F74848>5%</color>",
+          "BufCarried": "301651/301653",
+          "SkillIcon": "Icon_entry_10058",
+          "icon": "Icon_entry_10058",
+          "Status": 1,
+          "weight": 426
+        },
+        {
+          "ID": "30166",
+          "name": "整备模组",
+          "SpecificEffects": "自身的耐久值百分比大于等于<color=#F74848>80%</color>时，伤害提升<color=#F74848>6%</color>，遭受伤害降低<color=#F74848>6%</color>",
+          "BufCarried": "301661/301663",
+          "SkillIcon": "Icon_entry_10058",
+          "icon": "Icon_entry_10058",
+          "Status": 1,
+          "weight": 427
+        },
+        {
+          "ID": "30167",
+          "name": "整备模组",
+          "SpecificEffects": "自身的耐久值百分比大于等于<color=#F74848>80%</color>时，伤害提升<color=#F74848>7%</color>，遭受伤害降低<color=#F74848>7%</color>",
+          "BufCarried": "301671/301673",
+          "SkillIcon": "Icon_entry_10058",
+          "icon": "Icon_entry_10058",
+          "Status": 1,
+          "weight": 428
+        },
+        {
+          "ID": "30168",
+          "name": "整备模组",
+          "SpecificEffects": "自身的耐久值百分比大于等于<color=#F74848>80%</color>时，伤害提升<color=#F74848>9%</color>，遭受伤害降低<color=#F74848>9%</color>；\n行动开始时耐久值恢复<color=#F74848>8%</color>",
+          "BufCarried": "301681/301683/301685",
+          "SkillIcon": "Icon_entry_10058",
+          "icon": "Icon_entry_10058",
+          "Status": 1,
+          "weight": 429
+        }
+      ],
+      "introduce": "整备模组更关注于机兵的完整性，减少整体为应对攻击的预留性能，充分发挥其应有的能力，但这也使其在被动迎战时显得极为乏力。",
+      "ModuleIcon": "Icon_entry_10058",
+      "icon": "Icon_entry_10058",
+      "IconType": "GeneralSuit",
+      "ObtainingMethod": "商店购买",
+      "Status": 1,
+      "weight": 52
+    },
+    "now": "2024-12-13 15:09:40"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "20321",
+      "ModuleName": "疏流芯片",
+      "name": "疏流芯片",
+      "EntryLevel": "1",
+      "quality": "SSR",
+      "ModuleEffects": "20321/20322/20323/20324",
+      "WithPassiveSkills": [
+        {
+          "ID": "20321",
+          "name": "疏流芯片",
+          "SpecificEffects": "修理量提升<color=#F74848>3%</color>，施放单体修理技能时，若目标耐久值低于<color=#F74848>30%</color>，对目标施加<buf ID=7100901>[移动力提升]</buf>，持续<color=#F74848>1</color>回合",
+          "BufCarried": "203211/203212",
+          "SkillIcon": "Icon_entry_10062",
+          "icon": "Icon_entry_10062",
+          "Status": 1,
+          "weight": 242
+        },
+        {
+          "ID": "20322",
+          "name": "疏流芯片",
+          "SpecificEffects": "修理量提升<color=#F74848>6%</color>，施放单体修理技能时，若目标耐久值低于<color=#F74848>50%</color>，对目标施加<buf ID=7100901>[移动力提升]</buf>，持续<color=#F74848>1</color>回合",
+          "BufCarried": "203221/203222",
+          "SkillIcon": "Icon_entry_10062",
+          "icon": "Icon_entry_10062",
+          "Status": 1,
+          "weight": 243
+        },
+        {
+          "ID": "20323",
+          "name": "疏流芯片",
+          "SpecificEffects": "修理量提升<color=#F74848>10%</color>，施放单体修理技能时，若目标耐久值低于<color=#F74848>70%</color>，对目标施加<buf ID=7100901>[移动力提升]</buf>，持续<color=#F74848>1</color>回合",
+          "BufCarried": "203231/203232",
+          "SkillIcon": "Icon_entry_10062",
+          "icon": "Icon_entry_10062",
+          "Status": 1,
+          "weight": 244
+        },
+        {
+          "ID": "20324",
+          "name": "疏流芯片",
+          "SpecificEffects": "修理量提升<color=#F74848>15%</color>，施放单体修理技能时，若目标耐久值低于<color=#F74848>90%</color>，对目标施加<buf ID=7100901>[移动力提升]</buf>，持续<color=#F74848>1</color>回合",
+          "BufCarried": "203241/203242",
+          "SkillIcon": "Icon_entry_10062",
+          "icon": "Icon_entry_10062",
+          "Status": 1,
+          "weight": 245
+        }
+      ],
+      "introduce": "为应对实际战场中多样化的复杂故障而内置的新生代计算核心，能根据预载的信息资料快速判断故障类型，执行维修方案，减轻损管负担。",
+      "ModuleIcon": "Icon_entry_10062",
+      "icon": "Icon_entry_10062",
+      "IconType": "SuitS",
+      "ObtainingMethod": "模组生产",
+      "Status": 1,
+      "weight": 30
+    },
+    "now": "2024-12-13 15:09:44"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

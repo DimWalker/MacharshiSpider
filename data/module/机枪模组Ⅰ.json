@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "40141",
+      "ModuleName": "机枪模组Ⅰ",
+      "name": "机枪模组Ⅰ",
+      "EntryLevel": "1",
+      "quality": "SR",
+      "ModuleEffects": "40141/40142/40143/40144",
+      "WithPassiveSkills": [
+        {
+          "ID": "40141",
+          "name": "机枪模组Ⅰ",
+          "SpecificEffects": "机枪的伤害提升<color=#F74848>3%</color>",
+          "BufCarried": "401411",
+          "SkillIcon": "Icon_entry_40141",
+          "icon": "Icon_entry_40141",
+          "Status": 1,
+          "weight": 678
+        },
+        {
+          "ID": "40142",
+          "name": "机枪模组Ⅰ",
+          "SpecificEffects": "机枪的伤害提升<color=#F74848>5%</color>",
+          "BufCarried": "401421",
+          "SkillIcon": "Icon_entry_40141",
+          "icon": "Icon_entry_40141",
+          "Status": 1,
+          "weight": 679
+        },
+        {
+          "ID": "40143",
+          "name": "机枪模组Ⅰ",
+          "SpecificEffects": "机枪的伤害提升<color=#F74848>7%</color>",
+          "BufCarried": "401431",
+          "SkillIcon": "Icon_entry_40141",
+          "icon": "Icon_entry_40141",
+          "Status": 1,
+          "weight": 680
+        },
+        {
+          "ID": "40144",
+          "name": "机枪模组Ⅰ",
+          "SpecificEffects": "机枪的伤害提升<color=#F74848>10%</color>",
+          "BufCarried": "401441",
+          "SkillIcon": "Icon_entry_40141",
+          "icon": "Icon_entry_40141",
+          "Status": 1,
+          "weight": 681
+        }
+      ],
+      "introduce": "机枪模组很好弥补了机枪伤害不足这一缺点，让这一武器的平衡性得到了进一步的加强。",
+      "ModuleIcon": "Icon_entry_40141",
+      "icon": "Icon_entry_40141",
+      "IconType": "PropertyA",
+      "ObtainingMethod": "商店购买",
+      "Status": 1,
+      "weight": 86
+    },
+    "now": "2024-12-13 15:09:35"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

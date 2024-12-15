@@ -1,0 +1,63 @@
+{
+  "data": {
+    "data": [
+      {
+        "ID": "10215122",
+        "name": "定风波",
+        "quality": "SSSR",
+        "grade": "70",
+        "WeaponType1": "Melee",
+        "WeaponType2": "PileBunker",
+        "type": "PileBunker",
+        "LimitedModelOfWeapon": "Light/Medium/Heavy",
+        "RestrictionsPositionOfWeapon": "Hand",
+        "range": "1",
+        "WeaponWeight": "300",
+        "WeaponBasicAttackingPower": "681",
+        "WeaponHitPoint": "3245",
+        "WeaponUnderstanding": "4603",
+        "PassiveSkill": [
+          {
+            "ID": "53044",
+            "name": "自在",
+            "SpecificEffects": "使用打桩机造成暴击时，获得<color=#F74848>1</color>AP，每回合可生效<color=#F74848>1</color>次",
+            "BufCarried": "530441",
+            "SkillIcon": "Icon_skill_passive_5155",
+            "icon": "Icon_skill_passive_5155",
+            "Status": 1,
+            "weight": 856
+          },
+          {
+            "ID": "53045",
+            "name": "极魂",
+            "SpecificEffects": "强化<buf ID=900102>[极意]</buf>效果：<buf ID=900050>[兴奋]</buf>的叠加上限提高<color=#F74848>2</color>层；\n行动开始时，获得<color=#F74848>1</color>层<buf ID=900050>[兴奋]</buf>；\n自身携带<color=#F74848>3</color>层及以上<buf ID=900050>[兴奋]</buf>时，自身触发的<buf ID=900001>[追击]</buf>效果替换为<buf ID=900010>[连续攻击]</buf>，并且<buf ID=900010>[连续攻击]</buf>伤害提升<color=#F74848>35%</color>",
+            "BufCarried": "530450/530451/530452/530453/530454/530457/530458/530459",
+            "SkillIcon": "Icon_skill_passive_5240",
+            "icon": "Icon_skill_passive_5240",
+            "Status": 1,
+            "weight": 857
+          },
+          {
+            "ID": "53043",
+            "name": "崩摧",
+            "SpecificEffects": "攻击耐久值大于等于<color=#F74848>60%</color>的部位时，造成伤害提升<color=#F74848>15%</color>",
+            "BufCarried": "530431",
+            "SkillIcon": "Icon_skill_passive_1101",
+            "icon": "Icon_skill_passive_1101",
+            "Status": 1,
+            "weight": 855
+          }
+        ],
+        "IconResourcePath": "Icon_weapon_10200401",
+        "icon": "Icon_weapon_10200401",
+        "describe": "「回首向来萧瑟处，归去，也无风雨也无晴。」",
+        "Status": 1,
+        "weight": 699
+      }
+    ],
+    "now": "2024-12-13 15:09:02"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

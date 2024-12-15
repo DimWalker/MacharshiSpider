@@ -1,0 +1,105 @@
+{
+  "data": {
+    "data": {
+      "ID": "30011",
+      "ModuleName": "攻坚模组",
+      "name": "攻坚模组",
+      "EntryLevel": "1",
+      "quality": "SSR",
+      "ModuleEffects": "30011/30012/30013/30014/30015/30016/30017/30018",
+      "WithPassiveSkills": [
+        {
+          "ID": "30011",
+          "name": "攻坚模组",
+          "SpecificEffects": "攻击耐久值全满的目标时，伤害提升<color=#F74848>3%</color>",
+          "BufCarried": "300111",
+          "SkillIcon": "Icon_entry_10047",
+          "icon": "Icon_entry_10047",
+          "Status": 1,
+          "weight": 302
+        },
+        {
+          "ID": "30012",
+          "name": "攻坚模组",
+          "SpecificEffects": "攻击耐久值全满的目标时，伤害提升<color=#F74848>4%</color>",
+          "BufCarried": "300121",
+          "SkillIcon": "Icon_entry_10047",
+          "icon": "Icon_entry_10047",
+          "Status": 1,
+          "weight": 303
+        },
+        {
+          "ID": "30013",
+          "name": "攻坚模组",
+          "SpecificEffects": "攻击耐久值全满的目标时，伤害提升<color=#F74848>6%</color>",
+          "BufCarried": "300131",
+          "SkillIcon": "Icon_entry_10047",
+          "icon": "Icon_entry_10047",
+          "Status": 1,
+          "weight": 304
+        },
+        {
+          "ID": "30014",
+          "name": "攻坚模组",
+          "SpecificEffects": "攻击耐久值百分比大于等于<color=#F74848>80%</color>的目标时，伤害提升<color=#F74848>8%</color>",
+          "BufCarried": "300141",
+          "SkillIcon": "Icon_entry_10047",
+          "icon": "Icon_entry_10047",
+          "Status": 1,
+          "weight": 305
+        },
+        {
+          "ID": "30015",
+          "name": "攻坚模组",
+          "SpecificEffects": "攻击耐久值百分比大于等于<color=#F74848>80%</color>的目标时，伤害提升<color=#F74848>10%</color>",
+          "BufCarried": "300151",
+          "SkillIcon": "Icon_entry_10047",
+          "icon": "Icon_entry_10047",
+          "Status": 1,
+          "weight": 306
+        },
+        {
+          "ID": "30016",
+          "name": "攻坚模组",
+          "SpecificEffects": "攻击耐久值百分比大于等于<color=#F74848>60%</color>的目标时，伤害提升<color=#F74848>12%</color>",
+          "BufCarried": "300161",
+          "SkillIcon": "Icon_entry_10047",
+          "icon": "Icon_entry_10047",
+          "Status": 1,
+          "weight": 307
+        },
+        {
+          "ID": "30017",
+          "name": "攻坚模组",
+          "SpecificEffects": "攻击耐久值百分比大于等于<color=#F74848>60%</color>的目标时，伤害提升<color=#F74848>14%</color>",
+          "BufCarried": "300171",
+          "SkillIcon": "Icon_entry_10047",
+          "icon": "Icon_entry_10047",
+          "Status": 1,
+          "weight": 308
+        },
+        {
+          "ID": "30018",
+          "name": "攻坚模组",
+          "SpecificEffects": "攻击耐久值百分比大于等于<color=#F74848>60%</color>的目标时，伤害提升<color=#F74848>18%</color>；\n若未击破部位则会发动<buf ID=900001>[追击]</buf>，造成<color=#F74848>0.25</color>倍伤害",
+          "BufCarried": "300181/300183",
+          "SkillIcon": "Icon_entry_10047",
+          "icon": "Icon_entry_10047",
+          "Status": 1,
+          "weight": 309
+        }
+      ],
+      "introduce": "搭载攻坚模组的机兵往往都是队伍的第一个攻击者，他们的任务就是击碎对方完好的护甲，为整个团队打开局面。",
+      "ModuleIcon": "Icon_entry_10047",
+      "icon": "Icon_entry_10047",
+      "IconType": "GeneralSuit",
+      "ObtainingMethod": "商店购买",
+      "Status": 1,
+      "weight": 40
+    },
+    "now": "2024-12-13 15:09:42"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

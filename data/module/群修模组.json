@@ -1,0 +1,105 @@
+{
+  "data": {
+    "data": {
+      "ID": "30241",
+      "ModuleName": "群修模组",
+      "name": "群修模组",
+      "EntryLevel": "1",
+      "quality": "SSR",
+      "ModuleEffects": "30241/30242/30243/30244/30245/30246/30247/30248",
+      "WithPassiveSkills": [
+        {
+          "ID": "30241",
+          "name": "群修模组",
+          "SpecificEffects": "施放范围修理技能时，修理量提升<color=#F74848>3%</color>",
+          "BufCarried": "302411",
+          "SkillIcon": "Icon_entry_10013",
+          "icon": "Icon_entry_10013",
+          "Status": 1,
+          "weight": 486
+        },
+        {
+          "ID": "30242",
+          "name": "群修模组",
+          "SpecificEffects": "施放范围修理技能时，修理量提升<color=#F74848>4%</color>",
+          "BufCarried": "302421",
+          "SkillIcon": "Icon_entry_10013",
+          "icon": "Icon_entry_10013",
+          "Status": 1,
+          "weight": 487
+        },
+        {
+          "ID": "30243",
+          "name": "群修模组",
+          "SpecificEffects": "施放范围修理技能时，修理量提升<color=#F74848>6%</color>",
+          "BufCarried": "302431",
+          "SkillIcon": "Icon_entry_10013",
+          "icon": "Icon_entry_10013",
+          "Status": 1,
+          "weight": 488
+        },
+        {
+          "ID": "30244",
+          "name": "群修模组",
+          "SpecificEffects": "施放范围修理技能时，修理量提升<color=#F74848>8%</color>",
+          "BufCarried": "302441",
+          "SkillIcon": "Icon_entry_10013",
+          "icon": "Icon_entry_10013",
+          "Status": 1,
+          "weight": 489
+        },
+        {
+          "ID": "30245",
+          "name": "群修模组",
+          "SpecificEffects": "施放范围修理技能时，修理量提升<color=#F74848>10%</color>",
+          "BufCarried": "302451",
+          "SkillIcon": "Icon_entry_10013",
+          "icon": "Icon_entry_10013",
+          "Status": 1,
+          "weight": 490
+        },
+        {
+          "ID": "30246",
+          "name": "群修模组",
+          "SpecificEffects": "施放范围修理技能时，修理量提升<color=#F74848>12%</color>",
+          "BufCarried": "302461",
+          "SkillIcon": "Icon_entry_10013",
+          "icon": "Icon_entry_10013",
+          "Status": 1,
+          "weight": 491
+        },
+        {
+          "ID": "30247",
+          "name": "群修模组",
+          "SpecificEffects": "施放范围修理技能时，修理量提升<color=#F74848>14%</color>",
+          "BufCarried": "302471",
+          "SkillIcon": "Icon_entry_10013",
+          "icon": "Icon_entry_10013",
+          "Status": 1,
+          "weight": 492
+        },
+        {
+          "ID": "30248",
+          "name": "群修模组",
+          "SpecificEffects": "施放范围修理技能时，修理量提升<color=#F74848>18%</color>；\n免疫<buf ID=900046>[无法使用主动技]</buf>效果",
+          "BufCarried": "302481/302483",
+          "SkillIcon": "Icon_entry_10013",
+          "icon": "Icon_entry_10013",
+          "Status": 1,
+          "weight": 493
+        }
+      ],
+      "introduce": "请保护队伍中搭载群修模组的维修型机兵，只要它还存在，就能为队伍创造近乎可怖的维修量，以这种方式击垮敌人的胜利意志。",
+      "ModuleIcon": "Icon_entry_10013",
+      "icon": "Icon_entry_10013",
+      "IconType": "GeneralSuit",
+      "ObtainingMethod": "商店购买",
+      "Status": 1,
+      "weight": 58
+    },
+    "now": "2024-12-13 15:09:39"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

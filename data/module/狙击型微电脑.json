@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "10031",
+      "ModuleName": "狙击型微电脑",
+      "name": "狙击型微电脑",
+      "EntryLevel": "1",
+      "quality": "SR",
+      "ModuleEffects": "10031/10032/10033/10034",
+      "WithPassiveSkills": [
+        {
+          "ID": "10031",
+          "name": "狙击型微电脑",
+          "SpecificEffects": "使用射击武器攻击时有<color=#F74848>25%</color>的概率发动，伤害提升<color=#F74848>8%</color>",
+          "BufCarried": "100311",
+          "SkillIcon": "Icon_entry_10033",
+          "icon": "Icon_entry_10033",
+          "Status": 1,
+          "weight": 82
+        },
+        {
+          "ID": "10032",
+          "name": "狙击型微电脑",
+          "SpecificEffects": "使用射击武器攻击时有<color=#F74848>40%</color>的概率发动，伤害提升<color=#F74848>10%</color>",
+          "BufCarried": "100321",
+          "SkillIcon": "Icon_entry_10033",
+          "icon": "Icon_entry_10033",
+          "Status": 1,
+          "weight": 83
+        },
+        {
+          "ID": "10033",
+          "name": "狙击型微电脑",
+          "SpecificEffects": "使用射击武器攻击时有<color=#F74848>55%</color>的概率发动，伤害提升<color=#F74848>12%</color>",
+          "BufCarried": "100331",
+          "SkillIcon": "Icon_entry_10033",
+          "icon": "Icon_entry_10033",
+          "Status": 1,
+          "weight": 84
+        },
+        {
+          "ID": "10034",
+          "name": "狙击型微电脑",
+          "SpecificEffects": "使用射击武器攻击时有<color=#F74848>70%</color>的概率发动，伤害提升<color=#F74848>15%</color>",
+          "BufCarried": "100341",
+          "SkillIcon": "Icon_entry_10033",
+          "icon": "Icon_entry_10033",
+          "Status": 1,
+          "weight": 85
+        }
+      ],
+      "introduce": "为狙击型机兵搭载辅助瞄准的微电脑，通过对过去海量狙击机兵驾驶员操作数据的学习，人工智能能够帮助驾驶员的射击做出更有“依据”的决策，增强狙击武器的杀伤力。",
+      "ModuleIcon": "Icon_entry_10033",
+      "icon": "Icon_entry_10033",
+      "IconType": "SuitA",
+      "ObtainingMethod": "模组生产",
+      "Status": 1,
+      "weight": 2
+    },
+    "now": "2024-12-13 15:09:49"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

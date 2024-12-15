@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "20071",
+      "ModuleName": "镜像核心",
+      "name": "镜像核心",
+      "EntryLevel": "1",
+      "quality": "SSR",
+      "ModuleEffects": "20071/20072/20073/20074",
+      "WithPassiveSkills": [
+        {
+          "ID": "20071",
+          "name": "镜像核心",
+          "SpecificEffects": "双手装配两把种类一致的武器时，伤害提升<color=#F74848>4%</color>",
+          "BufCarried": "200711",
+          "SkillIcon": "Icon_entry_10038",
+          "icon": "Icon_entry_10038",
+          "Status": 1,
+          "weight": 142
+        },
+        {
+          "ID": "20072",
+          "name": "镜像核心",
+          "SpecificEffects": "双手装配两把种类一致的武器时，伤害提升<color=#F74848>8%</color>",
+          "BufCarried": "200721",
+          "SkillIcon": "Icon_entry_10038",
+          "icon": "Icon_entry_10038",
+          "Status": 1,
+          "weight": 143
+        },
+        {
+          "ID": "20073",
+          "name": "镜像核心",
+          "SpecificEffects": "双手装配两把种类一致的武器时，伤害提升<color=#F74848>14%</color>",
+          "BufCarried": "200731",
+          "SkillIcon": "Icon_entry_10038",
+          "icon": "Icon_entry_10038",
+          "Status": 1,
+          "weight": 144
+        },
+        {
+          "ID": "20074",
+          "name": "镜像核心",
+          "SpecificEffects": "双手装配两把种类一致的武器时，伤害提升<color=#F74848>20%</color>",
+          "BufCarried": "200741",
+          "SkillIcon": "Icon_entry_10038",
+          "icon": "Icon_entry_10038",
+          "Status": 1,
+          "weight": 145
+        }
+      ],
+      "introduce": "镜像核心是使用同类武器的协调控制装置，其模组包含了位于机舱的中枢处理器和分别位于XR机兵的左右臂的镜像仪，存储了使用的同类武器的上千种打击方式。",
+      "ModuleIcon": "Icon_entry_10038",
+      "icon": "Icon_entry_10038",
+      "IconType": "SuitS",
+      "ObtainingMethod": "模组生产",
+      "Status": 1,
+      "weight": 16
+    },
+    "now": "2024-12-13 15:09:46"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}
