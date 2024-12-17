@@ -1,3 +1,4 @@
+import json
 import re
 
 
@@ -498,7 +499,7 @@ def rail14():
 [应元件W-战栗]。
     """
 
-    rail = {"name": "weapon_rail_13"}
+    rail = {"name": "weapon_rail_14"}
     rail["boss"] = {}
     rail["boss"]["古兹曼"] = extract_module(古兹曼)
     rail["boss"]["萨米"] = extract_module(萨米)
@@ -619,7 +620,7 @@ def rail15():
 [应元件W-战栗]。
     """
 
-    rail = {"name": "weapon_rail_13"}
+    rail = {"name": "weapon_rail_15"}
     rail["boss"] = {}
     rail["boss"]["里德瓦尔德"] = extract_module(里德瓦尔德)
     rail["boss"]["埃勒"] = extract_module(埃勒)
@@ -736,7 +737,7 @@ def rail16():
 [应元件W-战栗]、[应元件W-蓬勃]
     """
 
-    rail = {"name": "weapon_rail_13"}
+    rail = {"name": "weapon_rail_16"}
     rail["boss"] = {}
     rail["boss"]["安德烈亚"] = extract_module(安德烈亚)
     rail["boss"]["米凯拉"] = extract_module(米凯拉)
@@ -785,3 +786,7 @@ if __name__ == "__main__":
     weapon_rail_modules = {"rail": [r11, r12, r13, r14, r15, r16]}
     weapon_rail_modules = find_common_and_unique(weapon_rail_modules)
     print(weapon_rail_modules)
+
+    json_save_path = r"..\data\weapon_rail\weapon_rail_modules.json"
+    with open(json_save_path, 'w', encoding='utf-8') as file:
+        json.dump(weapon_rail_modules, file, ensure_ascii=False, indent=2)  # 保存为utf-8编码，美化格式
