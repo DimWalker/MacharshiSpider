@@ -18,14 +18,14 @@
           "SkillIcon": "Icon_skill_passive_2007",
           "icon": "Icon_skill_passive_2007",
           "Status": 1,
-          "weight": 1023
+          "weight": 1066
         }
       ],
       "HowGet": "无",
       "RelatedDescription": "通过发射电磁波对飞弹进行压制性信号干扰，扰乱电子设备，从而达到削弱战术武器威力的效果。同时集成了影响敌机回避能力的功能。",
       "Status": 1
     },
-    "now": "2024-12-13 15:09:13"
+    "now": "2025-01-17 23:10:51"
   },
   "status": 1,
   "switch": null,

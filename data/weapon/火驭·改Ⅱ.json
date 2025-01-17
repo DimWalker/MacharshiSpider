@@ -1,0 +1,43 @@
+{
+  "data": {
+    "data": [
+      {
+        "ID": "20314122",
+        "name": "火驭·改Ⅱ",
+        "quality": "UR",
+        "grade": "70",
+        "WeaponType1": "Assault",
+        "WeaponType2": "ShotGun",
+        "type": "ShotGun",
+        "LimitedModelOfWeapon": "Light/Medium/Heavy",
+        "RestrictionsPositionOfWeapon": "Hand",
+        "range": "1-2",
+        "WeaponWeight": "370",
+        "WeaponBasicAttackingPower": "1642",
+        "WeaponHitPoint": "3151",
+        "WeaponUnderstanding": "4558",
+        "PassiveSkill": [
+          {
+            "ID": "53055",
+            "name": "给我上！",
+            "SpecificEffects": "主动攻击对战时，无视目标<color=#F74848>30%</color>护甲",
+            "BufCarried": "530551",
+            "SkillIcon": "Icon_skill_passive_1126",
+            "icon": "Icon_skill_passive_1126",
+            "Status": 1,
+            "weight": 907
+          }
+        ],
+        "IconResourcePath": "Icon_weapon_20300401",
+        "icon": "Icon_weapon_20300401",
+        "describe": "除了在旧型火驭的基础上加装了适性更优良的火控组件外，对机载增压模块的支持也得到了全新升级。是当前量产霰弹武器中的绝对王者。",
+        "Status": 1,
+        "weight": 691
+      }
+    ],
+    "now": "2025-01-17 23:10:42"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

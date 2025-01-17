@@ -720,9 +720,33 @@
         "Profession": "Launcher",
         "quality": "SSR",
         "relateTopicIdArray": ""
+      },
+      {
+        "ID": "10103153",
+        "PilotName": "帕洛玛",
+        "name": "帕洛玛",
+        "icon": "Pilot_10103153A_half",
+        "AvatarHeroIcon": "Pilot_10103153A_Raw",
+        "Nickname": "帕洛玛",
+        "RealName": "帕洛玛·柯格尼托尼斯",
+        "Profession": "Gunner",
+        "quality": "SSR",
+        "relateTopicIdArray": ""
+      },
+      {
+        "ID": "10103139",
+        "PilotName": "玛蒂尔达",
+        "name": "玛蒂尔达",
+        "icon": "Pilot_10103139A_half",
+        "AvatarHeroIcon": "Pilot_10103139A_Raw",
+        "Nickname": "玛蒂尔达",
+        "RealName": "玛蒂尔达·罗西",
+        "Profession": "Assault",
+        "quality": "SSR",
+        "relateTopicIdArray": ""
       }
     ],
-    "now": "2024-12-13 15:08:31"
+    "now": "2025-01-17 23:10:08"
   },
   "status": 1,
   "switch": null,

@@ -1,0 +1,63 @@
+{
+  "data": {
+    "data": [
+      {
+        "ID": "20315122",
+        "name": "丛林之灾",
+        "quality": "SSSR",
+        "grade": "70",
+        "WeaponType1": "Assault",
+        "WeaponType2": "ShotGun",
+        "type": "ShotGun",
+        "LimitedModelOfWeapon": "Light/Medium/Heavy",
+        "RestrictionsPositionOfWeapon": "Hand",
+        "range": "1-2",
+        "WeaponWeight": "370",
+        "WeaponBasicAttackingPower": "1663",
+        "WeaponHitPoint": "3182",
+        "WeaponUnderstanding": "4603",
+        "PassiveSkill": [
+          {
+            "ID": "53056",
+            "name": "给我闪开！",
+            "SpecificEffects": "使用霰弹枪主动攻击对战时，若目标位于相邻<color=#F74848>1</color>格，伤害提升<color=#F74848>25%</color>",
+            "BufCarried": "530561",
+            "SkillIcon": "Icon_skill_passive_1106",
+            "icon": "Icon_skill_passive_1106",
+            "Status": 1,
+            "weight": 908
+          },
+          {
+            "ID": "53057",
+            "name": "给你两下！",
+            "SpecificEffects": "强化<buf ID=900115>[秘密行刑]</buf>效果：对目标施加的<buf ID=1004412>[失稳Ⅱ]</buf>提升为<buf ID=530572>[失稳Ⅲ]</buf>，每层同时使目标造成伤害降低<color=#F74848>3%</color>；使用霰弹枪主动攻击对战时，若目标携带<color=#F74848>3</color>层及以上<buf ID=900034>[失稳]</buf>，则使用所有霰弹枪发动<buf ID=900001>[追击]</buf>，造成<color=#F74848>0.15</color>倍伤害",
+            "BufCarried": "530571/530573/530574/530576/530577",
+            "SkillIcon": "Icon_skill_passive_1167",
+            "icon": "Icon_skill_passive_1167",
+            "Status": 1,
+            "weight": 909
+          },
+          {
+            "ID": "53055",
+            "name": "给我上！",
+            "SpecificEffects": "主动攻击对战时，无视目标<color=#F74848>30%</color>护甲",
+            "BufCarried": "530551",
+            "SkillIcon": "Icon_skill_passive_1126",
+            "icon": "Icon_skill_passive_1126",
+            "Status": 1,
+            "weight": 907
+          }
+        ],
+        "IconResourcePath": "Icon_weapon_20300302",
+        "icon": "Icon_weapon_20300302",
+        "describe": "芙烈达还是「西北丛林之王」时使用过的武器。但令人奇怪的是，自从她放弃单干组建佣兵团之后，她的势力版图就一天不如一天了。",
+        "Status": 1,
+        "weight": 712
+      }
+    ],
+    "now": "2025-01-17 23:10:42"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

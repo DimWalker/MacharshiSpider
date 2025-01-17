@@ -540,9 +540,27 @@
         "quality": "SSR",
         "icon": "Icon_mecha_wap2018",
         "mechaIcon": "Icon_wap2018_1"
+      },
+      {
+        "ID": "30280103",
+        "name": "天角兽",
+        "position": "躯干",
+        "type": "Heavy",
+        "quality": "SSR",
+        "icon": "Icon_mecha_wap3028",
+        "mechaIcon": "Icon_wap3028_1"
+      },
+      {
+        "ID": "10400103",
+        "name": "螣蛇",
+        "position": "躯干",
+        "type": "Light",
+        "quality": "SSR",
+        "icon": "Icon_mecha_wap1040",
+        "mechaIcon": "Icon_wap1040_1"
       }
     ],
-    "now": "2024-12-13 15:08:21"
+    "now": "2025-01-17 23:09:57"
   },
   "status": 1,
   "switch": null,

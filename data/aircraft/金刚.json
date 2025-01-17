@@ -27,7 +27,7 @@
             "SkillIcon": "Icon_entry_40021",
             "icon": "Icon_entry_40021",
             "Status": 1,
-            "weight": 583,
+            "weight": 619,
             "id": "4002",
             "level": 2
           },
@@ -59,7 +59,7 @@
             "SkillIcon": "Icon_entry_10023",
             "icon": "Icon_entry_10023",
             "Status": 1,
-            "weight": 383,
+            "weight": 395,
             "id": "3011",
             "level": 2
           }
@@ -69,7 +69,7 @@
         "mechaIcon": "Icon_wap3017_1",
         "lihuiIcon": "icon_lihui_wap3017",
         "Status": 1,
-        "weight": 212,
+        "weight": 216,
         "manji": {
           "name": "金刚",
           "durable": "11760",
@@ -91,7 +91,7 @@
               "SkillIcon": "Icon_entry_40021",
               "icon": "Icon_entry_40021",
               "Status": 1,
-              "weight": 585,
+              "weight": 621,
               "id": "4002",
               "level": 4
             },
@@ -123,13 +123,13 @@
               "SkillIcon": "Icon_entry_10023",
               "icon": "Icon_entry_10023",
               "Status": 1,
-              "weight": 389,
+              "weight": 401,
               "id": "3011",
               "level": 8
             }
           ],
           "Status": 1,
-          "weight": 212
+          "weight": 216
         }
       },
       {
@@ -148,7 +148,7 @@
         "introduce": "LTX-305R 金刚\n由拉尼亚凯亚制造，仅列装于联合军精英部队的重型机兵。\n为了特化火力压制力，机兵各部位均安装了储能中转装置，能够通过对输出能量的再利用，实现打击威力增幅。关节悬挂上采用了单独设计的重武器适配模组，对有高火力需求的战场环境有卓越的适性。",
         "mechaIcon": "Icon_wap3017_2",
         "Status": 1,
-        "weight": 213,
+        "weight": 217,
         "manji": {
           "name": "金刚",
           "durable": "6172",
@@ -158,7 +158,7 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "2023:1/3011:2/4002:1/",
           "Status": 1,
-          "weight": 213
+          "weight": 217
         }
       },
       {
@@ -177,7 +177,7 @@
         "introduce": "LTX-305R 金刚\n由拉尼亚凯亚制造，仅列装于联合军精英部队的重型机兵。\n为了特化火力压制力，机兵各部位均安装了储能中转装置，能够通过对输出能量的再利用，实现打击威力增幅。关节悬挂上采用了单独设计的重武器适配模组，对有高火力需求的战场环境有卓越的适性。",
         "mechaIcon": "Icon_wap3017_3",
         "Status": 1,
-        "weight": 214,
+        "weight": 218,
         "manji": {
           "name": "金刚",
           "durable": "6172",
@@ -187,7 +187,7 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "2023:1/3011:2/4002:1/",
           "Status": 1,
-          "weight": 214
+          "weight": 218
         }
       },
       {
@@ -207,7 +207,7 @@
         "introduce": "LTX-305R 金刚\n由拉尼亚凯亚制造，仅列装于联合军精英部队的重型机兵。\n为了特化火力压制力，机兵各部位均安装了储能中转装置，能够通过对输出能量的再利用，实现打击威力增幅。关节悬挂上采用了单独设计的重武器适配模组，对有高火力需求的战场环境有卓越的适性。",
         "mechaIcon": "Icon_wap3017_4",
         "Status": 1,
-        "weight": 215,
+        "weight": 219,
         "manji": {
           "name": "金刚",
           "durable": "8007",
@@ -218,11 +218,11 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "2023:1/3011:2/4002:1/",
           "Status": 1,
-          "weight": 215
+          "weight": 219
         }
       }
     ],
-    "now": "2024-12-13 15:08:28"
+    "now": "2025-01-17 23:10:04"
   },
   "status": 1,
   "switch": null,

@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_40021",
           "icon": "Icon_entry_40021",
           "Status": 1,
-          "weight": 582
+          "weight": 618
         },
         {
           "ID": "40022",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_40021",
           "icon": "Icon_entry_40021",
           "Status": 1,
-          "weight": 583
+          "weight": 619
         },
         {
           "ID": "40023",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_40021",
           "icon": "Icon_entry_40021",
           "Status": 1,
-          "weight": 584
+          "weight": 620
         },
         {
           "ID": "40024",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_40021",
           "icon": "Icon_entry_40021",
           "Status": 1,
-          "weight": 585
+          "weight": 621
         }
       ],
       "introduce": "暴击模组会在接收到机兵攻击指令后进行二次演算，并对机兵的攻击动作进行微调，提升机兵攻击的精确率，有一定概率对敌人造成更大的伤害。",
@@ -55,9 +55,9 @@
       "IconType": "PropertyA",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 62
+      "weight": 70
     },
-    "now": "2024-12-13 15:09:39"
+    "now": "2025-01-17 23:11:18"
   },
   "status": 1,
   "switch": null,

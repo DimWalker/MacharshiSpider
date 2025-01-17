@@ -18,7 +18,7 @@
         "mechaIcon": "Icon_wap3031_1",
         "lihuiIcon": "icon_lihui_wap3031",
         "Status": 1,
-        "weight": 228,
+        "weight": 236,
         "manji": {
           "name": "泽亚雷德",
           "durable": "6839",
@@ -27,7 +27,7 @@
           "output": "1880",
           "Antiriot": "3192",
           "Status": 1,
-          "weight": 228,
+          "weight": 236,
           "ModuleCarried": []
         },
         "ModuleCarried": []
@@ -46,7 +46,7 @@
         "introduce": "HR-605 泽亚雷德\n由地平线开发的重型机兵，在米赫玛战争中列装的早期型号。\n造价低廉，产能充足，实现了高防御性与模块化的成功产品。在武装配备上采用模块化机件设计，对各类突击武器有着良好的兼容性。",
         "mechaIcon": "Icon_wap3031_2",
         "Status": 1,
-        "weight": 229,
+        "weight": 237,
         "manji": {
           "name": "泽亚雷德",
           "durable": "4148",
@@ -54,7 +54,7 @@
           "fire": "721",
           "Hit": "1071",
           "Status": 1,
-          "weight": 229
+          "weight": 237
         }
       },
       {
@@ -71,7 +71,7 @@
         "introduce": "HR-605 泽亚雷德\n由地平线开发的重型机兵，在米赫玛战争中列装的早期型号。\n造价低廉，产能充足，实现了高防御性与模块化的成功产品。在武装配备上采用模块化机件设计，对各类突击武器有着良好的兼容性。",
         "mechaIcon": "Icon_wap3031_3",
         "Status": 1,
-        "weight": 230,
+        "weight": 238,
         "manji": {
           "name": "泽亚雷德",
           "durable": "4148",
@@ -79,7 +79,7 @@
           "fire": "721",
           "Hit": "1071",
           "Status": 1,
-          "weight": 230
+          "weight": 238
         }
       },
       {
@@ -97,7 +97,7 @@
         "introduce": "HR-605 泽亚雷德\n由地平线开发的重型机兵，在米赫玛战争中列装的早期型号。\n造价低廉，产能充足，实现了高防御性与模块化的成功产品。在武装配备上采用模块化机件设计，对各类突击武器有着良好的兼容性。",
         "mechaIcon": "Icon_wap3031_4",
         "Status": 1,
-        "weight": 231,
+        "weight": 239,
         "manji": {
           "name": "泽亚雷德",
           "durable": "5269",
@@ -106,11 +106,11 @@
           "Dodge": "2347",
           "move": "3000",
           "Status": 1,
-          "weight": 231
+          "weight": 239
         }
       }
     ],
-    "now": "2024-12-13 15:08:28"
+    "now": "2025-01-17 23:10:04"
   },
   "status": 1,
   "switch": null,

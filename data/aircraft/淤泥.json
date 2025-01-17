@@ -36,7 +36,7 @@
         "mechaIcon": "Icon_wap3025_1",
         "lihuiIcon": "icon_lihui_wap3025",
         "Status": 1,
-        "weight": 220,
+        "weight": 224,
         "manji": {
           "name": "淤泥",
           "durable": "8547",
@@ -58,7 +58,7 @@
               "SkillIcon": "Icon_entry_10053",
               "icon": "Icon_entry_10053",
               "Status": 1,
-              "weight": 351,
+              "weight": 363,
               "id": "3007",
               "level": 2
             },
@@ -90,13 +90,13 @@
               "SkillIcon": "Icon_entry_40091",
               "icon": "Icon_entry_40091",
               "Status": 1,
-              "weight": 641,
+              "weight": 677,
               "id": "4009",
               "level": 4
             }
           ],
           "Status": 1,
-          "weight": 220
+          "weight": 224
         }
       },
       {
@@ -114,7 +114,7 @@
         "introduce": "HU-21 淤泥\n联合设计局为应对丛林地区的特殊地形而打造的重型战术机兵。\n目标是在雨林作战中提供火力支援，拥有特殊的关节和悬挂装置，能够平稳涉水，在猛烈的炮火中也可保持机身平衡。",
         "mechaIcon": "Icon_wap3025_2",
         "Status": 1,
-        "weight": 221,
+        "weight": 225,
         "manji": {
           "name": "淤泥",
           "durable": "5075",
@@ -124,7 +124,7 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "1011:1/4009:1/",
           "Status": 1,
-          "weight": 221
+          "weight": 225
         }
       },
       {
@@ -142,7 +142,7 @@
         "introduce": "HU-21 淤泥\n联合设计局为应对丛林地区的特殊地形而打造的重型战术机兵。\n目标是在雨林作战中提供火力支援，拥有特殊的关节和悬挂装置，能够平稳涉水，在猛烈的炮火中也可保持机身平衡。",
         "mechaIcon": "Icon_wap3025_3",
         "Status": 1,
-        "weight": 222,
+        "weight": 226,
         "manji": {
           "name": "淤泥",
           "durable": "5075",
@@ -152,7 +152,7 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "1011:1/4009:1/",
           "Status": 1,
-          "weight": 222
+          "weight": 226
         }
       },
       {
@@ -171,7 +171,7 @@
         "introduce": "HU-21 淤泥\n联合设计局为应对丛林地区的特殊地形而打造的重型战术机兵。\n目标是在雨林作战中提供火力支援，拥有特殊的关节和悬挂装置，能够平稳涉水，在猛烈的炮火中也可保持机身平衡。",
         "mechaIcon": "Icon_wap3025_4",
         "Status": 1,
-        "weight": 223,
+        "weight": 227,
         "manji": {
           "name": "淤泥",
           "durable": "6796",
@@ -182,11 +182,11 @@
           "Interface": "Ⅰ型接口",
           "ModuleCarried": "1011:1/3007:1/4009:1/",
           "Status": 1,
-          "weight": 223
+          "weight": 227
         }
       }
     ],
-    "now": "2024-12-13 15:08:28"
+    "now": "2025-01-17 23:10:04"
   },
   "status": 1,
   "switch": null,

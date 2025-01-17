@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_10023",
           "icon": "Icon_entry_10023",
           "Status": 1,
-          "weight": 382
+          "weight": 394
         },
         {
           "ID": "30112",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_10023",
           "icon": "Icon_entry_10023",
           "Status": 1,
-          "weight": 383
+          "weight": 395
         },
         {
           "ID": "30113",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_10023",
           "icon": "Icon_entry_10023",
           "Status": 1,
-          "weight": 384
+          "weight": 396
         },
         {
           "ID": "30114",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_10023",
           "icon": "Icon_entry_10023",
           "Status": 1,
-          "weight": 385
+          "weight": 397
         },
         {
           "ID": "30115",
@@ -56,7 +56,7 @@
           "SkillIcon": "Icon_entry_10023",
           "icon": "Icon_entry_10023",
           "Status": 1,
-          "weight": 386
+          "weight": 398
         },
         {
           "ID": "30116",
@@ -66,7 +66,7 @@
           "SkillIcon": "Icon_entry_10023",
           "icon": "Icon_entry_10023",
           "Status": 1,
-          "weight": 387
+          "weight": 399
         },
         {
           "ID": "30117",
@@ -76,7 +76,7 @@
           "SkillIcon": "Icon_entry_10023",
           "icon": "Icon_entry_10023",
           "Status": 1,
-          "weight": 388
+          "weight": 400
         },
         {
           "ID": "30118",
@@ -86,7 +86,7 @@
           "SkillIcon": "Icon_entry_10023",
           "icon": "Icon_entry_10023",
           "Status": 1,
-          "weight": 389
+          "weight": 401
         }
       ],
       "introduce": "你的队友需要你！为你的机兵选择连携模组，让它在为队友提供协力攻击时拥有更强劲的火力。",
@@ -95,9 +95,9 @@
       "IconType": "GeneralSuit",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 48
+      "weight": 52
     },
-    "now": "2024-12-13 15:09:41"
+    "now": "2025-01-17 23:11:21"
   },
   "status": 1,
   "switch": null,

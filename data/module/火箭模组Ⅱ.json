@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_40191",
           "icon": "Icon_entry_40191",
           "Status": 1,
-          "weight": 718
+          "weight": 754
         },
         {
           "ID": "40192",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_40191",
           "icon": "Icon_entry_40191",
           "Status": 1,
-          "weight": 719
+          "weight": 755
         },
         {
           "ID": "40193",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_40191",
           "icon": "Icon_entry_40191",
           "Status": 1,
-          "weight": 720
+          "weight": 756
         },
         {
           "ID": "40194",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_40191",
           "icon": "Icon_entry_40191",
           "Status": 1,
-          "weight": 721
+          "weight": 757
         }
       ],
       "introduce": "曾有一个厂家看准了火箭模组Ⅱ型的出现，准备研制出机兵伞这种防御型配件进行对抗，最后毫无意外地破产了。",
@@ -55,9 +55,9 @@
       "IconType": "PropertyS",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 97
+      "weight": 105
     },
-    "now": "2024-12-13 15:09:33"
+    "now": "2025-01-17 23:11:12"
   },
   "status": 1,
   "switch": null,

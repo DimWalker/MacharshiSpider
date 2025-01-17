@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_10029",
           "icon": "Icon_entry_10029",
           "Status": 1,
-          "weight": 454
+          "weight": 466
         },
         {
           "ID": "30202",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_10029",
           "icon": "Icon_entry_10029",
           "Status": 1,
-          "weight": 455
+          "weight": 467
         },
         {
           "ID": "30203",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_10029",
           "icon": "Icon_entry_10029",
           "Status": 1,
-          "weight": 456
+          "weight": 468
         },
         {
           "ID": "30204",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_10029",
           "icon": "Icon_entry_10029",
           "Status": 1,
-          "weight": 457
+          "weight": 469
         },
         {
           "ID": "30205",
@@ -56,7 +56,7 @@
           "SkillIcon": "Icon_entry_10029",
           "icon": "Icon_entry_10029",
           "Status": 1,
-          "weight": 458
+          "weight": 470
         },
         {
           "ID": "30206",
@@ -66,7 +66,7 @@
           "SkillIcon": "Icon_entry_10029",
           "icon": "Icon_entry_10029",
           "Status": 1,
-          "weight": 459
+          "weight": 471
         },
         {
           "ID": "30207",
@@ -76,7 +76,7 @@
           "SkillIcon": "Icon_entry_10029",
           "icon": "Icon_entry_10029",
           "Status": 1,
-          "weight": 460
+          "weight": 472
         },
         {
           "ID": "30208",
@@ -86,7 +86,7 @@
           "SkillIcon": "Icon_entry_10029",
           "icon": "Icon_entry_10029",
           "Status": 1,
-          "weight": 461
+          "weight": 473
         }
       ],
       "introduce": "如果你的机兵在战斗中不常有反击的机会，那据守模组会是个不错的选择，它能协助你的机兵调整受击的角度，最大限度的减少所受的伤害。",
@@ -95,9 +95,9 @@
       "IconType": "GeneralSuit",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 55
+      "weight": 61
     },
-    "now": "2024-12-13 15:09:40"
+    "now": "2025-01-17 23:11:20"
   },
   "status": 1,
   "switch": null,

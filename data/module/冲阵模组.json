@@ -1,0 +1,105 @@
+{
+  "data": {
+    "data": {
+      "ID": "30181",
+      "ModuleName": "冲阵模组",
+      "name": "冲阵模组",
+      "EntryLevel": "1",
+      "quality": "SSR",
+      "ModuleEffects": "30181/30182/30183/30184/30185/30186/30187/30188",
+      "WithPassiveSkills": [
+        {
+          "ID": "30181",
+          "name": "冲阵模组",
+          "SpecificEffects": "周围<color=#F74848>2</color>格的敌机大于等于<color=#F74848>3</color>时，遭受伤害降低<color=#F74848>3%</color>",
+          "BufCarried": "301811",
+          "SkillIcon": "Icon_entry_10027",
+          "icon": "Icon_entry_10027",
+          "Status": 1,
+          "weight": 450
+        },
+        {
+          "ID": "30182",
+          "name": "冲阵模组",
+          "SpecificEffects": "周围<color=#F74848>2</color>格的敌机大于等于<color=#F74848>3</color>时，遭受伤害降低<color=#F74848>4%</color>",
+          "BufCarried": "301821",
+          "SkillIcon": "Icon_entry_10027",
+          "icon": "Icon_entry_10027",
+          "Status": 1,
+          "weight": 451
+        },
+        {
+          "ID": "30183",
+          "name": "冲阵模组",
+          "SpecificEffects": "周围<color=#F74848>2</color>格的敌机大于等于<color=#F74848>3</color>时，遭受伤害降低<color=#F74848>6%</color>",
+          "BufCarried": "301831",
+          "SkillIcon": "Icon_entry_10027",
+          "icon": "Icon_entry_10027",
+          "Status": 1,
+          "weight": 452
+        },
+        {
+          "ID": "30184",
+          "name": "冲阵模组",
+          "SpecificEffects": "周围<color=#F74848>2</color>格的敌机大于等于<color=#F74848>3</color>时，遭受伤害降低<color=#F74848>8%</color>",
+          "BufCarried": "301841",
+          "SkillIcon": "Icon_entry_10027",
+          "icon": "Icon_entry_10027",
+          "Status": 1,
+          "weight": 453
+        },
+        {
+          "ID": "30185",
+          "name": "冲阵模组",
+          "SpecificEffects": "周围<color=#F74848>2</color>格的敌机大于等于<color=#F74848>3</color>时，遭受伤害降低<color=#F74848>10%</color>",
+          "BufCarried": "301851",
+          "SkillIcon": "Icon_entry_10027",
+          "icon": "Icon_entry_10027",
+          "Status": 1,
+          "weight": 454
+        },
+        {
+          "ID": "30186",
+          "name": "冲阵模组",
+          "SpecificEffects": "周围<color=#F74848>2</color>格的敌机大于等于<color=#F74848>3</color>时，遭受伤害降低<color=#F74848>12%</color>",
+          "BufCarried": "301861",
+          "SkillIcon": "Icon_entry_10027",
+          "icon": "Icon_entry_10027",
+          "Status": 1,
+          "weight": 455
+        },
+        {
+          "ID": "30187",
+          "name": "冲阵模组",
+          "SpecificEffects": "周围<color=#F74848>2</color>格的敌机大于等于<color=#F74848>3</color>时，遭受伤害降低<color=#F74848>14%</color>",
+          "BufCarried": "301871",
+          "SkillIcon": "Icon_entry_10027",
+          "icon": "Icon_entry_10027",
+          "Status": 1,
+          "weight": 456
+        },
+        {
+          "ID": "30188",
+          "name": "冲阵模组",
+          "SpecificEffects": "周围<color=#F74848>2</color>格的敌机大于等于<color=#F74848>3</color>时，遭受伤害降低<color=#F74848>18%</color>；\n展开光环，使周围<color=#F74848>2</color>格的敌机命中率降低<color=#F74848>8%</color>",
+          "BufCarried": "301881/301883",
+          "SkillIcon": "Icon_entry_10027",
+          "icon": "Icon_entry_10027",
+          "Status": 1,
+          "weight": 457
+        }
+      ],
+      "introduce": "冲阵模组正如其名，鼓励机师们操作他们的机兵冲入敌阵，调用预留的高消耗装甲以吸收敌人的攻击，为队友创造出良好的输出环境。",
+      "ModuleIcon": "Icon_entry_10027",
+      "icon": "Icon_entry_10027",
+      "IconType": "GeneralSuit",
+      "ObtainingMethod": "商店购买",
+      "Status": 1,
+      "weight": 59
+    },
+    "now": "2025-01-17 23:11:20"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

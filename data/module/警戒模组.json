@@ -1,0 +1,105 @@
+{
+  "data": {
+    "data": {
+      "ID": "30121",
+      "ModuleName": "警戒模组",
+      "name": "警戒模组",
+      "EntryLevel": "1",
+      "quality": "SSR",
+      "ModuleEffects": "30121/30122/30123/30124/30125/30126/30127/30128",
+      "WithPassiveSkills": [
+        {
+          "ID": "30121",
+          "name": "警戒模组",
+          "SpecificEffects": "发动<buf ID=900013>[警戒射击]</buf>时，伤害提升<color=#F74848>5%</color>",
+          "BufCarried": "301211",
+          "SkillIcon": "Icon_entry_10024",
+          "icon": "Icon_entry_10024",
+          "Status": 1,
+          "weight": 402
+        },
+        {
+          "ID": "30122",
+          "name": "警戒模组",
+          "SpecificEffects": "发动<buf ID=900013>[警戒射击]</buf>时，伤害提升<color=#F74848>7%</color>",
+          "BufCarried": "301221",
+          "SkillIcon": "Icon_entry_10024",
+          "icon": "Icon_entry_10024",
+          "Status": 1,
+          "weight": 403
+        },
+        {
+          "ID": "30123",
+          "name": "警戒模组",
+          "SpecificEffects": "发动<buf ID=900013>[警戒射击]</buf>时，伤害提升<color=#F74848>10%</color>",
+          "BufCarried": "301231",
+          "SkillIcon": "Icon_entry_10024",
+          "icon": "Icon_entry_10024",
+          "Status": 1,
+          "weight": 404
+        },
+        {
+          "ID": "30124",
+          "name": "警戒模组",
+          "SpecificEffects": "发动<buf ID=900013>[警戒射击]</buf>时，伤害提升<color=#F74848>13%</color>",
+          "BufCarried": "301241",
+          "SkillIcon": "Icon_entry_10024",
+          "icon": "Icon_entry_10024",
+          "Status": 1,
+          "weight": 405
+        },
+        {
+          "ID": "30125",
+          "name": "警戒模组",
+          "SpecificEffects": "发动<buf ID=900013>[警戒射击]</buf>时，伤害提升<color=#F74848>16%</color>",
+          "BufCarried": "301251",
+          "SkillIcon": "Icon_entry_10024",
+          "icon": "Icon_entry_10024",
+          "Status": 1,
+          "weight": 406
+        },
+        {
+          "ID": "30126",
+          "name": "警戒模组",
+          "SpecificEffects": "发动<buf ID=900013>[警戒射击]</buf>时，伤害提升<color=#F74848>20%</color>",
+          "BufCarried": "301261",
+          "SkillIcon": "Icon_entry_10024",
+          "icon": "Icon_entry_10024",
+          "Status": 1,
+          "weight": 407
+        },
+        {
+          "ID": "30127",
+          "name": "警戒模组",
+          "SpecificEffects": "发动<buf ID=900013>[警戒射击]</buf>时，伤害提升<color=#F74848>24%</color>",
+          "BufCarried": "301271",
+          "SkillIcon": "Icon_entry_10024",
+          "icon": "Icon_entry_10024",
+          "Status": 1,
+          "weight": 408
+        },
+        {
+          "ID": "30128",
+          "name": "警戒模组",
+          "SpecificEffects": "发动<buf ID=900013>[警戒射击]</buf>时，伤害提升<color=#F74848>30%</color>；\n每回合可(额外)发动<color=#F74848>1</color>次<buf ID=900013>[警戒射击]</buf>",
+          "BufCarried": "301281/301283",
+          "SkillIcon": "Icon_entry_10024",
+          "icon": "Icon_entry_10024",
+          "Status": 1,
+          "weight": 409
+        }
+      ],
+      "introduce": "小心点，在搭载警戒模组的狙击型机兵面前不要随意行动，他们会用子弹来代替口头警告。",
+      "ModuleIcon": "Icon_entry_10024",
+      "icon": "Icon_entry_10024",
+      "IconType": "GeneralSuit",
+      "ObtainingMethod": "商店购买",
+      "Status": 1,
+      "weight": 53
+    },
+    "now": "2025-01-17 23:11:21"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

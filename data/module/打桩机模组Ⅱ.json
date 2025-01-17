@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_40101",
           "icon": "Icon_entry_40101",
           "Status": 1,
-          "weight": 646
+          "weight": 682
         },
         {
           "ID": "40102",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_40101",
           "icon": "Icon_entry_40101",
           "Status": 1,
-          "weight": 647
+          "weight": 683
         },
         {
           "ID": "40103",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_40101",
           "icon": "Icon_entry_40101",
           "Status": 1,
-          "weight": 648
+          "weight": 684
         },
         {
           "ID": "40104",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_40101",
           "icon": "Icon_entry_40101",
           "Status": 1,
-          "weight": 649
+          "weight": 685
         }
       ],
       "introduce": "市场上的打桩机模组Ⅱ型会因为一些打桩机爱好者而被炒到更高的价格，一直处于供不应求的状态。",
@@ -55,9 +55,9 @@
       "IconType": "PropertyS",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 79
+      "weight": 87
     },
-    "now": "2024-12-13 15:09:36"
+    "now": "2025-01-17 23:11:15"
   },
   "status": 1,
   "switch": null,

@@ -59,7 +59,7 @@
             "SkillIcon": "Icon_entry_10052",
             "icon": "Icon_entry_10052",
             "Status": 1,
-            "weight": 343,
+            "weight": 355,
             "id": "3006",
             "level": 2
           },
@@ -106,7 +106,7 @@
             "SkillIcon": "Icon_entry_40261",
             "icon": "Icon_entry_40261",
             "Status": 1,
-            "weight": 776,
+            "weight": 812,
             "id": "4026",
             "level": 2
           }
@@ -116,7 +116,7 @@
         "mechaIcon": "Icon_wap2090_1",
         "lihuiIcon": "icon_lihui_wap2090",
         "Status": 1,
-        "weight": 160,
+        "weight": 164,
         "manji": {
           "name": "帕斯卡",
           "durable": "8841",
@@ -170,7 +170,7 @@
               "SkillIcon": "Icon_entry_10052",
               "icon": "Icon_entry_10052",
               "Status": 1,
-              "weight": 349,
+              "weight": 361,
               "id": "3006",
               "level": 8
             },
@@ -217,13 +217,13 @@
               "SkillIcon": "Icon_entry_40261",
               "icon": "Icon_entry_40261",
               "Status": 1,
-              "weight": 778,
+              "weight": 814,
               "id": "4026",
               "level": 4
             }
           ],
           "Status": 1,
-          "weight": 160
+          "weight": 164
         }
       },
       {
@@ -242,7 +242,7 @@
         "introduce": "NV-XX90 帕斯卡\n由黑曜石和Nvidia联合开发的中型机兵。知名电子元件厂商Nvidia的跨界力作，在维持一贯的潮流外形与强大性能外，还针对米赫玛地区的独特地形气候做了专项适配。相信在不久的将来，持续探索、不断超越的Nvidia会在更多的领域打响他们的名号，持续收获支持者们的认可。",
         "mechaIcon": "Icon_wap2090_2",
         "Status": 1,
-        "weight": 161,
+        "weight": 165,
         "manji": {
           "name": "帕斯卡",
           "durable": "4643",
@@ -252,7 +252,7 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "20342:1/3006:2/4026:1/",
           "Status": 1,
-          "weight": 161
+          "weight": 165
         }
       },
       {
@@ -271,7 +271,7 @@
         "introduce": "NV-XX90 帕斯卡\n由黑曜石和Nvidia联合开发的中型机兵。知名电子元件厂商Nvidia的跨界力作，在维持一贯的潮流外形与强大性能外，还针对米赫玛地区的独特地形气候做了专项适配。相信在不久的将来，持续探索、不断超越的Nvidia会在更多的领域打响他们的名号，持续收获支持者们的认可。",
         "mechaIcon": "Icon_wap2090_3",
         "Status": 1,
-        "weight": 162,
+        "weight": 166,
         "manji": {
           "name": "帕斯卡",
           "durable": "4643",
@@ -281,7 +281,7 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "20343:1/3006:2/4026:1/",
           "Status": 1,
-          "weight": 162
+          "weight": 166
         }
       },
       {
@@ -301,7 +301,7 @@
         "introduce": "NV-XX90 帕斯卡\n由黑曜石和Nvidia联合开发的中型机兵。知名电子元件厂商Nvidia的跨界力作，在维持一贯的潮流外形与强大性能外，还针对米赫玛地区的独特地形气候做了专项适配。相信在不久的将来，持续探索、不断超越的Nvidia会在更多的领域打响他们的名号，持续收获支持者们的认可。",
         "mechaIcon": "Icon_wap2090_4",
         "Status": 1,
-        "weight": 163,
+        "weight": 167,
         "manji": {
           "name": "帕斯卡",
           "durable": "6978",
@@ -312,11 +312,11 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "20344:1/3006:2/4026:1/",
           "Status": 1,
-          "weight": 163
+          "weight": 167
         }
       }
     ],
-    "now": "2024-12-13 15:08:29"
+    "now": "2025-01-17 23:10:05"
   },
   "status": 1,
   "switch": null,

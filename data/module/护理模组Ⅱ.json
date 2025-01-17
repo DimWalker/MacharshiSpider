@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_40091",
           "icon": "Icon_entry_40091",
           "Status": 1,
-          "weight": 638
+          "weight": 674
         },
         {
           "ID": "40092",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_40091",
           "icon": "Icon_entry_40091",
           "Status": 1,
-          "weight": 639
+          "weight": 675
         },
         {
           "ID": "40093",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_40091",
           "icon": "Icon_entry_40091",
           "Status": 1,
-          "weight": 640
+          "weight": 676
         },
         {
           "ID": "40094",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_40091",
           "icon": "Icon_entry_40091",
           "Status": 1,
-          "weight": 641
+          "weight": 677
         }
       ],
       "introduce": "曾经有一批机械师联合起来提倡所有机兵都应该预装护理模组Ⅱ型，好让战场上的机械师少受点罪，但没人理会他们。",
@@ -55,9 +55,9 @@
       "IconType": "PropertyS",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 77
+      "weight": 85
     },
-    "now": "2024-12-13 15:09:36"
+    "now": "2025-01-17 23:11:16"
   },
   "status": 1,
   "switch": null,

@@ -1,0 +1,63 @@
+{
+  "data": {
+    "data": [
+      {
+        "ID": "10815121",
+        "name": "Z15型动能斧",
+        "quality": "SSSR",
+        "grade": "70",
+        "WeaponType1": "Melee",
+        "WeaponType2": "Saw",
+        "type": "Saw",
+        "LimitedModelOfWeapon": "Light/Medium/Heavy",
+        "RestrictionsPositionOfWeapon": "DoubleHand",
+        "range": "1（可斜向）",
+        "WeaponWeight": "850",
+        "WeaponBasicAttackingPower": "964",
+        "WeaponHitPoint": "1809",
+        "WeaponUnderstanding": "4603",
+        "PassiveSkill": [
+          {
+            "ID": "53062",
+            "name": "强能切割",
+            "SpecificEffects": "使用电锯攻击时，每击破<color=#F74848>1</color>个部位，获得<color=#F74848>1</color>层<buf ID=530622>[链锯升温]</buf>，可叠加<color=#F74848>3</color>层，行动结束时移除<color=#F74848>1</color>层",
+            "BufCarried": "530621",
+            "SkillIcon": "Icon_skill_passive_5253",
+            "icon": "Icon_skill_passive_5253",
+            "Status": 1,
+            "weight": 914
+          },
+          {
+            "ID": "53063",
+            "name": "勇气爆发",
+            "SpecificEffects": "强化<buf ID=900122>[勇气迸发]</buf>效果：<buf ID=1013503>[气力]</buf>最大层数<color=#F74848>+5</color>；战斗开始时，获得<color=#F74848>5</color>层<buf ID=1013503>[气力]</buf>；主动攻击后，如果<buf ID=1013503>[气力]</buf>层数大于等于<color=#F74848>10</color>，战后回复<color=#F74848>1</color>AP，每回合最多发动<color=#F74848>1</color>次",
+            "BufCarried": "530631/530632/530633/530634/530635",
+            "SkillIcon": "Icon_skill_passive_1170",
+            "icon": "Icon_skill_passive_1170",
+            "Status": 1,
+            "weight": 915
+          },
+          {
+            "ID": "53061",
+            "name": "粉碎打击",
+            "SpecificEffects": "攻击时，若命中部位耐久值不满，对该部位造成的伤害提升<color=#F74848>20%</color>",
+            "BufCarried": "530611/530612/530613/530614/530615",
+            "SkillIcon": "Icon_skill_passive_1157",
+            "icon": "Icon_skill_passive_1157",
+            "Status": 1,
+            "weight": 913
+          }
+        ],
+        "IconResourcePath": "Icon_weapon_10600401",
+        "icon": "Icon_weapon_10600401",
+        "describe": "备受迪恩珍爱的折叠式电锯武器，可在剑型与斧型两种形态中切换。只要说出迪恩特别定制的语音口令「我说可以上了！」，就能进行变形。",
+        "Status": 1,
+        "weight": 708
+      }
+    ],
+    "now": "2025-01-17 23:10:42"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_40061",
           "icon": "Icon_entry_40061",
           "Status": 1,
-          "weight": 614
+          "weight": 650
         },
         {
           "ID": "40062",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_40061",
           "icon": "Icon_entry_40061",
           "Status": 1,
-          "weight": 615
+          "weight": 651
         },
         {
           "ID": "40063",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_40061",
           "icon": "Icon_entry_40061",
           "Status": 1,
-          "weight": 616
+          "weight": 652
         },
         {
           "ID": "40064",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_40061",
           "icon": "Icon_entry_40061",
           "Status": 1,
-          "weight": 617
+          "weight": 653
         }
       ],
       "introduce": "当一个配满护甲模组Ⅱ型的机兵出现在战场上时会显著地降低敌方的进攻欲望，毕竟浪费弹药是一种不好的行为。",
@@ -55,9 +55,9 @@
       "IconType": "PropertyS",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 71
+      "weight": 79
     },
-    "now": "2024-12-13 15:09:37"
+    "now": "2025-01-17 23:11:17"
   },
   "status": 1,
   "switch": null,

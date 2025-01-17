@@ -2,12 +2,60 @@
   "data": {
     "data": [
       {
+        "ID": "40302",
+        "name": "刀剑模组Ⅱ",
+        "quality": "SSR",
+        "icon": "Icon_entry_40301",
+        "IconType": "PropertyS",
+        "weight": 125
+      },
+      {
+        "ID": "40301",
+        "name": "刀剑模组Ⅰ",
+        "quality": "SR",
+        "icon": "Icon_entry_40301",
+        "IconType": "PropertyA",
+        "weight": 124
+      },
+      {
+        "ID": "40292",
+        "name": "电锯模组Ⅱ",
+        "quality": "SSR",
+        "icon": "Icon_entry_40291",
+        "IconType": "PropertyS",
+        "weight": 123
+      },
+      {
+        "ID": "40291",
+        "name": "电锯模组Ⅰ",
+        "quality": "SR",
+        "icon": "Icon_entry_40291",
+        "IconType": "PropertyA",
+        "weight": 122
+      },
+      {
+        "ID": "40282",
+        "name": "喷火器模组Ⅱ",
+        "quality": "SSR",
+        "icon": "Icon_entry_40281",
+        "IconType": "PropertyS",
+        "weight": 121
+      },
+      {
+        "ID": "40281",
+        "name": "喷火器模组Ⅰ",
+        "quality": "SR",
+        "icon": "Icon_entry_40281",
+        "IconType": "PropertyA",
+        "weight": 120
+      },
+      {
         "ID": "40262",
         "name": "出力模组Ⅱ",
         "quality": "SSR",
         "icon": "Icon_entry_40261",
         "IconType": "PropertyS",
-        "weight": 111
+        "weight": 119
       },
       {
         "ID": "40261",
@@ -15,7 +63,7 @@
         "quality": "SR",
         "icon": "Icon_entry_40261",
         "IconType": "PropertyA",
-        "weight": 110
+        "weight": 118
       },
       {
         "ID": "40252",
@@ -23,7 +71,7 @@
         "quality": "SSR",
         "icon": "Icon_entry_40251",
         "IconType": "PropertyS",
-        "weight": 109
+        "weight": 117
       },
       {
         "ID": "40251",
@@ -31,7 +79,7 @@
         "quality": "SR",
         "icon": "Icon_entry_40251",
         "IconType": "PropertyA",
-        "weight": 108
+        "weight": 116
       },
       {
         "ID": "40242",
@@ -39,7 +87,7 @@
         "quality": "SSR",
         "icon": "Icon_entry_40241",
         "IconType": "PropertyS",
-        "weight": 107
+        "weight": 115
       },
       {
         "ID": "40241",
@@ -47,7 +95,7 @@
         "quality": "SR",
         "icon": "Icon_entry_40241",
         "IconType": "PropertyA",
-        "weight": 106
+        "weight": 114
       },
       {
         "ID": "40232",
@@ -55,7 +103,7 @@
         "quality": "SSR",
         "icon": "Icon_entry_40231",
         "IconType": "PropertyS",
-        "weight": 105
+        "weight": 113
       },
       {
         "ID": "40231",
@@ -63,7 +111,7 @@
         "quality": "SR",
         "icon": "Icon_entry_40231",
         "IconType": "PropertyA",
-        "weight": 104
+        "weight": 112
       },
       {
         "ID": "40222",
@@ -71,7 +119,7 @@
         "quality": "SSR",
         "icon": "Icon_entry_40221",
         "IconType": "PropertyS",
-        "weight": 103
+        "weight": 111
       },
       {
         "ID": "40221",
@@ -79,7 +127,7 @@
         "quality": "SR",
         "icon": "Icon_entry_40221",
         "IconType": "PropertyA",
-        "weight": 102
+        "weight": 110
       },
       {
         "ID": "40212",
@@ -87,7 +135,7 @@
         "quality": "SSR",
         "icon": "Icon_entry_40211",
         "IconType": "PropertyS",
-        "weight": 101
+        "weight": 109
       },
       {
         "ID": "40211",
@@ -95,7 +143,7 @@
         "quality": "SR",
         "icon": "Icon_entry_40211",
         "IconType": "PropertyA",
-        "weight": 100
+        "weight": 108
       },
       {
         "ID": "40202",
@@ -103,7 +151,7 @@
         "quality": "SSR",
         "icon": "Icon_entry_40201",
         "IconType": "PropertyS",
-        "weight": 99
+        "weight": 107
       },
       {
         "ID": "40201",
@@ -111,7 +159,7 @@
         "quality": "SR",
         "icon": "Icon_entry_40201",
         "IconType": "PropertyA",
-        "weight": 98
+        "weight": 106
       },
       {
         "ID": "40192",
@@ -119,7 +167,7 @@
         "quality": "SSR",
         "icon": "Icon_entry_40191",
         "IconType": "PropertyS",
-        "weight": 97
+        "weight": 105
       },
       {
         "ID": "40191",
@@ -127,7 +175,7 @@
         "quality": "SR",
         "icon": "Icon_entry_40191",
         "IconType": "PropertyA",
-        "weight": 96
+        "weight": 104
       },
       {
         "ID": "40182",
@@ -135,7 +183,7 @@
         "quality": "SSR",
         "icon": "Icon_entry_40181",
         "IconType": "PropertyS",
-        "weight": 95
+        "weight": 103
       },
       {
         "ID": "40181",
@@ -143,7 +191,7 @@
         "quality": "SR",
         "icon": "Icon_entry_40181",
         "IconType": "PropertyA",
-        "weight": 94
+        "weight": 102
       },
       {
         "ID": "40172",
@@ -151,7 +199,7 @@
         "quality": "SSR",
         "icon": "Icon_entry_40171",
         "IconType": "PropertyS",
-        "weight": 93
+        "weight": 101
       },
       {
         "ID": "40171",
@@ -159,7 +207,7 @@
         "quality": "SR",
         "icon": "Icon_entry_40171",
         "IconType": "PropertyA",
-        "weight": 92
+        "weight": 100
       },
       {
         "ID": "40162",
@@ -167,7 +215,7 @@
         "quality": "SSR",
         "icon": "Icon_entry_40161",
         "IconType": "PropertyS",
-        "weight": 91
+        "weight": 99
       },
       {
         "ID": "40161",
@@ -175,7 +223,7 @@
         "quality": "SR",
         "icon": "Icon_entry_40161",
         "IconType": "PropertyA",
-        "weight": 90
+        "weight": 98
       },
       {
         "ID": "40152",
@@ -183,7 +231,7 @@
         "quality": "SSR",
         "icon": "Icon_entry_40151",
         "IconType": "PropertyS",
-        "weight": 89
+        "weight": 97
       },
       {
         "ID": "40151",
@@ -191,7 +239,7 @@
         "quality": "SR",
         "icon": "Icon_entry_40151",
         "IconType": "PropertyA",
-        "weight": 88
+        "weight": 96
       },
       {
         "ID": "40142",
@@ -199,7 +247,7 @@
         "quality": "SSR",
         "icon": "Icon_entry_40141",
         "IconType": "PropertyS",
-        "weight": 87
+        "weight": 95
       },
       {
         "ID": "40141",
@@ -207,7 +255,7 @@
         "quality": "SR",
         "icon": "Icon_entry_40141",
         "IconType": "PropertyA",
-        "weight": 86
+        "weight": 94
       },
       {
         "ID": "40132",
@@ -215,7 +263,7 @@
         "quality": "SSR",
         "icon": "Icon_entry_40131",
         "IconType": "PropertyS",
-        "weight": 85
+        "weight": 93
       },
       {
         "ID": "40131",
@@ -223,7 +271,7 @@
         "quality": "SR",
         "icon": "Icon_entry_40131",
         "IconType": "PropertyA",
-        "weight": 84
+        "weight": 92
       },
       {
         "ID": "40122",
@@ -231,7 +279,7 @@
         "quality": "SSR",
         "icon": "Icon_entry_40121",
         "IconType": "PropertyS",
-        "weight": 83
+        "weight": 91
       },
       {
         "ID": "40121",
@@ -239,7 +287,7 @@
         "quality": "SR",
         "icon": "Icon_entry_40121",
         "IconType": "PropertyA",
-        "weight": 82
+        "weight": 90
       },
       {
         "ID": "40112",
@@ -247,7 +295,7 @@
         "quality": "SSR",
         "icon": "Icon_entry_40111",
         "IconType": "PropertyS",
-        "weight": 81
+        "weight": 89
       },
       {
         "ID": "40111",
@@ -255,7 +303,7 @@
         "quality": "SR",
         "icon": "Icon_entry_40111",
         "IconType": "PropertyA",
-        "weight": 80
+        "weight": 88
       },
       {
         "ID": "40102",
@@ -263,7 +311,7 @@
         "quality": "SSR",
         "icon": "Icon_entry_40101",
         "IconType": "PropertyS",
-        "weight": 79
+        "weight": 87
       },
       {
         "ID": "40101",
@@ -271,7 +319,7 @@
         "quality": "SR",
         "icon": "Icon_entry_40101",
         "IconType": "PropertyA",
-        "weight": 78
+        "weight": 86
       },
       {
         "ID": "40092",
@@ -279,7 +327,7 @@
         "quality": "SSR",
         "icon": "Icon_entry_40091",
         "IconType": "PropertyS",
-        "weight": 77
+        "weight": 85
       },
       {
         "ID": "40091",
@@ -287,7 +335,7 @@
         "quality": "SR",
         "icon": "Icon_entry_40091",
         "IconType": "PropertyA",
-        "weight": 76
+        "weight": 84
       },
       {
         "ID": "40082",
@@ -295,7 +343,7 @@
         "quality": "SSR",
         "icon": "Icon_entry_40081",
         "IconType": "PropertyS",
-        "weight": 75
+        "weight": 83
       },
       {
         "ID": "40081",
@@ -303,7 +351,7 @@
         "quality": "SR",
         "icon": "Icon_entry_40081",
         "IconType": "PropertyA",
-        "weight": 74
+        "weight": 82
       },
       {
         "ID": "40072",
@@ -311,7 +359,7 @@
         "quality": "SSR",
         "icon": "Icon_entry_40071",
         "IconType": "PropertyS",
-        "weight": 73
+        "weight": 81
       },
       {
         "ID": "40071",
@@ -319,7 +367,7 @@
         "quality": "SR",
         "icon": "Icon_entry_40071",
         "IconType": "PropertyA",
-        "weight": 72
+        "weight": 80
       },
       {
         "ID": "40062",
@@ -327,7 +375,7 @@
         "quality": "SSR",
         "icon": "Icon_entry_40061",
         "IconType": "PropertyS",
-        "weight": 71
+        "weight": 79
       },
       {
         "ID": "40061",
@@ -335,7 +383,7 @@
         "quality": "SR",
         "icon": "Icon_entry_40061",
         "IconType": "PropertyA",
-        "weight": 70
+        "weight": 78
       },
       {
         "ID": "40052",
@@ -343,7 +391,7 @@
         "quality": "SSR",
         "icon": "Icon_entry_40051",
         "IconType": "PropertyS",
-        "weight": 69
+        "weight": 77
       },
       {
         "ID": "40051",
@@ -351,7 +399,7 @@
         "quality": "SR",
         "icon": "Icon_entry_40051",
         "IconType": "PropertyA",
-        "weight": 68
+        "weight": 76
       },
       {
         "ID": "40042",
@@ -359,7 +407,7 @@
         "quality": "SSR",
         "icon": "Icon_entry_40041",
         "IconType": "PropertyS",
-        "weight": 67
+        "weight": 75
       },
       {
         "ID": "40041",
@@ -367,7 +415,7 @@
         "quality": "SR",
         "icon": "Icon_entry_40041",
         "IconType": "PropertyA",
-        "weight": 66
+        "weight": 74
       },
       {
         "ID": "40032",
@@ -375,7 +423,7 @@
         "quality": "SSR",
         "icon": "Icon_entry_40031",
         "IconType": "PropertyS",
-        "weight": 65
+        "weight": 73
       },
       {
         "ID": "40031",
@@ -383,7 +431,7 @@
         "quality": "SR",
         "icon": "Icon_entry_40031",
         "IconType": "PropertyA",
-        "weight": 64
+        "weight": 72
       },
       {
         "ID": "40022",
@@ -391,7 +439,7 @@
         "quality": "SSR",
         "icon": "Icon_entry_40021",
         "IconType": "PropertyS",
-        "weight": 63
+        "weight": 71
       },
       {
         "ID": "40021",
@@ -399,7 +447,7 @@
         "quality": "SR",
         "icon": "Icon_entry_40021",
         "IconType": "PropertyA",
-        "weight": 62
+        "weight": 70
       },
       {
         "ID": "40012",
@@ -407,7 +455,7 @@
         "quality": "SSR",
         "icon": "Icon_entry_40011",
         "IconType": "PropertyS",
-        "weight": 61
+        "weight": 69
       },
       {
         "ID": "40011",
@@ -415,7 +463,23 @@
         "quality": "SR",
         "icon": "Icon_entry_40011",
         "IconType": "PropertyA",
-        "weight": 60
+        "weight": 68
+      },
+      {
+        "ID": "30301",
+        "name": "据峙模组",
+        "quality": "SSR",
+        "icon": "Icon_skill_passive_1143",
+        "IconType": "GeneralSuit",
+        "weight": 67
+      },
+      {
+        "ID": "30261",
+        "name": "焕发模组",
+        "quality": "SSR",
+        "icon": "Icon_entry_10072",
+        "IconType": "GeneralSuit",
+        "weight": 66
       },
       {
         "ID": "30251",
@@ -423,7 +487,7 @@
         "quality": "SSR",
         "icon": "Icon_entry_40271",
         "IconType": "GeneralSuit",
-        "weight": 59
+        "weight": 65
       },
       {
         "ID": "30241",
@@ -431,7 +495,7 @@
         "quality": "SSR",
         "icon": "Icon_entry_10013",
         "IconType": "GeneralSuit",
-        "weight": 58
+        "weight": 64
       },
       {
         "ID": "30231",
@@ -439,7 +503,7 @@
         "quality": "SSR",
         "icon": "Icon_entry_10012",
         "IconType": "GeneralSuit",
-        "weight": 57
+        "weight": 63
       },
       {
         "ID": "30221",
@@ -447,7 +511,7 @@
         "quality": "SSR",
         "icon": "Icon_entry_10011",
         "IconType": "GeneralSuit",
-        "weight": 56
+        "weight": 62
       },
       {
         "ID": "30201",
@@ -455,7 +519,7 @@
         "quality": "SSR",
         "icon": "Icon_entry_10029",
         "IconType": "GeneralSuit",
-        "weight": 55
+        "weight": 61
       },
       {
         "ID": "30191",
@@ -463,7 +527,15 @@
         "quality": "SSR",
         "icon": "Icon_entry_10028",
         "IconType": "GeneralSuit",
-        "weight": 54
+        "weight": 60
+      },
+      {
+        "ID": "30181",
+        "name": "冲阵模组",
+        "quality": "SSR",
+        "icon": "Icon_entry_10027",
+        "IconType": "GeneralSuit",
+        "weight": 59
       },
       {
         "ID": "30171",
@@ -471,7 +543,7 @@
         "quality": "SSR",
         "icon": "Icon_entry_10026",
         "IconType": "GeneralSuit",
-        "weight": 53
+        "weight": 58
       },
       {
         "ID": "30161",
@@ -479,7 +551,7 @@
         "quality": "SSR",
         "icon": "Icon_entry_10058",
         "IconType": "GeneralSuit",
-        "weight": 52
+        "weight": 57
       },
       {
         "ID": "30151",
@@ -487,7 +559,7 @@
         "quality": "SSR",
         "icon": "Icon_entry_10057",
         "IconType": "GeneralSuit",
-        "weight": 51
+        "weight": 56
       },
       {
         "ID": "30141",
@@ -495,7 +567,7 @@
         "quality": "SSR",
         "icon": "Icon_entry_10056",
         "IconType": "GeneralSuit",
-        "weight": 50
+        "weight": 55
       },
       {
         "ID": "30131",
@@ -503,7 +575,15 @@
         "quality": "SSR",
         "icon": "Icon_entry_10025",
         "IconType": "GeneralSuit",
-        "weight": 49
+        "weight": 54
+      },
+      {
+        "ID": "30121",
+        "name": "警戒模组",
+        "quality": "SSR",
+        "icon": "Icon_entry_10024",
+        "IconType": "GeneralSuit",
+        "weight": 53
       },
       {
         "ID": "30111",
@@ -511,7 +591,7 @@
         "quality": "SSR",
         "icon": "Icon_entry_10023",
         "IconType": "GeneralSuit",
-        "weight": 48
+        "weight": 52
       },
       {
         "ID": "30101",
@@ -519,7 +599,15 @@
         "quality": "SSR",
         "icon": "Icon_entry_10022",
         "IconType": "GeneralSuit",
-        "weight": 47
+        "weight": 51
+      },
+      {
+        "ID": "30091",
+        "name": "续战模组",
+        "quality": "SSR",
+        "icon": "Icon_entry_10055",
+        "IconType": "GeneralSuit",
+        "weight": 50
       },
       {
         "ID": "30081",
@@ -527,7 +615,7 @@
         "quality": "SSR",
         "icon": "Icon_entry_10054",
         "IconType": "GeneralSuit",
-        "weight": 46
+        "weight": 49
       },
       {
         "ID": "30071",
@@ -535,7 +623,15 @@
         "quality": "SSR",
         "icon": "Icon_entry_10053",
         "IconType": "GeneralSuit",
-        "weight": 45
+        "weight": 48
+      },
+      {
+        "ID": "30061",
+        "name": "蓄能模组",
+        "quality": "SSR",
+        "icon": "Icon_entry_10052",
+        "IconType": "GeneralSuit",
+        "weight": 47
       },
       {
         "ID": "30051",
@@ -543,7 +639,7 @@
         "quality": "SSR",
         "icon": "Icon_entry_10051",
         "IconType": "GeneralSuit",
-        "weight": 44
+        "weight": 46
       },
       {
         "ID": "30041",
@@ -551,7 +647,7 @@
         "quality": "SSR",
         "icon": "Icon_entry_10050",
         "IconType": "GeneralSuit",
-        "weight": 43
+        "weight": 45
       },
       {
         "ID": "30031",
@@ -559,7 +655,7 @@
         "quality": "SSR",
         "icon": "Icon_entry_10049",
         "IconType": "GeneralSuit",
-        "weight": 42
+        "weight": 44
       },
       {
         "ID": "30021",
@@ -567,7 +663,7 @@
         "quality": "SSR",
         "icon": "Icon_entry_10048",
         "IconType": "GeneralSuit",
-        "weight": 41
+        "weight": 43
       },
       {
         "ID": "30011",
@@ -575,7 +671,15 @@
         "quality": "SSR",
         "icon": "Icon_entry_10047",
         "IconType": "GeneralSuit",
-        "weight": 40
+        "weight": 42
+      },
+      {
+        "ID": "20461",
+        "name": "光焰核心",
+        "quality": "SSR",
+        "icon": "Icon_skill_passive_1168",
+        "IconType": "SuitS",
+        "weight": 41
       },
       {
         "ID": "20441",
@@ -583,7 +687,7 @@
         "quality": "SSR",
         "icon": "Icon_skill_passive_1145",
         "IconType": "SuitS",
-        "weight": 39
+        "weight": 40
       },
       {
         "ID": "20431",
@@ -591,7 +695,7 @@
         "quality": "SSR",
         "icon": "Icon_entry_10082",
         "IconType": "SuitS",
-        "weight": 38
+        "weight": 39
       },
       {
         "ID": "20421",
@@ -599,7 +703,7 @@
         "quality": "SSR",
         "icon": "Icon_entry_10080",
         "IconType": "SuitS",
-        "weight": 37
+        "weight": 38
       },
       {
         "ID": "20411",
@@ -607,7 +711,7 @@
         "quality": "SSR",
         "icon": "Icon_entry_10081",
         "IconType": "SuitS",
-        "weight": 36
+        "weight": 37
       },
       {
         "ID": "20401",
@@ -615,7 +719,7 @@
         "quality": "SSR",
         "icon": "Icon_entry_10079",
         "IconType": "SuitS",
-        "weight": 35
+        "weight": 36
       },
       {
         "ID": "20361",
@@ -623,7 +727,7 @@
         "quality": "SSR",
         "icon": "Icon_entry_10069",
         "IconType": "SuitS",
-        "weight": 34
+        "weight": 35
       },
       {
         "ID": "20351",
@@ -631,7 +735,7 @@
         "quality": "SSR",
         "icon": "Icon_entry_10070",
         "IconType": "SuitS",
-        "weight": 33
+        "weight": 34
       },
       {
         "ID": "20331",
@@ -639,7 +743,7 @@
         "quality": "SSR",
         "icon": "Icon_entry_10065",
         "IconType": "SuitS",
-        "weight": 32
+        "weight": 33
       },
       {
         "ID": "20311",
@@ -647,7 +751,7 @@
         "quality": "SSR",
         "icon": "Icon_entry_10064",
         "IconType": "SuitS",
-        "weight": 31
+        "weight": 32
       },
       {
         "ID": "20321",
@@ -655,7 +759,7 @@
         "quality": "SSR",
         "icon": "Icon_entry_10062",
         "IconType": "SuitS",
-        "weight": 30
+        "weight": 31
       },
       {
         "ID": "20291",
@@ -663,13 +767,21 @@
         "quality": "SSR",
         "icon": "Icon_entry_10063",
         "IconType": "SuitS",
-        "weight": 29
+        "weight": 30
       },
       {
         "ID": "20251",
         "name": "加姆装置",
         "quality": "SSR",
         "icon": "Icon_entry_10020",
+        "IconType": "SuitS",
+        "weight": 29
+      },
+      {
+        "ID": "20241",
+        "name": "能量爆发器",
+        "quality": "SSR",
+        "icon": "Icon_skill_passive_4118",
         "IconType": "SuitS",
         "weight": 28
       },
@@ -898,7 +1010,7 @@
         "weight": 0
       }
     ],
-    "now": "2024-12-13 15:09:31"
+    "now": "2025-01-17 23:11:09"
   },
   "status": 1,
   "switch": null,

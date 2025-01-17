@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_40131",
           "icon": "Icon_entry_40131",
           "Status": 1,
-          "weight": 670
+          "weight": 706
         },
         {
           "ID": "40132",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_40131",
           "icon": "Icon_entry_40131",
           "Status": 1,
-          "weight": 671
+          "weight": 707
         },
         {
           "ID": "40133",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_40131",
           "icon": "Icon_entry_40131",
           "Status": 1,
-          "weight": 672
+          "weight": 708
         },
         {
           "ID": "40134",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_40131",
           "icon": "Icon_entry_40131",
           "Status": 1,
-          "weight": 673
+          "weight": 709
         }
       ],
       "introduce": "一些机兵的手臂上会多出一个别扭的储气装置，那就是霰弹枪模组，能够收集机兵运动产生的气体注入枪械内部，赋予霰弹枪更为强劲的杀伤力。",
@@ -55,9 +55,9 @@
       "IconType": "PropertyA",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 84
+      "weight": 92
     },
-    "now": "2024-12-13 15:09:35"
+    "now": "2025-01-17 23:11:14"
   },
   "status": 1,
   "switch": null,

@@ -27,7 +27,7 @@
             "SkillIcon": "Icon_skill_passive_1106",
             "icon": "Icon_skill_passive_1106",
             "Status": 1,
-            "weight": 511,
+            "weight": 523,
             "id": "3027",
             "level": 2
           },
@@ -91,7 +91,7 @@
             "SkillIcon": "Icon_skill_passive_1126",
             "icon": "Icon_skill_passive_1126",
             "Status": 1,
-            "weight": 780,
+            "weight": 816,
             "id": "4027",
             "level": 2
           },
@@ -117,7 +117,7 @@
         "mechaIcon": "Icon_wap1301_1",
         "lihuiIcon": "icon_lihui_wap1301",
         "Status": 1,
-        "weight": 64,
+        "weight": 68,
         "manji": {
           "name": "破晓者-02",
           "durable": "7757",
@@ -139,7 +139,7 @@
               "SkillIcon": "Icon_skill_passive_1106",
               "icon": "Icon_skill_passive_1106",
               "Status": 1,
-              "weight": 517,
+              "weight": 529,
               "id": "3027",
               "level": 8
             },
@@ -187,7 +187,7 @@
               "SkillIcon": "Icon_skill_passive_1126",
               "icon": "Icon_skill_passive_1126",
               "Status": 1,
-              "weight": 782,
+              "weight": 818,
               "id": "4027",
               "level": 4
             },
@@ -225,7 +225,7 @@
             }
           ],
           "Status": 1,
-          "weight": 64
+          "weight": 68
         }
       },
       {
@@ -244,7 +244,7 @@
         "introduce": "REV-02 破晓者-02\n由北陆联合与拉尼亚凯亚公司联合研发的轻型机兵。原本是作为下一代轻型钢岚机兵而研发的试验机兵，因研发途中出现了战略定位变化，而成为了为某位机师专门打造的特制机兵。为了适应目标驾驶员的驾驶习惯，REV-02采用了与常规单核心机兵完全不同的设计思路。为了保证机兵的进攻有效性，REV-02在左右臂部件分别加装了适用于不同场景的校准与增幅模块，并能根据进攻动作的不同自动调整增幅幅度。",
         "mechaIcon": "Icon_wap1301_2",
         "Status": 1,
-        "weight": 65,
+        "weight": 69,
         "manji": {
           "name": "破晓者-02",
           "durable": "4031",
@@ -254,7 +254,7 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "20392:1/3027:2/4027:1/",
           "Status": 1,
-          "weight": 65
+          "weight": 69
         }
       },
       {
@@ -273,7 +273,7 @@
         "introduce": "REV-02 破晓者-02\n由北陆联合与拉尼亚凯亚公司联合研发的轻型机兵。原本是作为下一代轻型钢岚机兵而研发的试验机兵，因研发途中出现了战略定位变化，而成为了为某位机师专门打造的特制机兵。为了适应目标驾驶员的驾驶习惯，REV-02采用了与常规单核心机兵完全不同的设计思路。为了保证机兵的进攻有效性，REV-02在左右臂部件分别加装了适用于不同场景的校准与增幅模块，并能根据进攻动作的不同自动调整增幅幅度。",
         "mechaIcon": "Icon_wap1301_3",
         "Status": 1,
-        "weight": 66,
+        "weight": 70,
         "manji": {
           "name": "破晓者-02",
           "durable": "4031",
@@ -283,7 +283,7 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "20393:1/3027:2/4027:1/",
           "Status": 1,
-          "weight": 66
+          "weight": 70
         }
       },
       {
@@ -303,7 +303,7 @@
         "introduce": "REV-02 破晓者-02\n由北陆联合与拉尼亚凯亚公司联合研发的轻型机兵。原本是作为下一代轻型钢岚机兵而研发的试验机兵，因研发途中出现了战略定位变化，而成为了为某位机师专门打造的特制机兵。为了适应目标驾驶员的驾驶习惯，REV-02采用了与常规单核心机兵完全不同的设计思路。REV-02在躯干与腿部采用了高兼容性的多态适应框架，能根据驾驶员的自身习惯临时编写对不同模组的操作系统，在确保兼容性的同时大幅提高了机兵模组的使用效率。",
         "mechaIcon": "Icon_wap1301_4",
         "Status": 1,
-        "weight": 67,
+        "weight": 71,
         "manji": {
           "name": "破晓者-02",
           "durable": "6756",
@@ -314,11 +314,11 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "20394:1/3027:2/4027:1/",
           "Status": 1,
-          "weight": 67
+          "weight": 71
         }
       }
     ],
-    "now": "2024-12-13 15:08:30"
+    "now": "2025-01-17 23:10:06"
   },
   "status": 1,
   "switch": null,

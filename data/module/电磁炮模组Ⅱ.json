@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_40201",
           "icon": "Icon_entry_40201",
           "Status": 1,
-          "weight": 726
+          "weight": 762
         },
         {
           "ID": "40202",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_40201",
           "icon": "Icon_entry_40201",
           "Status": 1,
-          "weight": 727
+          "weight": 763
         },
         {
           "ID": "40203",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_40201",
           "icon": "Icon_entry_40201",
           "Status": 1,
-          "weight": 728
+          "weight": 764
         },
         {
           "ID": "40204",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_40201",
           "icon": "Icon_entry_40201",
           "Status": 1,
-          "weight": 729
+          "weight": 765
         }
       ],
       "introduce": "自从电磁炮模组Ⅱ型问世后，机师们就知道在面对战术型机兵时，排成一条直线的行为是十分愚蠢的。",
@@ -55,9 +55,9 @@
       "IconType": "PropertyS",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 99
+      "weight": 107
     },
-    "now": "2024-12-13 15:09:33"
+    "now": "2025-01-17 23:11:12"
   },
   "status": 1,
   "switch": null,

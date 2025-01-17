@@ -43,7 +43,7 @@
             "SkillIcon": "Icon_entry_10086",
             "icon": "Icon_entry_10086",
             "Status": 1,
-            "weight": 559,
+            "weight": 571,
             "id": "3034",
             "level": 2
           },
@@ -59,7 +59,7 @@
             "SkillIcon": "Icon_skill_passive_1126",
             "icon": "Icon_skill_passive_1126",
             "Status": 1,
-            "weight": 780,
+            "weight": 816,
             "id": "4027",
             "level": 2
           }
@@ -69,7 +69,7 @@
         "mechaIcon": "Icon_wap2018_1",
         "lihuiIcon": "icon_lihui_wap2018",
         "Status": 1,
-        "weight": 92,
+        "weight": 96,
         "manji": {
           "name": "复仇女神",
           "durable": "10537",
@@ -107,7 +107,7 @@
               "SkillIcon": "Icon_entry_10086",
               "icon": "Icon_entry_10086",
               "Status": 1,
-              "weight": 565,
+              "weight": 577,
               "id": "3034",
               "level": 8
             },
@@ -123,13 +123,13 @@
               "SkillIcon": "Icon_skill_passive_1126",
               "icon": "Icon_skill_passive_1126",
               "Status": 1,
-              "weight": 782,
+              "weight": 818,
               "id": "4027",
               "level": 4
             }
           ],
           "Status": 1,
-          "weight": 92
+          "weight": 96
         }
       },
       {
@@ -148,7 +148,7 @@
         "introduce": "XR-03-E 复仇女神\n由北陆联合和黑曜石联合研发的中型机兵。名义上是「XR重生」及「XR审判」的后继机型，但其定制思路依然只为改变后的洛莎·迪亚兹一人服务。除了将XR上搭载的「镜像核心」矩阵化外，还针对洛莎·迪亚兹的个人战斗风格强化了突击与战术武器的联动。鉴于XR-03-E的岚物质结构在洛莎搭乘时产生的异变，相关研究人员已经展开了跟进调查。不可否认的是，XR-03-E重生的目的只有一个，那就是重新成为「洛莎·迪亚兹」审判众生的锋刃。",
         "mechaIcon": "Icon_wap2018_2",
         "Status": 1,
-        "weight": 93,
+        "weight": 97,
         "manji": {
           "name": "复仇女神",
           "durable": "5560",
@@ -158,7 +158,7 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "2045:1/3034:2/4027:1/",
           "Status": 1,
-          "weight": 93
+          "weight": 97
         }
       },
       {
@@ -177,7 +177,7 @@
         "introduce": "XR-03-E 复仇女神\n由北陆联合和黑曜石联合研发的中型机兵。名义上是「XR重生」及「XR审判」的后继机型，但其定制思路依然只为改变后的洛莎·迪亚兹一人服务。除了将XR上搭载的「镜像核心」矩阵化外，还针对洛莎·迪亚兹的个人战斗风格强化了突击与战术武器的联动。鉴于XR-03-E的岚物质结构在洛莎搭乘时产生的异变，相关研究人员已经展开了跟进调查。不可否认的是，XR-03-E重生的目的只有一个，那就是重新成为「洛莎·迪亚兹」审判众生的锋刃。",
         "mechaIcon": "Icon_wap2018_3",
         "Status": 1,
-        "weight": 94,
+        "weight": 98,
         "manji": {
           "name": "复仇女神",
           "durable": "5560",
@@ -187,7 +187,7 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "2045:1/3034:2/4027:1/",
           "Status": 1,
-          "weight": 94
+          "weight": 98
         }
       },
       {
@@ -207,7 +207,7 @@
         "introduce": "XR-03-E 复仇女神\n由北陆联合和黑曜石联合研发的中型机兵。名义上是「XR重生」及「XR审判」的后继机型，但其定制思路依然只为改变后的洛莎·迪亚兹一人服务。除了将XR上搭载的「镜像核心」矩阵化外，还针对洛莎·迪亚兹的个人战斗风格强化了突击与战术武器的联动。鉴于XR-03-E的岚物质结构在洛莎搭乘时产生的异变，相关研究人员已经展开了跟进调查。不可否认的是，XR-03-E重生的目的只有一个，那就是重新成为「洛莎·迪亚兹」审判众生的锋刃。",
         "mechaIcon": "Icon_wap2018_4",
         "Status": 1,
-        "weight": 95,
+        "weight": 99,
         "manji": {
           "name": "复仇女神",
           "durable": "8118",
@@ -218,11 +218,11 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "2045:1/3034:2/4027:1/",
           "Status": 1,
-          "weight": 95
+          "weight": 99
         }
       }
     ],
-    "now": "2024-12-13 15:08:31"
+    "now": "2025-01-17 23:10:07"
   },
   "status": 1,
   "switch": null,

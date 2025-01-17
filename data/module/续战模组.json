@@ -1,0 +1,105 @@
+{
+  "data": {
+    "data": {
+      "ID": "30091",
+      "ModuleName": "续战模组",
+      "name": "续战模组",
+      "EntryLevel": "1",
+      "quality": "SSR",
+      "ModuleEffects": "30091/30092/30093/30094/30095/30096/30097/30098",
+      "WithPassiveSkills": [
+        {
+          "ID": "30091",
+          "name": "续战模组",
+          "SpecificEffects": "自身每携带<color=#F74848>1</color>个增益效果，伤害提升<color=#F74848>1%</color>，最多<color=#F74848>3%</color>",
+          "BufCarried": "300910/300911",
+          "SkillIcon": "Icon_entry_10055",
+          "icon": "Icon_entry_10055",
+          "Status": 1,
+          "weight": 378
+        },
+        {
+          "ID": "30092",
+          "name": "续战模组",
+          "SpecificEffects": "自身每携带<color=#F74848>1</color>个增益效果，伤害提升<color=#F74848>1%</color>，最多<color=#F74848>4%</color>",
+          "BufCarried": "300910/300921",
+          "SkillIcon": "Icon_entry_10055",
+          "icon": "Icon_entry_10055",
+          "Status": 1,
+          "weight": 379
+        },
+        {
+          "ID": "30093",
+          "name": "续战模组",
+          "SpecificEffects": "自身每携带<color=#F74848>1</color>个增益效果，伤害提升<color=#F74848>2%</color>，最多<color=#F74848>6%</color>",
+          "BufCarried": "300910/300931",
+          "SkillIcon": "Icon_entry_10055",
+          "icon": "Icon_entry_10055",
+          "Status": 1,
+          "weight": 380
+        },
+        {
+          "ID": "30094",
+          "name": "续战模组",
+          "SpecificEffects": "自身每携带<color=#F74848>1</color>个增益效果，伤害提升<color=#F74848>2%</color>，最多<color=#F74848>8%</color>",
+          "BufCarried": "300910/300941",
+          "SkillIcon": "Icon_entry_10055",
+          "icon": "Icon_entry_10055",
+          "Status": 1,
+          "weight": 381
+        },
+        {
+          "ID": "30095",
+          "name": "续战模组",
+          "SpecificEffects": "自身每携带<color=#F74848>1</color>个增益效果，伤害提升<color=#F74848>2.5%</color>，最多<color=#F74848>10%</color>",
+          "BufCarried": "300910/300951",
+          "SkillIcon": "Icon_entry_10055",
+          "icon": "Icon_entry_10055",
+          "Status": 1,
+          "weight": 382
+        },
+        {
+          "ID": "30096",
+          "name": "续战模组",
+          "SpecificEffects": "自身每携带<color=#F74848>1</color>个增益效果，伤害提升<color=#F74848>3%</color>，最多<color=#F74848>12%</color>",
+          "BufCarried": "300910/300961",
+          "SkillIcon": "Icon_entry_10055",
+          "icon": "Icon_entry_10055",
+          "Status": 1,
+          "weight": 383
+        },
+        {
+          "ID": "30097",
+          "name": "续战模组",
+          "SpecificEffects": "自身每携带<color=#F74848>1</color>个增益效果，伤害提升<color=#F74848>3.5%</color>，最多<color=#F74848>14%</color>",
+          "BufCarried": "300910/300971",
+          "SkillIcon": "Icon_entry_10055",
+          "icon": "Icon_entry_10055",
+          "Status": 1,
+          "weight": 384
+        },
+        {
+          "ID": "30098",
+          "name": "续战模组",
+          "SpecificEffects": "自身每携带<color=#F74848>1</color>个增益效果，伤害提升<color=#F74848>4.5%</color>，最多<color=#F74848>18%</color>；\n获得增益效果的持续回合<color=#F74848>+1</color>，无法与其它同类效果叠加",
+          "BufCarried": "300910/300981/300983",
+          "SkillIcon": "Icon_entry_10055",
+          "icon": "Icon_entry_10055",
+          "Status": 1,
+          "weight": 385
+        }
+      ],
+      "introduce": "续战模组能使机兵的增幅效果时间延长，如果一个机体占用团队的大量资源，那么该模组肯定是它的不二之选。",
+      "ModuleIcon": "Icon_entry_10055",
+      "icon": "Icon_entry_10055",
+      "IconType": "GeneralSuit",
+      "ObtainingMethod": "商店购买",
+      "Status": 1,
+      "weight": 50
+    },
+    "now": "2025-01-17 23:11:21"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

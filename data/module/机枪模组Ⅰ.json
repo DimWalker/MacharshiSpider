@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_40141",
           "icon": "Icon_entry_40141",
           "Status": 1,
-          "weight": 678
+          "weight": 714
         },
         {
           "ID": "40142",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_40141",
           "icon": "Icon_entry_40141",
           "Status": 1,
-          "weight": 679
+          "weight": 715
         },
         {
           "ID": "40143",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_40141",
           "icon": "Icon_entry_40141",
           "Status": 1,
-          "weight": 680
+          "weight": 716
         },
         {
           "ID": "40144",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_40141",
           "icon": "Icon_entry_40141",
           "Status": 1,
-          "weight": 681
+          "weight": 717
         }
       ],
       "introduce": "机枪模组很好弥补了机枪伤害不足这一缺点，让这一武器的平衡性得到了进一步的加强。",
@@ -55,9 +55,9 @@
       "IconType": "PropertyA",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 86
+      "weight": 94
     },
-    "now": "2024-12-13 15:09:35"
+    "now": "2025-01-17 23:11:14"
   },
   "status": 1,
   "switch": null,

@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_40111",
           "icon": "Icon_entry_40111",
           "Status": 1,
-          "weight": 654
+          "weight": 690
         },
         {
           "ID": "40112",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_40111",
           "icon": "Icon_entry_40111",
           "Status": 1,
-          "weight": 655
+          "weight": 691
         },
         {
           "ID": "40113",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_40111",
           "icon": "Icon_entry_40111",
           "Status": 1,
-          "weight": 656
+          "weight": 692
         },
         {
           "ID": "40114",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_40111",
           "icon": "Icon_entry_40111",
           "Status": 1,
-          "weight": 657
+          "weight": 693
         }
       ],
       "introduce": "只要装备上拳套模组Ⅱ型，无论什么的机兵能在斗技场的拳击专场中取得不错的名次，所以经常会被禁用。",
@@ -55,9 +55,9 @@
       "IconType": "PropertyS",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 81
+      "weight": 89
     },
-    "now": "2024-12-13 15:09:36"
+    "now": "2025-01-17 23:11:15"
   },
   "status": 1,
   "switch": null,

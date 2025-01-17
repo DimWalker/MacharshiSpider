@@ -15,7 +15,7 @@
           "SkillIcon": "Icon_entry_40261",
           "icon": "Icon_entry_40261",
           "Status": 1,
-          "weight": 775
+          "weight": 811
         },
         {
           "ID": "40262",
@@ -24,7 +24,7 @@
           "SkillIcon": "Icon_entry_40261",
           "icon": "Icon_entry_40261",
           "Status": 1,
-          "weight": 776
+          "weight": 812
         },
         {
           "ID": "40263",
@@ -33,7 +33,7 @@
           "SkillIcon": "Icon_entry_40261",
           "icon": "Icon_entry_40261",
           "Status": 1,
-          "weight": 777
+          "weight": 813
         },
         {
           "ID": "40264",
@@ -42,7 +42,7 @@
           "SkillIcon": "Icon_entry_40261",
           "icon": "Icon_entry_40261",
           "Status": 1,
-          "weight": 778
+          "weight": 814
         }
       ],
       "introduce": "平日里可能没人看得上出力模组，但每个人都会保有一两个，以备不时之需。",
@@ -51,9 +51,9 @@
       "IconType": "PropertyA",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 110
+      "weight": 118
     },
-    "now": "2024-12-13 15:09:31"
+    "now": "2025-01-17 23:11:10"
   },
   "status": 1,
   "switch": null,

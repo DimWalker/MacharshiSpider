@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_40151",
           "icon": "Icon_entry_40151",
           "Status": 1,
-          "weight": 686
+          "weight": 722
         },
         {
           "ID": "40152",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_40151",
           "icon": "Icon_entry_40151",
           "Status": 1,
-          "weight": 687
+          "weight": 723
         },
         {
           "ID": "40153",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_40151",
           "icon": "Icon_entry_40151",
           "Status": 1,
-          "weight": 688
+          "weight": 724
         },
         {
           "ID": "40154",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_40151",
           "icon": "Icon_entry_40151",
           "Status": 1,
-          "weight": 689
+          "weight": 725
         }
       ],
       "introduce": "想让你的重机枪更能突突突突突突突突突吗？那就为你的机兵装配重机枪模组Ⅱ型吧！",
@@ -55,9 +55,9 @@
       "IconType": "PropertyS",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 89
+      "weight": 97
     },
-    "now": "2024-12-13 15:09:34"
+    "now": "2025-01-17 23:11:14"
   },
   "status": 1,
   "switch": null,

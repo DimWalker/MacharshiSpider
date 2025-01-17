@@ -1,0 +1,105 @@
+{
+  "data": {
+    "data": {
+      "ID": "30261",
+      "ModuleName": "焕发模组",
+      "name": "焕发模组",
+      "EntryLevel": "1",
+      "quality": "SSR",
+      "ModuleEffects": "30261/30262/30263/30264/30265/30266/30267/30268",
+      "WithPassiveSkills": [
+        {
+          "ID": "30261",
+          "name": "焕发模组",
+          "SpecificEffects": "自身的耐久值百分比全满时，伤害提升<color=#F74848>3%</color>",
+          "BufCarried": "302611",
+          "SkillIcon": "Icon_entry_10072",
+          "icon": "Icon_entry_10072",
+          "Status": 1,
+          "weight": 514
+        },
+        {
+          "ID": "30262",
+          "name": "焕发模组",
+          "SpecificEffects": "自身的耐久值百分比全满时，伤害提升<color=#F74848>4%</color>",
+          "BufCarried": "302621",
+          "SkillIcon": "Icon_entry_10072",
+          "icon": "Icon_entry_10072",
+          "Status": 1,
+          "weight": 515
+        },
+        {
+          "ID": "30263",
+          "name": "焕发模组",
+          "SpecificEffects": "自身的耐久值百分比全满时，伤害提升<color=#F74848>6%</color>",
+          "BufCarried": "302631",
+          "SkillIcon": "Icon_entry_10072",
+          "icon": "Icon_entry_10072",
+          "Status": 1,
+          "weight": 516
+        },
+        {
+          "ID": "30264",
+          "name": "焕发模组",
+          "SpecificEffects": "自身的耐久值百分比大于等于<color=#F74848>90%</color>时，伤害提升<color=#F74848>8%</color>",
+          "BufCarried": "302641",
+          "SkillIcon": "Icon_entry_10072",
+          "icon": "Icon_entry_10072",
+          "Status": 1,
+          "weight": 517
+        },
+        {
+          "ID": "30265",
+          "name": "焕发模组",
+          "SpecificEffects": "自身的耐久值百分比大于等于<color=#F74848>90%</color>时，伤害提升<color=#F74848>10%</color>",
+          "BufCarried": "302651",
+          "SkillIcon": "Icon_entry_10072",
+          "icon": "Icon_entry_10072",
+          "Status": 1,
+          "weight": 518
+        },
+        {
+          "ID": "30266",
+          "name": "焕发模组",
+          "SpecificEffects": "自身的耐久值百分比大于等于<color=#F74848>80%</color>时，伤害提升<color=#F74848>12%</color>",
+          "BufCarried": "302661",
+          "SkillIcon": "Icon_entry_10072",
+          "icon": "Icon_entry_10072",
+          "Status": 1,
+          "weight": 519
+        },
+        {
+          "ID": "30267",
+          "name": "焕发模组",
+          "SpecificEffects": "自身的耐久值百分比大于等于<color=#F74848>80%</color>时，伤害提升<color=#F74848>14%</color>",
+          "BufCarried": "302671",
+          "SkillIcon": "Icon_entry_10072",
+          "icon": "Icon_entry_10072",
+          "Status": 1,
+          "weight": 520
+        },
+        {
+          "ID": "30268",
+          "name": "焕发模组",
+          "SpecificEffects": "自身的耐久值百分比大于等于<color=#F74848>80%</color>时，伤害提升<color=#F74848>18%</color>；\n任意手臂遭遇过量伤害时不会损毁，该效果间隔<color=#F74848>4</color>回合才可再次触发",
+          "BufCarried": "302681/302683",
+          "SkillIcon": "Icon_entry_10072",
+          "icon": "Icon_entry_10072",
+          "Status": 1,
+          "weight": 521
+        }
+      ],
+      "introduce": "统筹全机所有武器的中枢型火控模组，能在机体完好时发挥出色性能。",
+      "ModuleIcon": "Icon_entry_10072",
+      "icon": "Icon_entry_10072",
+      "IconType": "GeneralSuit",
+      "ObtainingMethod": "商店购买",
+      "Status": 1,
+      "weight": 66
+    },
+    "now": "2025-01-17 23:11:19"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

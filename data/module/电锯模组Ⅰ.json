@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "40291",
+      "ModuleName": "电锯模组Ⅰ",
+      "name": "电锯模组Ⅰ",
+      "EntryLevel": "1",
+      "quality": "SR",
+      "ModuleEffects": "40291/40292/40293/40294",
+      "WithPassiveSkills": [
+        {
+          "ID": "40291",
+          "name": "电锯模组Ⅰ",
+          "SpecificEffects": "电锯的伤害提升<color=#F74848>3%</color>",
+          "BufCarried": "402911",
+          "SkillIcon": "Icon_entry_40291",
+          "icon": "Icon_entry_40291",
+          "Status": 1,
+          "weight": 823
+        },
+        {
+          "ID": "40292",
+          "name": "电锯模组Ⅰ",
+          "SpecificEffects": "电锯的伤害提升<color=#F74848>5%</color>",
+          "BufCarried": "402921",
+          "SkillIcon": "Icon_entry_40291",
+          "icon": "Icon_entry_40291",
+          "Status": 1,
+          "weight": 824
+        },
+        {
+          "ID": "40293",
+          "name": "电锯模组Ⅰ",
+          "SpecificEffects": "电锯的伤害提升<color=#F74848>7%</color>",
+          "BufCarried": "402931",
+          "SkillIcon": "Icon_entry_40291",
+          "icon": "Icon_entry_40291",
+          "Status": 1,
+          "weight": 825
+        },
+        {
+          "ID": "40294",
+          "name": "电锯模组Ⅰ",
+          "SpecificEffects": "电锯的伤害提升<color=#F74848>10%</color>",
+          "BufCarried": "402941",
+          "SkillIcon": "Icon_entry_40291",
+          "icon": "Icon_entry_40291",
+          "Status": 1,
+          "weight": 826
+        }
+      ],
+      "introduce": "为了更加精确地控制电锯武器的刃轮转速，各大机兵厂商开发了针对电锯武器专研的控制芯片，推出后便广受电锯武器用户的好评。",
+      "ModuleIcon": "Icon_entry_40291",
+      "icon": "Icon_entry_40291",
+      "IconType": "PropertyA",
+      "ObtainingMethod": "商店购买",
+      "Status": 1,
+      "weight": 122
+    },
+    "now": "2025-01-17 23:11:10"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

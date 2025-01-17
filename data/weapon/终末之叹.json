@@ -25,7 +25,7 @@
             "SkillIcon": "Icon_skill_passive_5136",
             "icon": "Icon_skill_passive_5136",
             "Status": 1,
-            "weight": 814
+            "weight": 854
           },
           {
             "ID": "53003",
@@ -35,7 +35,7 @@
             "SkillIcon": "Icon_skill_passive_5199",
             "icon": "Icon_skill_passive_5199",
             "Status": 1,
-            "weight": 815
+            "weight": 855
           },
           {
             "ID": "53001",
@@ -45,17 +45,17 @@
             "SkillIcon": "Icon_skill_passive_5198",
             "icon": "Icon_skill_passive_5198",
             "Status": 1,
-            "weight": 813
+            "weight": 853
           }
         ],
         "IconResourcePath": "Icon_weapon_20100402",
         "icon": "Icon_weapon_20100402",
         "describe": "根据洛莎·迪亚兹的数据而研制的特制版夜魇，在控件和激发装置上都采用了可被脑波直接控制的钢岚合金……不知是何原因，这套武装自出厂后就一直留在武器库里，那位瓦尔基里一次都没有使用过。",
         "Status": 1,
-        "weight": 706
+        "weight": 709
       }
     ],
-    "now": "2024-12-13 15:08:57"
+    "now": "2025-01-17 23:10:34"
   },
   "status": 1,
   "switch": null,

@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_40181",
           "icon": "Icon_entry_40181",
           "Status": 1,
-          "weight": 710
+          "weight": 746
         },
         {
           "ID": "40182",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_40181",
           "icon": "Icon_entry_40181",
           "Status": 1,
-          "weight": 711
+          "weight": 747
         },
         {
           "ID": "40183",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_40181",
           "icon": "Icon_entry_40181",
           "Status": 1,
-          "weight": 712
+          "weight": 748
         },
         {
           "ID": "40184",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_40181",
           "icon": "Icon_entry_40181",
           "Status": 1,
-          "weight": 713
+          "weight": 749
         }
       ],
       "introduce": "导弹模组能进一步扩充机兵的弹舱，使得机兵能发射更为大体积的导弹，用更猛烈的炮火消灭敌人。",
@@ -55,9 +55,9 @@
       "IconType": "PropertyA",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 94
+      "weight": 102
     },
-    "now": "2024-12-13 15:09:34"
+    "now": "2025-01-17 23:11:13"
   },
   "status": 1,
   "switch": null,

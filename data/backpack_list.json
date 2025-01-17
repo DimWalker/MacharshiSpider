@@ -82,6 +82,14 @@
         "icon": "Icon_backpack_60400101"
       },
       {
+        "ID": "60701106",
+        "name": "拯救者背包",
+        "quality": "SSSR",
+        "weight": "1000",
+        "BackpackMainType": "Heal",
+        "icon": "Icon_backpack_60400201"
+      },
+      {
         "ID": "60700103",
         "name": "修理背包",
         "quality": "SR",
@@ -1010,6 +1018,14 @@
         "icon": "Icon_backpack_60900201"
       },
       {
+        "ID": "60402406",
+        "name": "主宰者背包",
+        "quality": "SSSR",
+        "weight": "150",
+        "BackpackMainType": "Flow",
+        "icon": "Icon_backpack_60350201"
+      },
+      {
         "ID": "60100103",
         "name": "出力背包",
         "quality": "SR",
@@ -1290,7 +1306,7 @@
         "icon": "Icon_backpack_60600101"
       }
     ],
-    "now": "2024-12-13 15:09:04"
+    "now": "2025-01-17 23:10:42"
   },
   "status": 1,
   "switch": null,

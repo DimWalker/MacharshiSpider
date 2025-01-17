@@ -25,7 +25,7 @@
             "SkillIcon": "Icon_skill_passive_3131",
             "icon": "Icon_skill_passive_3131",
             "Status": 1,
-            "weight": 859
+            "weight": 899
           },
           {
             "ID": "53048",
@@ -35,7 +35,7 @@
             "SkillIcon": "Icon_skill_passive_5241",
             "icon": "Icon_skill_passive_5241",
             "Status": 1,
-            "weight": 860
+            "weight": 900
           },
           {
             "ID": "53046",
@@ -45,17 +45,17 @@
             "SkillIcon": "Icon_skill_passive_3119",
             "icon": "Icon_skill_passive_3119",
             "Status": 1,
-            "weight": 858
+            "weight": 898
           }
         ],
         "IconResourcePath": "Icon_weapon_10500501",
         "icon": "Icon_weapon_10500501",
         "describe": "难民营中的前几位「马哈利姆」留下的「遗产」，由各种零碎的机兵零件组装而来的机兵手盾，与之配套的还有一套方便进行维修的备件箱。罗娜希望通过这样的方式纪念他们所有人，并期望自己能用它拯救更多的「马哈利姆」。",
         "Status": 1,
-        "weight": 705
+        "weight": 707
       }
     ],
-    "now": "2024-12-13 15:09:02"
+    "now": "2025-01-17 23:10:39"
   },
   "status": 1,
   "switch": null,

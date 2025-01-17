@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_10051",
           "icon": "Icon_entry_10051",
           "Status": 1,
-          "weight": 334
+          "weight": 346
         },
         {
           "ID": "30052",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_10051",
           "icon": "Icon_entry_10051",
           "Status": 1,
-          "weight": 335
+          "weight": 347
         },
         {
           "ID": "30053",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_10051",
           "icon": "Icon_entry_10051",
           "Status": 1,
-          "weight": 336
+          "weight": 348
         },
         {
           "ID": "30054",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_10051",
           "icon": "Icon_entry_10051",
           "Status": 1,
-          "weight": 337
+          "weight": 349
         },
         {
           "ID": "30055",
@@ -56,7 +56,7 @@
           "SkillIcon": "Icon_entry_10051",
           "icon": "Icon_entry_10051",
           "Status": 1,
-          "weight": 338
+          "weight": 350
         },
         {
           "ID": "30056",
@@ -66,7 +66,7 @@
           "SkillIcon": "Icon_entry_10051",
           "icon": "Icon_entry_10051",
           "Status": 1,
-          "weight": 339
+          "weight": 351
         },
         {
           "ID": "30057",
@@ -76,7 +76,7 @@
           "SkillIcon": "Icon_entry_10051",
           "icon": "Icon_entry_10051",
           "Status": 1,
-          "weight": 340
+          "weight": 352
         },
         {
           "ID": "30058",
@@ -86,7 +86,7 @@
           "SkillIcon": "Icon_entry_10051",
           "icon": "Icon_entry_10051",
           "Status": 1,
-          "weight": 341
+          "weight": 353
         }
       ],
       "introduce": "机兵的能源循环是一项绕不开的话题，各种模组都有回收制动能量的不同逻辑，其中运动模组的选择最为简单粗暴——将其用于攻击即可。",
@@ -95,9 +95,9 @@
       "IconType": "GeneralSuit",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 44
+      "weight": 46
     },
-    "now": "2024-12-13 15:09:42"
+    "now": "2025-01-17 23:11:22"
   },
   "status": 1,
   "switch": null,

@@ -1125,9 +1125,45 @@
         "WeaponType2": "Funnel",
         "type": "Funnel",
         "icon": "Icon_weapon_40300401"
+      },
+      {
+        "ID": "10814121",
+        "name": "贝奥武夫·改",
+        "quality": "UR",
+        "WeaponType1": "Melee",
+        "WeaponType2": "Saw",
+        "type": "Saw",
+        "icon": "Icon_weapon_10600201"
+      },
+      {
+        "ID": "20314122",
+        "name": "火驭·改Ⅱ",
+        "quality": "UR",
+        "WeaponType1": "Assault",
+        "WeaponType2": "ShotGun",
+        "type": "ShotGun",
+        "icon": "Icon_weapon_20300401"
+      },
+      {
+        "ID": "10815121",
+        "name": "Z15型动能斧",
+        "quality": "SSSR",
+        "WeaponType1": "Melee",
+        "WeaponType2": "Saw",
+        "type": "Saw",
+        "icon": "Icon_weapon_10600401"
+      },
+      {
+        "ID": "20315122",
+        "name": "丛林之灾",
+        "quality": "SSSR",
+        "WeaponType1": "Assault",
+        "WeaponType2": "ShotGun",
+        "type": "ShotGun",
+        "icon": "Icon_weapon_20300302"
       }
     ],
-    "now": "2024-12-13 15:08:44"
+    "now": "2025-01-17 23:10:21"
   },
   "status": 1,
   "switch": null,

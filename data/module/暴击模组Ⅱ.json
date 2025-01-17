@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_40021",
           "icon": "Icon_entry_40021",
           "Status": 1,
-          "weight": 582
+          "weight": 618
         },
         {
           "ID": "40022",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_40021",
           "icon": "Icon_entry_40021",
           "Status": 1,
-          "weight": 583
+          "weight": 619
         },
         {
           "ID": "40023",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_40021",
           "icon": "Icon_entry_40021",
           "Status": 1,
-          "weight": 584
+          "weight": 620
         },
         {
           "ID": "40024",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_40021",
           "icon": "Icon_entry_40021",
           "Status": 1,
-          "weight": 585
+          "weight": 621
         }
       ],
       "introduce": "需要小心那些装配Ⅱ型暴击模组的敌人，他们的攻击总是更为刁钻、有力，同样的出力下能造成更大的破坏。",
@@ -55,9 +55,9 @@
       "IconType": "PropertyS",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 63
+      "weight": 71
     },
-    "now": "2024-12-13 15:09:39"
+    "now": "2025-01-17 23:11:18"
   },
   "status": 1,
   "switch": null,

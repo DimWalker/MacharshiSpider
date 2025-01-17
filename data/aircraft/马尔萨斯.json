@@ -43,7 +43,7 @@
             "SkillIcon": "Icon_entry_10053",
             "icon": "Icon_entry_10053",
             "Status": 1,
-            "weight": 351,
+            "weight": 363,
             "id": "3007",
             "level": 2
           },
@@ -59,7 +59,7 @@
             "SkillIcon": "Icon_entry_40051",
             "icon": "Icon_entry_40051",
             "Status": 1,
-            "weight": 607,
+            "weight": 643,
             "id": "4005",
             "level": 2
           }
@@ -69,7 +69,7 @@
         "mechaIcon": "Icon_wap2017_1",
         "lihuiIcon": "icon_lihui_wap2017",
         "Status": 1,
-        "weight": 88,
+        "weight": 92,
         "manji": {
           "name": "马尔萨斯",
           "durable": "8480",
@@ -107,7 +107,7 @@
               "SkillIcon": "Icon_entry_10053",
               "icon": "Icon_entry_10053",
               "Status": 1,
-              "weight": 357,
+              "weight": 369,
               "id": "3007",
               "level": 8
             },
@@ -123,13 +123,13 @@
               "SkillIcon": "Icon_entry_40051",
               "icon": "Icon_entry_40051",
               "Status": 1,
-              "weight": 609,
+              "weight": 645,
               "id": "4005",
               "level": 4
             }
           ],
           "Status": 1,
-          "weight": 88
+          "weight": 92
         }
       },
       {
@@ -148,7 +148,7 @@
         "introduce": "YOS-99 马尔萨斯\n黑曜石开发的中型战术机兵，专为大型战役打造，主要配置于黑曜石各类私兵部队。\n与OS-77狼獾并行开发，相较前者注重小规模打击，马尔萨斯在火箭以及导弹的覆盖威力上进行了强化，拥有出色的大范围火力投送能力，能够在大型战役中提供可观的火力输出，从而在战术层面为顺利的防御和进攻铺平道路。",
         "mechaIcon": "Icon_wap2017_2",
         "Status": 1,
-        "weight": 89,
+        "weight": 93,
         "manji": {
           "name": "马尔萨斯",
           "durable": "5199",
@@ -158,7 +158,7 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "2009:1/3007:2/4005:1/",
           "Status": 1,
-          "weight": 89
+          "weight": 93
         }
       },
       {
@@ -177,7 +177,7 @@
         "introduce": "YOS-99 马尔萨斯\n黑曜石开发的中型战术机兵，专为大型战役打造，主要配置于黑曜石各类私兵部队。\n与OS-77狼獾并行开发，相较前者注重小规模打击，马尔萨斯在火箭以及导弹的覆盖威力上进行了强化，拥有出色的大范围火力投送能力，能够在大型战役中提供可观的火力输出，从而在战术层面为顺利的防御和进攻铺平道路。",
         "mechaIcon": "Icon_wap2017_3",
         "Status": 1,
-        "weight": 90,
+        "weight": 94,
         "manji": {
           "name": "马尔萨斯",
           "durable": "5199",
@@ -187,7 +187,7 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "2009:1/3007:2/4005:1/",
           "Status": 1,
-          "weight": 90
+          "weight": 94
         }
       },
       {
@@ -207,7 +207,7 @@
         "introduce": "YOS-99 马尔萨斯\n黑曜石开发的中型战术机兵，专为大型战役打造，主要配置于黑曜石各类私兵部队。\n与OS-77狼獾并行开发，相较前者注重小规模打击，马尔萨斯在火箭以及导弹的覆盖威力上进行了强化，拥有出色的大范围火力投送能力，能够在大型战役中提供可观的火力输出，从而在战术层面为顺利的防御和进攻铺平道路。",
         "mechaIcon": "Icon_wap2017_4",
         "Status": 1,
-        "weight": 91,
+        "weight": 95,
         "manji": {
           "name": "马尔萨斯",
           "durable": "7034",
@@ -218,11 +218,11 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "2009:1/3007:2/4005:1/",
           "Status": 1,
-          "weight": 91
+          "weight": 95
         }
       }
     ],
-    "now": "2024-12-13 15:08:28"
+    "now": "2025-01-17 23:10:04"
   },
   "status": 1,
   "switch": null,

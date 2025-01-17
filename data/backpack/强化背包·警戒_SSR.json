@@ -18,14 +18,14 @@
           "SkillIcon": "Icon_skill_passive_4001",
           "icon": "Icon_skill_passive_4001",
           "Status": 1,
-          "weight": 952
+          "weight": 995
         }
       ],
       "HowGet": "无",
       "RelatedDescription": "通过安装不同的战斗辅助芯片配合额外的调控一体装置，针对机兵的警戒射击能力进行了针对性提升。",
       "Status": 1
     },
-    "now": "2024-12-13 15:09:09"
+    "now": "2025-01-17 23:10:46"
   },
   "status": 1,
   "switch": null,

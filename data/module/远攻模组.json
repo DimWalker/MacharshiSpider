@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_10026",
           "icon": "Icon_entry_10026",
           "Status": 1,
-          "weight": 430
+          "weight": 442
         },
         {
           "ID": "30172",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_10026",
           "icon": "Icon_entry_10026",
           "Status": 1,
-          "weight": 431
+          "weight": 443
         },
         {
           "ID": "30173",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_10026",
           "icon": "Icon_entry_10026",
           "Status": 1,
-          "weight": 432
+          "weight": 444
         },
         {
           "ID": "30174",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_10026",
           "icon": "Icon_entry_10026",
           "Status": 1,
-          "weight": 433
+          "weight": 445
         },
         {
           "ID": "30175",
@@ -56,7 +56,7 @@
           "SkillIcon": "Icon_entry_10026",
           "icon": "Icon_entry_10026",
           "Status": 1,
-          "weight": 434
+          "weight": 446
         },
         {
           "ID": "30176",
@@ -66,7 +66,7 @@
           "SkillIcon": "Icon_entry_10026",
           "icon": "Icon_entry_10026",
           "Status": 1,
-          "weight": 435
+          "weight": 447
         },
         {
           "ID": "30177",
@@ -76,7 +76,7 @@
           "SkillIcon": "Icon_entry_10026",
           "icon": "Icon_entry_10026",
           "Status": 1,
-          "weight": 436
+          "weight": 448
         },
         {
           "ID": "30178",
@@ -86,7 +86,7 @@
           "SkillIcon": "Icon_entry_10026",
           "icon": "Icon_entry_10026",
           "Status": 1,
-          "weight": 437
+          "weight": 449
         }
       ],
       "introduce": "在确保身周没有格斗型机兵时，搭载远攻模组的射击型机兵就能开始肆意地射击，而不必担心那可怕的拳套与打桩机。",
@@ -95,9 +95,9 @@
       "IconType": "GeneralSuit",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 53
+      "weight": 58
     },
-    "now": "2024-12-13 15:09:40"
+    "now": "2025-01-17 23:11:20"
   },
   "status": 1,
   "switch": null,

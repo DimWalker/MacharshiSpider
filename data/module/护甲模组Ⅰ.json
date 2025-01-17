@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_40061",
           "icon": "Icon_entry_40061",
           "Status": 1,
-          "weight": 614
+          "weight": 650
         },
         {
           "ID": "40062",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_40061",
           "icon": "Icon_entry_40061",
           "Status": 1,
-          "weight": 615
+          "weight": 651
         },
         {
           "ID": "40063",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_40061",
           "icon": "Icon_entry_40061",
           "Status": 1,
-          "weight": 616
+          "weight": 652
         },
         {
           "ID": "40064",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_40061",
           "icon": "Icon_entry_40061",
           "Status": 1,
-          "weight": 617
+          "weight": 653
         }
       ],
       "introduce": "护甲模组的出现拉长了机兵战斗的平均时长，也加大了机兵弹药的消耗量。",
@@ -55,9 +55,9 @@
       "IconType": "PropertyA",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 70
+      "weight": 78
     },
-    "now": "2024-12-13 15:09:38"
+    "now": "2025-01-17 23:11:17"
   },
   "status": 1,
   "switch": null,

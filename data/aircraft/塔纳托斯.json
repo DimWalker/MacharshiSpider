@@ -43,7 +43,7 @@
             "SkillIcon": "Icon_entry_10058",
             "icon": "Icon_entry_10058",
             "Status": 1,
-            "weight": 423,
+            "weight": 435,
             "id": "3016",
             "level": 2
           },
@@ -59,7 +59,7 @@
             "SkillIcon": "Icon_entry_40011",
             "icon": "Icon_entry_40011",
             "Status": 1,
-            "weight": 575,
+            "weight": 611,
             "id": "4001",
             "level": 2
           }
@@ -69,7 +69,7 @@
         "mechaIcon": "Icon_wap3019_1",
         "lihuiIcon": "icon_lihui_wap3019",
         "Status": 1,
-        "weight": 216,
+        "weight": 220,
         "manji": {
           "name": "塔纳托斯",
           "durable": "10676",
@@ -107,7 +107,7 @@
               "SkillIcon": "Icon_entry_10058",
               "icon": "Icon_entry_10058",
               "Status": 1,
-              "weight": 429,
+              "weight": 441,
               "id": "3016",
               "level": 8
             },
@@ -123,13 +123,13 @@
               "SkillIcon": "Icon_entry_40011",
               "icon": "Icon_entry_40011",
               "Status": 1,
-              "weight": 577,
+              "weight": 613,
               "id": "4001",
               "level": 4
             }
           ],
           "Status": 1,
-          "weight": 216
+          "weight": 220
         }
       },
       {
@@ -148,7 +148,7 @@
         "introduce": "DD-313G 塔纳托斯\n由多尔重工研发的重型机兵，专为适应极端环境的特种作战而制造。\n利用最尖端控温技术打造的恒温机师舱，使得塔纳托斯能轻松适应绝大部分的极端作战环境。无论是烈焰燃烧的火海还是潜伏冰层之下的突袭，驾驶塔纳托斯的机师都能全程保持专注，精确地执行作战命令。其独特的「炎流」核心甚至能精确计算敌方机体与环境的热容，为驾驶员提供更精确的打击信息。",
         "mechaIcon": "Icon_wap3019_2",
         "Status": 1,
-        "weight": 217,
+        "weight": 221,
         "manji": {
           "name": "塔纳托斯",
           "durable": "5532",
@@ -158,7 +158,7 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "2029:1/3016:2/4001:1/",
           "Status": 1,
-          "weight": 217
+          "weight": 221
         }
       },
       {
@@ -177,7 +177,7 @@
         "introduce": "DD-313G 塔纳托斯\n由多尔重工研发的重型机兵，专为适应极端环境的特种作战而制造。\n利用最尖端控温技术打造的恒温机师舱，使得塔纳托斯能轻松适应绝大部分的极端作战环境。无论是烈焰燃烧的火海还是潜伏冰层之下的突袭，驾驶塔纳托斯的机师都能全程保持专注，精确地执行作战命令。其独特的「炎流」核心甚至能精确计算敌方机体与环境的热容，为驾驶员提供更精确的打击信息。",
         "mechaIcon": "Icon_wap3019_3",
         "Status": 1,
-        "weight": 218,
+        "weight": 222,
         "manji": {
           "name": "塔纳托斯",
           "durable": "5532",
@@ -187,7 +187,7 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "2029:1/3016:2/4001:1/",
           "Status": 1,
-          "weight": 218
+          "weight": 222
         }
       },
       {
@@ -207,7 +207,7 @@
         "introduce": "DD-313G 塔纳托斯\n由多尔重工研发的重型机兵，专为适应极端环境的特种作战而制造。\n利用最尖端控温技术打造的恒温机师舱，使得塔纳托斯能轻松适应绝大部分的极端作战环境。无论是烈焰燃烧的火海还是潜伏冰层之下的突袭，驾驶塔纳托斯的机师都能全程保持专注，精确地执行作战命令。其独特的「炎流」核心甚至能精确计算敌方机体与环境的热容，为驾驶员提供更精确的打击信息。",
         "mechaIcon": "Icon_wap3019_4",
         "Status": 1,
-        "weight": 219,
+        "weight": 223,
         "manji": {
           "name": "塔纳托斯",
           "durable": "7923",
@@ -218,11 +218,11 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "2029:1/3016:2/4001:1/",
           "Status": 1,
-          "weight": 219
+          "weight": 223
         }
       }
     ],
-    "now": "2024-12-13 15:08:29"
+    "now": "2025-01-17 23:10:05"
   },
   "status": 1,
   "switch": null,

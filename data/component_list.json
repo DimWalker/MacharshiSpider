@@ -1356,7 +1356,7 @@
         "name": "触元件-破近",
         "quality": "SSR",
         "IconType": "Condition",
-        "ModuleSubtype": "11",
+        "ModuleSubtype": "9",
         "icon": "Icon_skill_passive_5175",
         "weight": 57
       },
@@ -1874,7 +1874,7 @@
         "weight": 0
       }
     ],
-    "now": "2024-12-13 15:09:49"
+    "now": "2025-01-17 23:11:30"
   },
   "status": 1,
   "switch": null,

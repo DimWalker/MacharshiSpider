@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "40302",
+      "ModuleName": "刀剑模组Ⅱ",
+      "name": "刀剑模组Ⅱ",
+      "EntryLevel": "2",
+      "quality": "SSR",
+      "ModuleEffects": "40301/40302/40303/40304",
+      "WithPassiveSkills": [
+        {
+          "ID": "40301",
+          "name": "刀剑模组Ⅰ",
+          "SpecificEffects": "刀剑的伤害提升<color=#F74848>3%</color>",
+          "BufCarried": "403011",
+          "SkillIcon": "Icon_entry_40301",
+          "icon": "Icon_entry_40301",
+          "Status": 1,
+          "weight": 827
+        },
+        {
+          "ID": "40302",
+          "name": "刀剑模组Ⅰ",
+          "SpecificEffects": "刀剑的伤害提升<color=#F74848>5%</color>",
+          "BufCarried": "403021",
+          "SkillIcon": "Icon_entry_40301",
+          "icon": "Icon_entry_40301",
+          "Status": 1,
+          "weight": 828
+        },
+        {
+          "ID": "40303",
+          "name": "刀剑模组Ⅰ",
+          "SpecificEffects": "刀剑的伤害提升<color=#F74848>7%</color>",
+          "BufCarried": "403031",
+          "SkillIcon": "Icon_entry_40301",
+          "icon": "Icon_entry_40301",
+          "Status": 1,
+          "weight": 829
+        },
+        {
+          "ID": "40304",
+          "name": "刀剑模组Ⅰ",
+          "SpecificEffects": "刀剑的伤害提升<color=#F74848>10%</color>",
+          "BufCarried": "403041",
+          "SkillIcon": "Icon_entry_40301",
+          "icon": "Icon_entry_40301",
+          "Status": 1,
+          "weight": 830
+        }
+      ],
+      "introduce": "对于刀剑武器的使用者来说，适配传统格斗武器的控制模组已经不能满足他们的需求。因此更灵活、更轻便、定制化程度更高的斩击芯片应运而生。",
+      "ModuleIcon": "Icon_entry_40301",
+      "icon": "Icon_entry_40301",
+      "IconType": "PropertyS",
+      "ObtainingMethod": "商店购买",
+      "Status": 1,
+      "weight": 125
+    },
+    "now": "2025-01-17 23:11:09"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

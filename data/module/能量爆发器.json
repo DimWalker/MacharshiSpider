@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "20241",
+      "ModuleName": "能量爆发器",
+      "name": "能量爆发器",
+      "EntryLevel": "1",
+      "quality": "SSR",
+      "ModuleEffects": "20241/20242/20243/20244",
+      "WithPassiveSkills": [
+        {
+          "ID": "20241",
+          "name": "能量爆发器",
+          "SpecificEffects": "当前武器射程内有敌机时，伤害提升<color=#F74848>3%</color>，每多<color=#F74848>1</color>台敌机，额外提升<color=#F74848>1.5%</color>，最多<color=#F74848>6%</color>",
+          "BufCarried": "202411",
+          "SkillIcon": "Icon_skill_passive_4118",
+          "icon": "Icon_skill_passive_4118",
+          "Status": 1,
+          "weight": 210
+        },
+        {
+          "ID": "20242",
+          "name": "能量爆发器",
+          "SpecificEffects": "当前武器射程内有敌机时，伤害提升<color=#F74848>6%</color>，每多<color=#F74848>1</color>台敌机，额外提升<color=#F74848>1.5%</color>，最多<color=#F74848>12%</color>",
+          "BufCarried": "202421",
+          "SkillIcon": "Icon_skill_passive_4118",
+          "icon": "Icon_skill_passive_4118",
+          "Status": 1,
+          "weight": 211
+        },
+        {
+          "ID": "20243",
+          "name": "能量爆发器",
+          "SpecificEffects": "当前武器射程内有敌机时，伤害提升<color=#F74848>10%</color>，每多<color=#F74848>1</color>台敌机，额外提升<color=#F74848>2.5%</color>，最多<color=#F74848>20%</color>",
+          "BufCarried": "202431",
+          "SkillIcon": "Icon_skill_passive_4118",
+          "icon": "Icon_skill_passive_4118",
+          "Status": 1,
+          "weight": 212
+        },
+        {
+          "ID": "20244",
+          "name": "能量爆发器",
+          "SpecificEffects": "当前武器射程内有敌机时，伤害提升<color=#F74848>15%</color>，每多<color=#F74848>1</color>台敌机，额外提升<color=#F74848>2.5%</color>，最多<color=#F74848>30%</color>",
+          "BufCarried": "202441",
+          "SkillIcon": "Icon_skill_passive_4118",
+          "icon": "Icon_skill_passive_4118",
+          "Status": 1,
+          "weight": 213
+        }
+      ],
+      "introduce": "与观测镜相连的自动能量调节装置，其附带模组通过占用机兵核心算力，判断敌机出现位置来增减动能输出以获得超额的打击能力。",
+      "ModuleIcon": "Icon_skill_passive_4118",
+      "icon": "Icon_skill_passive_4118",
+      "IconType": "SuitS",
+      "ObtainingMethod": "模组生产",
+      "Status": 1,
+      "weight": 28
+    },
+    "now": "2025-01-17 23:11:25"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_10025",
           "icon": "Icon_entry_10025",
           "Status": 1,
-          "weight": 398
+          "weight": 410
         },
         {
           "ID": "30132",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_10025",
           "icon": "Icon_entry_10025",
           "Status": 1,
-          "weight": 399
+          "weight": 411
         },
         {
           "ID": "30133",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_10025",
           "icon": "Icon_entry_10025",
           "Status": 1,
-          "weight": 400
+          "weight": 412
         },
         {
           "ID": "30134",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_10025",
           "icon": "Icon_entry_10025",
           "Status": 1,
-          "weight": 401
+          "weight": 413
         },
         {
           "ID": "30135",
@@ -56,7 +56,7 @@
           "SkillIcon": "Icon_entry_10025",
           "icon": "Icon_entry_10025",
           "Status": 1,
-          "weight": 402
+          "weight": 414
         },
         {
           "ID": "30136",
@@ -66,7 +66,7 @@
           "SkillIcon": "Icon_entry_10025",
           "icon": "Icon_entry_10025",
           "Status": 1,
-          "weight": 403
+          "weight": 415
         },
         {
           "ID": "30137",
@@ -76,7 +76,7 @@
           "SkillIcon": "Icon_entry_10025",
           "icon": "Icon_entry_10025",
           "Status": 1,
-          "weight": 404
+          "weight": 416
         },
         {
           "ID": "30138",
@@ -86,7 +86,7 @@
           "SkillIcon": "Icon_entry_10025",
           "icon": "Icon_entry_10025",
           "Status": 1,
-          "weight": 405
+          "weight": 417
         }
       ],
       "introduce": "一些自信的机师会选用反击模组，他们有信心在对手发起攻击而露出破绽的刹那进行反击，以达到一击制敌的目的。",
@@ -95,9 +95,9 @@
       "IconType": "GeneralSuit",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 49
+      "weight": 54
     },
-    "now": "2024-12-13 15:09:41"
+    "now": "2025-01-17 23:11:21"
   },
   "status": 1,
   "switch": null,

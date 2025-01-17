@@ -15,7 +15,7 @@
           "SkillIcon": "Icon_entry_40261",
           "icon": "Icon_entry_40261",
           "Status": 1,
-          "weight": 775
+          "weight": 811
         },
         {
           "ID": "40262",
@@ -24,7 +24,7 @@
           "SkillIcon": "Icon_entry_40261",
           "icon": "Icon_entry_40261",
           "Status": 1,
-          "weight": 776
+          "weight": 812
         },
         {
           "ID": "40263",
@@ -33,7 +33,7 @@
           "SkillIcon": "Icon_entry_40261",
           "icon": "Icon_entry_40261",
           "Status": 1,
-          "weight": 777
+          "weight": 813
         },
         {
           "ID": "40264",
@@ -42,7 +42,7 @@
           "SkillIcon": "Icon_entry_40261",
           "icon": "Icon_entry_40261",
           "Status": 1,
-          "weight": 778
+          "weight": 814
         }
       ],
       "introduce": "这是米赫玛机兵举重大赛中参赛机兵的官方指定模组。",
@@ -51,9 +51,9 @@
       "IconType": "PropertyS",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 111
+      "weight": 119
     },
-    "now": "2024-12-13 15:09:31"
+    "now": "2025-01-17 23:11:10"
   },
   "status": 1,
   "switch": null,

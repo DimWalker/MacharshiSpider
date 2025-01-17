@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_40231",
           "icon": "Icon_entry_40231",
           "Status": 1,
-          "weight": 751
+          "weight": 787
         },
         {
           "ID": "40232",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_40231",
           "icon": "Icon_entry_40231",
           "Status": 1,
-          "weight": 752
+          "weight": 788
         },
         {
           "ID": "40233",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_40231",
           "icon": "Icon_entry_40231",
           "Status": 1,
-          "weight": 753
+          "weight": 789
         },
         {
           "ID": "40234",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_40231",
           "icon": "Icon_entry_40231",
           "Status": 1,
-          "weight": 754
+          "weight": 790
         }
       ],
       "introduce": "反格斗模组Ⅱ型一度成为了远攻型机兵最受欢迎的模组，这能让他们在被格斗型机兵近身时有那么一丁点逃生的机会。",
@@ -55,9 +55,9 @@
       "IconType": "PropertyS",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 105
+      "weight": 113
     },
-    "now": "2024-12-13 15:09:32"
+    "now": "2025-01-17 23:11:11"
   },
   "status": 1,
   "switch": null,

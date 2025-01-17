@@ -18,14 +18,14 @@
           "SkillIcon": "Icon_skill_passive_5127",
           "icon": "Icon_skill_passive_5127",
           "Status": 1,
-          "weight": 999
+          "weight": 1042
         }
       ],
       "HowGet": "无",
       "RelatedDescription": "喷射装置能够驱动机兵在短距离上飞行，快速越过障碍，前往难以抵达的战场角落。",
       "Status": 1
     },
-    "now": "2024-12-13 15:09:07"
+    "now": "2025-01-17 23:10:45"
   },
   "status": 1,
   "switch": null,

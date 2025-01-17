@@ -1,0 +1,105 @@
+{
+  "data": {
+    "data": {
+      "ID": "30301",
+      "ModuleName": "据峙模组",
+      "name": "据峙模组",
+      "EntryLevel": "1",
+      "quality": "SSR",
+      "ModuleEffects": "30301/30302/30303/30304/30305/30306/30307/30308",
+      "WithPassiveSkills": [
+        {
+          "ID": "30301",
+          "name": "据峙模组",
+          "SpecificEffects": "同时使用两把相同武器攻击时，伤害提升<color=#F74848>3%</color>",
+          "BufCarried": "303011",
+          "SkillIcon": "Icon_skill_passive_1143",
+          "icon": "Icon_skill_passive_1143",
+          "Status": 1,
+          "weight": 538
+        },
+        {
+          "ID": "30302",
+          "name": "据峙模组",
+          "SpecificEffects": "同时使用两把相同武器攻击时，伤害提升<color=#F74848>4%</color>",
+          "BufCarried": "303021",
+          "SkillIcon": "Icon_skill_passive_1143",
+          "icon": "Icon_skill_passive_1143",
+          "Status": 1,
+          "weight": 539
+        },
+        {
+          "ID": "30303",
+          "name": "据峙模组",
+          "SpecificEffects": "同时使用两把相同武器攻击时，伤害提升<color=#F74848>6%</color>",
+          "BufCarried": "303031",
+          "SkillIcon": "Icon_skill_passive_1143",
+          "icon": "Icon_skill_passive_1143",
+          "Status": 1,
+          "weight": 540
+        },
+        {
+          "ID": "30304",
+          "name": "据峙模组",
+          "SpecificEffects": "同时使用两把相同武器攻击时，伤害提升<color=#F74848>8%</color>",
+          "BufCarried": "303041",
+          "SkillIcon": "Icon_skill_passive_1143",
+          "icon": "Icon_skill_passive_1143",
+          "Status": 1,
+          "weight": 541
+        },
+        {
+          "ID": "30305",
+          "name": "据峙模组",
+          "SpecificEffects": "同时使用两把相同武器攻击时，伤害提升<color=#F74848>10%</color>",
+          "BufCarried": "303051",
+          "SkillIcon": "Icon_skill_passive_1143",
+          "icon": "Icon_skill_passive_1143",
+          "Status": 1,
+          "weight": 542
+        },
+        {
+          "ID": "30306",
+          "name": "据峙模组",
+          "SpecificEffects": "同时使用两把相同武器攻击时，伤害提升<color=#F74848>12%</color>",
+          "BufCarried": "303061",
+          "SkillIcon": "Icon_skill_passive_1143",
+          "icon": "Icon_skill_passive_1143",
+          "Status": 1,
+          "weight": 543
+        },
+        {
+          "ID": "30307",
+          "name": "据峙模组",
+          "SpecificEffects": "同时使用两把相同武器攻击时，伤害提升<color=#F74848>14%</color>",
+          "BufCarried": "303071",
+          "SkillIcon": "Icon_skill_passive_1143",
+          "icon": "Icon_skill_passive_1143",
+          "Status": 1,
+          "weight": 544
+        },
+        {
+          "ID": "30308",
+          "name": "据峙模组",
+          "SpecificEffects": "同时使用两把相同武器攻击时，伤害提升<color=#F74848>18%</color>；突击武器反击时，射程<color=#F74848>+1</color>",
+          "BufCarried": "303081/303082",
+          "SkillIcon": "Icon_skill_passive_1143",
+          "icon": "Icon_skill_passive_1143",
+          "Status": 1,
+          "weight": 545
+        }
+      ],
+      "introduce": "为了适应比拼火力的对峙场景而研发的机兵模组，在针对突击武器的方向上做出了特别优化。",
+      "ModuleIcon": "Icon_skill_passive_1143",
+      "icon": "Icon_skill_passive_1143",
+      "IconType": "GeneralSuit",
+      "ObtainingMethod": "商店购买",
+      "Status": 1,
+      "weight": 67
+    },
+    "now": "2025-01-17 23:11:19"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

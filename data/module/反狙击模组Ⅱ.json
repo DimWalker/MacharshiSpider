@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_40241",
           "icon": "Icon_entry_40241",
           "Status": 1,
-          "weight": 759
+          "weight": 795
         },
         {
           "ID": "40242",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_40241",
           "icon": "Icon_entry_40241",
           "Status": 1,
-          "weight": 760
+          "weight": 796
         },
         {
           "ID": "40243",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_40241",
           "icon": "Icon_entry_40241",
           "Status": 1,
-          "weight": 761
+          "weight": 797
         },
         {
           "ID": "40244",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_40241",
           "icon": "Icon_entry_40241",
           "Status": 1,
-          "weight": 762
+          "weight": 798
         }
       ],
       "introduce": "随着反狙击模组Ⅱ型销量的上升，许多狙击手机师开始为自己的机兵购入战术武器，这可比手头的狙击枪要好用多了。",
@@ -55,9 +55,9 @@
       "IconType": "PropertyS",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 107
+      "weight": 115
     },
-    "now": "2024-12-13 15:09:32"
+    "now": "2025-01-17 23:11:11"
   },
   "status": 1,
   "switch": null,

@@ -27,7 +27,7 @@
             "SkillIcon": "Icon_entry_40021",
             "icon": "Icon_entry_40021",
             "Status": 1,
-            "weight": 583,
+            "weight": 619,
             "id": "4002",
             "level": 2
           },
@@ -43,7 +43,7 @@
             "SkillIcon": "Icon_entry_10049",
             "icon": "Icon_entry_10049",
             "Status": 1,
-            "weight": 319,
+            "weight": 331,
             "id": "3003",
             "level": 2
           },
@@ -69,7 +69,7 @@
         "mechaIcon": "Icon_wap2014_1",
         "lihuiIcon": "icon_lihui_wap2014",
         "Status": 1,
-        "weight": 80,
+        "weight": 84,
         "manji": {
           "name": "狼獾",
           "durable": "9175",
@@ -91,7 +91,7 @@
               "SkillIcon": "Icon_entry_40021",
               "icon": "Icon_entry_40021",
               "Status": 1,
-              "weight": 585,
+              "weight": 621,
               "id": "4002",
               "level": 4
             },
@@ -107,7 +107,7 @@
               "SkillIcon": "Icon_entry_10049",
               "icon": "Icon_entry_10049",
               "Status": 1,
-              "weight": 325,
+              "weight": 337,
               "id": "3003",
               "level": 8
             },
@@ -129,7 +129,7 @@
             }
           ],
           "Status": 1,
-          "weight": 80
+          "weight": 84
         }
       },
       {
@@ -148,7 +148,7 @@
         "introduce": "OS-77 狼獾\n黑曜石开发的中型战术机兵，具备强大的火力支援能力。\n该机安装了大功率雷达搜索与锁定系统，并配备集束注能器辅助弹头跟踪与引信控制，可有效提升范围火力投射的杀伤效率。而经过充分优化的全身结构也确保了一定的机动能力，足以与高速装甲部队协同作战。\n尽管造价不菲，狼獾依然因其优异的性能赢得了多方订单。",
         "mechaIcon": "Icon_wap2014_2",
         "Status": 1,
-        "weight": 81,
+        "weight": 85,
         "manji": {
           "name": "狼獾",
           "durable": "5282",
@@ -158,7 +158,7 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "2010:1/3003:2/4002:1/",
           "Status": 1,
-          "weight": 81
+          "weight": 85
         }
       },
       {
@@ -177,7 +177,7 @@
         "introduce": "OS-77 狼獾\n黑曜石开发的中型战术机兵，具备强大的火力支援能力。\n该机安装了大功率雷达搜索与锁定系统，并配备集束注能器辅助弹头跟踪与引信控制，可有效提升范围火力投射的杀伤效率。而经过充分优化的全身结构也确保了一定的机动能力，足以与高速装甲部队协同作战。\n尽管造价不菲，狼獾依然因其优异的性能赢得了多方订单。",
         "mechaIcon": "Icon_wap2014_3",
         "Status": 1,
-        "weight": 82,
+        "weight": 86,
         "manji": {
           "name": "狼獾",
           "durable": "4198",
@@ -187,7 +187,7 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "2010:1/3003:2/4002:1/",
           "Status": 1,
-          "weight": 82
+          "weight": 86
         }
       },
       {
@@ -207,7 +207,7 @@
         "introduce": "OS-77 狼獾\n黑曜石开发的中型战术机兵，具备强大的火力支援能力。\n该机安装了大功率雷达搜索与锁定系统，并配备集束注能器辅助弹头跟踪与引信控制，可有效提升范围火力投射的杀伤效率。而经过充分优化的全身结构也确保了一定的机动能力，足以与高速装甲部队协同作战。\n尽管造价不菲，狼獾依然因其优异的性能赢得了多方订单。",
         "mechaIcon": "Icon_wap2014_4",
         "Status": 1,
-        "weight": 83,
+        "weight": 87,
         "manji": {
           "name": "狼獾",
           "durable": "7089",
@@ -218,11 +218,11 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "2010:1/3003:2/4002:1/",
           "Status": 1,
-          "weight": 83
+          "weight": 87
         }
       }
     ],
-    "now": "2024-12-13 15:08:24"
+    "now": "2025-01-17 23:10:00"
   },
   "status": 1,
   "switch": null,

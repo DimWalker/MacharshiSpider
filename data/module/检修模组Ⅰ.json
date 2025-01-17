@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_40211",
           "icon": "Icon_entry_40211",
           "Status": 1,
-          "weight": 734
+          "weight": 770
         },
         {
           "ID": "40212",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_40211",
           "icon": "Icon_entry_40211",
           "Status": 1,
-          "weight": 735
+          "weight": 771
         },
         {
           "ID": "40213",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_40211",
           "icon": "Icon_entry_40211",
           "Status": 1,
-          "weight": 736
+          "weight": 772
         },
         {
           "ID": "40214",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_40211",
           "icon": "Icon_entry_40211",
           "Status": 1,
-          "weight": 737
+          "weight": 773
         }
       ],
       "introduce": "检修模组能够让那些维修型机兵的维修能力上一个档次，为整个团队的安全多添一份保障。",
@@ -55,9 +55,9 @@
       "IconType": "PropertyA",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 100
+      "weight": 108
     },
-    "now": "2024-12-13 15:09:33"
+    "now": "2025-01-17 23:11:12"
   },
   "status": 1,
   "switch": null,

@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_40221",
           "icon": "Icon_entry_40221",
           "Status": 1,
-          "weight": 742
+          "weight": 778
         },
         {
           "ID": "40222",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_40221",
           "icon": "Icon_entry_40221",
           "Status": 1,
-          "weight": 743
+          "weight": 779
         },
         {
           "ID": "40223",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_40221",
           "icon": "Icon_entry_40221",
           "Status": 1,
-          "weight": 744
+          "weight": 780
         },
         {
           "ID": "40224",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_40221",
           "icon": "Icon_entry_40221",
           "Status": 1,
-          "weight": 745
+          "weight": 781
         }
       ],
       "introduce": "那些仗着距离优势倾泻火力的突击手很让人火大？试着装配反突击模组Ⅱ型，迎着子弹上去给他们机兵来上一拳！",
@@ -55,9 +55,9 @@
       "IconType": "PropertyS",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 103
+      "weight": 111
     },
-    "now": "2024-12-13 15:09:32"
+    "now": "2025-01-17 23:11:11"
   },
   "status": 1,
   "switch": null,

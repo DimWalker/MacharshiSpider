@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_40251",
           "icon": "Icon_entry_40251",
           "Status": 1,
-          "weight": 767
+          "weight": 803
         },
         {
           "ID": "40252",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_40251",
           "icon": "Icon_entry_40251",
           "Status": 1,
-          "weight": 768
+          "weight": 804
         },
         {
           "ID": "40253",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_40251",
           "icon": "Icon_entry_40251",
           "Status": 1,
-          "weight": 769
+          "weight": 805
         },
         {
           "ID": "40254",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_40251",
           "icon": "Icon_entry_40251",
           "Status": 1,
-          "weight": 770
+          "weight": 806
         }
       ],
       "introduce": "反战术模组Ⅱ型有一批忠实客户在坚持购买，不难想象他们在战场上都遭遇了些什么。",
@@ -55,9 +55,9 @@
       "IconType": "PropertyS",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 109
+      "weight": 117
     },
-    "now": "2024-12-13 15:09:31"
+    "now": "2025-01-17 23:11:10"
   },
   "status": 1,
   "switch": null,

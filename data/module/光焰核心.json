@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "20461",
+      "ModuleName": "光焰核心",
+      "name": "光焰核心",
+      "EntryLevel": "1",
+      "quality": "SSR",
+      "ModuleEffects": "20461/20462/20463/20464",
+      "WithPassiveSkills": [
+        {
+          "ID": "20461",
+          "name": "光焰核心",
+          "SpecificEffects": "使用<color=#F74848>3</color>AP及以上技能攻击时，伤害提升<color=#F74848>4%</color>，每多消耗<color=#F74848>1</color>点，效果继续提升<color=#F74848>3%</color>，最多<color=#F74848>7%</color>",
+          "BufCarried": "204611/204612",
+          "SkillIcon": "Icon_skill_passive_1168",
+          "icon": "Icon_skill_passive_1168",
+          "Status": 1,
+          "weight": 302
+        },
+        {
+          "ID": "20462",
+          "name": "光焰核心",
+          "SpecificEffects": "使用<color=#F74848>3</color>AP及以上技能攻击时，伤害提升<color=#F74848>8%</color>，每多消耗<color=#F74848>1</color>点，效果继续提升<color=#F74848>3%</color>，最多<color=#F74848>14%</color>",
+          "BufCarried": "204621/204622",
+          "SkillIcon": "Icon_skill_passive_1168",
+          "icon": "Icon_skill_passive_1168",
+          "Status": 1,
+          "weight": 303
+        },
+        {
+          "ID": "20463",
+          "name": "光焰核心",
+          "SpecificEffects": "使用<color=#F74848>3</color>AP及以上技能攻击时，伤害提升<color=#F74848>14%</color>，每多消耗<color=#F74848>1</color>点，效果继续提升<color=#F74848>5%</color>，最多<color=#F74848>24%</color>",
+          "BufCarried": "204631/204632",
+          "SkillIcon": "Icon_skill_passive_1168",
+          "icon": "Icon_skill_passive_1168",
+          "Status": 1,
+          "weight": 304
+        },
+        {
+          "ID": "20464",
+          "name": "光焰核心",
+          "SpecificEffects": "使用<color=#F74848>3</color>AP及以上技能攻击时，伤害提升<color=#F74848>20%</color>，每多消耗<color=#F74848>1</color>点，效果继续提升<color=#F74848>5%</color>，最多<color=#F74848>35%</color>",
+          "BufCarried": "204641/204642",
+          "SkillIcon": "Icon_skill_passive_1168",
+          "icon": "Icon_skill_passive_1168",
+          "Status": 1,
+          "weight": 305
+        }
+      ],
+      "introduce": "由多尔工业参与研发的机兵核心，能大幅提升机兵的能效比，并装载更大更重的重型武器。",
+      "ModuleIcon": "Icon_skill_passive_1168",
+      "icon": "Icon_skill_passive_1168",
+      "IconType": "SuitS",
+      "ObtainingMethod": "模组生产",
+      "Status": 1,
+      "weight": 41
+    },
+    "now": "2025-01-17 23:11:23"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}
