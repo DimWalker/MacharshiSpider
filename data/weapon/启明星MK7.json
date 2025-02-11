@@ -20,7 +20,7 @@
           {
             "ID": "53050",
             "name": "热力连珠",
-            "SpecificEffects": "主动攻击造成暴击后，下一次主动攻击AP消耗<color=#F74848>-1</color>，最低<color=#F74848>1</color>点，每回合最多触发<color=#F74848>1</color>次",
+            "SpecificEffects": "使用狙击步枪主动攻击造成暴击后，下一次主动攻击AP消耗<color=#F74848>-1</color>，最低<color=#F74848>1</color>点，每回合最多触发<color=#F74848>1</color>次",
             "BufCarried": "530501/530503",
             "SkillIcon": "Icon_skill_passive_5181",
             "icon": "Icon_skill_passive_5181",
@@ -55,7 +55,7 @@
         "weight": 716
       }
     ],
-    "now": "2025-01-17 23:10:41"
+    "now": "2025-02-12 00:14:26"
   },
   "status": 1,
   "switch": null,

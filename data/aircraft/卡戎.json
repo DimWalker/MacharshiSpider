@@ -36,7 +36,7 @@
         "mechaIcon": "Icon_wap3026_1",
         "lihuiIcon": "icon_lihui_wap3026",
         "Status": 1,
-        "weight": 228,
+        "weight": 232,
         "manji": {
           "name": "卡戎",
           "durable": "9363",
@@ -96,7 +96,7 @@
             }
           ],
           "Status": 1,
-          "weight": 228
+          "weight": 232
         }
       },
       {
@@ -114,7 +114,7 @@
         "introduce": "ASX-117 卡戎\n由安赫特制造的重型机兵，ASX-114的防护特化型。\n配备的ASX-117机兵核心在鳄龟使用的ASX-114上强化了耐冲击元件，并在机体装甲上采用了更坚固、更全整的防护替换件。这一系列针对防护性的改进，促使卡戎成为同时代重型机兵中最大最重的型号。",
         "mechaIcon": "Icon_wap3026_2",
         "Status": 1,
-        "weight": 229,
+        "weight": 233,
         "manji": {
           "name": "卡戎",
           "durable": "4696",
@@ -124,7 +124,7 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "1008:1/4006:1/",
           "Status": 1,
-          "weight": 229
+          "weight": 233
         }
       },
       {
@@ -142,7 +142,7 @@
         "introduce": "ASX-117 卡戎\n由安赫特制造的重型机兵，ASX-114的防护特化型。\n配备的ASX-117机兵核心在鳄龟使用的ASX-114上强化了耐冲击元件，并在机体装甲上采用了更坚固、更全整的防护替换件。这一系列针对防护性的改进，促使卡戎成为同时代重型机兵中最大最重的型号。",
         "mechaIcon": "Icon_wap3026_3",
         "Status": 1,
-        "weight": 230,
+        "weight": 234,
         "manji": {
           "name": "卡戎",
           "durable": "4696",
@@ -152,7 +152,7 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "1008:1/4006:1/",
           "Status": 1,
-          "weight": 230
+          "weight": 234
         }
       },
       {
@@ -171,7 +171,7 @@
         "introduce": "ASX-117 卡戎\n由安赫特制造的重型机兵，ASX-114的防护特化型。\n配备的ASX-117机兵核心在鳄龟使用的ASX-114上强化了耐冲击元件，并在机体装甲上采用了更坚固、更全整的防护替换件。这一系列针对防护性的改进，促使卡戎成为同时代重型机兵中最大最重的型号。",
         "mechaIcon": "Icon_wap3026_4",
         "Status": 1,
-        "weight": 231,
+        "weight": 235,
         "manji": {
           "name": "卡戎",
           "durable": "7030",
@@ -182,11 +182,11 @@
           "Interface": "Ⅰ型接口",
           "ModuleCarried": "1008:1/3015:1/4006:1/",
           "Status": 1,
-          "weight": 231
+          "weight": 235
         }
       }
     ],
-    "now": "2025-01-17 23:10:04"
+    "now": "2025-02-12 00:13:48"
   },
   "status": 1,
   "switch": null,

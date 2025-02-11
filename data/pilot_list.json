@@ -744,9 +744,21 @@
         "Profession": "Assault",
         "quality": "SSR",
         "relateTopicIdArray": ""
+      },
+      {
+        "ID": "10103133",
+        "PilotName": "罗斯玛丽",
+        "name": "罗斯玛丽",
+        "icon": "Pilot_10103133A_half",
+        "AvatarHeroIcon": "Pilot_10103133A_Raw",
+        "Nickname": "罗斯玛丽",
+        "RealName": "罗斯玛丽·琴",
+        "Profession": "Launcher",
+        "quality": "SSR",
+        "relateTopicIdArray": ""
       }
     ],
-    "now": "2025-01-17 23:10:08"
+    "now": "2025-02-12 00:13:52"
   },
   "status": 1,
   "switch": null,

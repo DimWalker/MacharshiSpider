@@ -116,7 +116,7 @@
         "mechaIcon": "Icon_wap2090_1",
         "lihuiIcon": "icon_lihui_wap2090",
         "Status": 1,
-        "weight": 164,
+        "weight": 168,
         "manji": {
           "name": "帕斯卡",
           "durable": "8841",
@@ -223,7 +223,7 @@
             }
           ],
           "Status": 1,
-          "weight": 164
+          "weight": 168
         }
       },
       {
@@ -242,7 +242,7 @@
         "introduce": "NV-XX90 帕斯卡\n由黑曜石和Nvidia联合开发的中型机兵。知名电子元件厂商Nvidia的跨界力作，在维持一贯的潮流外形与强大性能外，还针对米赫玛地区的独特地形气候做了专项适配。相信在不久的将来，持续探索、不断超越的Nvidia会在更多的领域打响他们的名号，持续收获支持者们的认可。",
         "mechaIcon": "Icon_wap2090_2",
         "Status": 1,
-        "weight": 165,
+        "weight": 169,
         "manji": {
           "name": "帕斯卡",
           "durable": "4643",
@@ -252,7 +252,7 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "20342:1/3006:2/4026:1/",
           "Status": 1,
-          "weight": 165
+          "weight": 169
         }
       },
       {
@@ -271,7 +271,7 @@
         "introduce": "NV-XX90 帕斯卡\n由黑曜石和Nvidia联合开发的中型机兵。知名电子元件厂商Nvidia的跨界力作，在维持一贯的潮流外形与强大性能外，还针对米赫玛地区的独特地形气候做了专项适配。相信在不久的将来，持续探索、不断超越的Nvidia会在更多的领域打响他们的名号，持续收获支持者们的认可。",
         "mechaIcon": "Icon_wap2090_3",
         "Status": 1,
-        "weight": 166,
+        "weight": 170,
         "manji": {
           "name": "帕斯卡",
           "durable": "4643",
@@ -281,7 +281,7 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "20343:1/3006:2/4026:1/",
           "Status": 1,
-          "weight": 166
+          "weight": 170
         }
       },
       {
@@ -301,7 +301,7 @@
         "introduce": "NV-XX90 帕斯卡\n由黑曜石和Nvidia联合开发的中型机兵。知名电子元件厂商Nvidia的跨界力作，在维持一贯的潮流外形与强大性能外，还针对米赫玛地区的独特地形气候做了专项适配。相信在不久的将来，持续探索、不断超越的Nvidia会在更多的领域打响他们的名号，持续收获支持者们的认可。",
         "mechaIcon": "Icon_wap2090_4",
         "Status": 1,
-        "weight": 167,
+        "weight": 171,
         "manji": {
           "name": "帕斯卡",
           "durable": "6978",
@@ -312,11 +312,11 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "20344:1/3006:2/4026:1/",
           "Status": 1,
-          "weight": 167
+          "weight": 171
         }
       }
     ],
-    "now": "2025-01-17 23:10:05"
+    "now": "2025-02-12 00:13:50"
   },
   "status": 1,
   "switch": null,

@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "20471",
+      "ModuleName": "织火者芯片",
+      "name": "织火者芯片",
+      "EntryLevel": "1",
+      "quality": "SSR",
+      "ModuleEffects": "20471/20472/20473/20474",
+      "WithPassiveSkills": [
+        {
+          "ID": "20471",
+          "name": "织火者芯片",
+          "SpecificEffects": "使用战术武器攻击时伤害提升<color=#F74848>3%</color>，弹仓中每有<color=#F74848>1</color>枚弹药，伤害额外提升<color=#F74848>2%</color>，最多提升<color=#F74848>7%</color>",
+          "BufCarried": "204711/204712/204713",
+          "SkillIcon": "Icon_skill_passive_1130",
+          "icon": "Icon_skill_passive_1130",
+          "Status": 1,
+          "weight": 306
+        },
+        {
+          "ID": "20472",
+          "name": "织火者芯片",
+          "SpecificEffects": "使用战术武器攻击时伤害提升<color=#F74848>6%</color>，弹仓中每有<color=#F74848>1</color>枚弹药，伤害额外提升<color=#F74848>3%</color>，最多提升<color=#F74848>15%</color>",
+          "BufCarried": "204721/204722/204723/204724",
+          "SkillIcon": "Icon_skill_passive_1130",
+          "icon": "Icon_skill_passive_1130",
+          "Status": 1,
+          "weight": 307
+        },
+        {
+          "ID": "20473",
+          "name": "织火者芯片",
+          "SpecificEffects": "使用战术武器攻击时伤害提升<color=#F74848>10%</color>，弹仓中每有<color=#F74848>1</color>枚弹药，伤害额外提升<color=#F74848>4%</color>，最多提升<color=#F74848>22%</color>",
+          "BufCarried": "204731/204732/204733/204734",
+          "SkillIcon": "Icon_skill_passive_1130",
+          "icon": "Icon_skill_passive_1130",
+          "Status": 1,
+          "weight": 308
+        },
+        {
+          "ID": "20474",
+          "name": "织火者芯片",
+          "SpecificEffects": "使用战术武器攻击时伤害提升<color=#F74848>15%</color>，弹仓中每有<color=#F74848>1</color>枚弹药，伤害额外提升<color=#F74848>5%</color>，最多提升<color=#F74848>35%</color>",
+          "BufCarried": "204741/204742/204743/204744/204745",
+          "SkillIcon": "Icon_skill_passive_1130",
+          "icon": "Icon_skill_passive_1130",
+          "Status": 1,
+          "weight": 309
+        }
+      ],
+      "introduce": "由拉尼亚凯亚研发的战术机机载芯片，在日弩型的基础上进行了升级。能更好地优化战术武器的弹药装填和打击面。",
+      "ModuleIcon": "Icon_skill_passive_1130",
+      "icon": "Icon_skill_passive_1130",
+      "IconType": "SuitS",
+      "ObtainingMethod": "模组生产",
+      "Status": 1,
+      "weight": 42
+    },
+    "now": "2025-02-12 00:15:07"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}
