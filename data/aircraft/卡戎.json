@@ -36,7 +36,7 @@
         "mechaIcon": "Icon_wap3026_1",
         "lihuiIcon": "icon_lihui_wap3026",
         "Status": 1,
-        "weight": 260,
+        "weight": 264,
         "manji": {
           "name": "卡戎",
           "durable": "9363",
@@ -74,7 +74,7 @@
               "SkillIcon": "Icon_entry_10057",
               "icon": "Icon_entry_10057",
               "Status": 1,
-              "weight": 459,
+              "weight": 463,
               "id": "3015",
               "level": 2
             },
@@ -90,13 +90,13 @@
               "SkillIcon": "Icon_entry_40061",
               "icon": "Icon_entry_40061",
               "Status": 1,
-              "weight": 749,
+              "weight": 761,
               "id": "4006",
               "level": 4
             }
           ],
           "Status": 1,
-          "weight": 260
+          "weight": 264
         }
       },
       {
@@ -114,7 +114,7 @@
         "introduce": "ASX-117 卡戎\n由安赫特制造的重型机兵，ASX-114的防护特化型。\n配备的ASX-117机兵核心在鳄龟使用的ASX-114上强化了耐冲击元件，并在机体装甲上采用了更坚固、更全整的防护替换件。这一系列针对防护性的改进，促使卡戎成为同时代重型机兵中最大最重的型号。",
         "mechaIcon": "Icon_wap3026_2",
         "Status": 1,
-        "weight": 261,
+        "weight": 265,
         "manji": {
           "name": "卡戎",
           "durable": "4696",
@@ -124,7 +124,7 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "1008:1/4006:1/",
           "Status": 1,
-          "weight": 261
+          "weight": 265
         }
       },
       {
@@ -142,7 +142,7 @@
         "introduce": "ASX-117 卡戎\n由安赫特制造的重型机兵，ASX-114的防护特化型。\n配备的ASX-117机兵核心在鳄龟使用的ASX-114上强化了耐冲击元件，并在机体装甲上采用了更坚固、更全整的防护替换件。这一系列针对防护性的改进，促使卡戎成为同时代重型机兵中最大最重的型号。",
         "mechaIcon": "Icon_wap3026_3",
         "Status": 1,
-        "weight": 262,
+        "weight": 266,
         "manji": {
           "name": "卡戎",
           "durable": "4696",
@@ -152,7 +152,7 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "1008:1/4006:1/",
           "Status": 1,
-          "weight": 262
+          "weight": 266
         }
       },
       {
@@ -171,7 +171,7 @@
         "introduce": "ASX-117 卡戎\n由安赫特制造的重型机兵，ASX-114的防护特化型。\n配备的ASX-117机兵核心在鳄龟使用的ASX-114上强化了耐冲击元件，并在机体装甲上采用了更坚固、更全整的防护替换件。这一系列针对防护性的改进，促使卡戎成为同时代重型机兵中最大最重的型号。",
         "mechaIcon": "Icon_wap3026_4",
         "Status": 1,
-        "weight": 263,
+        "weight": 267,
         "manji": {
           "name": "卡戎",
           "durable": "7030",
@@ -182,11 +182,11 @@
           "Interface": "Ⅰ型接口",
           "ModuleCarried": "1008:1/3015:1/4006:1/",
           "Status": 1,
-          "weight": 263
+          "weight": 267
         }
       }
     ],
-    "now": "2025-09-16 16:18:20"
+    "now": "2025-09-16 20:40:02"
   },
   "status": 1,
   "switch": null,

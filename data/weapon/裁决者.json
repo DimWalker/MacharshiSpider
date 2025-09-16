@@ -30,7 +30,7 @@
             "SkillIcon": "Icon_skill_order_1005",
             "icon": "Icon_skill_order_1005",
             "Status": 1,
-            "weight": 591
+            "weight": 597
           }
         ],
         "PassiveSkill": [
@@ -42,7 +42,7 @@
             "SkillIcon": "Icon_skill_passive_5143",
             "icon": "Icon_skill_passive_5143",
             "Status": 1,
-            "weight": 1002
+            "weight": 1024
           },
           {
             "ID": "53033",
@@ -52,7 +52,7 @@
             "SkillIcon": "Icon_skill_passive_5215",
             "icon": "Icon_skill_passive_5215",
             "Status": 1,
-            "weight": 1003
+            "weight": 1025
           },
           {
             "ID": "61254",
@@ -62,7 +62,7 @@
             "SkillIcon": "Icon_skill_passive_5119",
             "icon": "Icon_skill_passive_5119",
             "Status": 1,
-            "weight": 1339
+            "weight": 1361
           },
           {
             "ID": "53031",
@@ -72,7 +72,7 @@
             "SkillIcon": "Icon_skill_passive_5140",
             "icon": "Icon_skill_passive_5140",
             "Status": 1,
-            "weight": 1001
+            "weight": 1023
           }
         ],
         "IconResourcePath": "Icon_weapon_50100401",
@@ -82,7 +82,7 @@
         "weight": 728
       }
     ],
-    "now": "2025-09-16 16:19:50"
+    "now": "2025-09-16 20:40:48"
   },
   "status": 1,
   "switch": null,

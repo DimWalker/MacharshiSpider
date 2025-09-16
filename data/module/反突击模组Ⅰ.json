@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_40221",
           "icon": "Icon_entry_40221",
           "Status": 1,
-          "weight": 874
+          "weight": 886
         },
         {
           "ID": "40222",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_40221",
           "icon": "Icon_entry_40221",
           "Status": 1,
-          "weight": 875
+          "weight": 887
         },
         {
           "ID": "40223",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_40221",
           "icon": "Icon_entry_40221",
           "Status": 1,
-          "weight": 876
+          "weight": 888
         },
         {
           "ID": "40224",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_40221",
           "icon": "Icon_entry_40221",
           "Status": 1,
-          "weight": 877
+          "weight": 889
         }
       ],
       "introduce": "突击武器的火力强劲，但并非没有反制的手段，反突击模组能帮助你弹开一部分子弹。",
@@ -55,9 +55,9 @@
       "IconType": "PropertyA",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 123
+      "weight": 124
     },
-    "now": "2025-09-16 16:21:21"
+    "now": "2025-09-16 20:41:27"
   },
   "status": 1,
   "switch": null,

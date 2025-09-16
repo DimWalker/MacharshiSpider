@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_10094",
           "icon": "Icon_entry_10094",
           "Status": 1,
-          "weight": 674
+          "weight": 678
         },
         {
           "ID": "30432",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_10094",
           "icon": "Icon_entry_10094",
           "Status": 1,
-          "weight": 675
+          "weight": 679
         },
         {
           "ID": "30433",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_10094",
           "icon": "Icon_entry_10094",
           "Status": 1,
-          "weight": 676
+          "weight": 680
         },
         {
           "ID": "30434",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_10094",
           "icon": "Icon_entry_10094",
           "Status": 1,
-          "weight": 677
+          "weight": 681
         },
         {
           "ID": "30435",
@@ -56,7 +56,7 @@
           "SkillIcon": "Icon_entry_10094",
           "icon": "Icon_entry_10094",
           "Status": 1,
-          "weight": 678
+          "weight": 682
         },
         {
           "ID": "30436",
@@ -66,7 +66,7 @@
           "SkillIcon": "Icon_entry_10094",
           "icon": "Icon_entry_10094",
           "Status": 1,
-          "weight": 679
+          "weight": 683
         },
         {
           "ID": "30437",
@@ -76,7 +76,7 @@
           "SkillIcon": "Icon_entry_10094",
           "icon": "Icon_entry_10094",
           "Status": 1,
-          "weight": 680
+          "weight": 684
         },
         {
           "ID": "30438",
@@ -86,7 +86,7 @@
           "SkillIcon": "Icon_entry_10094",
           "icon": "Icon_entry_10094",
           "Status": 1,
-          "weight": 681
+          "weight": 685
         }
       ],
       "introduce": "主动校准攻击瞄点的辅助模组，能有效提升对敌对目标弱点打击效率。",
@@ -95,9 +95,9 @@
       "IconType": "GeneralSuit",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 79
+      "weight": 80
     },
-    "now": "2025-09-16 16:21:39"
+    "now": "2025-09-16 20:41:35"
   },
   "status": 1,
   "switch": null,

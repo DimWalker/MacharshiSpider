@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_40281",
           "icon": "Icon_entry_40281",
           "Status": 1,
-          "weight": 915
+          "weight": 927
         },
         {
           "ID": "40282",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_40281",
           "icon": "Icon_entry_40281",
           "Status": 1,
-          "weight": 916
+          "weight": 928
         },
         {
           "ID": "40283",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_40281",
           "icon": "Icon_entry_40281",
           "Status": 1,
-          "weight": 917
+          "weight": 929
         },
         {
           "ID": "40284",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_40281",
           "icon": "Icon_entry_40281",
           "Status": 1,
-          "weight": 918
+          "weight": 930
         }
       ],
       "introduce": "为了应对米赫玛岛上越来越常见的喷火器外接机兵动力系统增压的现象，机兵厂商特别研发了支持喷火器发挥的控制芯片，来缓解两套操作系统间的冲突。",
@@ -55,9 +55,9 @@
       "IconType": "PropertyA",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 133
+      "weight": 134
     },
-    "now": "2025-09-16 16:21:17"
+    "now": "2025-09-16 20:41:26"
   },
   "status": 1,
   "switch": null,

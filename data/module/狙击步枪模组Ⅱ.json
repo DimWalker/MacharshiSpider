@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_40161",
           "icon": "Icon_entry_40161",
           "Status": 1,
-          "weight": 826
+          "weight": 838
         },
         {
           "ID": "40162",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_40161",
           "icon": "Icon_entry_40161",
           "Status": 1,
-          "weight": 827
+          "weight": 839
         },
         {
           "ID": "40163",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_40161",
           "icon": "Icon_entry_40161",
           "Status": 1,
-          "weight": 828
+          "weight": 840
         },
         {
           "ID": "40164",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_40161",
           "icon": "Icon_entry_40161",
           "Status": 1,
-          "weight": 829
+          "weight": 841
         }
       ],
       "introduce": "哪个狙击手没想过一人一枪解决一整个小队？狙击步枪模组Ⅱ型能让你的每一发子弹都能带走一名敌人，帮你圆了这个不切实际的梦。",
@@ -55,9 +55,9 @@
       "IconType": "PropertyS",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 112
+      "weight": 113
     },
-    "now": "2025-09-16 16:21:26"
+    "now": "2025-09-16 20:41:29"
   },
   "status": 1,
   "switch": null,

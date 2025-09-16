@@ -18,7 +18,7 @@
         "mechaIcon": "Icon_wap2035_1",
         "lihuiIcon": "icon_lihui_wap2035",
         "Status": 1,
-        "weight": 148,
+        "weight": 152,
         "manji": {
           "name": "气旋",
           "durable": "5774",
@@ -27,7 +27,7 @@
           "output": "2300",
           "Antiriot": "3192",
           "Status": 1,
-          "weight": 148,
+          "weight": 152,
           "ModuleCarried": []
         },
         "ModuleCarried": []
@@ -46,7 +46,7 @@
         "introduce": "OS-04 气旋\n黑曜石开发的中型机兵，曾作为晨星同盟的火力支援平台在米赫玛战争中发挥重要作用。\n该机由黑曜石自主研发的MA-3000引擎提供出力，辅以各部位预制框架，实现了多项重火力武器的兼容应用。\n战后逐渐退出一线部队，但依然在灰烬之子手中发挥余着热。",
         "mechaIcon": "Icon_wap2035_2",
         "Status": 1,
-        "weight": 149,
+        "weight": 153,
         "manji": {
           "name": "气旋",
           "durable": "3559",
@@ -54,7 +54,7 @@
           "fire": "771",
           "Hit": "1071",
           "Status": 1,
-          "weight": 149
+          "weight": 153
         }
       },
       {
@@ -71,7 +71,7 @@
         "introduce": "OS-04 气旋\n黑曜石开发的中型机兵，曾作为晨星同盟的火力支援平台在米赫玛战争中发挥重要作用。\n该机由黑曜石自主研发的MA-3000引擎提供出力，辅以各部位预制框架，实现了多项重火力武器的兼容应用。\n战后逐渐退出一线部队，但依然在灰烬之子手中发挥余着热。",
         "mechaIcon": "Icon_wap2035_3",
         "Status": 1,
-        "weight": 150,
+        "weight": 154,
         "manji": {
           "name": "气旋",
           "durable": "3559",
@@ -79,7 +79,7 @@
           "fire": "771",
           "Hit": "1071",
           "Status": 1,
-          "weight": 150
+          "weight": 154
         }
       },
       {
@@ -97,7 +97,7 @@
         "introduce": "OS-04 气旋\n黑曜石开发的中型机兵，曾作为晨星同盟的火力支援平台在米赫玛战争中发挥重要作用。\n该机由黑曜石自主研发的MA-3000引擎提供出力，辅以各部位预制框架，实现了多项重火力武器的兼容应用。\n战后逐渐退出一线部队，但依然在灰烬之子手中发挥余着热。",
         "mechaIcon": "Icon_wap2035_4",
         "Status": 1,
-        "weight": 151,
+        "weight": 155,
         "manji": {
           "name": "气旋",
           "durable": "4765",
@@ -106,11 +106,11 @@
           "Dodge": "2778",
           "move": "3000",
           "Status": 1,
-          "weight": 151
+          "weight": 155
         }
       }
     ],
-    "now": "2025-09-16 16:18:15"
+    "now": "2025-09-16 20:40:00"
   },
   "status": 1,
   "switch": null,

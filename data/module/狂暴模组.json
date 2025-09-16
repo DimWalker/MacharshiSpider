@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_10090",
           "icon": "Icon_entry_10090",
           "Status": 1,
-          "weight": 642
+          "weight": 646
         },
         {
           "ID": "30392",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_10090",
           "icon": "Icon_entry_10090",
           "Status": 1,
-          "weight": 643
+          "weight": 647
         },
         {
           "ID": "30393",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_10090",
           "icon": "Icon_entry_10090",
           "Status": 1,
-          "weight": 644
+          "weight": 648
         },
         {
           "ID": "30394",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_10090",
           "icon": "Icon_entry_10090",
           "Status": 1,
-          "weight": 645
+          "weight": 649
         },
         {
           "ID": "30395",
@@ -56,7 +56,7 @@
           "SkillIcon": "Icon_entry_10090",
           "icon": "Icon_entry_10090",
           "Status": 1,
-          "weight": 646
+          "weight": 650
         },
         {
           "ID": "30396",
@@ -66,7 +66,7 @@
           "SkillIcon": "Icon_entry_10090",
           "icon": "Icon_entry_10090",
           "Status": 1,
-          "weight": 647
+          "weight": 651
         },
         {
           "ID": "30397",
@@ -76,7 +76,7 @@
           "SkillIcon": "Icon_entry_10090",
           "icon": "Icon_entry_10090",
           "Status": 1,
-          "weight": 648
+          "weight": 652
         },
         {
           "ID": "30398",
@@ -86,7 +86,7 @@
           "SkillIcon": "Icon_entry_10090",
           "icon": "Icon_entry_10090",
           "Status": 1,
-          "weight": 649
+          "weight": 653
         }
       ],
       "introduce": "专为习惯将自己置入险境的机师而设计。",
@@ -95,9 +95,9 @@
       "IconType": "GeneralSuit",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 78
+      "weight": 79
     },
-    "now": "2025-09-16 16:21:39"
+    "now": "2025-09-16 20:41:35"
   },
   "status": 1,
   "switch": null,

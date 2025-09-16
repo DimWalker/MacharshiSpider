@@ -36,7 +36,7 @@
         "mechaIcon": "Icon_wap2025_1",
         "lihuiIcon": "icon_lihui_wap2025",
         "Status": 1,
-        "weight": 128,
+        "weight": 132,
         "manji": {
           "name": "高岭",
           "durable": "7846",
@@ -58,7 +58,7 @@
               "SkillIcon": "Icon_entry_10054",
               "icon": "Icon_entry_10054",
               "Status": 1,
-              "weight": 403,
+              "weight": 407,
               "id": "3008",
               "level": 2
             },
@@ -90,13 +90,13 @@
               "SkillIcon": "Icon_entry_40081",
               "icon": "Icon_entry_40081",
               "Status": 1,
-              "weight": 765,
+              "weight": 777,
               "id": "4008",
               "level": 4
             }
           ],
           "Status": 1,
-          "weight": 128
+          "weight": 132
         }
       },
       {
@@ -114,7 +114,7 @@
         "introduce": "HR-277 高岭\n地平线公司开发的中型格斗机兵，多部署于晨星同盟防卫军尖刀部队。\n肩部内置的震荡发生系统能增强武装的穿透力，配合前部倾斜装甲使其成为高效的冲锋与反冲锋利器，在熟练机师的操作下战果颇丰，一度曾是晨星同盟的保密型号。",
         "mechaIcon": "Icon_wap2025_2",
         "Status": 1,
-        "weight": 129,
+        "weight": 133,
         "manji": {
           "name": "高岭",
           "durable": "4113",
@@ -124,7 +124,7 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "1010:1/4008:1/",
           "Status": 1,
-          "weight": 129
+          "weight": 133
         }
       },
       {
@@ -142,7 +142,7 @@
         "introduce": "HR-277 高岭\n地平线公司开发的中型格斗机兵，多部署于晨星同盟防卫军尖刀部队。\n肩部内置的震荡发生系统能增强武装的穿透力，配合前部倾斜装甲使其成为高效的冲锋与反冲锋利器，在熟练机师的操作下战果颇丰，一度曾是晨星同盟的保密型号。",
         "mechaIcon": "Icon_wap2025_3",
         "Status": 1,
-        "weight": 130,
+        "weight": 134,
         "manji": {
           "name": "高岭",
           "durable": "4113",
@@ -152,7 +152,7 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "1010:1/4008:1/",
           "Status": 1,
-          "weight": 130
+          "weight": 134
         }
       },
       {
@@ -171,7 +171,7 @@
         "introduce": "HR-277 高岭\n地平线公司开发的中型格斗机兵，多部署于晨星同盟防卫军尖刀部队。\n肩部内置的震荡发生系统能增强武装的穿透力，配合前部倾斜装甲使其成为高效的冲锋与反冲锋利器，在熟练机师的操作下战果颇丰，一度曾是晨星同盟的保密型号。",
         "mechaIcon": "Icon_wap2025_4",
         "Status": 1,
-        "weight": 131,
+        "weight": 135,
         "manji": {
           "name": "高岭",
           "durable": "6242",
@@ -182,11 +182,11 @@
           "Interface": "Ⅰ型接口",
           "ModuleCarried": "1010:1/3008:1/4008:1/",
           "Status": 1,
-          "weight": 131
+          "weight": 135
         }
       }
     ],
-    "now": "2025-09-16 16:18:13"
+    "now": "2025-09-16 20:39:59"
   },
   "status": 1,
   "switch": null,

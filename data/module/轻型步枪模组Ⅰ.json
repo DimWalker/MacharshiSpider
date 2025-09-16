@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_40171",
           "icon": "Icon_entry_40171",
           "Status": 1,
-          "weight": 834
+          "weight": 846
         },
         {
           "ID": "40172",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_40171",
           "icon": "Icon_entry_40171",
           "Status": 1,
-          "weight": 835
+          "weight": 847
         },
         {
           "ID": "40173",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_40171",
           "icon": "Icon_entry_40171",
           "Status": 1,
-          "weight": 836
+          "weight": 848
         },
         {
           "ID": "40174",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_40171",
           "icon": "Icon_entry_40171",
           "Status": 1,
-          "weight": 837
+          "weight": 849
         }
       ],
       "introduce": "轻型步枪模组能将机兵一部分的制动能力直接导入枪械内部，使得子弹拥有更强的穿透力，以追求一击破敌。",
@@ -55,9 +55,9 @@
       "IconType": "PropertyA",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 113
+      "weight": 114
     },
-    "now": "2025-09-16 16:21:26"
+    "now": "2025-09-16 20:41:29"
   },
   "status": 1,
   "switch": null,

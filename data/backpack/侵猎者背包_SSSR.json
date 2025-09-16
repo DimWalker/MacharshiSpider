@@ -18,14 +18,14 @@
           "SkillIcon": "Icon_skill_passive_1142",
           "icon": "Icon_skill_passive_1142",
           "Status": 1,
-          "weight": 1349
+          "weight": 1371
         }
       ],
       "HowGet": "无",
       "RelatedDescription": "旧式飞行强化背包的改良升级款，喷射装置能够驱动机兵在短距离上飞行，快速越过障碍，前往难以抵达的战场角落。同时集成了对敌机遭受伤害提升的功能。",
       "Status": 1
     },
-    "now": "2025-09-16 16:20:58"
+    "now": "2025-09-16 20:41:18"
   },
   "status": 1,
   "switch": null,

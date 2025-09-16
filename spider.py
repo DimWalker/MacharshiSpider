@@ -238,5 +238,5 @@ def download_image_base(type_name):
 
 
 if __name__ == "__main__":
-    # download_all_data()
+    download_all_data()
     download_images()

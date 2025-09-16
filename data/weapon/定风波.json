@@ -25,7 +25,7 @@
             "SkillIcon": "Icon_skill_passive_5155",
             "icon": "Icon_skill_passive_5155",
             "Status": 1,
-            "weight": 1014
+            "weight": 1036
           },
           {
             "ID": "53045",
@@ -35,7 +35,7 @@
             "SkillIcon": "Icon_skill_passive_5240",
             "icon": "Icon_skill_passive_5240",
             "Status": 1,
-            "weight": 1015
+            "weight": 1037
           },
           {
             "ID": "53043",
@@ -45,7 +45,7 @@
             "SkillIcon": "Icon_skill_passive_1101",
             "icon": "Icon_skill_passive_1101",
             "Status": 1,
-            "weight": 1013
+            "weight": 1035
           }
         ],
         "IconResourcePath": "Icon_weapon_10200401",
@@ -55,7 +55,7 @@
         "weight": 709
       }
     ],
-    "now": "2025-09-16 16:19:49"
+    "now": "2025-09-16 20:40:47"
   },
   "status": 1,
   "switch": null,

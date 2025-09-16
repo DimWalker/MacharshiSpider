@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_10050",
           "icon": "Icon_entry_10050",
           "Status": 1,
-          "weight": 370
+          "weight": 374
         },
         {
           "ID": "30042",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_10050",
           "icon": "Icon_entry_10050",
           "Status": 1,
-          "weight": 371
+          "weight": 375
         },
         {
           "ID": "30043",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_10050",
           "icon": "Icon_entry_10050",
           "Status": 1,
-          "weight": 372
+          "weight": 376
         },
         {
           "ID": "30044",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_10050",
           "icon": "Icon_entry_10050",
           "Status": 1,
-          "weight": 373
+          "weight": 377
         },
         {
           "ID": "30045",
@@ -56,7 +56,7 @@
           "SkillIcon": "Icon_entry_10050",
           "icon": "Icon_entry_10050",
           "Status": 1,
-          "weight": 374
+          "weight": 378
         },
         {
           "ID": "30046",
@@ -66,7 +66,7 @@
           "SkillIcon": "Icon_entry_10050",
           "icon": "Icon_entry_10050",
           "Status": 1,
-          "weight": 375
+          "weight": 379
         },
         {
           "ID": "30047",
@@ -76,7 +76,7 @@
           "SkillIcon": "Icon_entry_10050",
           "icon": "Icon_entry_10050",
           "Status": 1,
-          "weight": 376
+          "weight": 380
         },
         {
           "ID": "30048",
@@ -86,7 +86,7 @@
           "SkillIcon": "Icon_entry_10050",
           "icon": "Icon_entry_10050",
           "Status": 1,
-          "weight": 377
+          "weight": 381
         }
       ],
       "introduce": "机兵的战斗就是钢铁的碰撞，对垒模组能让机兵在与敌人的对拼当中屹立不倒，将其正面击溃。",
@@ -95,9 +95,9 @@
       "IconType": "GeneralSuit",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 54
+      "weight": 55
     },
-    "now": "2025-09-16 16:21:50"
+    "now": "2025-09-16 20:41:39"
   },
   "status": 1,
   "switch": null,

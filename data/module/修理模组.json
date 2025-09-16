@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_10012",
           "icon": "Icon_entry_10012",
           "Status": 1,
-          "weight": 522
+          "weight": 526
         },
         {
           "ID": "30232",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_10012",
           "icon": "Icon_entry_10012",
           "Status": 1,
-          "weight": 523
+          "weight": 527
         },
         {
           "ID": "30233",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_10012",
           "icon": "Icon_entry_10012",
           "Status": 1,
-          "weight": 524
+          "weight": 528
         },
         {
           "ID": "30234",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_10012",
           "icon": "Icon_entry_10012",
           "Status": 1,
-          "weight": 525
+          "weight": 529
         },
         {
           "ID": "30235",
@@ -56,7 +56,7 @@
           "SkillIcon": "Icon_entry_10012",
           "icon": "Icon_entry_10012",
           "Status": 1,
-          "weight": 526
+          "weight": 530
         },
         {
           "ID": "30236",
@@ -66,7 +66,7 @@
           "SkillIcon": "Icon_entry_10012",
           "icon": "Icon_entry_10012",
           "Status": 1,
-          "weight": 527
+          "weight": 531
         },
         {
           "ID": "30237",
@@ -76,7 +76,7 @@
           "SkillIcon": "Icon_entry_10012",
           "icon": "Icon_entry_10012",
           "Status": 1,
-          "weight": 528
+          "weight": 532
         },
         {
           "ID": "30238",
@@ -86,7 +86,7 @@
           "SkillIcon": "Icon_entry_10012",
           "icon": "Icon_entry_10012",
           "Status": 1,
-          "weight": 529
+          "weight": 533
         }
       ],
       "introduce": "修理模组几乎是维修型机兵的标配，它的运算逻辑十分简单粗暴——想尽办法为友方机兵提供最有效的即时维修。",
@@ -95,9 +95,9 @@
       "IconType": "GeneralSuit",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 72
+      "weight": 73
     },
-    "now": "2025-09-16 16:21:42"
+    "now": "2025-09-16 20:41:36"
   },
   "status": 1,
   "switch": null,

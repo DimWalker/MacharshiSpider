@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_10048",
           "icon": "Icon_entry_10048",
           "Status": 1,
-          "weight": 354
+          "weight": 358
         },
         {
           "ID": "30022",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_10048",
           "icon": "Icon_entry_10048",
           "Status": 1,
-          "weight": 355
+          "weight": 359
         },
         {
           "ID": "30023",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_10048",
           "icon": "Icon_entry_10048",
           "Status": 1,
-          "weight": 356
+          "weight": 360
         },
         {
           "ID": "30024",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_10048",
           "icon": "Icon_entry_10048",
           "Status": 1,
-          "weight": 357
+          "weight": 361
         },
         {
           "ID": "30025",
@@ -56,7 +56,7 @@
           "SkillIcon": "Icon_entry_10048",
           "icon": "Icon_entry_10048",
           "Status": 1,
-          "weight": 358
+          "weight": 362
         },
         {
           "ID": "30026",
@@ -66,7 +66,7 @@
           "SkillIcon": "Icon_entry_10048",
           "icon": "Icon_entry_10048",
           "Status": 1,
-          "weight": 359
+          "weight": 363
         },
         {
           "ID": "30027",
@@ -76,7 +76,7 @@
           "SkillIcon": "Icon_entry_10048",
           "icon": "Icon_entry_10048",
           "Status": 1,
-          "weight": 360
+          "weight": 364
         },
         {
           "ID": "30028",
@@ -86,7 +86,7 @@
           "SkillIcon": "Icon_entry_10048",
           "icon": "Icon_entry_10048",
           "Status": 1,
-          "weight": 361
+          "weight": 365
         }
       ],
       "introduce": "处决模组是一般佣兵最为喜爱的机兵模组，没有人会讨厌给对手最后一击的感觉。",
@@ -95,9 +95,9 @@
       "IconType": "GeneralSuit",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 52
+      "weight": 53
     },
-    "now": "2025-09-16 16:21:50"
+    "now": "2025-09-16 20:41:39"
   },
   "status": 1,
   "switch": null,

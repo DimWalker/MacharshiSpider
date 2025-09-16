@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_40031",
           "icon": "Icon_entry_40031",
           "Status": 1,
-          "weight": 722
+          "weight": 734
         },
         {
           "ID": "40032",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_40031",
           "icon": "Icon_entry_40031",
           "Status": 1,
-          "weight": 723
+          "weight": 735
         },
         {
           "ID": "40033",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_40031",
           "icon": "Icon_entry_40031",
           "Status": 1,
-          "weight": 724
+          "weight": 736
         },
         {
           "ID": "40034",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_40031",
           "icon": "Icon_entry_40031",
           "Status": 1,
-          "weight": 725
+          "weight": 737
         }
       ],
       "introduce": "有些顶尖机兵会配满Ⅱ增伤模组，追求极致的杀伤力，仅用一击终结战斗。",
@@ -55,9 +55,9 @@
       "IconType": "PropertyS",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 86
+      "weight": 87
     },
-    "now": "2025-09-16 16:21:36"
+    "now": "2025-09-16 20:41:34"
   },
   "status": 1,
   "switch": null,

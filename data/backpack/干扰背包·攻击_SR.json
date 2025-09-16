@@ -18,14 +18,14 @@
           "SkillIcon": "Icon_skill_passive_1107",
           "icon": "Icon_skill_passive_1107",
           "Status": 1,
-          "weight": 1178
+          "weight": 1200
         }
       ],
       "HowGet": "无",
       "RelatedDescription": "装配了高频干扰波段发射装置的机兵背包，通过波段重叠对敌机的攻击能力造成影响。",
       "Status": 1
     },
-    "now": "2025-09-16 16:20:59"
+    "now": "2025-09-16 20:41:19"
   },
   "status": 1,
   "switch": null,

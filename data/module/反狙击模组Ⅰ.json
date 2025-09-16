@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_40241",
           "icon": "Icon_entry_40241",
           "Status": 1,
-          "weight": 891
+          "weight": 903
         },
         {
           "ID": "40242",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_40241",
           "icon": "Icon_entry_40241",
           "Status": 1,
-          "weight": 892
+          "weight": 904
         },
         {
           "ID": "40243",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_40241",
           "icon": "Icon_entry_40241",
           "Status": 1,
-          "weight": 893
+          "weight": 905
         },
         {
           "ID": "40244",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_40241",
           "icon": "Icon_entry_40241",
           "Status": 1,
-          "weight": 894
+          "weight": 906
         }
       ],
       "introduce": "许多狙击型机兵比起提升自己的伤害与命中率，更愿意购买反狙击模组来与对方的狙击型机兵进行对抗。",
@@ -55,9 +55,9 @@
       "IconType": "PropertyA",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 127
+      "weight": 128
     },
-    "now": "2025-09-16 16:21:19"
+    "now": "2025-09-16 20:41:27"
   },
   "status": 1,
   "switch": null,

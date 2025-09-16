@@ -18,14 +18,14 @@
           "SkillIcon": "Icon_skill_passive_5119",
           "icon": "Icon_skill_passive_5119",
           "Status": 1,
-          "weight": 1272
+          "weight": 1294
         }
       ],
       "HowGet": "无",
       "RelatedDescription": "小型化的机兵定位装置，开启能让友方机兵获得定位，引导飞弹对范围内目标进行精准打击。同时集成了强化机兵追击与连击能力的功能。",
       "Status": 1
     },
-    "now": "2025-09-16 16:20:34"
+    "now": "2025-09-16 20:41:08"
   },
   "status": 1,
   "switch": null,

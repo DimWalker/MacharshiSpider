@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_10028",
           "icon": "Icon_entry_10028",
           "Status": 1,
-          "weight": 490
+          "weight": 494
         },
         {
           "ID": "30192",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_10028",
           "icon": "Icon_entry_10028",
           "Status": 1,
-          "weight": 491
+          "weight": 495
         },
         {
           "ID": "30193",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_10028",
           "icon": "Icon_entry_10028",
           "Status": 1,
-          "weight": 492
+          "weight": 496
         },
         {
           "ID": "30194",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_10028",
           "icon": "Icon_entry_10028",
           "Status": 1,
-          "weight": 493
+          "weight": 497
         },
         {
           "ID": "30195",
@@ -56,7 +56,7 @@
           "SkillIcon": "Icon_entry_10028",
           "icon": "Icon_entry_10028",
           "Status": 1,
-          "weight": 494
+          "weight": 498
         },
         {
           "ID": "30196",
@@ -66,7 +66,7 @@
           "SkillIcon": "Icon_entry_10028",
           "icon": "Icon_entry_10028",
           "Status": 1,
-          "weight": 495
+          "weight": 499
         },
         {
           "ID": "30197",
@@ -76,7 +76,7 @@
           "SkillIcon": "Icon_entry_10028",
           "icon": "Icon_entry_10028",
           "Status": 1,
-          "weight": 496
+          "weight": 500
         },
         {
           "ID": "30198",
@@ -86,7 +86,7 @@
           "SkillIcon": "Icon_entry_10028",
           "icon": "Icon_entry_10028",
           "Status": 1,
-          "weight": 497
+          "weight": 501
         }
       ],
       "introduce": "专为轻型机兵开发的避害模组，在确定自身无法进行反击时将额外性能全部用于规避弹道，有效提高机兵的生存能力。",
@@ -95,9 +95,9 @@
       "IconType": "GeneralSuit",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 69
+      "weight": 70
     },
-    "now": "2025-09-16 16:21:43"
+    "now": "2025-09-16 20:41:37"
   },
   "status": 1,
   "switch": null,

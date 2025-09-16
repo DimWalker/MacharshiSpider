@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_40161",
           "icon": "Icon_entry_40161",
           "Status": 1,
-          "weight": 826
+          "weight": 838
         },
         {
           "ID": "40162",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_40161",
           "icon": "Icon_entry_40161",
           "Status": 1,
-          "weight": 827
+          "weight": 839
         },
         {
           "ID": "40163",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_40161",
           "icon": "Icon_entry_40161",
           "Status": 1,
-          "weight": 828
+          "weight": 840
         },
         {
           "ID": "40164",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_40161",
           "icon": "Icon_entry_40161",
           "Status": 1,
-          "weight": 829
+          "weight": 841
         }
       ],
       "introduce": "狙击步枪模组带来的威力提升确保了狙击手每一次射击都能有相应的回报，而不是令人沮丧的一无所获。",
@@ -55,9 +55,9 @@
       "IconType": "PropertyA",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 111
+      "weight": 112
     },
-    "now": "2025-09-16 16:21:26"
+    "now": "2025-09-16 20:41:29"
   },
   "status": 1,
   "switch": null,

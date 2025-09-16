@@ -18,14 +18,14 @@
           "SkillIcon": "Icon_skill_passive_1144",
           "icon": "Icon_skill_passive_1144",
           "Status": 1,
-          "weight": 1172
+          "weight": 1194
         }
       ],
       "HowGet": "无",
       "RelatedDescription": "通过安装不同的战斗辅助芯片配合额外的调控一体装置，针对机兵的协力攻击能力进行了针对性提升。",
       "Status": 1
     },
-    "now": "2025-09-16 16:21:04"
+    "now": "2025-09-16 20:41:21"
   },
   "status": 1,
   "switch": null,

@@ -30,7 +30,7 @@
             "SkillIcon": "Icon_skill_order_1011",
             "icon": "Icon_skill_order_1011",
             "Status": 1,
-            "weight": 590
+            "weight": 596
           }
         ],
         "IconResourcePath": "Icon_weapon_40300301",
@@ -40,7 +40,7 @@
         "weight": 678
       }
     ],
-    "now": "2025-09-16 16:19:51"
+    "now": "2025-09-16 20:40:48"
   },
   "status": 1,
   "switch": null,

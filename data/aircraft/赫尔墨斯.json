@@ -36,7 +36,7 @@
         "mechaIcon": "Icon_wap2026_1",
         "lihuiIcon": "icon_lihui_wap2026",
         "Status": 1,
-        "weight": 132,
+        "weight": 136,
         "manji": {
           "name": "赫尔墨斯",
           "durable": "7176",
@@ -74,7 +74,7 @@
               "SkillIcon": "Icon_entry_10026",
               "icon": "Icon_entry_10026",
               "Status": 1,
-              "weight": 475,
+              "weight": 479,
               "id": "3017",
               "level": 2
             },
@@ -90,13 +90,13 @@
               "SkillIcon": "Icon_entry_40051",
               "icon": "Icon_entry_40051",
               "Status": 1,
-              "weight": 741,
+              "weight": 753,
               "id": "4005",
               "level": 4
             }
           ],
           "Status": 1,
-          "weight": 132
+          "weight": 136
         }
       },
       {
@@ -114,7 +114,7 @@
         "introduce": "AST-06 赫尔墨斯\n安赫特公司开发的中型火力支援机兵，多数列装于晨星同盟的战术支援部队。\n该机型设计搭载战术武器并配以大功率雷达，以机动性换取优秀制导能力，可对远距离目标进行高效的侦测和锁定。\n作为同盟战术体系的一环，多与机兵高岭协同作战。",
         "mechaIcon": "Icon_wap2026_2",
         "Status": 1,
-        "weight": 133,
+        "weight": 137,
         "manji": {
           "name": "赫尔墨斯",
           "durable": "4404",
@@ -124,7 +124,7 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "1004:1/4005:1/",
           "Status": 1,
-          "weight": 133
+          "weight": 137
         }
       },
       {
@@ -142,7 +142,7 @@
         "introduce": "AST-06 赫尔墨斯\n安赫特公司开发的中型火力支援机兵，多数列装于晨星同盟的战术支援部队。\n该机型设计搭载战术武器并配以大功率雷达，以机动性换取优秀制导能力，可对远距离目标进行高效的侦测和锁定。\n作为同盟战术体系的一环，多与机兵高岭协同作战。",
         "mechaIcon": "Icon_wap2026_3",
         "Status": 1,
-        "weight": 134,
+        "weight": 138,
         "manji": {
           "name": "赫尔墨斯",
           "durable": "4404",
@@ -152,7 +152,7 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "1004:1/4005:1/",
           "Status": 1,
-          "weight": 134
+          "weight": 138
         }
       },
       {
@@ -171,7 +171,7 @@
         "introduce": "AST-06 赫尔墨斯\n安赫特公司开发的中型火力支援机兵，多数列装于晨星同盟的战术支援部队。\n该机型设计搭载战术武器并配以大功率雷达，以机动性换取优秀制导能力，可对远距离目标进行高效的侦测和锁定。\n作为同盟战术体系的一环，多与机兵高岭协同作战。",
         "mechaIcon": "Icon_wap2026_4",
         "Status": 1,
-        "weight": 135,
+        "weight": 139,
         "manji": {
           "name": "赫尔墨斯",
           "durable": "5950",
@@ -182,11 +182,11 @@
           "Interface": "Ⅰ型接口",
           "ModuleCarried": "1004:1/3017:1/4005:1/",
           "Status": 1,
-          "weight": 135
+          "weight": 139
         }
       }
     ],
-    "now": "2025-09-16 16:18:13"
+    "now": "2025-09-16 20:39:59"
   },
   "status": 1,
   "switch": null,

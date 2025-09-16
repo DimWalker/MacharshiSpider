@@ -18,14 +18,14 @@
           "SkillIcon": "Icon_skill_passive_5237",
           "icon": "Icon_skill_passive_5237",
           "Status": 1,
-          "weight": 1344
+          "weight": 1366
         }
       ],
       "HowGet": "无",
       "RelatedDescription": "旧式雷达强化背包的改良升级款，小型化的机兵定位装置，开启能让友方机兵获得定位，引导飞弹对范围内目标进行精准打击。同时集成了强化机兵每回合首次攻击能力的功能。",
       "Status": 1
     },
-    "now": "2025-09-16 16:20:56"
+    "now": "2025-09-16 20:41:16"
   },
   "status": 1,
   "switch": null,

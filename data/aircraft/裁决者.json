@@ -43,7 +43,7 @@
             "SkillIcon": "Icon_entry_10087",
             "icon": "Icon_entry_10087",
             "Status": 1,
-            "weight": 619,
+            "weight": 623,
             "id": "3036",
             "level": 2
           },
@@ -59,7 +59,7 @@
             "SkillIcon": "Icon_entry_40071",
             "icon": "Icon_entry_40071",
             "Status": 1,
-            "weight": 755,
+            "weight": 767,
             "id": "4007",
             "level": 2
           }
@@ -69,7 +69,7 @@
         "mechaIcon": "Icon_wap2052_1",
         "lihuiIcon": "icon_lihui_wap2052",
         "Status": 1,
-        "weight": 176,
+        "weight": 180,
         "manji": {
           "name": "裁决者",
           "durable": "10342",
@@ -107,7 +107,7 @@
               "SkillIcon": "Icon_entry_10087",
               "icon": "Icon_entry_10087",
               "Status": 1,
-              "weight": 625,
+              "weight": 629,
               "id": "3036",
               "level": 8
             },
@@ -123,13 +123,13 @@
               "SkillIcon": "Icon_entry_40071",
               "icon": "Icon_entry_40071",
               "Status": 1,
-              "weight": 757,
+              "weight": 769,
               "id": "4007",
               "level": 4
             }
           ],
           "Status": 1,
-          "weight": 176
+          "weight": 180
         }
       },
       {
@@ -148,7 +148,7 @@
         "introduce": "LTX-219 裁决者\n由拉尼亚凯亚研发的中型战术机兵。是日弩-朝阳研发线上推出的新型机兵。\nLTX-219继承了日弩系战术机兵与朝阳系工程机兵的双重优势。其核心织火者芯片能根据战局战况，实时协调战术武器的发射策略和打击方式。尤其在弹药装填与打击面方面，相比前代机型有了质变般的提升。而迭代自日弩的行进驱动装置L1102-X，则能让裁决者在运动战中获得更佳稳定的发射条件，将战场移动对打击精度的干扰降低到最低。",
         "mechaIcon": "Icon_wap2052_2",
         "Status": 1,
-        "weight": 177,
+        "weight": 181,
         "manji": {
           "name": "裁决者",
           "durable": "5977",
@@ -158,7 +158,7 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "2047:1/3036:2/4007:1/",
           "Status": 1,
-          "weight": 177
+          "weight": 181
         }
       },
       {
@@ -177,7 +177,7 @@
         "introduce": "LTX-219 裁决者\n由拉尼亚凯亚研发的中型战术机兵。是日弩-朝阳研发线上推出的新型机兵。\nLTX-219继承了日弩系战术机兵与朝阳系工程机兵的双重优势。其核心织火者芯片能根据战局战况，实时协调战术武器的发射策略和打击方式。尤其在弹药装填与打击面方面，相比前代机型有了质变般的提升。而迭代自日弩的行进驱动装置L1102-X，则能让裁决者在运动战中获得更佳稳定的发射条件，将战场移动对打击精度的干扰降低到最低。",
         "mechaIcon": "Icon_wap2052_3",
         "Status": 1,
-        "weight": 178,
+        "weight": 182,
         "manji": {
           "name": "裁决者",
           "durable": "5977",
@@ -187,7 +187,7 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "2047:1/3036:2/4007:1/",
           "Status": 1,
-          "weight": 178
+          "weight": 182
         }
       },
       {
@@ -207,7 +207,7 @@
         "introduce": "LTX-219 裁决者\n由拉尼亚凯亚研发的中型战术机兵。是日弩-朝阳研发线上推出的新型机兵。\nLTX-219继承了日弩系战术机兵与朝阳系工程机兵的双重优势。其核心织火者芯片能根据战局战况，实时协调战术武器的发射策略和打击方式。尤其在弹药装填与打击面方面，相比前代机型有了质变般的提升。而迭代自日弩的行进驱动装置L1102-X，则能让裁决者在运动战中获得更佳稳定的发射条件，将战场移动对打击精度的干扰降低到最低。",
         "mechaIcon": "Icon_wap2052_4",
         "Status": 1,
-        "weight": 179,
+        "weight": 183,
         "manji": {
           "name": "裁决者",
           "durable": "7896",
@@ -218,11 +218,11 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "2047:1/3036:2/4007:1/",
           "Status": 1,
-          "weight": 179
+          "weight": 183
         }
       }
     ],
-    "now": "2025-09-16 16:18:29"
+    "now": "2025-09-16 20:40:06"
   },
   "status": 1,
   "switch": null,

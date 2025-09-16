@@ -43,7 +43,7 @@
             "SkillIcon": "Icon_entry_10088",
             "icon": "Icon_entry_10088",
             "Status": 1,
-            "weight": 627,
+            "weight": 631,
             "id": "3037",
             "level": 2
           },
@@ -59,7 +59,7 @@
             "SkillIcon": "Icon_entry_40021",
             "icon": "Icon_entry_40021",
             "Status": 1,
-            "weight": 715,
+            "weight": 727,
             "id": "4002",
             "level": 2
           },
@@ -85,7 +85,7 @@
         "mechaIcon": "Icon_wap3036_1",
         "lihuiIcon": "icon_lihui_wap3036",
         "Status": 1,
-        "weight": 280,
+        "weight": 284,
         "manji": {
           "name": "信仰之眼",
           "durable": "12567",
@@ -123,7 +123,7 @@
               "SkillIcon": "Icon_entry_10088",
               "icon": "Icon_entry_10088",
               "Status": 1,
-              "weight": 633,
+              "weight": 637,
               "id": "3037",
               "level": 8
             },
@@ -139,7 +139,7 @@
               "SkillIcon": "Icon_entry_40021",
               "icon": "Icon_entry_40021",
               "Status": 1,
-              "weight": 717,
+              "weight": 729,
               "id": "4002",
               "level": 4
             },
@@ -161,7 +161,7 @@
             }
           ],
           "Status": 1,
-          "weight": 280
+          "weight": 284
         }
       },
       {
@@ -180,7 +180,7 @@
         "introduce": "ROG-FE01 信仰之眼\n著名硬件制造商ROG与卡玛达联合开发的重型机兵。在外形设计上采用了ROG系列一贯的前沿潮流风格，并配备了多处炫酷的发光光带。机兵内部则采用了来自卡玛达的成熟方案，业界领先的传动系统与岚合金框架，让信仰之眼在长线战斗中独占鳌头。",
         "mechaIcon": "Icon_wap3036_2",
         "Status": 1,
-        "weight": 281,
+        "weight": 285,
         "manji": {
           "name": "信仰之眼",
           "durable": "6422",
@@ -190,7 +190,7 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "20481:1/3037:2/4002:1/",
           "Status": 1,
-          "weight": 281
+          "weight": 285
         }
       },
       {
@@ -209,7 +209,7 @@
         "introduce": "ROG-FE01 信仰之眼\n著名硬件制造商ROG与卡玛达联合开发的重型机兵。在外形设计上采用了ROG系列一贯的前沿潮流风格，并配备了多处炫酷的发光光带。机兵内部则采用了来自卡玛达的成熟方案，业界领先的传动系统与岚合金框架，让信仰之眼在长线战斗中独占鳌头。",
         "mechaIcon": "Icon_wap3036_3",
         "Status": 1,
-        "weight": 282,
+        "weight": 286,
         "manji": {
           "name": "信仰之眼",
           "durable": "6422",
@@ -219,7 +219,7 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "20481:1/3037:2/4002:1/",
           "Status": 1,
-          "weight": 282
+          "weight": 286
         }
       },
       {
@@ -239,7 +239,7 @@
         "introduce": "ROG-FE01 信仰之眼\n著名硬件制造商ROG与卡玛达联合开发的重型机兵。在外形设计上采用了ROG系列一贯的前沿潮流风格，并配备了多处炫酷的发光光带。机兵内部则采用了来自卡玛达的成熟方案，业界领先的传动系统与岚合金框架，让信仰之眼在长线战斗中独占鳌头。",
         "mechaIcon": "Icon_wap3036_4",
         "Status": 1,
-        "weight": 283,
+        "weight": 287,
         "manji": {
           "name": "信仰之眼",
           "durable": "9369",
@@ -250,11 +250,11 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "20483:1/3037:2/4002:1/",
           "Status": 1,
-          "weight": 283
+          "weight": 287
         }
       }
     ],
-    "now": "2025-09-16 16:18:30"
+    "now": "2025-09-16 20:40:06"
   },
   "status": 1,
   "switch": null,

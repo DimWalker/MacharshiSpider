@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_40101",
           "icon": "Icon_entry_40101",
           "Status": 1,
-          "weight": 778
+          "weight": 790
         },
         {
           "ID": "40102",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_40101",
           "icon": "Icon_entry_40101",
           "Status": 1,
-          "weight": 779
+          "weight": 791
         },
         {
           "ID": "40103",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_40101",
           "icon": "Icon_entry_40101",
           "Status": 1,
-          "weight": 780
+          "weight": 792
         },
         {
           "ID": "40104",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_40101",
           "icon": "Icon_entry_40101",
           "Status": 1,
-          "weight": 781
+          "weight": 793
         }
       ],
       "introduce": "打桩机模组能让机兵的手部结构与打桩机的连结更为紧密，以此增加攻击时的出力效率。",
@@ -55,9 +55,9 @@
       "IconType": "PropertyA",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 99
+      "weight": 100
     },
-    "now": "2025-09-16 16:21:31"
+    "now": "2025-09-16 20:41:31"
   },
   "status": 1,
   "switch": null,

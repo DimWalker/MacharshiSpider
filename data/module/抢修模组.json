@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_10011",
           "icon": "Icon_entry_10011",
           "Status": 1,
-          "weight": 514
+          "weight": 518
         },
         {
           "ID": "30222",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_10011",
           "icon": "Icon_entry_10011",
           "Status": 1,
-          "weight": 515
+          "weight": 519
         },
         {
           "ID": "30223",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_10011",
           "icon": "Icon_entry_10011",
           "Status": 1,
-          "weight": 516
+          "weight": 520
         },
         {
           "ID": "30224",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_10011",
           "icon": "Icon_entry_10011",
           "Status": 1,
-          "weight": 517
+          "weight": 521
         },
         {
           "ID": "30225",
@@ -56,7 +56,7 @@
           "SkillIcon": "Icon_entry_10011",
           "icon": "Icon_entry_10011",
           "Status": 1,
-          "weight": 518
+          "weight": 522
         },
         {
           "ID": "30226",
@@ -66,7 +66,7 @@
           "SkillIcon": "Icon_entry_10011",
           "icon": "Icon_entry_10011",
           "Status": 1,
-          "weight": 519
+          "weight": 523
         },
         {
           "ID": "30227",
@@ -76,7 +76,7 @@
           "SkillIcon": "Icon_entry_10011",
           "icon": "Icon_entry_10011",
           "Status": 1,
-          "weight": 520
+          "weight": 524
         },
         {
           "ID": "30228",
@@ -86,7 +86,7 @@
           "SkillIcon": "Icon_entry_10011",
           "icon": "Icon_entry_10011",
           "Status": 1,
-          "weight": 521
+          "weight": 525
         }
       ],
       "introduce": "搭载抢修模组的维修型机兵能更好地适应快节奏的战斗，它们总能第一时间确定并修复友方机兵的破损部位，使其重返战场。",
@@ -95,9 +95,9 @@
       "IconType": "GeneralSuit",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 71
+      "weight": 72
     },
-    "now": "2025-09-16 16:21:42"
+    "now": "2025-09-16 20:41:36"
   },
   "status": 1,
   "switch": null,

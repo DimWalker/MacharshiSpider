@@ -30,7 +30,7 @@
             "SkillIcon": "Icon_skill_order_1003",
             "icon": "Icon_skill_order_1003",
             "Status": 1,
-            "weight": 589
+            "weight": 595
           }
         ],
         "PassiveSkill": [
@@ -42,7 +42,7 @@
             "SkillIcon": "Icon_skill_passive_4104",
             "icon": "Icon_skill_passive_4104",
             "Status": 1,
-            "weight": 998
+            "weight": 1020
           }
         ],
         "IconResourcePath": "Icon_weapon_40200401",
@@ -52,7 +52,7 @@
         "weight": 704
       }
     ],
-    "now": "2025-09-16 16:19:43"
+    "now": "2025-09-16 20:40:44"
   },
   "status": 1,
   "switch": null,

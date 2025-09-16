@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_40121",
           "icon": "Icon_entry_40121",
           "Status": 1,
-          "weight": 794
+          "weight": 806
         },
         {
           "ID": "40122",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_40121",
           "icon": "Icon_entry_40121",
           "Status": 1,
-          "weight": 795
+          "weight": 807
         },
         {
           "ID": "40123",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_40121",
           "icon": "Icon_entry_40121",
           "Status": 1,
-          "weight": 796
+          "weight": 808
         },
         {
           "ID": "40124",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_40121",
           "icon": "Icon_entry_40121",
           "Status": 1,
-          "weight": 797
+          "weight": 809
         }
       ],
       "introduce": "当你看到一架机兵娴熟地舞动长柄搅翻敌阵时，不必怀疑，它肯定是装配了长柄模组Ⅱ型。",
@@ -55,9 +55,9 @@
       "IconType": "PropertyS",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 104
+      "weight": 105
     },
-    "now": "2025-09-16 16:21:29"
+    "now": "2025-09-16 20:41:30"
   },
   "status": 1,
   "switch": null,

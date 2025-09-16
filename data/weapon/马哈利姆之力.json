@@ -21,11 +21,11 @@
             "ID": "53047",
             "name": "火线维修",
             "SpecificEffects": "<buf ID=530470>[抢险维修]</buf>的修理量额外提升修理背包的<color=#F74848>0.35</color>倍",
-            "BufCarried": "530471/530473/530475/530477",
+            "BufCarried": "530471",
             "SkillIcon": "Icon_skill_passive_3131",
             "icon": "Icon_skill_passive_3131",
             "Status": 1,
-            "weight": 1017
+            "weight": 1039
           },
           {
             "ID": "53048",
@@ -35,7 +35,7 @@
             "SkillIcon": "Icon_skill_passive_5241",
             "icon": "Icon_skill_passive_5241",
             "Status": 1,
-            "weight": 1018
+            "weight": 1040
           },
           {
             "ID": "53046",
@@ -45,7 +45,7 @@
             "SkillIcon": "Icon_skill_passive_3119",
             "icon": "Icon_skill_passive_3119",
             "Status": 1,
-            "weight": 1016
+            "weight": 1038
           }
         ],
         "IconResourcePath": "Icon_weapon_10500501",
@@ -55,7 +55,7 @@
         "weight": 715
       }
     ],
-    "now": "2025-09-16 16:19:49"
+    "now": "2025-09-16 20:40:47"
   },
   "status": 1,
   "switch": null,

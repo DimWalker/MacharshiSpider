@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_10095",
           "icon": "Icon_entry_10095",
           "Status": 1,
-          "weight": 682
+          "weight": 686
         },
         {
           "ID": "30442",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_10095",
           "icon": "Icon_entry_10095",
           "Status": 1,
-          "weight": 683
+          "weight": 687
         },
         {
           "ID": "30443",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_10095",
           "icon": "Icon_entry_10095",
           "Status": 1,
-          "weight": 684
+          "weight": 688
         },
         {
           "ID": "30444",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_10095",
           "icon": "Icon_entry_10095",
           "Status": 1,
-          "weight": 685
+          "weight": 689
         },
         {
           "ID": "30445",
@@ -56,7 +56,7 @@
           "SkillIcon": "Icon_entry_10095",
           "icon": "Icon_entry_10095",
           "Status": 1,
-          "weight": 686
+          "weight": 690
         },
         {
           "ID": "30446",
@@ -66,7 +66,7 @@
           "SkillIcon": "Icon_entry_10095",
           "icon": "Icon_entry_10095",
           "Status": 1,
-          "weight": 687
+          "weight": 691
         },
         {
           "ID": "30447",
@@ -76,7 +76,7 @@
           "SkillIcon": "Icon_entry_10095",
           "icon": "Icon_entry_10095",
           "Status": 1,
-          "weight": 688
+          "weight": 692
         },
         {
           "ID": "30448",
@@ -86,7 +86,7 @@
           "SkillIcon": "Icon_entry_10095",
           "icon": "Icon_entry_10095",
           "Status": 1,
-          "weight": 689
+          "weight": 693
         }
       ],
       "introduce": "带有简易护盾发生器的防御型模组，能生成护盾保护受损部件免受进一步伤害。",
@@ -95,9 +95,9 @@
       "IconType": "GeneralSuit",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 80
+      "weight": 81
     },
-    "now": "2025-09-16 16:21:39"
+    "now": "2025-09-16 20:41:35"
   },
   "status": 1,
   "switch": null,

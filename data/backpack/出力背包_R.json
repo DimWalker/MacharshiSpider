@@ -17,14 +17,14 @@
           "SkillIcon": "Icon_skill_passive_5148",
           "icon": "Icon_skill_passive_5148",
           "Status": 1,
-          "weight": 1150
+          "weight": 1172
         }
       ],
       "HowGet": "无",
       "RelatedDescription": "通过外部挂载的小型功能装置为机兵提供额外的出力，使其拥有更高的作战全重上限。",
       "Status": 1
     },
-    "now": "2025-09-16 16:21:06"
+    "now": "2025-09-16 20:41:21"
   },
   "status": 1,
   "switch": null,

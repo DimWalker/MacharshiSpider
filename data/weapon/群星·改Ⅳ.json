@@ -25,7 +25,7 @@
             "SkillIcon": "Icon_skill_passive_2111",
             "icon": "Icon_skill_passive_2111",
             "Status": 1,
-            "weight": 1052
+            "weight": 1074
           }
         ],
         "IconResourcePath": "Icon_weapon_10400501",
@@ -35,7 +35,7 @@
         "weight": 686
       }
     ],
-    "now": "2025-09-16 16:20:00"
+    "now": "2025-09-16 20:40:53"
   },
   "status": 1,
   "switch": null,

@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_40191",
           "icon": "Icon_entry_40191",
           "Status": 1,
-          "weight": 850
+          "weight": 862
         },
         {
           "ID": "40192",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_40191",
           "icon": "Icon_entry_40191",
           "Status": 1,
-          "weight": 851
+          "weight": 863
         },
         {
           "ID": "40193",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_40191",
           "icon": "Icon_entry_40191",
           "Status": 1,
-          "weight": 852
+          "weight": 864
         },
         {
           "ID": "40194",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_40191",
           "icon": "Icon_entry_40191",
           "Status": 1,
-          "weight": 853
+          "weight": 865
         }
       ],
       "introduce": "火箭模组能够让机兵能进行更精准的火箭打击，让轰炸范围内的敌人承担更为密集的炮火。",
@@ -55,9 +55,9 @@
       "IconType": "PropertyA",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 117
+      "weight": 118
     },
-    "now": "2025-09-16 16:21:24"
+    "now": "2025-09-16 20:41:28"
   },
   "status": 1,
   "switch": null,

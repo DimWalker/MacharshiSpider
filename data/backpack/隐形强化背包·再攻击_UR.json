@@ -18,14 +18,14 @@
           "SkillIcon": "Icon_skill_passive_5149",
           "icon": "Icon_skill_passive_5149",
           "Status": 1,
-          "weight": 1316
+          "weight": 1338
         }
       ],
       "HowGet": "无",
       "RelatedDescription": "先进的光学系统能够扭曲光线，让装配该型号背包的机兵处于某种程度上的隐形状态。同时集成了强化机兵再攻击能力的功能。",
       "Status": 1
     },
-    "now": "2025-09-16 16:20:38"
+    "now": "2025-09-16 20:41:09"
   },
   "status": 1,
   "switch": null,

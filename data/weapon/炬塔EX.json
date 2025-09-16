@@ -30,7 +30,7 @@
             "SkillIcon": "Icon_skill_order_1005",
             "icon": "Icon_skill_order_1005",
             "Status": 1,
-            "weight": 591
+            "weight": 597
           }
         ],
         "IconResourcePath": "Icon_weapon_50100101",
@@ -68,7 +68,7 @@
             "SkillIcon": "Icon_skill_order_1005",
             "icon": "Icon_skill_order_1005",
             "Status": 1,
-            "weight": 591
+            "weight": 597
           }
         ],
         "IconResourcePath": "Icon_weapon_50100101",
@@ -106,7 +106,7 @@
             "SkillIcon": "Icon_skill_order_1005",
             "icon": "Icon_skill_order_1005",
             "Status": 1,
-            "weight": 591
+            "weight": 597
           }
         ],
         "IconResourcePath": "Icon_weapon_50100101",
@@ -144,7 +144,7 @@
             "SkillIcon": "Icon_skill_order_1005",
             "icon": "Icon_skill_order_1005",
             "Status": 1,
-            "weight": 591
+            "weight": 597
           }
         ],
         "IconResourcePath": "Icon_weapon_50100101",
@@ -154,7 +154,7 @@
         "weight": 767
       }
     ],
-    "now": "2025-09-16 16:19:34"
+    "now": "2025-09-16 20:40:40"
   },
   "status": 1,
   "switch": null,

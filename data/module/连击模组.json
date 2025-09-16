@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_10022",
           "icon": "Icon_entry_10022",
           "Status": 1,
-          "weight": 418
+          "weight": 422
         },
         {
           "ID": "30102",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_10022",
           "icon": "Icon_entry_10022",
           "Status": 1,
-          "weight": 419
+          "weight": 423
         },
         {
           "ID": "30103",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_10022",
           "icon": "Icon_entry_10022",
           "Status": 1,
-          "weight": 420
+          "weight": 424
         },
         {
           "ID": "30104",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_10022",
           "icon": "Icon_entry_10022",
           "Status": 1,
-          "weight": 421
+          "weight": 425
         },
         {
           "ID": "30105",
@@ -56,7 +56,7 @@
           "SkillIcon": "Icon_entry_10022",
           "icon": "Icon_entry_10022",
           "Status": 1,
-          "weight": 422
+          "weight": 426
         },
         {
           "ID": "30106",
@@ -66,7 +66,7 @@
           "SkillIcon": "Icon_entry_10022",
           "icon": "Icon_entry_10022",
           "Status": 1,
-          "weight": 423
+          "weight": 427
         },
         {
           "ID": "30107",
@@ -76,7 +76,7 @@
           "SkillIcon": "Icon_entry_10022",
           "icon": "Icon_entry_10022",
           "Status": 1,
-          "weight": 424
+          "weight": 428
         },
         {
           "ID": "30108",
@@ -86,7 +86,7 @@
           "SkillIcon": "Icon_entry_10022",
           "icon": "Icon_entry_10022",
           "Status": 1,
-          "weight": 425
+          "weight": 429
         }
       ],
       "introduce": "连击模组能让你的机体不断地攻击再攻击，用狂风骤雨般的攻击击溃敌人，成为真正的战场收割者。",
@@ -95,9 +95,9 @@
       "IconType": "GeneralSuit",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 60
+      "weight": 61
     },
-    "now": "2025-09-16 16:21:47"
+    "now": "2025-09-16 20:41:38"
   },
   "status": 1,
   "switch": null,

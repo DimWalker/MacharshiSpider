@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_40151",
           "icon": "Icon_entry_40151",
           "Status": 1,
-          "weight": 818
+          "weight": 830
         },
         {
           "ID": "40152",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_40151",
           "icon": "Icon_entry_40151",
           "Status": 1,
-          "weight": 819
+          "weight": 831
         },
         {
           "ID": "40153",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_40151",
           "icon": "Icon_entry_40151",
           "Status": 1,
-          "weight": 820
+          "weight": 832
         },
         {
           "ID": "40154",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_40151",
           "icon": "Icon_entry_40151",
           "Status": 1,
-          "weight": 821
+          "weight": 833
         }
       ],
       "introduce": "重机枪的杀伤力已足够恐怖，如果是配有重机枪模组的机兵来操作的话，还能更上一个台阶。",
@@ -55,9 +55,9 @@
       "IconType": "PropertyA",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 109
+      "weight": 110
     },
-    "now": "2025-09-16 16:21:27"
+    "now": "2025-09-16 20:41:29"
   },
   "status": 1,
   "switch": null,

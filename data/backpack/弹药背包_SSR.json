@@ -17,14 +17,14 @@
           "SkillIcon": "Icon_skill_passive_5163",
           "icon": "Icon_skill_passive_5163",
           "Status": 1,
-          "weight": 1206
+          "weight": 1228
         }
       ],
       "HowGet": "无",
       "RelatedDescription": "储存了战术武器弹药，让机兵火箭或导弹有了更多的发射机会。",
       "Status": 1
     },
-    "now": "2025-09-16 16:20:17"
+    "now": "2025-09-16 20:41:00"
   },
   "status": 1,
   "switch": null,

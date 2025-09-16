@@ -18,14 +18,14 @@
           "SkillIcon": "Icon_skill_passive_5123",
           "icon": "Icon_skill_passive_5123",
           "Status": 1,
-          "weight": 1290
+          "weight": 1312
         }
       ],
       "HowGet": "无",
       "RelatedDescription": "直接将额外动能输送到腿部传动装置，无论是使用滑轮还是步行，机兵的移动力都能得到提升。同时集成了强化机兵协力攻击能力的功能。",
       "Status": 1
     },
-    "now": "2025-09-16 16:20:24"
+    "now": "2025-09-16 20:41:04"
   },
   "status": 1,
   "switch": null,

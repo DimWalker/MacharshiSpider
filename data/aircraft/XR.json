@@ -43,7 +43,7 @@
             "SkillIcon": "Icon_entry_10058",
             "icon": "Icon_entry_10058",
             "Status": 1,
-            "weight": 467,
+            "weight": 471,
             "id": "3016",
             "level": 2
           },
@@ -59,7 +59,7 @@
             "SkillIcon": "Icon_entry_40011",
             "icon": "Icon_entry_40011",
             "Status": 1,
-            "weight": 707,
+            "weight": 719,
             "id": "4001",
             "level": 2
           }
@@ -69,7 +69,7 @@
         "mechaIcon": "Icon_wap2003_1",
         "lihuiIcon": "icon_lihui_wap2003",
         "Status": 1,
-        "weight": 88,
+        "weight": 92,
         "manji": {
           "name": "XR",
           "durable": "8758",
@@ -107,7 +107,7 @@
               "SkillIcon": "Icon_entry_10058",
               "icon": "Icon_entry_10058",
               "Status": 1,
-              "weight": 473,
+              "weight": 477,
               "id": "3016",
               "level": 8
             },
@@ -123,13 +123,13 @@
               "SkillIcon": "Icon_entry_40011",
               "icon": "Icon_entry_40011",
               "Status": 1,
-              "weight": 709,
+              "weight": 721,
               "id": "4001",
               "level": 4
             }
           ],
           "Status": 1,
-          "weight": 88
+          "weight": 92
         }
       },
       {
@@ -148,7 +148,7 @@
         "introduce": "XR 开发编号不明\n由科学家温斯顿设计，黑曜石协助制造的机兵，为特定机师量身打造，记录中仅生产了一台。\n作为不计成本的秘密武器，该机兵配备了名为“镜像核心”的装置，配合位于机舱的中枢处理器和机兵左右臂的镜像仪，可显著提升机师对同类武器的使用效率。设置于躯干与腿部的能量循环管理系统也保障了该机在缺少补给条件下的长时间作战能力。\n据不确定信源透露，该机与“超级机师”相关研究高度绑定，但目前仍缺少有力的资料支撑。",
         "mechaIcon": "Icon_wap2003_2",
         "Status": 1,
-        "weight": 89,
+        "weight": 93,
         "manji": {
           "name": "XR",
           "durable": "4782",
@@ -158,7 +158,7 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "2007:1/3016:2/4001:1/",
           "Status": 1,
-          "weight": 89
+          "weight": 93
         }
       },
       {
@@ -177,7 +177,7 @@
         "introduce": "XR 开发编号不明\n由科学家温斯顿设计，黑曜石协助制造的机兵，为特定机师量身打造，记录中仅生产了一台。\n作为不计成本的秘密武器，该机兵配备了名为“镜像核心”的装置，配合位于机舱的中枢处理器和机兵左右臂的镜像仪，可显著提升机师对同类武器的使用效率。设置于躯干与腿部的能量循环管理系统也保障了该机在缺少补给条件下的长时间作战能力。\n据不确定信源透露，该机与“超级机师”相关研究高度绑定，但目前仍缺少有力的资料支撑。",
         "mechaIcon": "Icon_wap2003_3",
         "Status": 1,
-        "weight": 90,
+        "weight": 94,
         "manji": {
           "name": "XR",
           "durable": "4782",
@@ -187,7 +187,7 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "2007:1/3016:2/4001:1/",
           "Status": 1,
-          "weight": 90
+          "weight": 94
         }
       },
       {
@@ -207,7 +207,7 @@
         "introduce": "XR 开发编号不明\n由科学家温斯顿设计，黑曜石协助制造的机兵，为特定机师量身打造，记录中仅生产了一台。\n作为不计成本的秘密武器，该机兵配备了名为“镜像核心”的装置，配合位于机舱的中枢处理器和机兵左右臂的镜像仪，可显著提升机师对同类武器的使用效率。设置于躯干与腿部的能量循环管理系统也保障了该机在缺少补给条件下的长时间作战能力。\n据不确定信源透露，该机与“超级机师”相关研究高度绑定，但目前仍缺少有力的资料支撑。",
         "mechaIcon": "Icon_wap2003_4",
         "Status": 1,
-        "weight": 91,
+        "weight": 95,
         "manji": {
           "name": "XR",
           "durable": "6978",
@@ -218,11 +218,11 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "2007:1/3016:2/4001:1/",
           "Status": 1,
-          "weight": 91
+          "weight": 95
         }
       }
     ],
-    "now": "2025-09-16 16:18:10"
+    "now": "2025-09-16 20:39:58"
   },
   "status": 1,
   "switch": null,

@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_40231",
           "icon": "Icon_entry_40231",
           "Status": 1,
-          "weight": 883
+          "weight": 895
         },
         {
           "ID": "40232",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_40231",
           "icon": "Icon_entry_40231",
           "Status": 1,
-          "weight": 884
+          "weight": 896
         },
         {
           "ID": "40233",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_40231",
           "icon": "Icon_entry_40231",
           "Status": 1,
-          "weight": 885
+          "weight": 897
         },
         {
           "ID": "40234",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_40231",
           "icon": "Icon_entry_40231",
           "Status": 1,
-          "weight": 886
+          "weight": 898
         }
       ],
       "introduce": "反格斗模组能够帮助机兵缓解格斗武器的打击伤害，给对方那些跃跃欲试的格斗家机师浇一盆冷水。",
@@ -55,9 +55,9 @@
       "IconType": "PropertyA",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 125
+      "weight": 126
     },
-    "now": "2025-09-16 16:21:20"
+    "now": "2025-09-16 20:41:27"
   },
   "status": 1,
   "switch": null,

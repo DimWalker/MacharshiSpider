@@ -18,14 +18,14 @@
           "SkillIcon": "Icon_skill_passive_5123",
           "icon": "Icon_skill_passive_5123",
           "Status": 1,
-          "weight": 1292
+          "weight": 1314
         }
       ],
       "HowGet": "无",
       "RelatedDescription": "直接将额外动能输送到腿部传动装置，无论是使用滑轮还是步行，机兵的移动力都能得到提升。同时集成了影响敌机回避能力的功能。",
       "Status": 1
     },
-    "now": "2025-09-16 16:20:22"
+    "now": "2025-09-16 20:41:03"
   },
   "status": 1,
   "switch": null,

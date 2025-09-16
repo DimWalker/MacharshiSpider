@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_10052",
           "icon": "Icon_entry_10052",
           "Status": 1,
-          "weight": 386
+          "weight": 390
         },
         {
           "ID": "30062",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_10052",
           "icon": "Icon_entry_10052",
           "Status": 1,
-          "weight": 387
+          "weight": 391
         },
         {
           "ID": "30063",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_10052",
           "icon": "Icon_entry_10052",
           "Status": 1,
-          "weight": 388
+          "weight": 392
         },
         {
           "ID": "30064",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_10052",
           "icon": "Icon_entry_10052",
           "Status": 1,
-          "weight": 389
+          "weight": 393
         },
         {
           "ID": "30065",
@@ -56,7 +56,7 @@
           "SkillIcon": "Icon_entry_10052",
           "icon": "Icon_entry_10052",
           "Status": 1,
-          "weight": 390
+          "weight": 394
         },
         {
           "ID": "30066",
@@ -66,7 +66,7 @@
           "SkillIcon": "Icon_entry_10052",
           "icon": "Icon_entry_10052",
           "Status": 1,
-          "weight": 391
+          "weight": 395
         },
         {
           "ID": "30067",
@@ -76,7 +76,7 @@
           "SkillIcon": "Icon_entry_10052",
           "icon": "Icon_entry_10052",
           "Status": 1,
-          "weight": 392
+          "weight": 396
         },
         {
           "ID": "30068",
@@ -86,7 +86,7 @@
           "SkillIcon": "Icon_entry_10052",
           "icon": "Icon_entry_10052",
           "Status": 1,
-          "weight": 393
+          "weight": 397
         }
       ],
       "introduce": "搭载蓄能模组的机兵很少有多余的动作，它们尽可能地减少制动能量的消耗，将其倾注于攻击之中。",
@@ -95,9 +95,9 @@
       "IconType": "GeneralSuit",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 56
+      "weight": 57
     },
-    "now": "2025-09-16 16:21:49"
+    "now": "2025-09-16 20:41:39"
   },
   "status": 1,
   "switch": null,

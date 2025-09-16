@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_40111",
           "icon": "Icon_entry_40111",
           "Status": 1,
-          "weight": 786
+          "weight": 798
         },
         {
           "ID": "40112",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_40111",
           "icon": "Icon_entry_40111",
           "Status": 1,
-          "weight": 787
+          "weight": 799
         },
         {
           "ID": "40113",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_40111",
           "icon": "Icon_entry_40111",
           "Status": 1,
-          "weight": 788
+          "weight": 800
         },
         {
           "ID": "40114",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_40111",
           "icon": "Icon_entry_40111",
           "Status": 1,
-          "weight": 789
+          "weight": 801
         }
       ],
       "introduce": "一些机兵的手部结构并不适合直接进行直接打击，但拳套模组能完美解决这个问题。",
@@ -55,9 +55,9 @@
       "IconType": "PropertyA",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 101
+      "weight": 102
     },
-    "now": "2025-09-16 16:21:30"
+    "now": "2025-09-16 20:41:31"
   },
   "status": 1,
   "switch": null,

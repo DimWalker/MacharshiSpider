@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_10024",
           "icon": "Icon_entry_10024",
           "Status": 1,
-          "weight": 434
+          "weight": 438
         },
         {
           "ID": "30122",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_10024",
           "icon": "Icon_entry_10024",
           "Status": 1,
-          "weight": 435
+          "weight": 439
         },
         {
           "ID": "30123",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_10024",
           "icon": "Icon_entry_10024",
           "Status": 1,
-          "weight": 436
+          "weight": 440
         },
         {
           "ID": "30124",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_10024",
           "icon": "Icon_entry_10024",
           "Status": 1,
-          "weight": 437
+          "weight": 441
         },
         {
           "ID": "30125",
@@ -56,7 +56,7 @@
           "SkillIcon": "Icon_entry_10024",
           "icon": "Icon_entry_10024",
           "Status": 1,
-          "weight": 438
+          "weight": 442
         },
         {
           "ID": "30126",
@@ -66,7 +66,7 @@
           "SkillIcon": "Icon_entry_10024",
           "icon": "Icon_entry_10024",
           "Status": 1,
-          "weight": 439
+          "weight": 443
         },
         {
           "ID": "30127",
@@ -76,7 +76,7 @@
           "SkillIcon": "Icon_entry_10024",
           "icon": "Icon_entry_10024",
           "Status": 1,
-          "weight": 440
+          "weight": 444
         },
         {
           "ID": "30128",
@@ -86,7 +86,7 @@
           "SkillIcon": "Icon_entry_10024",
           "icon": "Icon_entry_10024",
           "Status": 1,
-          "weight": 441
+          "weight": 445
         }
       ],
       "introduce": "小心点，在搭载警戒模组的狙击型机兵面前不要随意行动，他们会用子弹来代替口头警告。",
@@ -95,9 +95,9 @@
       "IconType": "GeneralSuit",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 62
+      "weight": 63
     },
-    "now": "2025-09-16 16:21:46"
+    "now": "2025-09-16 20:41:38"
   },
   "status": 1,
   "switch": null,

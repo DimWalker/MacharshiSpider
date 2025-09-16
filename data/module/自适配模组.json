@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_10057",
           "icon": "Icon_entry_10057",
           "Status": 1,
-          "weight": 458
+          "weight": 462
         },
         {
           "ID": "30152",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_10057",
           "icon": "Icon_entry_10057",
           "Status": 1,
-          "weight": 459
+          "weight": 463
         },
         {
           "ID": "30153",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_10057",
           "icon": "Icon_entry_10057",
           "Status": 1,
-          "weight": 460
+          "weight": 464
         },
         {
           "ID": "30154",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_10057",
           "icon": "Icon_entry_10057",
           "Status": 1,
-          "weight": 461
+          "weight": 465
         },
         {
           "ID": "30155",
@@ -56,7 +56,7 @@
           "SkillIcon": "Icon_entry_10057",
           "icon": "Icon_entry_10057",
           "Status": 1,
-          "weight": 462
+          "weight": 466
         },
         {
           "ID": "30156",
@@ -66,7 +66,7 @@
           "SkillIcon": "Icon_entry_10057",
           "icon": "Icon_entry_10057",
           "Status": 1,
-          "weight": 463
+          "weight": 467
         },
         {
           "ID": "30157",
@@ -76,7 +76,7 @@
           "SkillIcon": "Icon_entry_10057",
           "icon": "Icon_entry_10057",
           "Status": 1,
-          "weight": 464
+          "weight": 468
         },
         {
           "ID": "30158",
@@ -86,7 +86,7 @@
           "SkillIcon": "Icon_entry_10057",
           "icon": "Icon_entry_10057",
           "Status": 1,
-          "weight": 465
+          "weight": 469
         }
       ],
       "introduce": "自适配模组能显著地提升机兵的生存性，在检测到外层装甲遭受严重打击时会模块脱落以减少本体所受的冲击，从而增强战场生存能力。",
@@ -95,9 +95,9 @@
       "IconType": "GeneralSuit",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 65
+      "weight": 66
     },
-    "now": "2025-09-16 16:21:45"
+    "now": "2025-09-16 20:41:37"
   },
   "status": 1,
   "switch": null,

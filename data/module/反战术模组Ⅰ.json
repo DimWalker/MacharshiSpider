@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_40251",
           "icon": "Icon_entry_40251",
           "Status": 1,
-          "weight": 899
+          "weight": 911
         },
         {
           "ID": "40252",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_40251",
           "icon": "Icon_entry_40251",
           "Status": 1,
-          "weight": 900
+          "weight": 912
         },
         {
           "ID": "40253",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_40251",
           "icon": "Icon_entry_40251",
           "Status": 1,
-          "weight": 901
+          "weight": 913
         },
         {
           "ID": "40254",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_40251",
           "icon": "Icon_entry_40251",
           "Status": 1,
-          "weight": 902
+          "weight": 914
         }
       ],
       "introduce": "为了应对无从反击的范围战术打击，反战术模组应运而生，成为了机兵配件市场上的热销款式。",
@@ -55,9 +55,9 @@
       "IconType": "PropertyA",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 129
+      "weight": 130
     },
-    "now": "2025-09-16 16:21:18"
+    "now": "2025-09-16 20:41:26"
   },
   "status": 1,
   "switch": null,

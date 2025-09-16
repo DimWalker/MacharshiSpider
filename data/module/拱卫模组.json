@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_40271",
           "icon": "Icon_entry_40271",
           "Status": 1,
-          "weight": 538
+          "weight": 542
         },
         {
           "ID": "30252",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_40271",
           "icon": "Icon_entry_40271",
           "Status": 1,
-          "weight": 539
+          "weight": 543
         },
         {
           "ID": "30253",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_40271",
           "icon": "Icon_entry_40271",
           "Status": 1,
-          "weight": 540
+          "weight": 544
         },
         {
           "ID": "30254",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_40271",
           "icon": "Icon_entry_40271",
           "Status": 1,
-          "weight": 541
+          "weight": 545
         },
         {
           "ID": "30255",
@@ -56,7 +56,7 @@
           "SkillIcon": "Icon_entry_40271",
           "icon": "Icon_entry_40271",
           "Status": 1,
-          "weight": 542
+          "weight": 546
         },
         {
           "ID": "30256",
@@ -66,7 +66,7 @@
           "SkillIcon": "Icon_entry_40271",
           "icon": "Icon_entry_40271",
           "Status": 1,
-          "weight": 543
+          "weight": 547
         },
         {
           "ID": "30257",
@@ -76,7 +76,7 @@
           "SkillIcon": "Icon_entry_40271",
           "icon": "Icon_entry_40271",
           "Status": 1,
-          "weight": 544
+          "weight": 548
         },
         {
           "ID": "30258",
@@ -86,7 +86,7 @@
           "SkillIcon": "Icon_entry_40271",
           "icon": "Icon_entry_40271",
           "Status": 1,
-          "weight": 545
+          "weight": 549
         }
       ],
       "introduce": "能与临近的机兵建立临时链接，以保护核心机体不受损害。",
@@ -95,9 +95,9 @@
       "IconType": "GeneralSuit",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 74
+      "weight": 75
     },
-    "now": "2025-09-16 16:21:41"
+    "now": "2025-09-16 20:41:36"
   },
   "status": 1,
   "switch": null,

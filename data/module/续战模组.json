@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_10055",
           "icon": "Icon_entry_10055",
           "Status": 1,
-          "weight": 410
+          "weight": 414
         },
         {
           "ID": "30092",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_10055",
           "icon": "Icon_entry_10055",
           "Status": 1,
-          "weight": 411
+          "weight": 415
         },
         {
           "ID": "30093",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_10055",
           "icon": "Icon_entry_10055",
           "Status": 1,
-          "weight": 412
+          "weight": 416
         },
         {
           "ID": "30094",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_10055",
           "icon": "Icon_entry_10055",
           "Status": 1,
-          "weight": 413
+          "weight": 417
         },
         {
           "ID": "30095",
@@ -56,7 +56,7 @@
           "SkillIcon": "Icon_entry_10055",
           "icon": "Icon_entry_10055",
           "Status": 1,
-          "weight": 414
+          "weight": 418
         },
         {
           "ID": "30096",
@@ -66,7 +66,7 @@
           "SkillIcon": "Icon_entry_10055",
           "icon": "Icon_entry_10055",
           "Status": 1,
-          "weight": 415
+          "weight": 419
         },
         {
           "ID": "30097",
@@ -76,7 +76,7 @@
           "SkillIcon": "Icon_entry_10055",
           "icon": "Icon_entry_10055",
           "Status": 1,
-          "weight": 416
+          "weight": 420
         },
         {
           "ID": "30098",
@@ -86,7 +86,7 @@
           "SkillIcon": "Icon_entry_10055",
           "icon": "Icon_entry_10055",
           "Status": 1,
-          "weight": 417
+          "weight": 421
         }
       ],
       "introduce": "续战模组能使机兵的增幅效果时间延长，如果一个机体占用团队的大量资源，那么该模组肯定是它的不二之选。",
@@ -95,9 +95,9 @@
       "IconType": "GeneralSuit",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 59
+      "weight": 60
     },
-    "now": "2025-09-16 16:21:47"
+    "now": "2025-09-16 20:41:38"
   },
   "status": 1,
   "switch": null,
