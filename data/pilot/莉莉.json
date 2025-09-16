@@ -32,7 +32,7 @@
         "SkillIcon": "Icon_skill_talent_1108",
         "icon": "Icon_skill_talent_1108",
         "Status": 1,
-        "weight": 2786
+        "weight": 3125
       },
       "Talent3_5Ability": {
         "ID": "400151",
@@ -42,7 +42,7 @@
         "SkillIcon": "Icon_skill_talent_1108",
         "icon": "Icon_skill_talent_1108",
         "Status": 1,
-        "weight": 2787
+        "weight": 3126
       },
       "NeuralDriveTemplate": {
         "ID": "10101107",
@@ -70,7 +70,7 @@
                   "SkillIcon": "Icon_skill_passive_5012",
                   "icon": "Icon_skill_passive_5012",
                   "Status": 1,
-                  "weight": 2768
+                  "weight": 3107
                 }
               },
               {
@@ -88,7 +88,7 @@
                   "SkillIcon": "Icon_skill_passive_5006",
                   "icon": "Icon_skill_passive_5006",
                   "Status": 1,
-                  "weight": 2769
+                  "weight": 3108
                 }
               },
               {
@@ -106,7 +106,7 @@
                   "SkillIcon": "Icon_skill_passive_5004",
                   "icon": "Icon_skill_passive_5004",
                   "Status": 1,
-                  "weight": 2770
+                  "weight": 3109
                 }
               }
             ],
@@ -139,7 +139,7 @@
                   "SkillIcon": "Icon_skill_passive_5012",
                   "icon": "Icon_skill_passive_5012",
                   "Status": 1,
-                  "weight": 2771
+                  "weight": 3110
                 }
               },
               {
@@ -157,7 +157,7 @@
                   "SkillIcon": "Icon_skill_passive_5006",
                   "icon": "Icon_skill_passive_5006",
                   "Status": 1,
-                  "weight": 2772
+                  "weight": 3111
                 }
               },
               {
@@ -175,7 +175,7 @@
                   "SkillIcon": "Icon_skill_passive_5004",
                   "icon": "Icon_skill_passive_5004",
                   "Status": 1,
-                  "weight": 2773
+                  "weight": 3112
                 }
               }
             ],
@@ -208,7 +208,7 @@
                   "SkillIcon": "Icon_skill_passive_5013",
                   "icon": "Icon_skill_passive_5013",
                   "Status": 1,
-                  "weight": 2774
+                  "weight": 3113
                 }
               },
               {
@@ -226,7 +226,7 @@
                   "SkillIcon": "Icon_skill_passive_5004",
                   "icon": "Icon_skill_passive_5004",
                   "Status": 1,
-                  "weight": 2775
+                  "weight": 3114
                 }
               },
               {
@@ -245,7 +245,7 @@
                   "SkillIcon": "Icon_skill_passive_5012",
                   "icon": "Icon_skill_passive_5012",
                   "Status": 1,
-                  "weight": 2776
+                  "weight": 3115
                 }
               },
               {
@@ -264,7 +264,7 @@
                   "SkillIcon": "Icon_skill_passive_5013",
                   "icon": "Icon_skill_passive_5013",
                   "Status": 1,
-                  "weight": 2777
+                  "weight": 3116
                 }
               },
               {
@@ -283,7 +283,7 @@
                   "SkillIcon": "Icon_skill_passive_5013",
                   "icon": "Icon_skill_passive_5013",
                   "Status": 1,
-                  "weight": 2778
+                  "weight": 3117
                 }
               },
               {
@@ -302,7 +302,7 @@
                   "SkillIcon": "Icon_skill_passive_5013",
                   "icon": "Icon_skill_passive_5013",
                   "Status": 1,
-                  "weight": 2779
+                  "weight": 3118
                 }
               }
             ],
@@ -324,7 +324,7 @@
       "AdditionalInformation": [],
       "Introduction": "莉莉·斯坦，晨星同盟维和部队队长，坚韧而强大的战场白玫瑰，深受士兵们信任。对祖国的立场和价值观深信不疑，坚信晨星同盟的旗帜和真正的和平将在不久的将来降临在米赫玛岛的每一个角落。",
       "Status": 1,
-      "weight": 38,
+      "weight": 39,
       "manji": {
         "quality": "R",
         "InitialPilotAPValue_PilotAPInitBase": "3",
@@ -362,7 +362,7 @@
             "SkillIcon": "Icon_skill_passive_5012",
             "icon": "Icon_skill_passive_5012",
             "Status": 1,
-            "weight": 2767
+            "weight": 3106
           }
         },
         {
@@ -507,7 +507,7 @@
             "SkillIcon": "Icon_skill_passive_5151",
             "icon": "Icon_skill_passive_5151",
             "Status": 1,
-            "weight": 2782
+            "weight": 3121
           }
         },
         {
@@ -532,7 +532,7 @@
             "SkillIcon": "Icon_skill_passive_4123",
             "icon": "Icon_skill_passive_4123",
             "Status": 1,
-            "weight": 2783
+            "weight": 3122
           }
         },
         {
@@ -557,7 +557,7 @@
             "SkillIcon": "Icon_skill_passive_5181",
             "icon": "Icon_skill_passive_5181",
             "Status": 1,
-            "weight": 2784
+            "weight": 3123
           }
         },
         {
@@ -582,7 +582,7 @@
             "SkillIcon": "Icon_skill_passive_2111",
             "icon": "Icon_skill_passive_2111",
             "Status": 1,
-            "weight": 2785
+            "weight": 3124
           }
         },
         {
@@ -611,7 +611,7 @@
             "SkillIcon": "Icon_skill_order_5106",
             "icon": "Icon_skill_order_5106",
             "Status": 1,
-            "weight": 346
+            "weight": 380
           }
         },
         {
@@ -797,7 +797,7 @@
       ],
       "biomimetic_computer_type": 1
     },
-    "now": "2025-02-12 00:13:59"
+    "now": "2025-09-16 16:18:48"
   },
   "status": 1,
   "switch": null,

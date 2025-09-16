@@ -5,7 +5,7 @@ class Aircraft:
 
     def __init__(self, ID=None, name=None, position=None, type=None, quality=None,
                  aircraftWeight=None, durable=None, Armor=None, fire=None, output=None,
-                 Antiriot=None, Hit=None, Dodge=None
+                 Antiriot=None, Hit=None, Dodge=None, icon=None
                  , **kwargs):  # 字典比类字段多时报错，需要
         self.ID = ID  # ID
         self.name = name  # 名称
@@ -20,6 +20,7 @@ class Aircraft:
         self.Antiriot = Antiriot  # 抗暴
         self.Hit = Hit  # 命中
         self.Dodge = Dodge  # 闪避
+        self.icon = icon
 
     @classmethod
     def from_dict(cls, data):

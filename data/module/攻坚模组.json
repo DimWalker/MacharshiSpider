@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_10047",
           "icon": "Icon_entry_10047",
           "Status": 1,
-          "weight": 314
+          "weight": 346
         },
         {
           "ID": "30012",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_10047",
           "icon": "Icon_entry_10047",
           "Status": 1,
-          "weight": 315
+          "weight": 347
         },
         {
           "ID": "30013",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_10047",
           "icon": "Icon_entry_10047",
           "Status": 1,
-          "weight": 316
+          "weight": 348
         },
         {
           "ID": "30014",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_10047",
           "icon": "Icon_entry_10047",
           "Status": 1,
-          "weight": 317
+          "weight": 349
         },
         {
           "ID": "30015",
@@ -56,7 +56,7 @@
           "SkillIcon": "Icon_entry_10047",
           "icon": "Icon_entry_10047",
           "Status": 1,
-          "weight": 318
+          "weight": 350
         },
         {
           "ID": "30016",
@@ -66,7 +66,7 @@
           "SkillIcon": "Icon_entry_10047",
           "icon": "Icon_entry_10047",
           "Status": 1,
-          "weight": 319
+          "weight": 351
         },
         {
           "ID": "30017",
@@ -76,7 +76,7 @@
           "SkillIcon": "Icon_entry_10047",
           "icon": "Icon_entry_10047",
           "Status": 1,
-          "weight": 320
+          "weight": 352
         },
         {
           "ID": "30018",
@@ -86,7 +86,7 @@
           "SkillIcon": "Icon_entry_10047",
           "icon": "Icon_entry_10047",
           "Status": 1,
-          "weight": 321
+          "weight": 353
         }
       ],
       "introduce": "搭载攻坚模组的机兵往往都是队伍的第一个攻击者，他们的任务就是击碎对方完好的护甲，为整个团队打开局面。",
@@ -95,9 +95,9 @@
       "IconType": "GeneralSuit",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 43
+      "weight": 51
     },
-    "now": "2025-02-12 00:15:07"
+    "now": "2025-09-16 16:21:51"
   },
   "status": 1,
   "switch": null,

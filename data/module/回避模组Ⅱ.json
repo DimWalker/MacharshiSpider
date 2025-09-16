@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_40041",
           "icon": "Icon_entry_40041",
           "Status": 1,
-          "weight": 634
+          "weight": 730
         },
         {
           "ID": "40042",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_40041",
           "icon": "Icon_entry_40041",
           "Status": 1,
-          "weight": 635
+          "weight": 731
         },
         {
           "ID": "40043",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_40041",
           "icon": "Icon_entry_40041",
           "Status": 1,
-          "weight": 636
+          "weight": 732
         },
         {
           "ID": "40044",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_40041",
           "icon": "Icon_entry_40041",
           "Status": 1,
-          "weight": 637
+          "weight": 733
         }
       ],
       "introduce": "回避模组Ⅱ型能让你的机兵成为战场中的幽魂，见得着，但却打不着。",
@@ -55,9 +55,9 @@
       "IconType": "PropertyS",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 76
+      "weight": 88
     },
-    "now": "2025-02-12 00:15:02"
+    "now": "2025-09-16 16:21:35"
   },
   "status": 1,
   "switch": null,

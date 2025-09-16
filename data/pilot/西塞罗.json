@@ -32,7 +32,7 @@
         "SkillIcon": "Icon_skill_talent_5117",
         "icon": "Icon_skill_talent_5117",
         "Status": 1,
-        "weight": 2796
+        "weight": 3135
       },
       "Talent3_5Ability": {
         "ID": "400251",
@@ -42,7 +42,7 @@
         "SkillIcon": "Icon_skill_talent_5117",
         "icon": "Icon_skill_talent_5117",
         "Status": 1,
-        "weight": 2797
+        "weight": 3136
       },
       "NeuralDriveTemplate": {
         "ID": "10102115",
@@ -70,7 +70,7 @@
                   "SkillIcon": "Icon_skill_passive_5012",
                   "icon": "Icon_skill_passive_5012",
                   "Status": 1,
-                  "weight": 2768
+                  "weight": 3107
                 }
               },
               {
@@ -88,7 +88,7 @@
                   "SkillIcon": "Icon_skill_passive_5006",
                   "icon": "Icon_skill_passive_5006",
                   "Status": 1,
-                  "weight": 2769
+                  "weight": 3108
                 }
               },
               {
@@ -106,7 +106,7 @@
                   "SkillIcon": "Icon_skill_passive_5004",
                   "icon": "Icon_skill_passive_5004",
                   "Status": 1,
-                  "weight": 2770
+                  "weight": 3109
                 }
               }
             ],
@@ -139,7 +139,7 @@
                   "SkillIcon": "Icon_skill_passive_5012",
                   "icon": "Icon_skill_passive_5012",
                   "Status": 1,
-                  "weight": 2771
+                  "weight": 3110
                 }
               },
               {
@@ -157,7 +157,7 @@
                   "SkillIcon": "Icon_skill_passive_5006",
                   "icon": "Icon_skill_passive_5006",
                   "Status": 1,
-                  "weight": 2772
+                  "weight": 3111
                 }
               },
               {
@@ -175,7 +175,7 @@
                   "SkillIcon": "Icon_skill_passive_5004",
                   "icon": "Icon_skill_passive_5004",
                   "Status": 1,
-                  "weight": 2773
+                  "weight": 3112
                 }
               }
             ],
@@ -208,7 +208,7 @@
                   "SkillIcon": "Icon_skill_passive_5013",
                   "icon": "Icon_skill_passive_5013",
                   "Status": 1,
-                  "weight": 2774
+                  "weight": 3113
                 }
               },
               {
@@ -226,7 +226,7 @@
                   "SkillIcon": "Icon_skill_passive_5004",
                   "icon": "Icon_skill_passive_5004",
                   "Status": 1,
-                  "weight": 2775
+                  "weight": 3114
                 }
               },
               {
@@ -245,7 +245,7 @@
                   "SkillIcon": "Icon_skill_passive_5012",
                   "icon": "Icon_skill_passive_5012",
                   "Status": 1,
-                  "weight": 2776
+                  "weight": 3115
                 }
               },
               {
@@ -264,7 +264,7 @@
                   "SkillIcon": "Icon_skill_passive_5013",
                   "icon": "Icon_skill_passive_5013",
                   "Status": 1,
-                  "weight": 2777
+                  "weight": 3116
                 }
               },
               {
@@ -283,7 +283,7 @@
                   "SkillIcon": "Icon_skill_passive_5013",
                   "icon": "Icon_skill_passive_5013",
                   "Status": 1,
-                  "weight": 2778
+                  "weight": 3117
                 }
               },
               {
@@ -302,7 +302,7 @@
                   "SkillIcon": "Icon_skill_passive_5013",
                   "icon": "Icon_skill_passive_5013",
                   "Status": 1,
-                  "weight": 2779
+                  "weight": 3118
                 }
               }
             ],
@@ -335,7 +335,7 @@
                   "SkillIcon": "Icon_skill_passive_2112",
                   "icon": "Icon_skill_passive_2112",
                   "Status": 1,
-                  "weight": 2792
+                  "weight": 3131
                 }
               },
               {
@@ -353,7 +353,7 @@
                   "SkillIcon": "Icon_skill_passive_5004",
                   "icon": "Icon_skill_passive_5004",
                   "Status": 1,
-                  "weight": 2780
+                  "weight": 3119
                 }
               },
               {
@@ -372,7 +372,7 @@
                   "SkillIcon": "Icon_skill_passive_5006",
                   "icon": "Icon_skill_passive_5006",
                   "Status": 1,
-                  "weight": 2781
+                  "weight": 3120
                 }
               },
               {
@@ -391,7 +391,7 @@
                   "SkillIcon": "Icon_skill_passive_2112",
                   "icon": "Icon_skill_passive_2112",
                   "Status": 1,
-                  "weight": 2793
+                  "weight": 3132
                 }
               },
               {
@@ -410,7 +410,7 @@
                   "SkillIcon": "Icon_skill_passive_2112",
                   "icon": "Icon_skill_passive_2112",
                   "Status": 1,
-                  "weight": 2794
+                  "weight": 3133
                 }
               },
               {
@@ -429,7 +429,7 @@
                   "SkillIcon": "Icon_skill_passive_2112",
                   "icon": "Icon_skill_passive_2112",
                   "Status": 1,
-                  "weight": 2795
+                  "weight": 3134
                 }
               }
             ],
@@ -456,7 +456,7 @@
       ],
       "Introduction": "「西塞罗·莱特……那家伙比起技术，更相信权力一类的东西，所以可千万别把他当作一般的科学家来对待。当初他叛出北陆联合，携带实验体逃往东米赫玛时，就已经将这份野心暴露无遗。因此，我认为西塞罗虽然为同盟带来了相当的利益，我们仍要让他与核心权力保持距离……同时还要加紧对于他手头技术的解析和转移工作。」——晨星同盟高层内部会议发言记录",
       "Status": 1,
-      "weight": 39,
+      "weight": 40,
       "manji": {
         "quality": "SR",
         "InitialPilotAPValue_PilotAPInitBase": "4",
@@ -494,7 +494,7 @@
             "SkillIcon": "Icon_skill_passive_5012",
             "icon": "Icon_skill_passive_5012",
             "Status": 1,
-            "weight": 2767
+            "weight": 3106
           }
         },
         {
@@ -688,7 +688,7 @@
             "SkillIcon": "Icon_skill_order_1006",
             "icon": "Icon_skill_order_1006",
             "Status": 1,
-            "weight": 452
+            "weight": 508
           }
         },
         {
@@ -713,7 +713,7 @@
             "SkillIcon": "Icon_skill_passive_5136",
             "icon": "Icon_skill_passive_5136",
             "Status": 1,
-            "weight": 2789
+            "weight": 3128
           }
         },
         {
@@ -741,7 +741,7 @@
             "SkillIcon": "Icon_skill_order_1008",
             "icon": "Icon_skill_order_1008",
             "Status": 1,
-            "weight": 457
+            "weight": 513
           }
         },
         {
@@ -766,7 +766,7 @@
             "SkillIcon": "Icon_skill_passive_5161",
             "icon": "Icon_skill_passive_5161",
             "Status": 1,
-            "weight": 2790
+            "weight": 3129
           }
         },
         {
@@ -794,7 +794,7 @@
             "SkillIcon": "Icon_skill_order_5106",
             "icon": "Icon_skill_order_5106",
             "Status": 1,
-            "weight": 347
+            "weight": 381
           }
         },
         {
@@ -819,7 +819,7 @@
             "SkillIcon": "Icon_skill_passive_5134",
             "icon": "Icon_skill_passive_5134",
             "Status": 1,
-            "weight": 2791
+            "weight": 3130
           }
         },
         {
@@ -847,7 +847,7 @@
             "SkillIcon": "Icon_skill_order_1114",
             "icon": "Icon_skill_order_1114",
             "Status": 1,
-            "weight": 348
+            "weight": 382
           }
         },
         {
@@ -1108,7 +1108,7 @@
       ],
       "biomimetic_computer_type": 2
     },
-    "now": "2025-02-12 00:13:59"
+    "now": "2025-09-16 16:18:48"
   },
   "status": 1,
   "switch": null,

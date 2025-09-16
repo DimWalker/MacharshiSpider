@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_40171",
           "icon": "Icon_entry_40171",
           "Status": 1,
-          "weight": 738
+          "weight": 834
         },
         {
           "ID": "40172",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_40171",
           "icon": "Icon_entry_40171",
           "Status": 1,
-          "weight": 739
+          "weight": 835
         },
         {
           "ID": "40173",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_40171",
           "icon": "Icon_entry_40171",
           "Status": 1,
-          "weight": 740
+          "weight": 836
         },
         {
           "ID": "40174",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_40171",
           "icon": "Icon_entry_40171",
           "Status": 1,
-          "weight": 741
+          "weight": 837
         }
       ],
       "introduce": "注意，轻型步枪模组Ⅱ型并不能让你的机兵打得更准，如果有这方面需求的话，官方的建议仍然是去使用狙击步枪。",
@@ -55,9 +55,9 @@
       "IconType": "PropertyS",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 102
+      "weight": 114
     },
-    "now": "2025-02-12 00:14:57"
+    "now": "2025-09-16 16:21:25"
   },
   "status": 1,
   "switch": null,

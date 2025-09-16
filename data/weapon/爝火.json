@@ -25,7 +25,7 @@
             "SkillIcon": "Icon_skill_passive_5161",
             "icon": "Icon_skill_passive_5161",
             "Status": 1,
-            "weight": 887
+            "weight": 1005
           },
           {
             "ID": "53036",
@@ -35,7 +35,7 @@
             "SkillIcon": "Icon_skill_passive_5216",
             "icon": "Icon_skill_passive_5216",
             "Status": 1,
-            "weight": 888
+            "weight": 1006
           },
           {
             "ID": "53034",
@@ -45,17 +45,17 @@
             "SkillIcon": "Icon_skill_passive_5179",
             "icon": "Icon_skill_passive_5179",
             "Status": 1,
-            "weight": 886
+            "weight": 1004
           }
         ],
         "IconResourcePath": "Icon_weapon_20300402",
         "icon": "Icon_weapon_20300402",
         "describe": "自诞生起，理想便并不独属于任何人。所以，即便最先发起者已然放弃，背叛，理想也能自行找到传承者延续下去……现在，是时候由他来担负起那未尽的职责，投身于那燎野的爝火之中。",
         "Status": 1,
-        "weight": 711
+        "weight": 719
       }
     ],
-    "now": "2025-02-12 00:14:22"
+    "now": "2025-09-16 16:19:44"
   },
   "status": 1,
   "switch": null,

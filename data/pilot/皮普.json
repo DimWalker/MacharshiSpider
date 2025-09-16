@@ -32,7 +32,7 @@
         "SkillIcon": "Icon_skill_talent_1101",
         "icon": "Icon_skill_talent_1101",
         "Status": 1,
-        "weight": 2376
+        "weight": 2673
       },
       "Talent3_5Ability": {
         "ID": "100151",
@@ -42,7 +42,7 @@
         "SkillIcon": "Icon_skill_talent_1101",
         "icon": "Icon_skill_talent_1101",
         "Status": 1,
-        "weight": 2377
+        "weight": 2674
       },
       "NeuralDriveTemplate": {
         "ID": "10101104",
@@ -71,7 +71,7 @@
                   "SkillIcon": "Icon_skill_passive_5010",
                   "icon": "Icon_skill_passive_5010",
                   "Status": 1,
-                  "weight": 2359
+                  "weight": 2656
                 }
               },
               {
@@ -89,7 +89,7 @@
                   "SkillIcon": "Icon_skill_passive_5006",
                   "icon": "Icon_skill_passive_5006",
                   "Status": 1,
-                  "weight": 2360
+                  "weight": 2657
                 }
               },
               {
@@ -107,7 +107,7 @@
                   "SkillIcon": "Icon_skill_passive_5004",
                   "icon": "Icon_skill_passive_5004",
                   "Status": 1,
-                  "weight": 2361
+                  "weight": 2658
                 }
               }
             ],
@@ -140,7 +140,7 @@
                   "SkillIcon": "Icon_skill_passive_5010",
                   "icon": "Icon_skill_passive_5010",
                   "Status": 1,
-                  "weight": 2362
+                  "weight": 2659
                 }
               },
               {
@@ -159,7 +159,7 @@
                   "SkillIcon": "Icon_skill_passive_5006",
                   "icon": "Icon_skill_passive_5006",
                   "Status": 1,
-                  "weight": 2363
+                  "weight": 2660
                 }
               },
               {
@@ -177,7 +177,7 @@
                   "SkillIcon": "Icon_skill_passive_5004",
                   "icon": "Icon_skill_passive_5004",
                   "Status": 1,
-                  "weight": 2364
+                  "weight": 2661
                 }
               }
             ],
@@ -210,7 +210,7 @@
                   "SkillIcon": "Icon_skill_passive_5011",
                   "icon": "Icon_skill_passive_5011",
                   "Status": 1,
-                  "weight": 2365
+                  "weight": 2662
                 }
               },
               {
@@ -228,7 +228,7 @@
                   "SkillIcon": "Icon_skill_passive_5004",
                   "icon": "Icon_skill_passive_5004",
                   "Status": 1,
-                  "weight": 2366
+                  "weight": 2663
                 }
               },
               {
@@ -247,7 +247,7 @@
                   "SkillIcon": "Icon_skill_passive_5010",
                   "icon": "Icon_skill_passive_5010",
                   "Status": 1,
-                  "weight": 2367
+                  "weight": 2664
                 }
               },
               {
@@ -266,7 +266,7 @@
                   "SkillIcon": "Icon_skill_passive_5011",
                   "icon": "Icon_skill_passive_5011",
                   "Status": 1,
-                  "weight": 2368
+                  "weight": 2665
                 }
               },
               {
@@ -285,7 +285,7 @@
                   "SkillIcon": "Icon_skill_passive_5011",
                   "icon": "Icon_skill_passive_5011",
                   "Status": 1,
-                  "weight": 2369
+                  "weight": 2666
                 }
               },
               {
@@ -304,7 +304,7 @@
                   "SkillIcon": "Icon_skill_passive_5011",
                   "icon": "Icon_skill_passive_5011",
                   "Status": 1,
-                  "weight": 2370
+                  "weight": 2667
                 }
               }
             ],
@@ -331,7 +331,7 @@
       ],
       "Introduction": "皮普·贝西克，过往履历一片空白的赏金猎人。热爱音乐，享受颠肺流离的生活。为人处世洒脱而乐观，拥有流浪者的不羁气场。将赏金订单视作寻常的商品，道德观念与一般人大相径庭。对凯登和其领导的猎豹物流有着特别的执着。",
       "Status": 1,
-      "weight": 20,
+      "weight": 21,
       "manji": {
         "quality": "R",
         "InitialPilotAPValue_PilotAPInitBase": "3",
@@ -369,7 +369,7 @@
             "SkillIcon": "Icon_skill_passive_5010",
             "icon": "Icon_skill_passive_5010",
             "Status": 1,
-            "weight": 2358
+            "weight": 2655
           }
         },
         {
@@ -514,7 +514,7 @@
             "SkillIcon": "Icon_skill_passive_5021",
             "icon": "Icon_skill_passive_5021",
             "Status": 1,
-            "weight": 3051
+            "weight": 3432
           }
         },
         {
@@ -542,7 +542,7 @@
             "SkillIcon": "Icon_skill_main_1101",
             "icon": "Icon_skill_main_1101",
             "Status": 1,
-            "weight": 179
+            "weight": 193
           }
         },
         {
@@ -567,7 +567,7 @@
             "SkillIcon": "Icon_skill_passive_1131",
             "icon": "Icon_skill_passive_1131",
             "Status": 1,
-            "weight": 2374
+            "weight": 2671
           }
         },
         {
@@ -592,7 +592,7 @@
             "SkillIcon": "Icon_skill_passive_4001",
             "icon": "Icon_skill_passive_4001",
             "Status": 1,
-            "weight": 3052
+            "weight": 3433
           }
         },
         {
@@ -620,7 +620,7 @@
             "SkillIcon": "Icon_skill_main_1102",
             "icon": "Icon_skill_main_1102",
             "Status": 1,
-            "weight": 180
+            "weight": 194
           }
         },
         {
@@ -806,7 +806,7 @@
       ],
       "biomimetic_computer_type": 1
     },
-    "now": "2025-02-12 00:13:56"
+    "now": "2025-09-16 16:18:41"
   },
   "status": 1,
   "switch": null,

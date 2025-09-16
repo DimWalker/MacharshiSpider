@@ -13,19 +13,19 @@
         {
           "ID": "61222",
           "name": "隐形装置Ⅰ·弹道",
-          "SpecificEffects": "行动结束时如果周围<color=#F74848>2</color>格内没有敌军开启<buf ID=3004502>[隐形Ⅰ]</buf>，持续<color=#F74848>2</color>回合，触发间隔<color=#F74848>3</color>回合；\n与最佳射程目标对战时，伤害提升<color=#F74848>10%</color>，暴击率提升<color=#F74848>5%</color>；\n机兵躯干耐久值提升<color=#F74848>10%</color>，造成伤害提升<color=#F74848>5%</color>；",
+          "SpecificEffects": "行动结束时如果周围<color=#F74848>2</color>格内没有敌军开启<buf ID=3004502>[隐形Ⅰ]</buf>，持续<color=#F74848>2</color>回合，触发间隔<color=#F74848>3</color>回合；\n与最佳射程目标对战时，伤害提升<color=#F74848>10%</color>，暴击率提升<color=#F74848>5%</color>；\n机兵躯干耐久值提升<color=#F74848>10%</color>，造成伤害提升<color=#F74848>5%</color>",
           "BufCarried": "602211/600631",
           "SkillIcon": "Icon_skill_passive_5149",
           "icon": "Icon_skill_passive_5149",
           "Status": 1,
-          "weight": 1152
+          "weight": 1318
         }
       ],
       "HowGet": "无",
       "RelatedDescription": "先进的光学系统能够扭曲光线，让装配该型号背包的机兵处于某种程度上的隐形状态。同时集成了强化机兵最佳射程破坏能力的功能。",
       "Status": 1
     },
-    "now": "2025-02-12 00:14:41"
+    "now": "2025-09-16 16:20:39"
   },
   "status": 1,
   "switch": null,

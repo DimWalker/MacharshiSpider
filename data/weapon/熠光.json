@@ -30,7 +30,7 @@
             "SkillIcon": "Icon_skill_order_1005",
             "icon": "Icon_skill_order_1005",
             "Status": 1,
-            "weight": 535
+            "weight": 591
           }
         ],
         "PassiveSkill": [
@@ -42,7 +42,7 @@
             "SkillIcon": "Icon_skill_passive_5143",
             "icon": "Icon_skill_passive_5143",
             "Status": 1,
-            "weight": 884
+            "weight": 1002
           },
           {
             "ID": "53033",
@@ -52,7 +52,7 @@
             "SkillIcon": "Icon_skill_passive_5215",
             "icon": "Icon_skill_passive_5215",
             "Status": 1,
-            "weight": 885
+            "weight": 1003
           },
           {
             "ID": "53031",
@@ -62,17 +62,17 @@
             "SkillIcon": "Icon_skill_passive_5140",
             "icon": "Icon_skill_passive_5140",
             "Status": 1,
-            "weight": 883
+            "weight": 1001
           }
         ],
         "IconResourcePath": "Icon_weapon_50100401",
         "icon": "Icon_weapon_50100401",
         "describe": "「肖妮，这个安保负责人这个岗位根本就是他们捏造出来，用来束缚你的岗位！这样下去你只会一味地受议会调派，根本就找不到机会能……你说是为了能在执行层保护平民？呵呵，这种道貌岸然的话，也只有我会相信了……」",
         "Status": 1,
-        "weight": 719
+        "weight": 727
       }
     ],
-    "now": "2025-02-12 00:14:22"
+    "now": "2025-09-16 16:19:45"
   },
   "status": 1,
   "switch": null,

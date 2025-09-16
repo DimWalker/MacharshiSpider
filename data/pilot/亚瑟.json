@@ -32,7 +32,7 @@
         "SkillIcon": "Icon_skill_talent_5141",
         "icon": "Icon_skill_talent_5141",
         "Status": 1,
-        "weight": 2848
+        "weight": 3187
       },
       "Talent3_5Ability": {
         "ID": "400851",
@@ -42,7 +42,7 @@
         "SkillIcon": "Icon_skill_talent_5141",
         "icon": "Icon_skill_talent_5141",
         "Status": 1,
-        "weight": 2849
+        "weight": 3188
       },
       "NeuralDriveTemplate": {
         "ID": "10103127",
@@ -70,7 +70,7 @@
                   "SkillIcon": "Icon_skill_passive_5012",
                   "icon": "Icon_skill_passive_5012",
                   "Status": 1,
-                  "weight": 2768
+                  "weight": 3107
                 }
               },
               {
@@ -88,7 +88,7 @@
                   "SkillIcon": "Icon_skill_passive_5006",
                   "icon": "Icon_skill_passive_5006",
                   "Status": 1,
-                  "weight": 2769
+                  "weight": 3108
                 }
               },
               {
@@ -106,7 +106,7 @@
                   "SkillIcon": "Icon_skill_passive_5004",
                   "icon": "Icon_skill_passive_5004",
                   "Status": 1,
-                  "weight": 2770
+                  "weight": 3109
                 }
               }
             ],
@@ -139,7 +139,7 @@
                   "SkillIcon": "Icon_skill_passive_5012",
                   "icon": "Icon_skill_passive_5012",
                   "Status": 1,
-                  "weight": 2771
+                  "weight": 3110
                 }
               },
               {
@@ -157,7 +157,7 @@
                   "SkillIcon": "Icon_skill_passive_5006",
                   "icon": "Icon_skill_passive_5006",
                   "Status": 1,
-                  "weight": 2772
+                  "weight": 3111
                 }
               },
               {
@@ -175,7 +175,7 @@
                   "SkillIcon": "Icon_skill_passive_5004",
                   "icon": "Icon_skill_passive_5004",
                   "Status": 1,
-                  "weight": 2773
+                  "weight": 3112
                 }
               }
             ],
@@ -208,7 +208,7 @@
                   "SkillIcon": "Icon_skill_passive_5013",
                   "icon": "Icon_skill_passive_5013",
                   "Status": 1,
-                  "weight": 2774
+                  "weight": 3113
                 }
               },
               {
@@ -226,7 +226,7 @@
                   "SkillIcon": "Icon_skill_passive_5004",
                   "icon": "Icon_skill_passive_5004",
                   "Status": 1,
-                  "weight": 2775
+                  "weight": 3114
                 }
               },
               {
@@ -245,7 +245,7 @@
                   "SkillIcon": "Icon_skill_passive_5012",
                   "icon": "Icon_skill_passive_5012",
                   "Status": 1,
-                  "weight": 2776
+                  "weight": 3115
                 }
               },
               {
@@ -264,7 +264,7 @@
                   "SkillIcon": "Icon_skill_passive_5013",
                   "icon": "Icon_skill_passive_5013",
                   "Status": 1,
-                  "weight": 2777
+                  "weight": 3116
                 }
               },
               {
@@ -283,7 +283,7 @@
                   "SkillIcon": "Icon_skill_passive_5013",
                   "icon": "Icon_skill_passive_5013",
                   "Status": 1,
-                  "weight": 2778
+                  "weight": 3117
                 }
               },
               {
@@ -302,7 +302,7 @@
                   "SkillIcon": "Icon_skill_passive_5013",
                   "icon": "Icon_skill_passive_5013",
                   "Status": 1,
-                  "weight": 2779
+                  "weight": 3118
                 }
               }
             ],
@@ -335,7 +335,7 @@
                   "SkillIcon": "Icon_skill_passive_5227",
                   "icon": "Icon_skill_passive_5227",
                   "Status": 1,
-                  "weight": 2844
+                  "weight": 3183
                 }
               },
               {
@@ -353,7 +353,7 @@
                   "SkillIcon": "Icon_skill_passive_5004",
                   "icon": "Icon_skill_passive_5004",
                   "Status": 1,
-                  "weight": 2371
+                  "weight": 2668
                 }
               },
               {
@@ -372,7 +372,7 @@
                   "SkillIcon": "Icon_skill_passive_5006",
                   "icon": "Icon_skill_passive_5006",
                   "Status": 1,
-                  "weight": 2372
+                  "weight": 2669
                 }
               },
               {
@@ -391,7 +391,7 @@
                   "SkillIcon": "Icon_skill_passive_5227",
                   "icon": "Icon_skill_passive_5227",
                   "Status": 1,
-                  "weight": 2845
+                  "weight": 3184
                 }
               },
               {
@@ -410,7 +410,7 @@
                   "SkillIcon": "Icon_skill_passive_5227",
                   "icon": "Icon_skill_passive_5227",
                   "Status": 1,
-                  "weight": 2846
+                  "weight": 3185
                 }
               },
               {
@@ -429,7 +429,7 @@
                   "SkillIcon": "Icon_skill_passive_5227",
                   "icon": "Icon_skill_passive_5227",
                   "Status": 1,
-                  "weight": 2847
+                  "weight": 3186
                 }
               }
             ],
@@ -460,7 +460,7 @@
       ],
       "Introduction": "「咱们上回聊到哪了？没错，作战计划问卡夏姐，机兵维护找洛伦佐，要是碰上了武器改装之类精细活，你就去找亚瑟吧。喏，她的工作间就在基地走廊的第三个口子……慢着！先别急着动身，去之前还有几个注意事项——首先，别拿亚瑟的名字说事，开玩笑也不行……除非你想挨揍。其次，写订单的时候记得简明扼要，直接了当告诉她你需要什么，不要绕来绕去……因为她会发火；最后，要是听到牢骚话，保持微笑、保持沉默，不然——你会听到更多的牢骚。哈哈，别紧张，虽然规矩一大堆，但小姑娘人不坏，只要是亚瑟答应过的东西，她都会使出全力去帮你实现。为了满足大伙那些千奇百怪的改装，亚瑟的工作间可是常年到深夜才熄灯……后面你就自己跟大伙儿接触接触吧，再提醒一次，千万别拿亚瑟的名字开玩笑哈。」——某位维斯珀尔战士的闲谈",
       "Status": 1,
-      "weight": 55,
+      "weight": 56,
       "manji": {
         "quality": "SSR",
         "InitialPilotAPValue_PilotAPInitBase": "5",
@@ -489,7 +489,7 @@
           "skill3": "400001",
           "icon": "Icon_pilotclass_004_l",
           "Status": 1,
-          "weight": 1556,
+          "weight": 1592,
           "skill": {
             "ID": "400001",
             "name": "战略轰炸1",
@@ -498,7 +498,7 @@
             "SkillIcon": "Icon_skill_passive_5012",
             "icon": "Icon_skill_passive_5012",
             "Status": 1,
-            "weight": 2767
+            "weight": 3106
           }
         },
         {
@@ -514,7 +514,7 @@
           "AttributeBonus": "PilotGammaChipBandwidthAdd:3",
           "icon": "Icon_zoneskill_0003",
           "Status": 1,
-          "weight": 1557
+          "weight": 1593
         },
         {
           "ID": "1010312702",
@@ -529,7 +529,7 @@
           "AttributeBonus": "PilotAlphaChipBandwidthAdd:3",
           "icon": "Icon_zoneskill_0001",
           "Status": 1,
-          "weight": 1558
+          "weight": 1594
         },
         {
           "ID": "1010312703",
@@ -544,7 +544,7 @@
           "AttributeBonus": "PilotGammaChipBandwidthAdd:3",
           "icon": "Icon_zoneskill_0003",
           "Status": 1,
-          "weight": 1559
+          "weight": 1595
         },
         {
           "ID": "1010312704",
@@ -559,7 +559,7 @@
           "AttributeBonus": "PilotBetaChipBandwidthAdd:3",
           "icon": "Icon_zoneskill_0002",
           "Status": 1,
-          "weight": 1560
+          "weight": 1596
         },
         {
           "ID": "1010312705",
@@ -574,7 +574,7 @@
           "AttributeBonus": "PilotGammaChipBandwidthAdd:3",
           "icon": "Icon_zoneskill_0003",
           "Status": 1,
-          "weight": 1561
+          "weight": 1597
         },
         {
           "ID": "1010312706",
@@ -589,7 +589,7 @@
           "AttributeBonus": "PilotGammaChipBandwidthAdd:3",
           "icon": "Icon_zoneskill_0003",
           "Status": 1,
-          "weight": 1562
+          "weight": 1598
         },
         {
           "ID": "1010312707",
@@ -604,7 +604,7 @@
           "AttributeBonus": "PilotGammaChipBandwidthAdd:3",
           "icon": "Icon_zoneskill_0003",
           "Status": 1,
-          "weight": 1563
+          "weight": 1599
         },
         {
           "ID": "1010312708",
@@ -619,7 +619,7 @@
           "describe": "神经驱动解锁α分区，初始α算力为4\n\n达到算力<color=#F74848>1</color>可激活：\n· 战术武器的弹仓容量<color=#F74848>+1</color>\n达到算力<color=#F74848>4</color>可激活：\n· AP的回复值<color=#F74848>+1</color>\n达到算力<color=#F74848>7</color>可激活：\n· AP的初始值<color=#F74848>+1</color>\n",
           "icon": "Icon_zoneskill_0001",
           "Status": 1,
-          "weight": 1564
+          "weight": 1600
         },
         {
           "ID": "1010312709",
@@ -634,7 +634,7 @@
           "describe": "神经驱动解锁β分区，初始β算力为4\n\n达到算力<color=#F74848>1</color>可激活：\n· 战术武器的装填冷却回合<color=#F74848>-1</color>\n达到算力<color=#F74848>4</color>可激活：\n· AP的回复值<color=#F74848>+1</color>\n达到算力<color=#F74848>7</color>可激活：\n· AP的上限值<color=#F74848>+2</color>\n",
           "icon": "Icon_zoneskill_0002",
           "Status": 1,
-          "weight": 1565
+          "weight": 1601
         },
         {
           "ID": "1010312710",
@@ -649,7 +649,7 @@
           "describe": "神经驱动解锁γ分区，初始γ算力为4\n\n达到算力<color=#F74848>1</color>可激活：\n· 每回合首次使用战术武器攻击后可发动<buf ID=900004>[再攻击]</buf>，攻击前无法移动，最终伤害减少<color=#F74848>30%</color>，每回合最多发动<color=#F74848>1</color>次\n达到算力<color=#F74848>4</color>可激活：\n· AP的上限值<color=#F74848>+1</color>\n达到算力<color=#F74848>7</color>可激活：\n· 当<buf ID=900029>[自动装填]</buf>完成时，回复<color=#F74848>1</color>AP\n达到算力<color=#F74848>10</color>可激活：\n· 每回合首次使用战术武器攻击时，每消耗<color=#F74848>1</color>AP，伤害提升<color=#F74848>4%</color>，最多<color=#F74848>20%</color>\n达到算力<color=#F74848>13</color>可激活：\n· 发动<buf ID=4000311>[狂轰滥炸1]</buf>的<buf ID=900004>[再攻击]</buf>时，可使用剩余移动力继续移动\n达到算力<color=#F74848>16</color>可激活：\n· 发动<buf ID=4000311>[狂轰滥炸1]</buf>的<buf ID=900004>[再攻击]</buf>时，不再减少最终伤害\n",
           "icon": "Icon_zoneskill_0004",
           "Status": 1,
-          "weight": 1566
+          "weight": 1602
         },
         {
           "ID": "1010312711",
@@ -665,7 +665,7 @@
           "AttributeBonus": "PilotGammaChipBandwidthAdd:4",
           "icon": "Icon_zoneskill_0005",
           "Status": 1,
-          "weight": 1567
+          "weight": 1603
         },
         {
           "ID": "1010312712",
@@ -680,7 +680,7 @@
           "AttributeBonus": "PilotBasePropertyRangedAdd:15",
           "skill2": "700043",
           "Status": 1,
-          "weight": 1568,
+          "weight": 1604,
           "skill": {
             "ID": "700043",
             "name": "状态绝佳",
@@ -689,7 +689,7 @@
             "SkillIcon": "Icon_skill_passive_4004",
             "icon": "Icon_skill_passive_4004",
             "Status": 1,
-            "weight": 3063
+            "weight": 3444
           }
         },
         {
@@ -705,7 +705,7 @@
           "AttributeBonus": "PilotBasePropertyRangedAdd:24",
           "skill1": "400803",
           "Status": 1,
-          "weight": 1569,
+          "weight": 1605,
           "skill": {
             "ID": "400803",
             "remarks": "亚瑟-仿生电脑",
@@ -716,7 +716,7 @@
             "SkillIcon": "Icon_skill_order_1114",
             "icon": "Icon_skill_order_1114",
             "Status": 1,
-            "weight": 373
+            "weight": 407
           }
         },
         {
@@ -732,7 +732,7 @@
           "AttributeBonus": "PilotBasePropertyDefenseAdd:20",
           "skill1": "400804",
           "Status": 1,
-          "weight": 1570,
+          "weight": 1606,
           "skill": {
             "ID": "400804",
             "remarks": "亚瑟-仿生电脑",
@@ -744,7 +744,7 @@
             "SkillIcon": "Icon_skill_order_5106",
             "icon": "Icon_skill_order_5106",
             "Status": 1,
-            "weight": 374
+            "weight": 408
           }
         },
         {
@@ -760,7 +760,7 @@
           "AttributeBonus": "PilotBasePropertyDefenseAdd:24",
           "skill1": "400805",
           "Status": 1,
-          "weight": 1571,
+          "weight": 1607,
           "skill": {
             "ID": "400805",
             "remarks": "亚瑟-仿生电脑",
@@ -772,7 +772,7 @@
             "SkillIcon": "Icon_skill_order_5134",
             "icon": "Icon_skill_order_5134",
             "Status": 1,
-            "weight": 375
+            "weight": 409
           }
         },
         {
@@ -788,7 +788,7 @@
           "AttributeBonus": "PilotBasePropertyRangedAdd:36",
           "skill1": "400806",
           "Status": 1,
-          "weight": 1572,
+          "weight": 1608,
           "skill": {
             "ID": "400806",
             "remarks": "亚瑟-仿生电脑",
@@ -799,7 +799,7 @@
             "SkillIcon": "Icon_skill_order_1129",
             "icon": "Icon_skill_order_1129",
             "Status": 1,
-            "weight": 376
+            "weight": 410
           }
         },
         {
@@ -815,7 +815,7 @@
           "AttributeBonus": "PilotBasePropertyDefenseAdd:45",
           "skill2": "400807",
           "Status": 1,
-          "weight": 1573,
+          "weight": 1609,
           "skill": {
             "ID": "400807",
             "name": "自制填弹器",
@@ -824,7 +824,7 @@
             "SkillIcon": "Icon_skill_passive_5143",
             "icon": "Icon_skill_passive_5143",
             "Status": 1,
-            "weight": 2843
+            "weight": 3182
           }
         },
         {
@@ -840,7 +840,7 @@
           "AttributeBonus": "PilotBasePropertyRangedAdd:135",
           "skill1": "400808",
           "Status": 1,
-          "weight": 1574,
+          "weight": 1610,
           "skill": {
             "ID": "400808",
             "remarks": "亚瑟-仿生电脑",
@@ -851,7 +851,7 @@
             "SkillIcon": "Icon_skill_order_1130",
             "icon": "Icon_skill_order_1130",
             "Status": 1,
-            "weight": 377
+            "weight": 411
           }
         },
         {
@@ -867,7 +867,7 @@
           "AttributeBonus": "PilotBasePropertyDefenseAdd:10",
           "icon": "3-1",
           "Status": 1,
-          "weight": 1575
+          "weight": 1611
         },
         {
           "ID": "1010312720",
@@ -882,7 +882,7 @@
           "AttributeBonus": "PilotBasePropertyDefenseAdd:18",
           "icon": "3-1",
           "Status": 1,
-          "weight": 1576
+          "weight": 1612
         },
         {
           "ID": "1010312721",
@@ -897,7 +897,7 @@
           "AttributeBonus": "PilotBasePropertyRangedAdd:20",
           "icon": "3-1",
           "Status": 1,
-          "weight": 1577
+          "weight": 1613
         },
         {
           "ID": "1010312722",
@@ -912,7 +912,7 @@
           "AttributeBonus": "PilotBasePropertyRangedAdd:30",
           "icon": "3-1",
           "Status": 1,
-          "weight": 1578
+          "weight": 1614
         },
         {
           "ID": "1010312723",
@@ -927,7 +927,7 @@
           "AttributeBonus": "PilotBasePropertyRangedAdd:25",
           "icon": "3-1",
           "Status": 1,
-          "weight": 1579
+          "weight": 1615
         },
         {
           "ID": "1010312724",
@@ -942,7 +942,7 @@
           "AttributeBonus": "PilotBasePropertyDefenseAdd:30",
           "icon": "3-1",
           "Status": 1,
-          "weight": 1580
+          "weight": 1616
         },
         {
           "ID": "1010312725",
@@ -957,7 +957,7 @@
           "AttributeBonus": "PilotBasePropertyDefenseAdd:25",
           "icon": "3-1",
           "Status": 1,
-          "weight": 1581
+          "weight": 1617
         },
         {
           "ID": "1010312726",
@@ -972,7 +972,7 @@
           "AttributeBonus": "PilotBasePropertyRangedAdd:66",
           "icon": "3-1",
           "Status": 1,
-          "weight": 1582
+          "weight": 1618
         },
         {
           "ID": "1010312727",
@@ -987,7 +987,7 @@
           "AttributeBonus": "PilotBasePropertyDefenseAdd:42",
           "icon": "3-1",
           "Status": 1,
-          "weight": 1583
+          "weight": 1619
         },
         {
           "ID": "1010312728",
@@ -1002,7 +1002,7 @@
           "AttributeBonus": "PilotBasePropertyRangedAdd:55",
           "icon": "3-1",
           "Status": 1,
-          "weight": 1584
+          "weight": 1620
         },
         {
           "ID": "1010312729",
@@ -1017,7 +1017,7 @@
           "AttributeBonus": "PilotBasePropertyDefenseAdd:54",
           "icon": "3-1",
           "Status": 1,
-          "weight": 1585
+          "weight": 1621
         },
         {
           "ID": "1010312730",
@@ -1032,7 +1032,7 @@
           "AttributeBonus": "PilotBasePropertyRangedAdd:84",
           "icon": "3-1",
           "Status": 1,
-          "weight": 1586
+          "weight": 1622
         },
         {
           "ID": "1010312731",
@@ -1047,7 +1047,7 @@
           "AttributeBonus": "PilotBasePropertyRangedAdd:70",
           "icon": "3-1",
           "Status": 1,
-          "weight": 1587
+          "weight": 1623
         },
         {
           "ID": "1010312732",
@@ -1062,7 +1062,7 @@
           "AttributeBonus": "PilotBasePropertyRangedAdd:108",
           "icon": "3-1",
           "Status": 1,
-          "weight": 1588
+          "weight": 1624
         },
         {
           "ID": "1010312733",
@@ -1077,7 +1077,7 @@
           "AttributeBonus": "PilotBasePropertyDefenseAdd:60",
           "icon": "3-1",
           "Status": 1,
-          "weight": 1589
+          "weight": 1625
         },
         {
           "ID": "1010312734",
@@ -1092,7 +1092,7 @@
           "AttributeBonus": "PilotBasePropertyDefenseAdd:108",
           "icon": "3-1",
           "Status": 1,
-          "weight": 1590
+          "weight": 1626
         },
         {
           "ID": "1010312735",
@@ -1107,12 +1107,12 @@
           "AttributeBonus": "PilotBasePropertyDefenseAdd:90",
           "icon": "3-1",
           "Status": 1,
-          "weight": 1591
+          "weight": 1627
         }
       ],
       "biomimetic_computer_type": 2
     },
-    "now": "2025-02-12 00:14:04"
+    "now": "2025-09-16 16:18:57"
   },
   "status": 1,
   "switch": null,

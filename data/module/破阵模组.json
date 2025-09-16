@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_10053",
           "icon": "Icon_entry_10053",
           "Status": 1,
-          "weight": 362
+          "weight": 394
         },
         {
           "ID": "30072",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_10053",
           "icon": "Icon_entry_10053",
           "Status": 1,
-          "weight": 363
+          "weight": 395
         },
         {
           "ID": "30073",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_10053",
           "icon": "Icon_entry_10053",
           "Status": 1,
-          "weight": 364
+          "weight": 396
         },
         {
           "ID": "30074",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_10053",
           "icon": "Icon_entry_10053",
           "Status": 1,
-          "weight": 365
+          "weight": 397
         },
         {
           "ID": "30075",
@@ -56,7 +56,7 @@
           "SkillIcon": "Icon_entry_10053",
           "icon": "Icon_entry_10053",
           "Status": 1,
-          "weight": 366
+          "weight": 398
         },
         {
           "ID": "30076",
@@ -66,7 +66,7 @@
           "SkillIcon": "Icon_entry_10053",
           "icon": "Icon_entry_10053",
           "Status": 1,
-          "weight": 367
+          "weight": 399
         },
         {
           "ID": "30077",
@@ -76,7 +76,7 @@
           "SkillIcon": "Icon_entry_10053",
           "icon": "Icon_entry_10053",
           "Status": 1,
-          "weight": 368
+          "weight": 400
         },
         {
           "ID": "30078",
@@ -86,7 +86,7 @@
           "SkillIcon": "Icon_entry_10053",
           "icon": "Icon_entry_10053",
           "Status": 1,
-          "weight": 369
+          "weight": 401
         }
       ],
       "introduce": "火箭轰炸、长柄横扫、机枪扫射……如果你喜欢这些大范围杀伤的技能，那么请为你的机兵装配破阵模组，它会让你满意的。",
@@ -95,9 +95,9 @@
       "IconType": "GeneralSuit",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 49
+      "weight": 57
     },
-    "now": "2025-02-12 00:15:06"
+    "now": "2025-09-16 16:21:48"
   },
   "status": 1,
   "switch": null,

@@ -3,6 +3,8 @@ import os
 
 import requests
 
+from json_to_csv import list_dir, load_pilot, load_ac_list
+
 
 # from bs4 import BeautifulSoup
 
@@ -159,5 +161,82 @@ def download_all_data():
     download_component()
 
 
+def download_images():
+    # 机师
+    download_image_base("pilot")
+    # 机兵
+    download_image_base("aircraft")
+    # 武器
+    download_image_base("weapon")
+    # 背包
+    download_image_base("backpack")
+    # 模组
+    download_image_base("module")
+    # 元件
+    download_image_base("component")
+
+
+def download_image_base(type_name):
+    root_dir = "images"
+    imgs_dir = os.path.join(root_dir, type_name)
+    if not os.path.exists(imgs_dir):
+        os.makedirs(imgs_dir)
+    with open(f"data/{type_name}_list.json", "r", encoding="utf-8") as f:
+        type_list = json.load(f)
+
+    if type_name == "pilot":
+        url = "https://media.zlongame.com/media/pictures/cn/community/img/gl/gameInfo/characterHalf/{0}.png"
+    elif type_name == "aircraft":
+        url = "https://media.zlongame.com/media/pictures/cn/community/img/gl/gameInfo/mecha/{0}.png"
+    elif type_name == "weapon":
+        url = "https://media.zlongame.com/media/pictures/cn/community/img/gl/gameInfo/weapons/{0}.png"
+    elif type_name == "backpack":
+        url = "https://media.zlongame.com/media/pictures/cn/community/img/gl/gameInfo/pack/{0}.png"
+    elif type_name == "module":
+        url = "https://media.zlongame.com/media/pictures/cn/community/img/gl/gameInfo/skill/{0}.png"
+    elif type_name == "component":
+        url = "https://media.zlongame.com/media/pictures/cn/community/img/gl/gameInfo/skill/{0}.png"
+    else:
+        raise Exception("type_name 错误")
+
+    scc_cnt = 0
+    err_cnt = 0
+
+    for t in type_list["data"]["data"]:
+        icon_name = t["icon"]
+        name = t["name"] if type_name != "pilot" else t["RealName"]
+        img_url = url.format(icon_name)
+        # 武器同图不同名的比较多，这里不加上武器中文名
+        img_name = f"{icon_name}_{name}.png" if type_name in ["pilot", "aircraft"] else f"{icon_name}.png"
+        img_path = os.path.join(imgs_dir, img_name)
+
+        if os.path.exists(img_path):
+            print(f"已存在: {img_name}")
+            scc_cnt += 1
+            continue
+
+        try:
+            print(f"正在下载: {img_name}")
+            # 发送请求下载图片
+            response = requests.get(img_url, timeout=30)
+            response.raise_for_status()  # 检查请求是否成功
+            # 验证是否为有效的PNG图片
+            if response.headers.get('content-type') != 'image/png':
+                print(f"警告: {img_name} 不是PNG格式")
+                # 可以继续保存，或者跳过
+            # 保存图片
+            with open(img_path, 'wb') as f:
+                f.write(response.content)
+            scc_cnt += 1
+        except Exception as e:
+            print(f"处理失败: {img_name} - {e}")
+            err_cnt += 1
+            if os.path.exists(img_path):
+                os.remove(img_path)
+
+    print(f"scc_cnt: {scc_cnt}, err_cnt: {err_cnt}")
+
+
 if __name__ == "__main__":
-    download_all_data()
+    # download_all_data()
+    download_images()

@@ -25,7 +25,7 @@
             "SkillIcon": "Icon_skill_passive_1106",
             "icon": "Icon_skill_passive_1106",
             "Status": 1,
-            "weight": 908
+            "weight": 1026
           },
           {
             "ID": "53057",
@@ -35,7 +35,7 @@
             "SkillIcon": "Icon_skill_passive_1167",
             "icon": "Icon_skill_passive_1167",
             "Status": 1,
-            "weight": 909
+            "weight": 1027
           },
           {
             "ID": "53055",
@@ -45,17 +45,17 @@
             "SkillIcon": "Icon_skill_passive_1126",
             "icon": "Icon_skill_passive_1126",
             "Status": 1,
-            "weight": 907
+            "weight": 1025
           }
         ],
         "IconResourcePath": "Icon_weapon_20300302",
         "icon": "Icon_weapon_20300302",
         "describe": "芙烈达还是「西北丛林之王」时使用过的武器。但令人奇怪的是，自从她放弃单干组建佣兵团之后，她的势力版图就一天不如一天了。",
         "Status": 1,
-        "weight": 712
+        "weight": 720
       }
     ],
-    "now": "2025-02-12 00:14:27"
+    "now": "2025-09-16 16:19:55"
   },
   "status": 1,
   "switch": null,

@@ -1,0 +1,105 @@
+{
+  "data": {
+    "data": {
+      "ID": "30381",
+      "ModuleName": "伺机模组",
+      "name": "伺机模组",
+      "EntryLevel": "1",
+      "quality": "SSR",
+      "ModuleEffects": "30381/30382/30383/30384/30385/30386/30387/30388",
+      "WithPassiveSkills": [
+        {
+          "ID": "30381",
+          "name": "伺机模组",
+          "SpecificEffects": "对战时，若自身耐久值百分比大于等于目标，伤害提升<color=#F74848>3%</color>，若此次攻击为非主动攻击，伤害额外提升<color=#F74848>2%</color>",
+          "BufCarried": "303811/303812",
+          "SkillIcon": "Icon_entry_10089",
+          "icon": "Icon_entry_10089",
+          "Status": 1,
+          "weight": 634
+        },
+        {
+          "ID": "30382",
+          "name": "伺机模组",
+          "SpecificEffects": "对战时，若自身耐久值百分比大于等于目标，伤害提升<color=#F74848>4%</color>，若此次攻击为非主动攻击，伤害额外提升<color=#F74848>3%</color>",
+          "BufCarried": "303821/303822",
+          "SkillIcon": "Icon_entry_10089",
+          "icon": "Icon_entry_10089",
+          "Status": 1,
+          "weight": 635
+        },
+        {
+          "ID": "30383",
+          "name": "伺机模组",
+          "SpecificEffects": "对战时，若自身耐久值百分比大于等于目标，伤害提升<color=#F74848>6%</color>，若此次攻击为非主动攻击，伤害额外提升<color=#F74848>4%</color>",
+          "BufCarried": "303831/303832",
+          "SkillIcon": "Icon_entry_10089",
+          "icon": "Icon_entry_10089",
+          "Status": 1,
+          "weight": 636
+        },
+        {
+          "ID": "30384",
+          "name": "伺机模组",
+          "SpecificEffects": "对战时，若自身耐久值百分比大于等于目标，伤害提升<color=#F74848>8%</color>，若此次攻击为非主动攻击，伤害额外提升<color=#F74848>5%</color>",
+          "BufCarried": "303841/303842",
+          "SkillIcon": "Icon_entry_10089",
+          "icon": "Icon_entry_10089",
+          "Status": 1,
+          "weight": 637
+        },
+        {
+          "ID": "30385",
+          "name": "伺机模组",
+          "SpecificEffects": "对战时，若自身耐久值百分比大于等于目标，伤害提升<color=#F74848>10%</color>，若此次攻击为非主动攻击，伤害额外提升<color=#F74848>7%</color>",
+          "BufCarried": "303851/303852",
+          "SkillIcon": "Icon_entry_10089",
+          "icon": "Icon_entry_10089",
+          "Status": 1,
+          "weight": 638
+        },
+        {
+          "ID": "30386",
+          "name": "伺机模组",
+          "SpecificEffects": "对战时，若自身耐久值百分比大于等于目标，伤害提升<color=#F74848>12%</color>，若此次攻击为非主动攻击，伤害额外提升<color=#F74848>8%</color>",
+          "BufCarried": "303861/303862",
+          "SkillIcon": "Icon_entry_10089",
+          "icon": "Icon_entry_10089",
+          "Status": 1,
+          "weight": 639
+        },
+        {
+          "ID": "30387",
+          "name": "伺机模组",
+          "SpecificEffects": "对战时，若自身耐久值百分比大于等于目标，伤害提升<color=#F74848>14%</color>，若此次攻击为非主动攻击，伤害额外提升<color=#F74848>9%</color>",
+          "BufCarried": "303871/303872",
+          "SkillIcon": "Icon_entry_10089",
+          "icon": "Icon_entry_10089",
+          "Status": 1,
+          "weight": 640
+        },
+        {
+          "ID": "30388",
+          "name": "伺机模组",
+          "SpecificEffects": "对战时，若自身耐久值百分比大于等于目标，伤害提升<color=#F74848>18%</color>，若此次攻击为非主动攻击，伤害额外提升<color=#F74848>12%</color>；主动攻击时，若消耗大于等于<color=#F74848>5</color>点AP，则回复<color=#F74848>1</color>点AP，每回合最多发动<color=#F74848>1</color>次",
+          "BufCarried": "303881/303882/303883",
+          "SkillIcon": "Icon_entry_10089",
+          "icon": "Icon_entry_10089",
+          "Status": 1,
+          "weight": 641
+        }
+      ],
+      "introduce": "找准进入战场的时机是每一位机师的必修课，但如果有机兵模组的帮助就会更加高效。",
+      "ModuleIcon": "Icon_entry_10089",
+      "icon": "Icon_entry_10089",
+      "IconType": "GeneralSuit",
+      "ObtainingMethod": "商店购买",
+      "Status": 1,
+      "weight": 77
+    },
+    "now": "2025-09-16 16:21:40"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

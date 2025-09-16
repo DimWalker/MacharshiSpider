@@ -25,17 +25,17 @@
             "SkillIcon": "Icon_skill_passive_3119",
             "icon": "Icon_skill_passive_3119",
             "Status": 1,
-            "weight": 898
+            "weight": 1016
           }
         ],
         "IconResourcePath": "Icon_weapon_10500401",
         "icon": "Icon_weapon_10500401",
         "describe": "将旧型干扰涂层和收束核心完全替换后的升级款聚合屏障，无论是针对弹道的偏转防御还是甲片扩张后的防护范围，对比旧型都有着巨大提升。",
         "Status": 1,
-        "weight": 686
+        "weight": 688
       }
     ],
-    "now": "2025-02-12 00:14:24"
+    "now": "2025-09-16 16:19:48"
   },
   "status": 1,
   "switch": null,

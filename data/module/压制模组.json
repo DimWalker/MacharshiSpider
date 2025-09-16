@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_10049",
           "icon": "Icon_entry_10049",
           "Status": 1,
-          "weight": 330
+          "weight": 362
         },
         {
           "ID": "30032",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_10049",
           "icon": "Icon_entry_10049",
           "Status": 1,
-          "weight": 331
+          "weight": 363
         },
         {
           "ID": "30033",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_10049",
           "icon": "Icon_entry_10049",
           "Status": 1,
-          "weight": 332
+          "weight": 364
         },
         {
           "ID": "30034",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_10049",
           "icon": "Icon_entry_10049",
           "Status": 1,
-          "weight": 333
+          "weight": 365
         },
         {
           "ID": "30035",
@@ -56,7 +56,7 @@
           "SkillIcon": "Icon_entry_10049",
           "icon": "Icon_entry_10049",
           "Status": 1,
-          "weight": 334
+          "weight": 366
         },
         {
           "ID": "30036",
@@ -66,7 +66,7 @@
           "SkillIcon": "Icon_entry_10049",
           "icon": "Icon_entry_10049",
           "Status": 1,
-          "weight": 335
+          "weight": 367
         },
         {
           "ID": "30037",
@@ -76,7 +76,7 @@
           "SkillIcon": "Icon_entry_10049",
           "icon": "Icon_entry_10049",
           "Status": 1,
-          "weight": 336
+          "weight": 368
         },
         {
           "ID": "30038",
@@ -86,7 +86,7 @@
           "SkillIcon": "Icon_entry_10049",
           "icon": "Icon_entry_10049",
           "Status": 1,
-          "weight": 337
+          "weight": 369
         }
       ],
       "introduce": "压制模组为远处的狙击型机兵再添一份威慑力，在检测到敌方无法进行反击时，它将调用更多的动力用于攻击，以此获得更大的破坏力。",
@@ -95,9 +95,9 @@
       "IconType": "GeneralSuit",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 45
+      "weight": 53
     },
-    "now": "2025-02-12 00:15:07"
+    "now": "2025-09-16 16:21:50"
   },
   "status": 1,
   "switch": null,

@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_40181",
           "icon": "Icon_entry_40181",
           "Status": 1,
-          "weight": 746
+          "weight": 842
         },
         {
           "ID": "40182",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_40181",
           "icon": "Icon_entry_40181",
           "Status": 1,
-          "weight": 747
+          "weight": 843
         },
         {
           "ID": "40183",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_40181",
           "icon": "Icon_entry_40181",
           "Status": 1,
-          "weight": 748
+          "weight": 844
         },
         {
           "ID": "40184",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_40181",
           "icon": "Icon_entry_40181",
           "Status": 1,
-          "weight": 749
+          "weight": 845
         }
       ],
       "introduce": "至今导弹供应商会仍在联合抵制导弹模组Ⅱ型的公开售卖，因为该模组的出现，机师们能用更少的导弹消灭敌人，这对他们商品的销量是毁灭性的打击。",
@@ -55,9 +55,9 @@
       "IconType": "PropertyS",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 104
+      "weight": 116
     },
-    "now": "2025-02-12 00:14:57"
+    "now": "2025-09-16 16:21:24"
   },
   "status": 1,
   "switch": null,

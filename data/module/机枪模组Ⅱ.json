@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_40141",
           "icon": "Icon_entry_40141",
           "Status": 1,
-          "weight": 714
+          "weight": 810
         },
         {
           "ID": "40142",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_40141",
           "icon": "Icon_entry_40141",
           "Status": 1,
-          "weight": 715
+          "weight": 811
         },
         {
           "ID": "40143",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_40141",
           "icon": "Icon_entry_40141",
           "Status": 1,
-          "weight": 716
+          "weight": 812
         },
         {
           "ID": "40144",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_40141",
           "icon": "Icon_entry_40141",
           "Status": 1,
-          "weight": 717
+          "weight": 813
         }
       ],
       "introduce": "不知道从什么时候开始，机枪模组Ⅱ型变成了王牌机师的标配，大家都在追寻她在白枫市留下的背影……",
@@ -55,9 +55,9 @@
       "IconType": "PropertyS",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 96
+      "weight": 108
     },
-    "now": "2025-02-12 00:14:58"
+    "now": "2025-09-16 16:21:28"
   },
   "status": 1,
   "switch": null,

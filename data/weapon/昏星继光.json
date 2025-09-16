@@ -1,0 +1,63 @@
+{
+  "data": {
+    "data": [
+      {
+        "ID": "20115122",
+        "name": "昏星继光",
+        "quality": "SSSR",
+        "grade": "70",
+        "WeaponType1": "Assault",
+        "WeaponType2": "MachineGun",
+        "type": "MachineGun",
+        "LimitedModelOfWeapon": "Light/Medium/Heavy",
+        "RestrictionsPositionOfWeapon": "Hand",
+        "range": "1-3",
+        "WeaponWeight": "420",
+        "WeaponBasicAttackingPower": "1442",
+        "WeaponHitPoint": "3182",
+        "WeaponUnderstanding": "4603",
+        "PassiveSkill": [
+          {
+            "ID": "53074",
+            "name": "扞拒",
+            "SpecificEffects": "使用机枪发动反击后，使自身获得<buf ID=530742>[蓄势]</buf>",
+            "BufCarried": "530741",
+            "SkillIcon": "Icon_skill_passive_5136",
+            "icon": "Icon_skill_passive_5136",
+            "Status": 1,
+            "weight": 1044
+          },
+          {
+            "ID": "53075",
+            "name": "骤起",
+            "SpecificEffects": "强化<buf ID=900135>[伏锋]</buf>效果：自身有<buf ID=2015509>[强化反击]</buf>且双手完好时，可以发动<buf ID=900022>[援护防御]</buf>，替周围<color=#F74848>1</color>格的友军抵挡突击、射击与格斗武器的攻击，若自身同时有<buf ID=2015081>[逆袭时刻]</buf>，<buf ID=900022>[援护防御]</buf>范围提升为周围<color=#F74848>2</color>格；若装备两把机枪，发动<buf ID=900096>[反击]</buf>或<buf ID=900023>[反击先手]</buf>时，每携带<color=#F74848>1</color>层<buf ID=2015509>[强化反击]</buf>，有<color=#F74848>20%</color>概率同时使用所有机枪发动<buf ID=900028>[反击追击]</buf>，造成<color=#F74848>0.35</color>倍伤害",
+            "BufCarried": "530751/530752/530753/530754/530755/530756/530757/530758/530759",
+            "SkillIcon": "Icon_skill_passive_5263",
+            "icon": "Icon_skill_passive_5263",
+            "Status": 1,
+            "weight": 1045
+          },
+          {
+            "ID": "53073",
+            "name": "反击之火",
+            "SpecificEffects": "发动反击时，暴击率和命中率提升<color=#F74848>15%</color>",
+            "BufCarried": "530731",
+            "SkillIcon": "Icon_skill_passive_4119",
+            "icon": "Icon_skill_passive_4119",
+            "Status": 1,
+            "weight": 1043
+          }
+        ],
+        "IconResourcePath": "Icon_weapon_20100303",
+        "icon": "Icon_weapon_20100303",
+        "describe": "以夜魇为原型，根据卡夏的战斗风格完全改装的特制机枪。这是已逝同伴的礼物，也是维斯珀尔使命的象征——它的设计者已如流星般陨落，但昏星的光芒绝不会就此消逝。",
+        "Status": 1,
+        "weight": 733
+      }
+    ],
+    "now": "2025-09-16 16:19:58"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

@@ -1,0 +1,43 @@
+{
+  "data": {
+    "data": [
+      {
+        "ID": "10914121",
+        "name": "断钢·改",
+        "quality": "UR",
+        "grade": "70",
+        "WeaponType1": "Melee",
+        "WeaponType2": "Blade",
+        "type": "Blade",
+        "LimitedModelOfWeapon": "Light/Medium/Heavy",
+        "RestrictionsPositionOfWeapon": "Hand",
+        "range": "1（可斜向）",
+        "WeaponWeight": "350",
+        "WeaponBasicAttackingPower": "638",
+        "WeaponHitPoint": "3337",
+        "WeaponUnderstanding": "4558",
+        "PassiveSkill": [
+          {
+            "ID": "53070",
+            "name": "再斩",
+            "SpecificEffects": "<buf ID=900004>[再攻击]</buf>时，伤害和命中率提升<color=#F74848>10%</color>",
+            "BufCarried": "530701",
+            "SkillIcon": "Icon_skill_passive_4127",
+            "icon": "Icon_skill_passive_4127",
+            "Status": 1,
+            "weight": 1040
+          }
+        ],
+        "IconResourcePath": "Icon_weapon_10700301A",
+        "icon": "Icon_weapon_10700301A",
+        "describe": "通用动力剑断钢的改进型号，全面优化了形变结构并增设微型控制单元，操作性和接触强度均得到进一步改善，战斗效率明显提升。",
+        "Status": 1,
+        "weight": 691
+      }
+    ],
+    "now": "2025-09-16 16:19:57"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

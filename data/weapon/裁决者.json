@@ -30,7 +30,7 @@
             "SkillIcon": "Icon_skill_order_1005",
             "icon": "Icon_skill_order_1005",
             "Status": 1,
-            "weight": 535
+            "weight": 591
           }
         ],
         "PassiveSkill": [
@@ -42,7 +42,7 @@
             "SkillIcon": "Icon_skill_passive_5143",
             "icon": "Icon_skill_passive_5143",
             "Status": 1,
-            "weight": 884
+            "weight": 1002
           },
           {
             "ID": "53033",
@@ -52,7 +52,7 @@
             "SkillIcon": "Icon_skill_passive_5215",
             "icon": "Icon_skill_passive_5215",
             "Status": 1,
-            "weight": 885
+            "weight": 1003
           },
           {
             "ID": "61254",
@@ -62,7 +62,7 @@
             "SkillIcon": "Icon_skill_passive_5119",
             "icon": "Icon_skill_passive_5119",
             "Status": 1,
-            "weight": 1173
+            "weight": 1339
           },
           {
             "ID": "53031",
@@ -72,17 +72,17 @@
             "SkillIcon": "Icon_skill_passive_5140",
             "icon": "Icon_skill_passive_5140",
             "Status": 1,
-            "weight": 883
+            "weight": 1001
           }
         ],
         "IconResourcePath": "Icon_weapon_50100401",
         "icon": "Icon_weapon_50100401",
         "describe": "将干扰背包与机载电磁炮合二为一的全新杰作，首次克服了背包与电磁炮基座复合的难题，使得裁决者电磁炮成为兼具干扰背包与远程战术打击的战场利器。",
         "Status": 1,
-        "weight": 720
+        "weight": 728
       }
     ],
-    "now": "2025-02-12 00:14:24"
+    "now": "2025-09-16 16:19:50"
   },
   "status": 1,
   "switch": null,

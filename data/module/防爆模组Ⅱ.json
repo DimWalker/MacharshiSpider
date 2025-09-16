@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_40081",
           "icon": "Icon_entry_40081",
           "Status": 1,
-          "weight": 666
+          "weight": 762
         },
         {
           "ID": "40082",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_40081",
           "icon": "Icon_entry_40081",
           "Status": 1,
-          "weight": 667
+          "weight": 763
         },
         {
           "ID": "40083",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_40081",
           "icon": "Icon_entry_40081",
           "Status": 1,
-          "weight": 668
+          "weight": 764
         },
         {
           "ID": "40084",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_40081",
           "icon": "Icon_entry_40081",
           "Status": 1,
-          "weight": 669
+          "weight": 765
         }
       ],
       "introduce": "防爆模组Ⅱ型经常是斗技场冠军机兵的标配，在那些顶尖战斗中，保护关键部位的重要性不言而喻。",
@@ -55,9 +55,9 @@
       "IconType": "PropertyS",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 84
+      "weight": 96
     },
-    "now": "2025-02-12 00:15:00"
+    "now": "2025-09-16 16:21:32"
   },
   "status": 1,
   "switch": null,

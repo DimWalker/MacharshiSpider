@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_10056",
           "icon": "Icon_entry_10056",
           "Status": 1,
-          "weight": 418
+          "weight": 450
         },
         {
           "ID": "30142",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_10056",
           "icon": "Icon_entry_10056",
           "Status": 1,
-          "weight": 419
+          "weight": 451
         },
         {
           "ID": "30143",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_10056",
           "icon": "Icon_entry_10056",
           "Status": 1,
-          "weight": 420
+          "weight": 452
         },
         {
           "ID": "30144",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_10056",
           "icon": "Icon_entry_10056",
           "Status": 1,
-          "weight": 421
+          "weight": 453
         },
         {
           "ID": "30145",
@@ -56,7 +56,7 @@
           "SkillIcon": "Icon_entry_10056",
           "icon": "Icon_entry_10056",
           "Status": 1,
-          "weight": 422
+          "weight": 454
         },
         {
           "ID": "30146",
@@ -66,7 +66,7 @@
           "SkillIcon": "Icon_entry_10056",
           "icon": "Icon_entry_10056",
           "Status": 1,
-          "weight": 423
+          "weight": 455
         },
         {
           "ID": "30147",
@@ -76,7 +76,7 @@
           "SkillIcon": "Icon_entry_10056",
           "icon": "Icon_entry_10056",
           "Status": 1,
-          "weight": 424
+          "weight": 456
         },
         {
           "ID": "30148",
@@ -86,7 +86,7 @@
           "SkillIcon": "Icon_entry_10056",
           "icon": "Icon_entry_10056",
           "Status": 1,
-          "weight": 425
+          "weight": 457
         }
       ],
       "introduce": "对于搭载背水模组的机兵而言，自身的装甲反而是性能的限制器，他们的反击时刻在装甲被击破时才刚刚开始。",
@@ -95,9 +95,9 @@
       "IconType": "GeneralSuit",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 56
+      "weight": 64
     },
-    "now": "2025-02-12 00:15:05"
+    "now": "2025-09-16 16:21:45"
   },
   "status": 1,
   "switch": null,

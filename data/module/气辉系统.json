@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "20551",
+      "ModuleName": "气辉系统",
+      "name": "气辉系统",
+      "EntryLevel": "1",
+      "quality": "SSR",
+      "ModuleEffects": "20551/20552/20553/20554",
+      "WithPassiveSkills": [
+        {
+          "ID": "20551",
+          "name": "气辉系统",
+          "SpecificEffects": "主动攻击时，每消耗<color=#F74848>1</color>AP，战前使自身伤害提升<color=#F74848>2%</color>，最多提升<color=#F74848>8%</color>，战后降低<color=#F74848>4%</color>",
+          "BufCarried": "205511",
+          "SkillIcon": "Icon_skill_passive_1122",
+          "icon": "Icon_skill_passive_1122",
+          "Status": 1,
+          "weight": 338
+        },
+        {
+          "ID": "20552",
+          "name": "气辉系统",
+          "SpecificEffects": "主动攻击时，每消耗<color=#F74848>1</color>AP，战前使自身伤害提升<color=#F74848>3%</color>，最多提升<color=#F74848>15%</color>，战后降低<color=#F74848>6%</color>",
+          "BufCarried": "205521",
+          "SkillIcon": "Icon_skill_passive_1122",
+          "icon": "Icon_skill_passive_1122",
+          "Status": 1,
+          "weight": 339
+        },
+        {
+          "ID": "20553",
+          "name": "气辉系统",
+          "SpecificEffects": "主动攻击时，每消耗<color=#F74848>1</color>AP，战前使自身伤害提升<color=#F74848>4%</color>，最多提升<color=#F74848>24%</color>，战后降低<color=#F74848>8%</color>",
+          "BufCarried": "205531",
+          "SkillIcon": "Icon_skill_passive_1122",
+          "icon": "Icon_skill_passive_1122",
+          "Status": 1,
+          "weight": 340
+        },
+        {
+          "ID": "20554",
+          "name": "气辉系统",
+          "SpecificEffects": "主动攻击时，每消耗<color=#F74848>1</color>AP，战前使自身伤害提升<color=#F74848>5%</color>，最多提升<color=#F74848>35%</color>，战后降低<color=#F74848>10%</color>",
+          "BufCarried": "205541",
+          "SkillIcon": "Icon_skill_passive_1122",
+          "icon": "Icon_skill_passive_1122",
+          "Status": 1,
+          "weight": 341
+        }
+      ],
+      "introduce": "由电磁引导装置与仿生智能框架联结组成的辅助系统，可实现武装资源的最优调度，有效提升主动打击能力。",
+      "ModuleIcon": "Icon_skill_passive_1122",
+      "icon": "Icon_skill_passive_1122",
+      "IconType": "SuitS",
+      "ObtainingMethod": "模组生产",
+      "Status": 1,
+      "weight": 49
+    },
+    "now": "2025-09-16 16:21:52"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

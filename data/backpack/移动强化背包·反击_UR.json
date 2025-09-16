@@ -13,19 +13,19 @@
         {
           "ID": "61229",
           "name": "移动强化Ⅰ·反击",
-          "SpecificEffects": "机兵移动力增加<color=#F74848>1</color>格；\n反击时，伤害提升<color=#F74848>15%</color>，暴击率提升<color=#F74848>10%</color>；\n机兵躯干耐久值提升<color=#F74848>10%</color>，造成伤害提升<color=#F74848>5%</color>；",
+          "SpecificEffects": "机兵移动力增加<color=#F74848>1</color>格；\n反击时，伤害提升<color=#F74848>15%</color>，暴击率提升<color=#F74848>10%</color>；\n机兵躯干耐久值提升<color=#F74848>10%</color>，造成伤害提升<color=#F74848>5%</color>",
           "BufCarried": "600531",
           "SkillIcon": "Icon_skill_passive_5123",
           "icon": "Icon_skill_passive_5123",
           "Status": 1,
-          "weight": 1130
+          "weight": 1296
         }
       ],
       "HowGet": "无",
       "RelatedDescription": "直接将额外动能输送到腿部传动装置，无论是使用滑轮还是步行，机兵的移动力都能得到提升。同时集成了强化机兵反击能力的功能。",
       "Status": 1
     },
-    "now": "2025-02-12 00:14:43"
+    "now": "2025-09-16 16:20:44"
   },
   "status": 1,
   "switch": null,

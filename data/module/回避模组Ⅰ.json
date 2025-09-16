@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_40041",
           "icon": "Icon_entry_40041",
           "Status": 1,
-          "weight": 634
+          "weight": 730
         },
         {
           "ID": "40042",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_40041",
           "icon": "Icon_entry_40041",
           "Status": 1,
-          "weight": 635
+          "weight": 731
         },
         {
           "ID": "40043",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_40041",
           "icon": "Icon_entry_40041",
           "Status": 1,
-          "weight": 636
+          "weight": 732
         },
         {
           "ID": "40044",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_40041",
           "icon": "Icon_entry_40041",
           "Status": 1,
-          "weight": 637
+          "weight": 733
         }
       ],
       "introduce": "那些热衷于刀尖起舞的机师会大量购入回避模组来改装他们的机兵，以此获得更强的回避性能。",
@@ -55,9 +55,9 @@
       "IconType": "PropertyA",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 75
+      "weight": 87
     },
-    "now": "2025-02-12 00:15:02"
+    "now": "2025-09-16 16:21:36"
   },
   "status": 1,
   "switch": null,

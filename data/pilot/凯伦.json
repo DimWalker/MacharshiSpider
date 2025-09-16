@@ -32,7 +32,7 @@
         "SkillIcon": "Icon_skill_talent_1105",
         "icon": "Icon_skill_talent_1105",
         "Status": 1,
-        "weight": 2678
+        "weight": 3003
       },
       "Talent3_5Ability": {
         "ID": "300151",
@@ -42,7 +42,7 @@
         "SkillIcon": "Icon_skill_talent_1105",
         "icon": "Icon_skill_talent_1105",
         "Status": 1,
-        "weight": 2679
+        "weight": 3004
       },
       "NeuralDriveTemplate": {
         "ID": "10101105",
@@ -71,7 +71,7 @@
                   "SkillIcon": "Icon_skill_passive_5008",
                   "icon": "Icon_skill_passive_5008",
                   "Status": 1,
-                  "weight": 2662
+                  "weight": 2987
                 }
               },
               {
@@ -89,7 +89,7 @@
                   "SkillIcon": "Icon_skill_passive_5006",
                   "icon": "Icon_skill_passive_5006",
                   "Status": 1,
-                  "weight": 2663
+                  "weight": 2988
                 }
               },
               {
@@ -107,7 +107,7 @@
                   "SkillIcon": "Icon_skill_passive_5004",
                   "icon": "Icon_skill_passive_5004",
                   "Status": 1,
-                  "weight": 2664
+                  "weight": 2989
                 }
               }
             ],
@@ -140,7 +140,7 @@
                   "SkillIcon": "Icon_skill_passive_5008",
                   "icon": "Icon_skill_passive_5008",
                   "Status": 1,
-                  "weight": 2665
+                  "weight": 2990
                 }
               },
               {
@@ -159,7 +159,7 @@
                   "SkillIcon": "Icon_skill_passive_5006",
                   "icon": "Icon_skill_passive_5006",
                   "Status": 1,
-                  "weight": 2666
+                  "weight": 2991
                 }
               },
               {
@@ -177,7 +177,7 @@
                   "SkillIcon": "Icon_skill_passive_5004",
                   "icon": "Icon_skill_passive_5004",
                   "Status": 1,
-                  "weight": 2667
+                  "weight": 2992
                 }
               }
             ],
@@ -210,7 +210,7 @@
                   "SkillIcon": "Icon_skill_passive_5009",
                   "icon": "Icon_skill_passive_5009",
                   "Status": 1,
-                  "weight": 2668
+                  "weight": 2993
                 }
               },
               {
@@ -228,7 +228,7 @@
                   "SkillIcon": "Icon_skill_passive_5004",
                   "icon": "Icon_skill_passive_5004",
                   "Status": 1,
-                  "weight": 2669
+                  "weight": 2994
                 }
               },
               {
@@ -247,7 +247,7 @@
                   "SkillIcon": "Icon_skill_passive_5008",
                   "icon": "Icon_skill_passive_5008",
                   "Status": 1,
-                  "weight": 2670
+                  "weight": 2995
                 }
               },
               {
@@ -266,7 +266,7 @@
                   "SkillIcon": "Icon_skill_passive_5009",
                   "icon": "Icon_skill_passive_5009",
                   "Status": 1,
-                  "weight": 2671
+                  "weight": 2996
                 }
               },
               {
@@ -285,7 +285,7 @@
                   "SkillIcon": "Icon_skill_passive_5009",
                   "icon": "Icon_skill_passive_5009",
                   "Status": 1,
-                  "weight": 2672
+                  "weight": 2997
                 }
               },
               {
@@ -304,7 +304,7 @@
                   "SkillIcon": "Icon_skill_passive_5009",
                   "icon": "Icon_skill_passive_5009",
                   "Status": 1,
-                  "weight": 2673
+                  "weight": 2998
                 }
               }
             ],
@@ -335,7 +335,7 @@
       ],
       "Introduction": "凯伦·埃文斯，北陆联合海防军军官，在海防军内部拥有四通八达的人脉，自称与上头一位赫赫有名的大人物私交密切。生性贪婪而胆小，畏惧战场，厌恶战斗。梦想是趁着动荡的时局狠捞一笔钱财，离开米赫玛岛挥霍剩下的人生。",
       "Status": 1,
-      "weight": 29,
+      "weight": 30,
       "manji": {
         "quality": "R",
         "InitialPilotAPValue_PilotAPInitBase": "3",
@@ -373,7 +373,7 @@
             "SkillIcon": "Icon_skill_passive_5008",
             "icon": "Icon_skill_passive_5008",
             "Status": 1,
-            "weight": 2661
+            "weight": 2986
           }
         },
         {
@@ -521,7 +521,7 @@
             "SkillIcon": "Icon_skill_main_1020",
             "icon": "Icon_skill_main_1020",
             "Status": 1,
-            "weight": 441
+            "weight": 497
           }
         },
         {
@@ -546,7 +546,7 @@
             "SkillIcon": "Icon_skill_passive_4003",
             "icon": "Icon_skill_passive_4003",
             "Status": 1,
-            "weight": 3062
+            "weight": 3443
           }
         },
         {
@@ -574,7 +574,7 @@
             "SkillIcon": "Icon_skill_order_5006",
             "icon": "Icon_skill_order_5006",
             "Status": 1,
-            "weight": 463
+            "weight": 519
           }
         },
         {
@@ -599,7 +599,7 @@
             "SkillIcon": "Icon_skill_passive_5141",
             "icon": "Icon_skill_passive_5141",
             "Status": 1,
-            "weight": 2677
+            "weight": 3002
           }
         },
         {
@@ -627,7 +627,7 @@
             "SkillIcon": "Icon_skill_main_1134",
             "icon": "Icon_skill_main_1134",
             "Status": 1,
-            "weight": 302
+            "weight": 332
           }
         },
         {
@@ -813,7 +813,7 @@
       ],
       "biomimetic_computer_type": 1
     },
-    "now": "2025-02-12 00:13:58"
+    "now": "2025-09-16 16:18:44"
   },
   "status": 1,
   "switch": null,

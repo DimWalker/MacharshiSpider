@@ -567,9 +567,90 @@
         "quality": "SSR",
         "icon": "Icon_mecha_wap2052",
         "mechaIcon": "Icon_wap2052_1"
+      },
+      {
+        "ID": "30360103",
+        "name": "信仰之眼",
+        "position": "躯干",
+        "type": "Heavy",
+        "quality": "SSR",
+        "icon": "Icon_mecha_wap3036",
+        "mechaIcon": "Icon_wap3036_1"
+      },
+      {
+        "ID": "30200103",
+        "name": "影武者",
+        "position": "躯干",
+        "type": "Heavy",
+        "quality": "SSR",
+        "icon": "Icon_mecha_wap3020",
+        "mechaIcon": "Icon_wap3020_1"
+      },
+      {
+        "ID": "20540103",
+        "name": "芬里厄",
+        "position": "躯干",
+        "type": "Medium",
+        "quality": "SSR",
+        "icon": "Icon_mecha_wap2054",
+        "mechaIcon": "Icon_wap2054_1"
+      },
+      {
+        "ID": "10280103",
+        "name": "疾啸",
+        "position": "躯干",
+        "type": "Light",
+        "quality": "SSR",
+        "icon": "Icon_mecha_wap1028",
+        "mechaIcon": "Icon_wap1028_1"
+      },
+      {
+        "ID": "20550103",
+        "name": "雪鸮",
+        "position": "躯干",
+        "type": "Medium",
+        "quality": "SSR",
+        "icon": "Icon_mecha_wap2055",
+        "mechaIcon": "Icon_wap2055_1"
+      },
+      {
+        "ID": "10340103",
+        "name": "盗火者",
+        "position": "躯干",
+        "type": "Light",
+        "quality": "SSR",
+        "icon": "Icon_mecha_wap1034",
+        "mechaIcon": "Icon_wap1034_1"
+      },
+      {
+        "ID": "30270103",
+        "name": "巨像",
+        "position": "躯干",
+        "type": "Heavy",
+        "quality": "SSR",
+        "icon": "Icon_mecha_wap3027",
+        "mechaIcon": "Icon_wap3027_1"
+      },
+      {
+        "ID": "20570103",
+        "name": "夜天光",
+        "position": "躯干",
+        "type": "Medium",
+        "quality": "SSR",
+        "icon": "Icon_mecha_wap2057",
+        "mechaIcon": "Icon_wap2057_1"
+      },
+      {
+        "ID": "10380103",
+        "name": "赫克托尔",
+        "position": "躯干",
+        "type": "Light",
+        "quality": "SSR",
+        "icon": "Icon_mecha_wap1038",
+        "mechaIcon": "Icon_wap1038_1"
       }
     ],
-    "now": "2025-02-12 00:13:42"
+    "now": "2025-09-16 16:18:04"
   },
   "status": 1,
   "switch": null,

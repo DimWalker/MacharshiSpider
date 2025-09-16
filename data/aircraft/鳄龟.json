@@ -36,7 +36,7 @@
         "mechaIcon": "Icon_wap3012_1",
         "lihuiIcon": "icon_lihui_wap3012",
         "Status": 1,
-        "weight": 204,
+        "weight": 228,
         "manji": {
           "name": "鳄龟",
           "durable": "8897",
@@ -58,7 +58,7 @@
               "SkillIcon": "Icon_entry_10054",
               "icon": "Icon_entry_10054",
               "Status": 1,
-              "weight": 371,
+              "weight": 403,
               "id": "3008",
               "level": 2
             },
@@ -74,7 +74,7 @@
               "SkillIcon": "Icon_entry_40081",
               "icon": "Icon_entry_40081",
               "Status": 1,
-              "weight": 669,
+              "weight": 765,
               "id": "4008",
               "level": 4
             },
@@ -96,7 +96,7 @@
             }
           ],
           "Status": 1,
-          "weight": 204
+          "weight": 228
         }
       },
       {
@@ -114,7 +114,7 @@
         "introduce": "ASX-114 鳄龟\n由安赫特在米赫玛战争期间研发制造的重型机兵。\n配备了大型滑轨监视器以提升追踪锁定性能，并采用与机兵编号同名的ASX-114号战斗核心，以特化应对战场上的灵活目标。其头部加装的配套电子干扰器，能在追踪敌机运动轨迹的同时发动电磁脉冲，以干扰目标的回避系统。",
         "mechaIcon": "Icon_wap3012_2",
         "Status": 1,
-        "weight": 205,
+        "weight": 229,
         "manji": {
           "name": "鳄龟",
           "durable": "4579",
@@ -124,7 +124,7 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "1009:1/4008:1/",
           "Status": 1,
-          "weight": 205
+          "weight": 229
         }
       },
       {
@@ -142,7 +142,7 @@
         "introduce": "ASX-114 鳄龟\n由安赫特在米赫玛战争期间研发制造的重型机兵。\n配备了大型滑轨监视器以提升追踪锁定性能，并采用与机兵编号同名的ASX-114号战斗核心，以特化应对战场上的灵活目标。其头部加装的配套电子干扰器，能在追踪敌机运动轨迹的同时发动电磁脉冲，以干扰目标的回避系统。",
         "mechaIcon": "Icon_wap3012_3",
         "Status": 1,
-        "weight": 206,
+        "weight": 230,
         "manji": {
           "name": "鳄龟",
           "durable": "4579",
@@ -152,7 +152,7 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "1009:1/4008:1/",
           "Status": 1,
-          "weight": 206
+          "weight": 230
         }
       },
       {
@@ -171,7 +171,7 @@
         "introduce": "ASX-114 鳄龟\n由安赫特在米赫玛战争期间研发制造的重型机兵。\n配备了大型滑轨监视器以提升追踪锁定性能，并采用与机兵编号同名的ASX-114号战斗核心，以特化应对战场上的灵活目标。其头部加装的配套电子干扰器，能在追踪敌机运动轨迹的同时发动电磁脉冲，以干扰目标的回避系统。",
         "mechaIcon": "Icon_wap3012_4",
         "Status": 1,
-        "weight": 207,
+        "weight": 231,
         "manji": {
           "name": "鳄龟",
           "durable": "6855",
@@ -182,11 +182,11 @@
           "Interface": "Ⅰ型接口",
           "ModuleCarried": "1009:1/3008:1/4008:1/",
           "Status": 1,
-          "weight": 207
+          "weight": 231
         }
       }
     ],
-    "now": "2025-02-12 00:13:48"
+    "now": "2025-09-16 16:18:19"
   },
   "status": 1,
   "switch": null,

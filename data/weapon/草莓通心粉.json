@@ -1,0 +1,80 @@
+{
+  "data": {
+    "data": [
+      {
+        "ID": "50115122",
+        "name": "草莓通心粉",
+        "quality": "SSSR",
+        "grade": "70",
+        "WeaponType1": "Heavy",
+        "WeaponType2": "RailGun",
+        "type": "RailGun",
+        "LimitedModelOfWeapon": "Medium",
+        "RestrictionsPositionOfWeapon": "Back",
+        "range": "1-5",
+        "WeaponWeight": "1100",
+        "WeaponBasicAttackingPower": "783",
+        "WeaponHitPoint": "4992",
+        "WeaponUnderstanding": "4603",
+        "NumberOfBullets": "3",
+        "InitiativeSkill": [
+          {
+            "ID": "5011",
+            "remarks": "电磁炮攻击",
+            "name": "电磁激荡",
+            "describe": "使用电磁炮攻击纵向<color=#F74848>5</color>格范围内的所有目标，造成<color=#F74848>1.0</color>倍范围伤害",
+            "type": "SpecialAssault",
+            "CD": "0",
+            "Ap": "3",
+            "matchingWeaponType": "电磁炮",
+            "SkillIcon": "Icon_skill_order_1005",
+            "icon": "Icon_skill_order_1005",
+            "Status": 1,
+            "weight": 591
+          }
+        ],
+        "PassiveSkill": [
+          {
+            "ID": "53068",
+            "name": "贯通脉冲",
+            "SpecificEffects": "使用电磁炮主动攻击时，对携带减益效果的目标伤害提升<color=#F74848>20%</color>",
+            "BufCarried": "530681",
+            "SkillIcon": "Icon_skill_passive_1146",
+            "icon": "Icon_skill_passive_1146",
+            "Status": 1,
+            "weight": 1038
+          },
+          {
+            "ID": "53069",
+            "name": "全面扫除",
+            "SpecificEffects": "强化<buf ID=900132>[完美主义]</buf>效果：部署<buf ID=900085>[强磁力线圈]</buf>时偏移方向将变为所选方向及相邻<color=#F74848>2</color>个方向，偏移后的攻击提升<color=#F74848>0.2</color>倍；\n主动攻击时，若目标携带<color=#F74848>5</color>个及以上减益效果，战后对目标施加<buf ID=1009083>[震慑]</buf>，持续<color=#F74848>1</color>回合；\n主动攻击时，每累计施加<color=#F74848>15</color>个减益效果，立即获得<color=#F74848>1</color>AP",
+            "BufCarried": "530699/530693/530692/530694/530695",
+            "SkillIcon": "Icon_skill_passive_5257",
+            "icon": "Icon_skill_passive_5257",
+            "Status": 1,
+            "weight": 1039
+          },
+          {
+            "ID": "53067",
+            "name": "弹药再生",
+            "SpecificEffects": "使用电磁炮主动攻击目标时，若打击的目标大于等于<color=#F74848>3</color>个，战后回复<color=#F74848>1</color>枚弹药，每<color=#F74848>2</color>回合最多发动<color=#F74848>1</color>次",
+            "BufCarried": "530671",
+            "SkillIcon": "Icon_skill_passive_5150",
+            "icon": "Icon_skill_passive_5150",
+            "Status": 1,
+            "weight": 1037
+          }
+        ],
+        "IconResourcePath": "Icon_weapon_50100601",
+        "icon": "Icon_weapon_50100601",
+        "describe": "「……我听说要去码头仓库取货的时候就预感到不妙了，但还是没料到你说的小零食竟然是电磁炮？虽、虽然我确实是很惊喜就是了，但下次送礼物的时候还是打听一下别人的想法比较好吧……还有，别把『小菲娅』这种称呼明目张胆地涂在集装箱上啊！」",
+        "Status": 1,
+        "weight": 730
+      }
+    ],
+    "now": "2025-09-16 16:19:56"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

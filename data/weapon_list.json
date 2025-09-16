@@ -1161,9 +1161,162 @@
         "WeaponType2": "ShotGun",
         "type": "ShotGun",
         "icon": "Icon_weapon_20300302"
+      },
+      {
+        "ID": "10414123",
+        "name": "群星·改Ⅲ",
+        "quality": "UR",
+        "WeaponType1": "Melee",
+        "WeaponType2": "Shield",
+        "type": "Shield",
+        "icon": "Icon_weapon_10400501"
+      },
+      {
+        "ID": "50114122",
+        "name": "炬塔·改Ⅱ",
+        "quality": "UR",
+        "WeaponType1": "Heavy",
+        "WeaponType2": "RailGun",
+        "type": "RailGun",
+        "icon": "Icon_weapon_50100101"
+      },
+      {
+        "ID": "50115122",
+        "name": "草莓通心粉",
+        "quality": "SSSR",
+        "WeaponType1": "Heavy",
+        "WeaponType2": "RailGun",
+        "type": "RailGun",
+        "icon": "Icon_weapon_50100601"
+      },
+      {
+        "ID": "10415123",
+        "name": "承诺之誓",
+        "quality": "SSSR",
+        "WeaponType1": "Melee",
+        "WeaponType2": "Shield",
+        "type": "Shield",
+        "icon": "Icon_weapon_10400601"
+      },
+      {
+        "ID": "10914121",
+        "name": "断钢·改",
+        "quality": "UR",
+        "WeaponType1": "Melee",
+        "WeaponType2": "Blade",
+        "type": "Blade",
+        "icon": "Icon_weapon_10700301A"
+      },
+      {
+        "ID": "20114122",
+        "name": "夜魇·改Ⅱ",
+        "quality": "UR",
+        "WeaponType1": "Assault",
+        "WeaponType2": "MachineGun",
+        "type": "MachineGun",
+        "icon": "Icon_weapon_20100301"
+      },
+      {
+        "ID": "10915121",
+        "name": "Δ-09",
+        "quality": "SSSR",
+        "WeaponType1": "Melee",
+        "WeaponType2": "Blade",
+        "type": "Blade",
+        "icon": "Icon_weapon_10700401"
+      },
+      {
+        "ID": "20115122",
+        "name": "昏星继光",
+        "quality": "SSSR",
+        "WeaponType1": "Assault",
+        "WeaponType2": "MachineGun",
+        "type": "MachineGun",
+        "icon": "Icon_weapon_20100303"
+      },
+      {
+        "ID": "10514123",
+        "name": "聚合屏障·改Ⅲ",
+        "quality": "UR",
+        "WeaponType1": "Melee",
+        "WeaponType2": "Buckler",
+        "type": "Buckler",
+        "icon": "Icon_weapon_10500401"
+      },
+      {
+        "ID": "20214122",
+        "name": "贝希摩斯·改Ⅱ",
+        "quality": "UR",
+        "WeaponType1": "Assault",
+        "WeaponType2": "HeavyMachineGun",
+        "type": "HeavyMachineGun",
+        "icon": "Icon_weapon_20400302"
+      },
+      {
+        "ID": "10515123",
+        "name": "离歌棱镜",
+        "quality": "SSSR",
+        "WeaponType1": "Melee",
+        "WeaponType2": "Buckler",
+        "type": "Buckler",
+        "icon": "Icon_weapon_10500601"
+      },
+      {
+        "ID": "20215122",
+        "name": "盖乌斯",
+        "quality": "SSSR",
+        "WeaponType1": "Assault",
+        "WeaponType2": "HeavyMachineGun",
+        "type": "HeavyMachineGun",
+        "icon": "Icon_weapon_20400401"
+      },
+      {
+        "ID": "10414124",
+        "name": "群星·改Ⅳ",
+        "quality": "UR",
+        "WeaponType1": "Melee",
+        "WeaponType2": "Shield",
+        "type": "Shield",
+        "icon": "Icon_weapon_10400501"
+      },
+      {
+        "ID": "40114122",
+        "name": "鸠摩罗·改Ⅱ",
+        "quality": "UR",
+        "WeaponType1": "Heavy",
+        "WeaponType2": "Missile",
+        "type": "Missile",
+        "icon": "Icon_weapon_40100401"
+      },
+      {
+        "ID": "10415124",
+        "name": "荣光之御",
+        "quality": "SSSR",
+        "WeaponType1": "Melee",
+        "WeaponType2": "Shield",
+        "type": "Shield",
+        "icon": "Icon_weapon_10400701"
+      },
+      {
+        "ID": "40115122",
+        "name": "逆火流星",
+        "quality": "SSSR",
+        "WeaponType1": "Heavy",
+        "WeaponType2": "Missile",
+        "type": "Missile",
+        "icon": "Icon_weapon_40100502"
+      },
+      {
+        "ID": "50116122",
+        "name": "糖衣毁灭者",
+        "quality": "SSSR",
+        "WeaponType1": "Heavy",
+        "WeaponType2": "RailGun",
+        "type": "RailGun",
+        "icon": "Icon_weapon_50100601"
       }
     ],
-    "now": "2025-02-12 00:14:06"
+    "now": "2025-09-16 16:19:04"
   },
   "status": 1,
   "switch": null,

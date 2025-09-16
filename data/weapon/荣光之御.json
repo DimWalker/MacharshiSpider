@@ -1,0 +1,63 @@
+{
+  "data": {
+    "data": [
+      {
+        "ID": "10415124",
+        "name": "荣光之御",
+        "quality": "SSSR",
+        "grade": "70",
+        "WeaponType1": "Melee",
+        "WeaponType2": "Shield",
+        "type": "Shield",
+        "LimitedModelOfWeapon": "Heavy",
+        "RestrictionsPositionOfWeapon": "Hand",
+        "range": "1",
+        "WeaponWeight": "390",
+        "WeaponBasicAttackingPower": "385",
+        "WeaponHitPoint": "3494",
+        "ShieldbloodBase": "2427",
+        "PassiveSkill": [
+          {
+            "ID": "53083",
+            "name": "阵地掌握",
+            "SpecificEffects": "遭受主动攻击前若位于我方地形，立即回复<color=#F74848>1</color>AP，每回合最多发动<color=#F74848>1</color>次",
+            "BufCarried": "530831",
+            "SkillIcon": "Icon_skill_passive_5189",
+            "icon": "Icon_skill_passive_5189",
+            "Status": 1,
+            "weight": 1053
+          },
+          {
+            "ID": "53084",
+            "name": "百战统帅",
+            "SpecificEffects": "强化<buf ID=900143>[迟暮未至]</buf>效果：<terrian ID=6008501 />范围提升为指定地点的地格及其周围<color=#F74848>2</color>圈，自身在<terrian ID=6008501 />内移动时，移动力消耗降低<color=#F74848>50%</color>；<terrian ID=6008501 />内的所有友方单位伤害提升<color=#F74848>20%</color>，且遭受主动攻击时，所有部位无法遭受超出自身最大耐久值上限<color=#F74848>85%</color>的伤害",
+            "BufCarried": "530841/530842/530843/530845",
+            "SkillIcon": "Icon_skill_passive_5270",
+            "icon": "Icon_skill_passive_5270",
+            "Status": 1,
+            "weight": 1054
+          },
+          {
+            "ID": "53082",
+            "name": "万全守备",
+            "SpecificEffects": "持盾手臂遭受伤害时，遭受伤害降低<color=#F74848>10%</color>，遭受暴击伤害降低<color=#F74848>20%</color>",
+            "BufCarried": "530821",
+            "SkillIcon": "Icon_skill_passive_2111",
+            "icon": "Icon_skill_passive_2111",
+            "Status": 1,
+            "weight": 1052
+          }
+        ],
+        "IconResourcePath": "Icon_weapon_10400701",
+        "icon": "Icon_weapon_10400701",
+        "describe": "帮提费斯抵御了无数攻击，见证他成为同盟英雄的特制盾牌。早应在荣光中退去的它如今依然活跃在战场，守护着同伴……正如它的主人一样。",
+        "Status": 1,
+        "weight": 736
+      }
+    ],
+    "now": "2025-09-16 16:20:01"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

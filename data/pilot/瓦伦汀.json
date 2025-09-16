@@ -32,7 +32,7 @@
         "SkillIcon": "Icon_skill_talent_4103",
         "icon": "Icon_skill_talent_4103",
         "Status": 1,
-        "weight": 2683
+        "weight": 3008
       },
       "Talent3_5Ability": {
         "ID": "300251",
@@ -42,7 +42,7 @@
         "SkillIcon": "Icon_skill_talent_4103",
         "icon": "Icon_skill_talent_4103",
         "Status": 1,
-        "weight": 2684
+        "weight": 3009
       },
       "NeuralDriveTemplate": {
         "ID": "10101110",
@@ -71,7 +71,7 @@
                   "SkillIcon": "Icon_skill_passive_5008",
                   "icon": "Icon_skill_passive_5008",
                   "Status": 1,
-                  "weight": 2662
+                  "weight": 2987
                 }
               },
               {
@@ -89,7 +89,7 @@
                   "SkillIcon": "Icon_skill_passive_5006",
                   "icon": "Icon_skill_passive_5006",
                   "Status": 1,
-                  "weight": 2663
+                  "weight": 2988
                 }
               },
               {
@@ -107,7 +107,7 @@
                   "SkillIcon": "Icon_skill_passive_5004",
                   "icon": "Icon_skill_passive_5004",
                   "Status": 1,
-                  "weight": 2664
+                  "weight": 2989
                 }
               }
             ],
@@ -140,7 +140,7 @@
                   "SkillIcon": "Icon_skill_passive_5008",
                   "icon": "Icon_skill_passive_5008",
                   "Status": 1,
-                  "weight": 2665
+                  "weight": 2990
                 }
               },
               {
@@ -159,7 +159,7 @@
                   "SkillIcon": "Icon_skill_passive_5006",
                   "icon": "Icon_skill_passive_5006",
                   "Status": 1,
-                  "weight": 2666
+                  "weight": 2991
                 }
               },
               {
@@ -177,7 +177,7 @@
                   "SkillIcon": "Icon_skill_passive_5004",
                   "icon": "Icon_skill_passive_5004",
                   "Status": 1,
-                  "weight": 2667
+                  "weight": 2992
                 }
               }
             ],
@@ -210,7 +210,7 @@
                   "SkillIcon": "Icon_skill_passive_5009",
                   "icon": "Icon_skill_passive_5009",
                   "Status": 1,
-                  "weight": 2668
+                  "weight": 2993
                 }
               },
               {
@@ -228,7 +228,7 @@
                   "SkillIcon": "Icon_skill_passive_5004",
                   "icon": "Icon_skill_passive_5004",
                   "Status": 1,
-                  "weight": 2669
+                  "weight": 2994
                 }
               },
               {
@@ -247,7 +247,7 @@
                   "SkillIcon": "Icon_skill_passive_5008",
                   "icon": "Icon_skill_passive_5008",
                   "Status": 1,
-                  "weight": 2670
+                  "weight": 2995
                 }
               },
               {
@@ -266,7 +266,7 @@
                   "SkillIcon": "Icon_skill_passive_5009",
                   "icon": "Icon_skill_passive_5009",
                   "Status": 1,
-                  "weight": 2671
+                  "weight": 2996
                 }
               },
               {
@@ -285,7 +285,7 @@
                   "SkillIcon": "Icon_skill_passive_5009",
                   "icon": "Icon_skill_passive_5009",
                   "Status": 1,
-                  "weight": 2672
+                  "weight": 2997
                 }
               },
               {
@@ -304,7 +304,7 @@
                   "SkillIcon": "Icon_skill_passive_5009",
                   "icon": "Icon_skill_passive_5009",
                   "Status": 1,
-                  "weight": 2673
+                  "weight": 2998
                 }
               }
             ],
@@ -335,7 +335,7 @@
       ],
       "Introduction": "奥维特人，为求学而来到米赫玛岛并就读恩菲尔德军事学院。为人严谨认真，不苟言笑，将课余时间也投入学习之中，最终以技术理论研究科目第一的优异成绩毕业，并被举荐成为温斯顿博士的学徒，此后一直辅助温斯顿进行机械与生物交叉领域的研究工作。",
       "Status": 1,
-      "weight": 30,
+      "weight": 31,
       "manji": {
         "quality": "R",
         "InitialPilotAPValue_PilotAPInitBase": "3",
@@ -373,7 +373,7 @@
             "SkillIcon": "Icon_skill_passive_5008",
             "icon": "Icon_skill_passive_5008",
             "Status": 1,
-            "weight": 2661
+            "weight": 2986
           }
         },
         {
@@ -521,7 +521,7 @@
             "SkillIcon": "Icon_skill_main_1123",
             "icon": "Icon_skill_main_1123",
             "Status": 1,
-            "weight": 303
+            "weight": 333
           }
         },
         {
@@ -546,7 +546,7 @@
             "SkillIcon": "Icon_skill_passive_5142",
             "icon": "Icon_skill_passive_5142",
             "Status": 1,
-            "weight": 2680
+            "weight": 3005
           }
         },
         {
@@ -574,7 +574,7 @@
             "SkillIcon": "Icon_skill_order_3004",
             "icon": "Icon_skill_order_3004",
             "Status": 1,
-            "weight": 461
+            "weight": 517
           }
         },
         {
@@ -599,7 +599,7 @@
             "SkillIcon": "Icon_skill_passive_1010",
             "icon": "Icon_skill_passive_1010",
             "Status": 1,
-            "weight": 3050
+            "weight": 3431
           }
         },
         {
@@ -627,7 +627,7 @@
             "SkillIcon": "Icon_skill_main_1135",
             "icon": "Icon_skill_main_1135",
             "Status": 1,
-            "weight": 305
+            "weight": 335
           }
         },
         {
@@ -813,7 +813,7 @@
       ],
       "biomimetic_computer_type": 1
     },
-    "now": "2025-02-12 00:13:58"
+    "now": "2025-09-16 16:18:45"
   },
   "status": 1,
   "switch": null,

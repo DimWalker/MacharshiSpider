@@ -43,7 +43,7 @@
             "SkillIcon": "Icon_entry_10083",
             "icon": "Icon_entry_10083",
             "Status": 1,
-            "weight": 555,
+            "weight": 587,
             "id": "3032",
             "level": 2
           },
@@ -59,7 +59,7 @@
             "SkillIcon": "Icon_entry_40071",
             "icon": "Icon_entry_40071",
             "Status": 1,
-            "weight": 659,
+            "weight": 755,
             "id": "4007",
             "level": 2
           }
@@ -69,7 +69,7 @@
         "mechaIcon": "Icon_wap2049_1",
         "lihuiIcon": "icon_lihui_wap2049",
         "Status": 1,
-        "weight": 156,
+        "weight": 168,
         "manji": {
           "name": "奥德修斯",
           "durable": "10037",
@@ -107,7 +107,7 @@
               "SkillIcon": "Icon_entry_10083",
               "icon": "Icon_entry_10083",
               "Status": 1,
-              "weight": 561,
+              "weight": 593,
               "id": "3032",
               "level": 8
             },
@@ -123,13 +123,13 @@
               "SkillIcon": "Icon_entry_40071",
               "icon": "Icon_entry_40071",
               "Status": 1,
-              "weight": 661,
+              "weight": 757,
               "id": "4007",
               "level": 4
             }
           ],
           "Status": 1,
-          "weight": 156
+          "weight": 168
         }
       },
       {
@@ -148,7 +148,7 @@
         "introduce": "KX-098 奥德修斯\n由卡玛达制造的中型机兵，与卡玛达已推出的重型机兵KX-075赫拉克勒斯属于同一系列。\n奥德修斯继承了来自KX-075优秀的信息传感系统，以及卓越的钢岚合金框架。并根据修理机的定位做出了非常完善的优化。其搭载的动能监测仪能根据目标的机兵状态提供动能优化方案，使奥德修斯成为战场上实时运转的能源优化站。",
         "mechaIcon": "Icon_wap2049_2",
         "Status": 1,
-        "weight": 157,
+        "weight": 169,
         "manji": {
           "name": "奥德修斯",
           "durable": "5143",
@@ -158,7 +158,7 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "2043:1/3032:2/4007:1/",
           "Status": 1,
-          "weight": 157
+          "weight": 169
         }
       },
       {
@@ -177,7 +177,7 @@
         "introduce": "KX-098 奥德修斯\n由卡玛达制造的中型机兵，与卡玛达已推出的重型机兵KX-075赫拉克勒斯属于同一系列。\n奥德修斯继承了来自KX-075优秀的信息传感系统，以及卓越的钢岚合金框架。并根据修理机的定位做出了非常完善的优化。其搭载的动能监测仪能根据目标的机兵状态提供动能优化方案，使奥德修斯成为战场上实时运转的能源优化站。",
         "mechaIcon": "Icon_wap2049_3",
         "Status": 1,
-        "weight": 158,
+        "weight": 170,
         "manji": {
           "name": "奥德修斯",
           "durable": "5143",
@@ -187,7 +187,7 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "2043:1/3032:2/4007:1/",
           "Status": 1,
-          "weight": 158
+          "weight": 170
         }
       },
       {
@@ -207,7 +207,7 @@
         "introduce": "KX-098 奥德修斯\n由卡玛达制造的中型机兵，与卡玛达已推出的重型机兵KX-075赫拉克勒斯属于同一系列。\n奥德修斯继承了来自KX-075优秀的信息传感系统，以及卓越的钢岚合金框架。并根据修理机的定位做出了非常完善的优化。其搭载的动能监测仪能根据目标的机兵状态提供动能优化方案，使奥德修斯成为战场上实时运转的能源优化站。",
         "mechaIcon": "Icon_wap2049_4",
         "Status": 1,
-        "weight": 159,
+        "weight": 171,
         "manji": {
           "name": "奥德修斯",
           "durable": "7729",
@@ -218,11 +218,11 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "2043:1/3032:2/4007:1/",
           "Status": 1,
-          "weight": 159
+          "weight": 171
         }
       }
     ],
-    "now": "2025-02-12 00:13:51"
+    "now": "2025-09-16 16:18:27"
   },
   "status": 1,
   "switch": null,

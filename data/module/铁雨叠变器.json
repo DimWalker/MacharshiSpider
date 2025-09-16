@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "20541",
+      "ModuleName": "铁雨叠变器",
+      "name": "铁雨叠变器",
+      "EntryLevel": "1",
+      "quality": "SSR",
+      "ModuleEffects": "20541/20542/20543/20544",
+      "WithPassiveSkills": [
+        {
+          "ID": "20541",
+          "name": "铁雨叠变器",
+          "SpecificEffects": "使用战术武器攻击时伤害提升<color=#F74848>3%</color>，每消耗<color=#F74848>1</color>枚弹药，使自身伤害提升<color=#F74848>2%</color>，可叠加<color=#F74848>3</color>层，持续<color=#F74848>2</color>回合",
+          "BufCarried": "205411/205412",
+          "SkillIcon": "Icon_skill_passive_1130",
+          "icon": "Icon_skill_passive_1130",
+          "Status": 1,
+          "weight": 334
+        },
+        {
+          "ID": "20542",
+          "name": "铁雨叠变器",
+          "SpecificEffects": "使用战术武器攻击时伤害提升<color=#F74848>6%</color>，每消耗<color=#F74848>1</color>枚弹药，使自身伤害提升<color=#F74848>3%</color>，可叠加<color=#F74848>3</color>层，持续<color=#F74848>2</color>回合",
+          "BufCarried": "205421/205422",
+          "SkillIcon": "Icon_skill_passive_1130",
+          "icon": "Icon_skill_passive_1130",
+          "Status": 1,
+          "weight": 335
+        },
+        {
+          "ID": "20543",
+          "name": "铁雨叠变器",
+          "SpecificEffects": "使用战术武器攻击时伤害提升<color=#F74848>10%</color>，每消耗<color=#F74848>1</color>枚弹药，使自身伤害提升<color=#F74848>3%</color>，可叠加<color=#F74848>5</color>层，持续<color=#F74848>2</color>回合",
+          "BufCarried": "205431/205432",
+          "SkillIcon": "Icon_skill_passive_1130",
+          "icon": "Icon_skill_passive_1130",
+          "Status": 1,
+          "weight": 336
+        },
+        {
+          "ID": "20544",
+          "name": "铁雨叠变器",
+          "SpecificEffects": "使用战术武器攻击时伤害提升<color=#F74848>15%</color>，每消耗<color=#F74848>1</color>枚弹药，使自身伤害提升<color=#F74848>4%</color>，可叠加<color=#F74848>5</color>层，持续<color=#F74848>2</color>回合",
+          "BufCarried": "205441/205442",
+          "SkillIcon": "Icon_skill_passive_1130",
+          "icon": "Icon_skill_passive_1130",
+          "Status": 1,
+          "weight": 337
+        }
+      ],
+      "introduce": "卡玛达公司为了将巨像的负载能力转化为火力优势而开发的特殊火控模块，能有效提升战术武器投射效率，最大化持续杀伤效果。",
+      "ModuleIcon": "Icon_skill_passive_1130",
+      "icon": "Icon_skill_passive_1130",
+      "IconType": "SuitS",
+      "ObtainingMethod": "模组生产",
+      "Status": 1,
+      "weight": 48
+    },
+    "now": "2025-09-16 16:21:52"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

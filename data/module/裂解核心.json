@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "20531",
+      "ModuleName": "裂解核心",
+      "name": "裂解核心",
+      "EntryLevel": "1",
+      "quality": "SSR",
+      "ModuleEffects": "20531/20532/20533/20534",
+      "WithPassiveSkills": [
+        {
+          "ID": "20531",
+          "name": "裂解核心",
+          "SpecificEffects": "对战中每施加<color=#F74848>1</color>个减益效果时，使自身伤害提升<color=#F74848>2%</color>，目标遭受伤害提升<color=#F74848>1%</color>，可叠加<color=#F74848>3</color>层，持续<color=#F74848>2</color>回合",
+          "BufCarried": "205311/205313",
+          "SkillIcon": "Icon_skill_passive_5220",
+          "icon": "Icon_skill_passive_5220",
+          "Status": 1,
+          "weight": 330
+        },
+        {
+          "ID": "20532",
+          "name": "裂解核心",
+          "SpecificEffects": "对战中每施加<color=#F74848>1</color>个减益效果时，使自身伤害提升<color=#F74848>3%</color>，目标遭受伤害提升<color=#F74848>2%</color>，可叠加<color=#F74848>3</color>层，持续<color=#F74848>2</color>回合",
+          "BufCarried": "205321/205323",
+          "SkillIcon": "Icon_skill_passive_5220",
+          "icon": "Icon_skill_passive_5220",
+          "Status": 1,
+          "weight": 331
+        },
+        {
+          "ID": "20533",
+          "name": "裂解核心",
+          "SpecificEffects": "对战中每施加<color=#F74848>1</color>个减益效果时，使自身伤害提升<color=#F74848>3%</color>，目标遭受伤害提升<color=#F74848>2%</color>，可叠加<color=#F74848>5</color>层，持续<color=#F74848>2</color>回合",
+          "BufCarried": "205331/205333",
+          "SkillIcon": "Icon_skill_passive_5220",
+          "icon": "Icon_skill_passive_5220",
+          "Status": 1,
+          "weight": 332
+        },
+        {
+          "ID": "20534",
+          "name": "裂解核心",
+          "SpecificEffects": "对战中每施加<color=#F74848>1</color>个减益效果时，使自身伤害提升<color=#F74848>5%</color>，目标遭受伤害提升<color=#F74848>2%</color>，可叠加<color=#F74848>5</color>层，持续<color=#F74848>2</color>回合",
+          "BufCarried": "205341/205343",
+          "SkillIcon": "Icon_skill_passive_5220",
+          "icon": "Icon_skill_passive_5220",
+          "Status": 1,
+          "weight": 333
+        }
+      ],
+      "introduce": "希德制造与同盟防卫军联合打造的战斗辅助系统，能自动解析敌对目标遭受干扰后暴露出的结构性弱点，并计算出最佳打击方案，从而有效提升作战效率。",
+      "ModuleIcon": "Icon_skill_passive_5220",
+      "icon": "Icon_skill_passive_5220",
+      "IconType": "SuitS",
+      "ObtainingMethod": "模组生产",
+      "Status": 1,
+      "weight": 47
+    },
+    "now": "2025-09-16 16:21:52"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

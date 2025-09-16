@@ -36,7 +36,7 @@
         "mechaIcon": "Icon_wap2015_1",
         "lihuiIcon": "icon_lihui_wap2015",
         "Status": 1,
-        "weight": 88,
+        "weight": 100,
         "manji": {
           "name": "斗将",
           "durable": "7613",
@@ -58,7 +58,7 @@
               "SkillIcon": "Icon_entry_10053",
               "icon": "Icon_entry_10053",
               "Status": 1,
-              "weight": 363,
+              "weight": 395,
               "id": "3007",
               "level": 2
             },
@@ -90,13 +90,13 @@
               "SkillIcon": "Icon_entry_40091",
               "icon": "Icon_entry_40091",
               "Status": 1,
-              "weight": 677,
+              "weight": 773,
               "id": "4009",
               "level": 4
             }
           ],
           "Status": 1,
-          "weight": 88
+          "weight": 100
         }
       },
       {
@@ -114,7 +114,7 @@
         "introduce": "LTX-26 斗将\n拉尼亚凯亚主导开发的中型机兵，以高性价比、高稳定性著称，大量列装于北陆联合军。\n该机型采用了平面方正结构和激光与电子束复合焊接技术，提高强度的同时降低了硬件故障率和整备难度，且自带多语言操作系统，在成员复杂的北陆联合军队中拥有不错的评价。",
         "mechaIcon": "Icon_wap2015_2",
         "Status": 1,
-        "weight": 89,
+        "weight": 101,
         "manji": {
           "name": "斗将",
           "durable": "4521",
@@ -124,7 +124,7 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "1011:1/4009:1/",
           "Status": 1,
-          "weight": 89
+          "weight": 101
         }
       },
       {
@@ -142,7 +142,7 @@
         "introduce": "LTX-26 斗将\n拉尼亚凯亚主导开发的中型机兵，以高性价比、高稳定性著称，大量列装于北陆联合军。\n该机型采用了平面方正结构和激光与电子束复合焊接技术，提高强度的同时降低了硬件故障率和整备难度，且自带多语言操作系统，在成员复杂的北陆联合军队中拥有不错的评价。",
         "mechaIcon": "Icon_wap2015_3",
         "Status": 1,
-        "weight": 90,
+        "weight": 102,
         "manji": {
           "name": "斗将",
           "durable": "4521",
@@ -152,7 +152,7 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "1011:1/4009:1/",
           "Status": 1,
-          "weight": 90
+          "weight": 102
         }
       },
       {
@@ -171,7 +171,7 @@
         "introduce": "LTX-26 斗将\n拉尼亚凯亚主导开发的中型机兵，以高性价比、高稳定性著称，大量列装于北陆联合军。\n该机型采用了平面方正结构和激光与电子束复合焊接技术，提高强度的同时降低了硬件故障率和整备难度，且自带多语言操作系统，在成员复杂的北陆联合军队中拥有不错的评价。",
         "mechaIcon": "Icon_wap2015_4",
         "Status": 1,
-        "weight": 91,
+        "weight": 103,
         "manji": {
           "name": "斗将",
           "durable": "6155",
@@ -182,11 +182,11 @@
           "Interface": "Ⅰ型接口",
           "ModuleCarried": "1011:1/3007:1/4009:1/",
           "Status": 1,
-          "weight": 91
+          "weight": 103
         }
       }
     ],
-    "now": "2025-02-12 00:13:45"
+    "now": "2025-09-16 16:18:11"
   },
   "status": 1,
   "switch": null,

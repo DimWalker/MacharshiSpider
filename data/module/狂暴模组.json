@@ -1,0 +1,105 @@
+{
+  "data": {
+    "data": {
+      "ID": "30391",
+      "ModuleName": "狂暴模组",
+      "name": "狂暴模组",
+      "EntryLevel": "1",
+      "quality": "SSR",
+      "ModuleEffects": "30391/30392/30393/30394/30395/30396/30397/30398",
+      "WithPassiveSkills": [
+        {
+          "ID": "30391",
+          "name": "狂暴模组",
+          "SpecificEffects": "攻击时，若自身耐久值百分比低于<color=#F74848>40%</color>，无视目标<color=#F74848>6%</color>护甲值和<color=#F74848>3%</color>闪避值",
+          "BufCarried": "303911",
+          "SkillIcon": "Icon_entry_10090",
+          "icon": "Icon_entry_10090",
+          "Status": 1,
+          "weight": 642
+        },
+        {
+          "ID": "30392",
+          "name": "狂暴模组",
+          "SpecificEffects": "攻击时，若自身耐久值百分比低于<color=#F74848>40%</color>，无视目标<color=#F74848>8%</color>护甲值和<color=#F74848>4%</color>闪避值",
+          "BufCarried": "303921",
+          "SkillIcon": "Icon_entry_10090",
+          "icon": "Icon_entry_10090",
+          "Status": 1,
+          "weight": 643
+        },
+        {
+          "ID": "30393",
+          "name": "狂暴模组",
+          "SpecificEffects": "攻击时，若自身耐久值百分比低于<color=#F74848>40%</color>，无视目标<color=#F74848>12%</color>护甲值和<color=#F74848>6%</color>闪避值",
+          "BufCarried": "303931",
+          "SkillIcon": "Icon_entry_10090",
+          "icon": "Icon_entry_10090",
+          "Status": 1,
+          "weight": 644
+        },
+        {
+          "ID": "30394",
+          "name": "狂暴模组",
+          "SpecificEffects": "攻击时，若自身耐久值百分比低于<color=#F74848>50%</color>，无视目标<color=#F74848>16%</color>护甲值和<color=#F74848>8%</color>闪避值",
+          "BufCarried": "303941",
+          "SkillIcon": "Icon_entry_10090",
+          "icon": "Icon_entry_10090",
+          "Status": 1,
+          "weight": 645
+        },
+        {
+          "ID": "30395",
+          "name": "狂暴模组",
+          "SpecificEffects": "攻击时，若自身耐久值百分比低于<color=#F74848>50%</color>，无视目标<color=#F74848>19%</color>护甲值和<color=#F74848>10%</color>闪避值",
+          "BufCarried": "303951",
+          "SkillIcon": "Icon_entry_10090",
+          "icon": "Icon_entry_10090",
+          "Status": 1,
+          "weight": 646
+        },
+        {
+          "ID": "30396",
+          "name": "狂暴模组",
+          "SpecificEffects": "攻击时，若自身耐久值百分比低于<color=#F74848>60%</color>，无视目标<color=#F74848>23%</color>护甲值和<color=#F74848>12%</color>闪避值",
+          "BufCarried": "303961",
+          "SkillIcon": "Icon_entry_10090",
+          "icon": "Icon_entry_10090",
+          "Status": 1,
+          "weight": 647
+        },
+        {
+          "ID": "30397",
+          "name": "狂暴模组",
+          "SpecificEffects": "攻击时，若自身耐久值百分比低于<color=#F74848>60%</color>，无视目标<color=#F74848>27%</color>护甲值和<color=#F74848>14%</color>闪避值",
+          "BufCarried": "303971",
+          "SkillIcon": "Icon_entry_10090",
+          "icon": "Icon_entry_10090",
+          "Status": 1,
+          "weight": 648
+        },
+        {
+          "ID": "30398",
+          "name": "狂暴模组",
+          "SpecificEffects": "攻击时，若自身耐久值百分比低于<color=#F74848>60%</color>，无视目标<color=#F74848>35%</color>护甲值和<color=#F74848>18%</color>闪避值；\n机兵移动力增加<color=#F74848>1</color>格，移动时无视单位阻挡，攻击位于移动路径上的敌机时，自身触发的<buf ID=900001>[追击]</buf>效果替换为<buf ID=900010>[连续攻击]</buf>",
+          "BufCarried": "303981/303983/303984",
+          "SkillIcon": "Icon_entry_10090",
+          "icon": "Icon_entry_10090",
+          "Status": 1,
+          "weight": 649
+        }
+      ],
+      "introduce": "专为习惯将自己置入险境的机师而设计。",
+      "ModuleIcon": "Icon_entry_10090",
+      "icon": "Icon_entry_10090",
+      "IconType": "GeneralSuit",
+      "ObtainingMethod": "商店购买",
+      "Status": 1,
+      "weight": 78
+    },
+    "now": "2025-09-16 16:21:39"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

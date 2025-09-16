@@ -1,0 +1,42 @@
+{
+  "data": {
+    "data": [
+      {
+        "ID": "10414123",
+        "name": "群星·改Ⅲ",
+        "quality": "UR",
+        "grade": "70",
+        "WeaponType1": "Melee",
+        "WeaponType2": "Shield",
+        "type": "Shield",
+        "LimitedModelOfWeapon": "Heavy",
+        "RestrictionsPositionOfWeapon": "Hand",
+        "range": "1",
+        "WeaponWeight": "390",
+        "WeaponBasicAttackingPower": "380",
+        "WeaponHitPoint": "3460",
+        "ShieldbloodBase": "4794",
+        "PassiveSkill": [
+          {
+            "ID": "53064",
+            "name": "增幅合金",
+            "SpecificEffects": "盾牌提供的基础耐久值提升<color=#F74848>100%</color>",
+            "SkillIcon": "Icon_skill_passive_2118",
+            "icon": "Icon_skill_passive_2118",
+            "Status": 1,
+            "weight": 1034
+          }
+        ],
+        "IconResourcePath": "Icon_weapon_10400501",
+        "icon": "Icon_weapon_10400501",
+        "describe": "采用了UKB-1晶格冶炼技术而诞生的群星大盾，镀有全新箔体涂层的冲压护板在提高强度的同时增加了干扰仪的作用范围，综合防护性能大幅提升。",
+        "Status": 1,
+        "weight": 685
+      }
+    ],
+    "now": "2025-09-16 16:19:55"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

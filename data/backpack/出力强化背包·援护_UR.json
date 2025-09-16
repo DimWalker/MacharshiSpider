@@ -13,19 +13,19 @@
         {
           "ID": "61011",
           "name": "出力增幅Ⅲ·援护",
-          "SpecificEffects": "机兵获得额外<color=#F74848>300</color>出力；\n援护防御时，受到暴击率降低<color=#F74848>15%</color>，受暴击伤害降低<color=#F74848>10%</color>；\n机兵躯干耐久值提升<color=#F74848>10%</color>，造成伤害提升<color=#F74848>5%</color>；",
+          "SpecificEffects": "机兵获得额外<color=#F74848>300</color>出力；\n援护防御时，受到暴击率降低<color=#F74848>15%</color>，受暴击伤害降低<color=#F74848>10%</color>；\n机兵躯干耐久值提升<color=#F74848>10%</color>，造成伤害提升<color=#F74848>5%</color>",
           "BufCarried": "600831",
           "SkillIcon": "Icon_skill_passive_5148",
           "icon": "Icon_skill_passive_5148",
           "Status": 1,
-          "weight": 1056
+          "weight": 1222
         }
       ],
       "HowGet": "无",
       "RelatedDescription": "通过外部挂载的小型功能装置为机兵提供额外的出力，使其拥有更高的作战全重上限。同时集成了强化机兵援护能力的功能。",
       "Status": 1
     },
-    "now": "2025-02-12 00:14:43"
+    "now": "2025-09-16 16:20:42"
   },
   "status": 1,
   "switch": null,

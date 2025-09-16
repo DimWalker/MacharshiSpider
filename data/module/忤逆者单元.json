@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "20561",
+      "ModuleName": "忤逆者单元",
+      "name": "忤逆者单元",
+      "EntryLevel": "1",
+      "quality": "SSR",
+      "ModuleEffects": "20561/20562/20563/20564",
+      "WithPassiveSkills": [
+        {
+          "ID": "20561",
+          "name": "忤逆者单元",
+          "SpecificEffects": "遭受攻击时，每闪避<color=#F74848>1</color>次攻击，获得伤害提升<color=#F74848>1%</color>，最多提升<color=#F74848>8%</color>，行动结束时降低<color=#F74848>2%</color>",
+          "BufCarried": "205611",
+          "SkillIcon": "Icon_skill_passive_1171",
+          "icon": "Icon_skill_passive_1171",
+          "Status": 1,
+          "weight": 342
+        },
+        {
+          "ID": "20562",
+          "name": "忤逆者单元",
+          "SpecificEffects": "遭受攻击时，每闪避<color=#F74848>1</color>次攻击，获得伤害提升<color=#F74848>1.5%</color>，最多提升<color=#F74848>15%</color>，行动结束时降低<color=#F74848>4%</color>",
+          "BufCarried": "205621",
+          "SkillIcon": "Icon_skill_passive_1171",
+          "icon": "Icon_skill_passive_1171",
+          "Status": 1,
+          "weight": 343
+        },
+        {
+          "ID": "20563",
+          "name": "忤逆者单元",
+          "SpecificEffects": "遭受攻击时，每闪避<color=#F74848>1</color>次攻击，获得伤害提升<color=#F74848>2%</color>，最多提升<color=#F74848>24%</color>，行动结束时降低<color=#F74848>7%</color>",
+          "BufCarried": "205631",
+          "SkillIcon": "Icon_skill_passive_1171",
+          "icon": "Icon_skill_passive_1171",
+          "Status": 1,
+          "weight": 344
+        },
+        {
+          "ID": "20564",
+          "name": "忤逆者单元",
+          "SpecificEffects": "遭受攻击时，每闪避<color=#F74848>1</color>次攻击，获得伤害提升<color=#F74848>2.5%</color>，最多提升<color=#F74848>35%</color>，行动结束时降低<color=#F74848>10%</color>",
+          "BufCarried": "205641",
+          "SkillIcon": "Icon_skill_passive_1171",
+          "icon": "Icon_skill_passive_1171",
+          "Status": 1,
+          "weight": 345
+        }
+      ],
+      "introduce": "卡玛达公司研发的智能调度单元，可将机兵紧急闪避时调用的多余能量回收并转移至武装系统，有效提升短时打击能力。",
+      "ModuleIcon": "Icon_skill_passive_1171",
+      "icon": "Icon_skill_passive_1171",
+      "IconType": "SuitS",
+      "ObtainingMethod": "模组生产",
+      "Status": 1,
+      "weight": 50
+    },
+    "now": "2025-09-16 16:21:51"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

@@ -1,0 +1,33 @@
+{
+  "data": {
+    "data": {
+      "ID": "61002406",
+      "name": "影猎者背包",
+      "quality": "SSSR",
+      "weight": "150",
+      "BackpackMainType": "Invisible",
+      "AssemblableAirmenType": "Light/Medium/Heavy",
+      "BackpackIcon": "Icon_backpack_60900201",
+      "icon": "Icon_backpack_60900201",
+      "WithPassiveSkills": [
+        {
+          "ID": "62308",
+          "name": "影猎者驱动·首攻",
+          "SpecificEffects": "出战时，立即获得<buf ID=3004412>[隐形Ⅱ]</buf>，持续<color=#F74848>2</color>回合；\n行动结束时如果周围<color=#F74848>1</color>格内没有敌军开启<buf ID=3004412>[隐形Ⅱ]</buf>，持续<color=#F74848>2</color>回合，触发间隔<color=#F74848>3</color>回合；\n每回合第<color=#F74848>1</color>次主动攻击对战时，伤害提升<color=#F74848>7.5%</color>，暴击率提升<color=#F74848>5%</color>；\n机兵躯干耐久值提升<color=#F74848>10%</color>，造成伤害提升<color=#F74848>5%</color>",
+          "BufCarried": "623081/623082/600431",
+          "SkillIcon": "Icon_skill_passive_5021",
+          "icon": "Icon_skill_passive_5021",
+          "Status": 1,
+          "weight": 1347
+        }
+      ],
+      "HowGet": "无",
+      "RelatedDescription": "旧式隐形强化背包的改良升级款，先进的光学系统能够扭曲光线，让装配该型号背包的机兵处于某种程度上的隐形状态。同时集成了强化机兵每回合首次攻击能力的功能。",
+      "Status": 1
+    },
+    "now": "2025-09-16 16:20:57"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

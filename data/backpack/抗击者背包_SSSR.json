@@ -1,0 +1,33 @@
+{
+  "data": {
+    "data": {
+      "ID": "60301106",
+      "name": "抗击者背包",
+      "quality": "SSSR",
+      "weight": "150",
+      "BackpackMainType": "Interference",
+      "AssemblableAirmenType": "Light/Medium/Heavy",
+      "BackpackIcon": "Icon_backpack_60300201",
+      "icon": "Icon_backpack_60300201",
+      "WithPassiveSkills": [
+        {
+          "ID": "62307",
+          "name": "抗击者驱动·攻击",
+          "SpecificEffects": "全类型机兵可装备；\n受到战术攻击时遭受伤害降低<color=#F74848>25%</color>，同类效果不可叠加；\n全场敌方主动使用战术武器攻击时，战前获得<color=#F74848>1</color>层<buf ID=623076>[反制充能]</buf>，若自身为攻击目标时，额外获得<color=#F74848>1</color>层；获得<color=#F74848>6</color>层<buf ID=623076>[反制充能]</buf>时，战后回复自身所有部位<color=#F74848>15%</color>耐久值并回复<color=#F74848>1</color>AP，触发后移除所有层数，且当前回合不再获得<buf ID=623076>[反制充能]</buf>；\n对战时，使敌人伤害降低<color=#F74848>10%</color>；\n机兵躯干耐久值提升<color=#F74848>10%</color>",
+          "BufCarried": "601721/600931/623071/623073/623077",
+          "SkillIcon": "Icon_skill_passive_5232",
+          "icon": "Icon_skill_passive_5232",
+          "Status": 1,
+          "weight": 1346
+        }
+      ],
+      "HowGet": "无",
+      "RelatedDescription": "旧式诱导干扰背包的改良升级款，通过发射电磁波对飞弹进行压制性信号干扰，扰乱电子设备，从而达到削弱战术武器威力的效果。同时集成了影响敌机攻击能力的功能。",
+      "Status": 1
+    },
+    "now": "2025-09-16 16:20:57"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

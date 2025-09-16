@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_40091",
           "icon": "Icon_entry_40091",
           "Status": 1,
-          "weight": 674
+          "weight": 770
         },
         {
           "ID": "40092",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_40091",
           "icon": "Icon_entry_40091",
           "Status": 1,
-          "weight": 675
+          "weight": 771
         },
         {
           "ID": "40093",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_40091",
           "icon": "Icon_entry_40091",
           "Status": 1,
-          "weight": 676
+          "weight": 772
         },
         {
           "ID": "40094",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_40091",
           "icon": "Icon_entry_40091",
           "Status": 1,
-          "weight": 677
+          "weight": 773
         }
       ],
       "introduce": "护理模组能让你的机兵预存更多的维修空间，让那些机械师维修时少费点劲。",
@@ -55,9 +55,9 @@
       "IconType": "PropertyA",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 85
+      "weight": 97
     },
-    "now": "2025-02-12 00:15:00"
+    "now": "2025-09-16 16:21:32"
   },
   "status": 1,
   "switch": null,

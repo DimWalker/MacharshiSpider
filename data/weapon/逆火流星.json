@@ -1,0 +1,80 @@
+{
+  "data": {
+    "data": [
+      {
+        "ID": "40115122",
+        "name": "逆火流星",
+        "quality": "SSSR",
+        "grade": "70",
+        "WeaponType1": "Heavy",
+        "WeaponType2": "Missile",
+        "type": "Missile",
+        "LimitedModelOfWeapon": "Medium",
+        "RestrictionsPositionOfWeapon": "Shoulder",
+        "range": "3-6",
+        "WeaponWeight": "950",
+        "WeaponBasicAttackingPower": "500",
+        "WeaponHitPoint": "3619",
+        "WeaponUnderstanding": "4603",
+        "NumberOfBullets": "2",
+        "InitiativeSkill": [
+          {
+            "ID": "4011",
+            "remarks": "导弹攻击",
+            "name": "定点打击",
+            "describe": "使用导弹攻击单个目标，对命中部位造成<color=#F74848>1.0</color>倍伤害，对其他部位造成主体伤害<color=#F74848>50%</color>的溅射伤害",
+            "type": "SpecialAssault",
+            "CD": "0",
+            "Ap": "2",
+            "matchingWeaponType": "导弹",
+            "SkillIcon": "Icon_skill_order_1001",
+            "icon": "Icon_skill_order_1001",
+            "Status": 1,
+            "weight": 588
+          }
+        ],
+        "PassiveSkill": [
+          {
+            "ID": "53086",
+            "name": "超距效应",
+            "SpecificEffects": "使用导弹攻击时，若与目标距离大于等于<color=#F74848>4</color>格，伤害提升<color=#F74848>30%</color>",
+            "BufCarried": "530861",
+            "SkillIcon": "Icon_skill_passive_5237",
+            "icon": "Icon_skill_passive_5237",
+            "Status": 1,
+            "weight": 1056
+          },
+          {
+            "ID": "53087",
+            "name": "躁动意气",
+            "SpecificEffects": "强化<buf ID=900144>[炽心]</buf>效果：出战时，获得<color=#F74848>5</color>层<buf ID=530872>[灼意]</buf>，天赋发动<buf ID=900002>[协力攻击]</buf>后，或主动攻击后每消耗<color=#F74848>1</color>发弹药，自身获得<color=#F74848>1</color>层<buf ID=530872>[灼意]</buf>，可叠加<color=#F74848>15</color>层，拥有<color=#F74848>10</color>层及以上时，AP回复+<color=#F74848>1</color>；\n<buf ID=4008509>[锁定]</buf>使目标遭受亚瑟主动攻击和所有<buf ID=900002>[协力攻击]</buf>的伤害倍率+<color=#F74848>0.1</color>",
+            "BufCarried": "530871/530873/530874/530875/530876/530878",
+            "SkillIcon": "Icon_skill_passive_5271",
+            "icon": "Icon_skill_passive_5271",
+            "Status": 1,
+            "weight": 1057
+          },
+          {
+            "ID": "53085",
+            "name": "预备弹舱",
+            "SpecificEffects": "使用导弹发起主动攻击后，向携带的导弹随机装填弹药，装填数等同于该次攻击的消耗数量，间隔<color=#F74848>1</color>回合才可再次发动",
+            "BufCarried": "530851",
+            "SkillIcon": "Icon_skill_passive_5223",
+            "icon": "Icon_skill_passive_5223",
+            "Status": 1,
+            "weight": 1055
+          }
+        ],
+        "IconResourcePath": "Icon_weapon_40100502",
+        "icon": "Icon_weapon_40100502",
+        "describe": "经历无数次失败后终于完成的改制导弹，卸除了安全限制装置又追加了弹舱。它的制造者坚信，只要划破空气的导弹依然炽烈，维斯珀尔的光芒就永远不会消散。",
+        "Status": 1,
+        "weight": 737
+      }
+    ],
+    "now": "2025-09-16 16:20:01"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

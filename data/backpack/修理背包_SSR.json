@@ -18,7 +18,7 @@
           "SkillIcon": "Icon_skill_passive_3102",
           "icon": "Icon_skill_passive_3102",
           "Status": 1,
-          "weight": 1044
+          "weight": 1210
         }
       ],
       "HowGet": "无",
@@ -26,7 +26,7 @@
       "AmountOfRepair": "204",
       "Status": 1
     },
-    "now": "2025-02-12 00:14:27"
+    "now": "2025-09-16 16:20:03"
   },
   "status": 1,
   "switch": null,

@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_40211",
           "icon": "Icon_entry_40211",
           "Status": 1,
-          "weight": 770
+          "weight": 866
         },
         {
           "ID": "40212",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_40211",
           "icon": "Icon_entry_40211",
           "Status": 1,
-          "weight": 771
+          "weight": 867
         },
         {
           "ID": "40213",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_40211",
           "icon": "Icon_entry_40211",
           "Status": 1,
-          "weight": 772
+          "weight": 868
         },
         {
           "ID": "40214",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_40211",
           "icon": "Icon_entry_40211",
           "Status": 1,
-          "weight": 773
+          "weight": 869
         }
       ],
       "introduce": "所有机械师们都在哄抢维修模组Ⅱ型，不知道那些厂商是怎么想的，这玩意应该为所有出厂的维修型机兵都预装配才对。",
@@ -55,9 +55,9 @@
       "IconType": "PropertyS",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 110
+      "weight": 122
     },
-    "now": "2025-02-12 00:14:56"
+    "now": "2025-09-16 16:21:22"
   },
   "status": 1,
   "switch": null,

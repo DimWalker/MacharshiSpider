@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_10027",
           "icon": "Icon_entry_10027",
           "Status": 1,
-          "weight": 450
+          "weight": 482
         },
         {
           "ID": "30182",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_10027",
           "icon": "Icon_entry_10027",
           "Status": 1,
-          "weight": 451
+          "weight": 483
         },
         {
           "ID": "30183",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_10027",
           "icon": "Icon_entry_10027",
           "Status": 1,
-          "weight": 452
+          "weight": 484
         },
         {
           "ID": "30184",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_10027",
           "icon": "Icon_entry_10027",
           "Status": 1,
-          "weight": 453
+          "weight": 485
         },
         {
           "ID": "30185",
@@ -56,7 +56,7 @@
           "SkillIcon": "Icon_entry_10027",
           "icon": "Icon_entry_10027",
           "Status": 1,
-          "weight": 454
+          "weight": 486
         },
         {
           "ID": "30186",
@@ -66,7 +66,7 @@
           "SkillIcon": "Icon_entry_10027",
           "icon": "Icon_entry_10027",
           "Status": 1,
-          "weight": 455
+          "weight": 487
         },
         {
           "ID": "30187",
@@ -76,7 +76,7 @@
           "SkillIcon": "Icon_entry_10027",
           "icon": "Icon_entry_10027",
           "Status": 1,
-          "weight": 456
+          "weight": 488
         },
         {
           "ID": "30188",
@@ -86,7 +86,7 @@
           "SkillIcon": "Icon_entry_10027",
           "icon": "Icon_entry_10027",
           "Status": 1,
-          "weight": 457
+          "weight": 489
         }
       ],
       "introduce": "冲阵模组正如其名，鼓励机师们操作他们的机兵冲入敌阵，调用预留的高消耗装甲以吸收敌人的攻击，为队友创造出良好的输出环境。",
@@ -95,9 +95,9 @@
       "IconType": "GeneralSuit",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 60
+      "weight": 68
     },
-    "now": "2025-02-12 00:15:04"
+    "now": "2025-09-16 16:21:44"
   },
   "status": 1,
   "switch": null,

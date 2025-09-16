@@ -25,7 +25,7 @@
             "SkillIcon": "Icon_skill_passive_5229",
             "icon": "Icon_skill_passive_5229",
             "Status": 1,
-            "weight": 890
+            "weight": 1008
           },
           {
             "ID": "53039",
@@ -35,7 +35,7 @@
             "SkillIcon": "Icon_skill_passive_5230",
             "icon": "Icon_skill_passive_5230",
             "Status": 1,
-            "weight": 891
+            "weight": 1009
           },
           {
             "ID": "53037",
@@ -45,17 +45,17 @@
             "SkillIcon": "Icon_skill_passive_5228",
             "icon": "Icon_skill_passive_5228",
             "Status": 1,
-            "weight": 889
+            "weight": 1007
           }
         ],
         "IconResourcePath": "Icon_weapon_20500501",
         "icon": "Icon_weapon_20500501",
         "describe": "原本是市面上常见的尖端喷火器的改款，没想到在绘梨沙手上玩出了新花样——连通动力单元后，可以在行进轨迹上留下熊熊燃烧的火焰尾迹——对于这位常年被各大势力追捕的独立记者来说，她的逃脱概率又在100%的基础上增加了几个百分点。",
         "Status": 1,
-        "weight": 713
+        "weight": 721
       }
     ],
-    "now": "2025-02-12 00:14:23"
+    "now": "2025-09-16 16:19:46"
   },
   "status": 1,
   "switch": null,

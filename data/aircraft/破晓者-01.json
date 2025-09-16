@@ -27,7 +27,7 @@
             "SkillIcon": "Icon_entry_10055",
             "icon": "Icon_entry_10055",
             "Status": 1,
-            "weight": 379,
+            "weight": 411,
             "id": "3009",
             "level": 2
           },
@@ -43,7 +43,7 @@
             "SkillIcon": "Icon_entry_40021",
             "icon": "Icon_entry_40021",
             "Status": 1,
-            "weight": 619,
+            "weight": 715,
             "id": "4002",
             "level": 2
           },
@@ -85,7 +85,7 @@
         "mechaIcon": "Icon_wap2301_1",
         "lihuiIcon": "icon_lihui_wap2301",
         "Status": 1,
-        "weight": 172,
+        "weight": 196,
         "manji": {
           "name": "破晓者-01",
           "durable": "9230",
@@ -107,7 +107,7 @@
               "SkillIcon": "Icon_entry_10055",
               "icon": "Icon_entry_10055",
               "Status": 1,
-              "weight": 385,
+              "weight": 417,
               "id": "3009",
               "level": 8
             },
@@ -123,7 +123,7 @@
               "SkillIcon": "Icon_entry_40021",
               "icon": "Icon_entry_40021",
               "Status": 1,
-              "weight": 621,
+              "weight": 717,
               "id": "4002",
               "level": 4
             },
@@ -161,7 +161,7 @@
             }
           ],
           "Status": 1,
-          "weight": 172
+          "weight": 196
         }
       },
       {
@@ -180,7 +180,7 @@
         "introduce": "REV-01 破晓者-01\n在彼得·路德维希研发的试验机型的基础上，由晨星同盟和地平线公司联合改良的中型机兵。REV-01上搭载了地平线公司最新的钢岚合金框架，以及为特殊机师定制的操作系统。REV-01舍弃了肩部战术武器的部署接口与空间，替换为岚物质粒子储存装置，能在手臂部位被破坏时使用储存的岚物质粒子即刻修复手臂，大幅提高机兵在战场上的作战效率和适应性。",
         "mechaIcon": "Icon_wap2301_2",
         "Status": 1,
-        "weight": 173,
+        "weight": 197,
         "manji": {
           "name": "破晓者-01",
           "durable": "4670",
@@ -190,7 +190,7 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "20383:1/3009:2/4002:1/",
           "Status": 1,
-          "weight": 173
+          "weight": 197
         }
       },
       {
@@ -209,7 +209,7 @@
         "introduce": "REV-01 破晓者-01\n在彼得·路德维希研发的试验机型的基础上，由晨星同盟和地平线公司联合改良的中型机兵。REV-01上搭载了地平线公司最新的钢岚合金框架，以及为特殊机师定制的操作系统。REV-01舍弃了肩部战术武器的部署接口与空间，替换为岚物质粒子储存装置，能在手臂部位被破坏时使用储存的岚物质粒子即刻修复手臂，大幅提高机兵在战场上的作战效率和适应性。",
         "mechaIcon": "Icon_wap2301_3",
         "Status": 1,
-        "weight": 174,
+        "weight": 198,
         "manji": {
           "name": "破晓者-01",
           "durable": "4670",
@@ -219,7 +219,7 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "20383:1/3009:2/4002:1/",
           "Status": 1,
-          "weight": 174
+          "weight": 198
         }
       },
       {
@@ -239,7 +239,7 @@
         "introduce": "REV-01 破晓者-01\n在彼得·路德维希研发的试验机型的基础上，由晨星同盟和地平线公司联合改良的中型机兵。REV-01上搭载了地平线公司最新的钢岚合金框架，以及为特殊机师定制的操作系统。REV-01舍弃了肩部战术武器的部署接口与空间，替换为岚物质粒子储存装置，能在手臂部位被破坏时使用储存的岚物质粒子即刻修复手臂，大幅提高机兵在战场上的作战效率和适应性。",
         "mechaIcon": "Icon_wap2301_4",
         "Status": 1,
-        "weight": 175,
+        "weight": 199,
         "manji": {
           "name": "破晓者-01",
           "durable": "7534",
@@ -250,11 +250,11 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "20381:1/3009:2/4002:1/",
           "Status": 1,
-          "weight": 175
+          "weight": 199
         }
       }
     ],
-    "now": "2025-02-12 00:13:50"
+    "now": "2025-09-16 16:18:25"
   },
   "status": 1,
   "switch": null,

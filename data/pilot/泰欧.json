@@ -32,7 +32,7 @@
         "SkillIcon": "Icon_skill_talent_1102",
         "icon": "Icon_skill_talent_1102",
         "Status": 1,
-        "weight": 2380
+        "weight": 2677
       },
       "Talent3_5Ability": {
         "ID": "100251",
@@ -42,7 +42,7 @@
         "SkillIcon": "Icon_skill_talent_1102",
         "icon": "Icon_skill_talent_1102",
         "Status": 1,
-        "weight": 2381
+        "weight": 2678
       },
       "NeuralDriveTemplate": {
         "ID": "10101109",
@@ -71,7 +71,7 @@
                   "SkillIcon": "Icon_skill_passive_5010",
                   "icon": "Icon_skill_passive_5010",
                   "Status": 1,
-                  "weight": 2359
+                  "weight": 2656
                 }
               },
               {
@@ -89,7 +89,7 @@
                   "SkillIcon": "Icon_skill_passive_5006",
                   "icon": "Icon_skill_passive_5006",
                   "Status": 1,
-                  "weight": 2360
+                  "weight": 2657
                 }
               },
               {
@@ -107,7 +107,7 @@
                   "SkillIcon": "Icon_skill_passive_5004",
                   "icon": "Icon_skill_passive_5004",
                   "Status": 1,
-                  "weight": 2361
+                  "weight": 2658
                 }
               }
             ],
@@ -140,7 +140,7 @@
                   "SkillIcon": "Icon_skill_passive_5010",
                   "icon": "Icon_skill_passive_5010",
                   "Status": 1,
-                  "weight": 2362
+                  "weight": 2659
                 }
               },
               {
@@ -159,7 +159,7 @@
                   "SkillIcon": "Icon_skill_passive_5006",
                   "icon": "Icon_skill_passive_5006",
                   "Status": 1,
-                  "weight": 2363
+                  "weight": 2660
                 }
               },
               {
@@ -177,7 +177,7 @@
                   "SkillIcon": "Icon_skill_passive_5004",
                   "icon": "Icon_skill_passive_5004",
                   "Status": 1,
-                  "weight": 2364
+                  "weight": 2661
                 }
               }
             ],
@@ -210,7 +210,7 @@
                   "SkillIcon": "Icon_skill_passive_5011",
                   "icon": "Icon_skill_passive_5011",
                   "Status": 1,
-                  "weight": 2365
+                  "weight": 2662
                 }
               },
               {
@@ -228,7 +228,7 @@
                   "SkillIcon": "Icon_skill_passive_5004",
                   "icon": "Icon_skill_passive_5004",
                   "Status": 1,
-                  "weight": 2366
+                  "weight": 2663
                 }
               },
               {
@@ -247,7 +247,7 @@
                   "SkillIcon": "Icon_skill_passive_5010",
                   "icon": "Icon_skill_passive_5010",
                   "Status": 1,
-                  "weight": 2367
+                  "weight": 2664
                 }
               },
               {
@@ -266,7 +266,7 @@
                   "SkillIcon": "Icon_skill_passive_5011",
                   "icon": "Icon_skill_passive_5011",
                   "Status": 1,
-                  "weight": 2368
+                  "weight": 2665
                 }
               },
               {
@@ -285,7 +285,7 @@
                   "SkillIcon": "Icon_skill_passive_5011",
                   "icon": "Icon_skill_passive_5011",
                   "Status": 1,
-                  "weight": 2369
+                  "weight": 2666
                 }
               },
               {
@@ -304,7 +304,7 @@
                   "SkillIcon": "Icon_skill_passive_5011",
                   "icon": "Icon_skill_passive_5011",
                   "Status": 1,
-                  "weight": 2370
+                  "weight": 2667
                 }
               }
             ],
@@ -331,7 +331,7 @@
       ],
       "Introduction": "晨星同盟地区的运输车司机，收钱便会运输任何货物，无论合法与否。寡言但生性凶狠，不畏惧任何争斗，多次亲自击退劫匪。\n隐约觉察到了米赫玛岛潜在的风暴，他也开始以自己的方式思考如何在乱世中保全自身并最终回到故乡。",
       "Status": 1,
-      "weight": 21,
+      "weight": 22,
       "manji": {
         "quality": "R",
         "InitialPilotAPValue_PilotAPInitBase": "3",
@@ -369,7 +369,7 @@
             "SkillIcon": "Icon_skill_passive_5010",
             "icon": "Icon_skill_passive_5010",
             "Status": 1,
-            "weight": 2358
+            "weight": 2655
           }
         },
         {
@@ -514,7 +514,7 @@
             "SkillIcon": "Icon_skill_passive_2102",
             "icon": "Icon_skill_passive_2102",
             "Status": 1,
-            "weight": 2378
+            "weight": 2675
           }
         },
         {
@@ -542,7 +542,7 @@
             "SkillIcon": "Icon_skill_order_3004",
             "icon": "Icon_skill_order_3004",
             "Status": 1,
-            "weight": 461
+            "weight": 517
           }
         },
         {
@@ -567,7 +567,7 @@
             "SkillIcon": "Icon_skill_passive_1101",
             "icon": "Icon_skill_passive_1101",
             "Status": 1,
-            "weight": 2379
+            "weight": 2676
           }
         },
         {
@@ -595,7 +595,7 @@
             "SkillIcon": "Icon_skill_order_5002",
             "icon": "Icon_skill_order_5002",
             "Status": 1,
-            "weight": 451
+            "weight": 507
           }
         },
         {
@@ -623,7 +623,7 @@
             "SkillIcon": "Icon_skill_main_1103",
             "icon": "Icon_skill_main_1103",
             "Status": 1,
-            "weight": 182
+            "weight": 196
           }
         },
         {
@@ -809,7 +809,7 @@
       ],
       "biomimetic_computer_type": 1
     },
-    "now": "2025-02-12 00:13:56"
+    "now": "2025-09-16 16:18:41"
   },
   "status": 1,
   "switch": null,

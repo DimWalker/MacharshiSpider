@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_40051",
           "icon": "Icon_entry_40051",
           "Status": 1,
-          "weight": 642
+          "weight": 738
         },
         {
           "ID": "40052",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_40051",
           "icon": "Icon_entry_40051",
           "Status": 1,
-          "weight": 643
+          "weight": 739
         },
         {
           "ID": "40053",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_40051",
           "icon": "Icon_entry_40051",
           "Status": 1,
-          "weight": 644
+          "weight": 740
         },
         {
           "ID": "40054",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_40051",
           "icon": "Icon_entry_40051",
           "Status": 1,
-          "weight": 645
+          "weight": 741
         }
       ],
       "introduce": "如果你想要在战场上活得够久，耐久模组Ⅱ型永远是最好的选择。",
@@ -55,9 +55,9 @@
       "IconType": "PropertyS",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 78
+      "weight": 90
     },
-    "now": "2025-02-12 00:15:01"
+    "now": "2025-09-16 16:21:35"
   },
   "status": 1,
   "switch": null,

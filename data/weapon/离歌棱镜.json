@@ -1,0 +1,63 @@
+{
+  "data": {
+    "data": [
+      {
+        "ID": "10515123",
+        "name": "离歌棱镜",
+        "quality": "SSSR",
+        "grade": "70",
+        "WeaponType1": "Melee",
+        "WeaponType2": "Buckler",
+        "type": "Buckler",
+        "LimitedModelOfWeapon": "Light/Medium/Heavy",
+        "RestrictionsPositionOfWeapon": "Hand",
+        "range": "1",
+        "WeaponWeight": "70",
+        "WeaponBasicAttackingPower": "287",
+        "WeaponHitPoint": "3057",
+        "ShieldbloodBase": "849",
+        "PassiveSkill": [
+          {
+            "ID": "53080",
+            "name": "熟能生巧",
+            "SpecificEffects": "累计发动<color=#F74848>3</color>次主动修理后，获得<color=#F74848>1</color>AP和<buf ID=500923>[整葺Ⅱ]</buf>，持续<color=#F74848>1</color>回合",
+            "BufCarried": "530801",
+            "SkillIcon": "Icon_skill_passive_5212",
+            "icon": "Icon_skill_passive_5212",
+            "Status": 1,
+            "weight": 1050
+          },
+          {
+            "ID": "53081",
+            "name": "金雀啼鸣",
+            "SpecificEffects": "强化<buf ID=900140>[自动模块]</buf>效果：<skill mainSkill=500406>[维修共感]</skill>和<skill mainSkill=500408>[全线整备]</skill>可驱散额外修理目标<color=#F74848>1</color>个减益效果；<buf ID=900038>[常效维护]</buf>每次触发时，驱散<color=#F74848>1</color>个减益效果",
+            "BufCarried": "530811",
+            "SkillIcon": "Icon_skill_passive_3134",
+            "icon": "Icon_skill_passive_3134",
+            "Status": 1,
+            "weight": 1051
+          },
+          {
+            "ID": "53079",
+            "name": "如数奉还",
+            "SpecificEffects": "持盾手受到攻击时，战后为敌机施加<buf ID=7101003>[命中率降低Ⅱ]</buf>和<buf ID=7101303>[暴击率降低Ⅱ]</buf>，持续<color=#F74848>1</color>回合",
+            "BufCarried": "530791",
+            "SkillIcon": "Icon_skill_passive_5131",
+            "icon": "Icon_skill_passive_5131",
+            "Status": 1,
+            "weight": 1049
+          }
+        ],
+        "IconResourcePath": "Icon_weapon_10500601",
+        "icon": "Icon_weapon_10500601",
+        "describe": "「梅利莎，直到最后我才明白，能够打开这个囚笼的人，只能是你自己……这是再好不过的结局了。」",
+        "Status": 1,
+        "weight": 734
+      }
+    ],
+    "now": "2025-09-16 16:19:59"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

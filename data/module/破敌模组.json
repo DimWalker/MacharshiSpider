@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_10054",
           "icon": "Icon_entry_10054",
           "Status": 1,
-          "weight": 370
+          "weight": 402
         },
         {
           "ID": "30082",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_10054",
           "icon": "Icon_entry_10054",
           "Status": 1,
-          "weight": 371
+          "weight": 403
         },
         {
           "ID": "30083",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_10054",
           "icon": "Icon_entry_10054",
           "Status": 1,
-          "weight": 372
+          "weight": 404
         },
         {
           "ID": "30084",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_10054",
           "icon": "Icon_entry_10054",
           "Status": 1,
-          "weight": 373
+          "weight": 405
         },
         {
           "ID": "30085",
@@ -56,7 +56,7 @@
           "SkillIcon": "Icon_entry_10054",
           "icon": "Icon_entry_10054",
           "Status": 1,
-          "weight": 374
+          "weight": 406
         },
         {
           "ID": "30086",
@@ -66,7 +66,7 @@
           "SkillIcon": "Icon_entry_10054",
           "icon": "Icon_entry_10054",
           "Status": 1,
-          "weight": 375
+          "weight": 407
         },
         {
           "ID": "30087",
@@ -76,7 +76,7 @@
           "SkillIcon": "Icon_entry_10054",
           "icon": "Icon_entry_10054",
           "Status": 1,
-          "weight": 376
+          "weight": 408
         },
         {
           "ID": "30088",
@@ -86,7 +86,7 @@
           "SkillIcon": "Icon_entry_10054",
           "icon": "Icon_entry_10054",
           "Status": 1,
-          "weight": 377
+          "weight": 409
         }
       ],
       "introduce": "最佳的进攻时机并不是己方的全盛时期，而是对方机兵遭到削弱的时刻，这正是破敌模组遵循的基本战略。",
@@ -95,9 +95,9 @@
       "IconType": "GeneralSuit",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 50
+      "weight": 58
     },
-    "now": "2025-02-12 00:15:06"
+    "now": "2025-09-16 16:21:48"
   },
   "status": 1,
   "switch": null,

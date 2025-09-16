@@ -1026,6 +1026,62 @@
         "icon": "Icon_backpack_60350201"
       },
       {
+        "ID": "60101706",
+        "name": "强袭者背包",
+        "quality": "SSSR",
+        "weight": "150",
+        "BackpackMainType": "BackupEquipment",
+        "icon": "Icon_backpack_61400101"
+      },
+      {
+        "ID": "60802406",
+        "name": "引航者背包",
+        "quality": "SSSR",
+        "weight": "150",
+        "BackpackMainType": "Radar",
+        "icon": "Icon_backpack_60800201"
+      },
+      {
+        "ID": "60902106",
+        "name": "补给者背包",
+        "quality": "SSSR",
+        "weight": "150",
+        "BackpackMainType": "Ammo",
+        "icon": "Icon_backpack_61100101"
+      },
+      {
+        "ID": "60301106",
+        "name": "抗击者背包",
+        "quality": "SSSR",
+        "weight": "150",
+        "BackpackMainType": "Interference",
+        "icon": "Icon_backpack_60300201"
+      },
+      {
+        "ID": "61002406",
+        "name": "影猎者背包",
+        "quality": "SSSR",
+        "weight": "150",
+        "BackpackMainType": "Invisible",
+        "icon": "Icon_backpack_60900201"
+      },
+      {
+        "ID": "60202106",
+        "name": "突击者背包",
+        "quality": "SSSR",
+        "weight": "150",
+        "BackpackMainType": "MovePointAdd",
+        "icon": "Icon_backpack_60500201"
+      },
+      {
+        "ID": "60401706",
+        "name": "侵猎者背包",
+        "quality": "SSSR",
+        "weight": "150",
+        "BackpackMainType": "Flow",
+        "icon": "Icon_backpack_60350201"
+      },
+      {
         "ID": "60100103",
         "name": "出力背包",
         "quality": "SR",
@@ -1306,7 +1362,7 @@
         "icon": "Icon_backpack_60600101"
       }
     ],
-    "now": "2025-02-12 00:14:27"
+    "now": "2025-09-16 16:20:02"
   },
   "status": 1,
   "switch": null,

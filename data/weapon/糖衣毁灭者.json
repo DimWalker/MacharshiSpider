@@ -1,0 +1,90 @@
+{
+  "data": {
+    "data": [
+      {
+        "ID": "50116122",
+        "name": "糖衣毁灭者",
+        "quality": "SSSR",
+        "grade": "70",
+        "WeaponType1": "Heavy",
+        "WeaponType2": "RailGun",
+        "type": "RailGun",
+        "LimitedModelOfWeapon": "Medium",
+        "RestrictionsPositionOfWeapon": "Back",
+        "range": "1-5",
+        "WeaponWeight": "1100",
+        "WeaponBasicAttackingPower": "783",
+        "WeaponHitPoint": "4992",
+        "WeaponUnderstanding": "4603",
+        "NumberOfBullets": "3",
+        "InitiativeSkill": [
+          {
+            "ID": "5011",
+            "remarks": "电磁炮攻击",
+            "name": "电磁激荡",
+            "describe": "使用电磁炮攻击纵向<color=#F74848>5</color>格范围内的所有目标，造成<color=#F74848>1.0</color>倍范围伤害",
+            "type": "SpecialAssault",
+            "CD": "0",
+            "Ap": "3",
+            "matchingWeaponType": "电磁炮",
+            "SkillIcon": "Icon_skill_order_1005",
+            "icon": "Icon_skill_order_1005",
+            "Status": 1,
+            "weight": 591
+          }
+        ],
+        "PassiveSkill": [
+          {
+            "ID": "53068",
+            "name": "贯通脉冲",
+            "SpecificEffects": "使用电磁炮主动攻击时，对携带减益效果的目标伤害提升<color=#F74848>20%</color>",
+            "BufCarried": "530681",
+            "SkillIcon": "Icon_skill_passive_1146",
+            "icon": "Icon_skill_passive_1146",
+            "Status": 1,
+            "weight": 1038
+          },
+          {
+            "ID": "61254",
+            "name": "首攻强化Ⅲ",
+            "SpecificEffects": "每回合第<color=#F74848>1</color>次主动攻击时，伤害提升<color=#F74848>7.5%</color>，暴击率提升<color=#F74848>5%</color>；\n机兵躯干耐久值提升<color=#F74848>10%</color>，造成伤害提升<color=#F74848>5%</color>",
+            "BufCarried": "600433",
+            "SkillIcon": "Icon_skill_passive_5119",
+            "icon": "Icon_skill_passive_5119",
+            "Status": 1,
+            "weight": 1339
+          },
+          {
+            "ID": "53069",
+            "name": "全面扫除",
+            "SpecificEffects": "强化<buf ID=900132>[完美主义]</buf>效果：部署<buf ID=900085>[强磁力线圈]</buf>时偏移方向将变为所选方向及相邻<color=#F74848>2</color>个方向，偏移后的攻击提升<color=#F74848>0.2</color>倍；\n主动攻击时，若目标携带<color=#F74848>5</color>个及以上减益效果，战后对目标施加<buf ID=1009083>[震慑]</buf>，持续<color=#F74848>1</color>回合；\n主动攻击时，每累计施加<color=#F74848>15</color>个减益效果，立即获得<color=#F74848>1</color>AP",
+            "BufCarried": "530699/530693/530692/530694/530695",
+            "SkillIcon": "Icon_skill_passive_5257",
+            "icon": "Icon_skill_passive_5257",
+            "Status": 1,
+            "weight": 1039
+          },
+          {
+            "ID": "53067",
+            "name": "弹药再生",
+            "SpecificEffects": "使用电磁炮主动攻击目标时，若打击的目标大于等于<color=#F74848>3</color>个，战后回复<color=#F74848>1</color>枚弹药，每<color=#F74848>2</color>回合最多发动<color=#F74848>1</color>次",
+            "BufCarried": "530671",
+            "SkillIcon": "Icon_skill_passive_5150",
+            "icon": "Icon_skill_passive_5150",
+            "Status": 1,
+            "weight": 1037
+          }
+        ],
+        "IconResourcePath": "Icon_weapon_50100601",
+        "icon": "Icon_weapon_50100601",
+        "describe": "将通用强化背包与机载电磁炮完美整合的全新试验武装，为背包与炮座的空间与能源之争提供了新的解法，其优秀的远程火力投送能力或许将改写未来的战场逻辑。",
+        "Status": 1,
+        "weight": 738
+      }
+    ],
+    "now": "2025-09-16 16:20:02"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

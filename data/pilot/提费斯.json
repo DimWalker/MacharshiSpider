@@ -28,21 +28,21 @@
         "ID": "600850",
         "name": "迟暮未至",
         "SpecificEffects": "可以使用<skill mainSkill=600850>[战略领域]</skill>指令，间隔<color=#F74848>2</color>回合才可使用",
-        "BufCarried": "6008501",
+        "BufCarried": "6008501/6008504",
         "SkillIcon": "Icon_skill_talent_5137",
         "icon": "Icon_skill_talent_5137",
         "Status": 1,
-        "weight": 3029
+        "weight": 3387
       },
       "Talent3_5Ability": {
         "ID": "600851",
         "name": "迟暮未至",
         "SpecificEffects": "可以使用<skill mainSkill=600850>[战略领域]</skill>指令，间隔<color=#F74848>2</color>回合才可使用；\n在场时，使友方<terrian ID=6008501 />内的队友造成伤害提升<color=#F74848>10%</color>",
-        "BufCarried": "6008501/6008511",
+        "BufCarried": "6008501/6008511/6008504",
         "SkillIcon": "Icon_skill_talent_5137",
         "icon": "Icon_skill_talent_5137",
         "Status": 1,
-        "weight": 3030
+        "weight": 3388
       },
       "NeuralDriveTemplate": {
         "ID": "10103131",
@@ -71,7 +71,7 @@
                   "SkillIcon": "Icon_skill_passive_2001",
                   "icon": "Icon_skill_passive_2001",
                   "Status": 1,
-                  "weight": 2950
+                  "weight": 3308
                 }
               },
               {
@@ -90,7 +90,7 @@
                   "SkillIcon": "Icon_skill_passive_2002",
                   "icon": "Icon_skill_passive_2002",
                   "Status": 1,
-                  "weight": 2951
+                  "weight": 3309
                 }
               },
               {
@@ -108,7 +108,7 @@
                   "SkillIcon": "Icon_skill_passive_5004",
                   "icon": "Icon_skill_passive_5004",
                   "Status": 1,
-                  "weight": 2952
+                  "weight": 3310
                 }
               }
             ],
@@ -141,7 +141,7 @@
                   "SkillIcon": "Icon_skill_passive_2001",
                   "icon": "Icon_skill_passive_2001",
                   "Status": 1,
-                  "weight": 2953
+                  "weight": 3311
                 }
               },
               {
@@ -160,7 +160,7 @@
                   "SkillIcon": "Icon_skill_passive_2002",
                   "icon": "Icon_skill_passive_2002",
                   "Status": 1,
-                  "weight": 2954
+                  "weight": 3312
                 }
               },
               {
@@ -178,7 +178,7 @@
                   "SkillIcon": "Icon_skill_passive_5004",
                   "icon": "Icon_skill_passive_5004",
                   "Status": 1,
-                  "weight": 2955
+                  "weight": 3313
                 }
               }
             ],
@@ -211,7 +211,7 @@
                   "SkillIcon": "Icon_skill_passive_5005",
                   "icon": "Icon_skill_passive_5005",
                   "Status": 1,
-                  "weight": 2956
+                  "weight": 3314
                 }
               },
               {
@@ -229,7 +229,7 @@
                   "SkillIcon": "Icon_skill_passive_5004",
                   "icon": "Icon_skill_passive_5004",
                   "Status": 1,
-                  "weight": 2957
+                  "weight": 3315
                 }
               },
               {
@@ -248,7 +248,7 @@
                   "SkillIcon": "Icon_skill_passive_5155",
                   "icon": "Icon_skill_passive_5155",
                   "Status": 1,
-                  "weight": 2958
+                  "weight": 3316
                 }
               },
               {
@@ -267,7 +267,7 @@
                   "SkillIcon": "Icon_skill_passive_5005",
                   "icon": "Icon_skill_passive_5005",
                   "Status": 1,
-                  "weight": 2959
+                  "weight": 3317
                 }
               },
               {
@@ -286,7 +286,7 @@
                   "SkillIcon": "Icon_skill_passive_5005",
                   "icon": "Icon_skill_passive_5005",
                   "Status": 1,
-                  "weight": 2960
+                  "weight": 3318
                 }
               },
               {
@@ -305,7 +305,7 @@
                   "SkillIcon": "Icon_skill_passive_5005",
                   "icon": "Icon_skill_passive_5005",
                   "Status": 1,
-                  "weight": 2961
+                  "weight": 3319
                 }
               }
             ],
@@ -338,7 +338,7 @@
                   "SkillIcon": "Icon_skill_passive_5205",
                   "icon": "Icon_skill_passive_5205",
                   "Status": 1,
-                  "weight": 3025
+                  "weight": 3383
                 }
               },
               {
@@ -356,7 +356,7 @@
                   "SkillIcon": "Icon_skill_passive_5004",
                   "icon": "Icon_skill_passive_5004",
                   "Status": 1,
-                  "weight": 2962
+                  "weight": 3320
                 }
               },
               {
@@ -375,7 +375,7 @@
                   "SkillIcon": "Icon_skill_passive_2002",
                   "icon": "Icon_skill_passive_2002",
                   "Status": 1,
-                  "weight": 2963
+                  "weight": 3321
                 }
               },
               {
@@ -394,7 +394,7 @@
                   "SkillIcon": "Icon_skill_passive_5205",
                   "icon": "Icon_skill_passive_5205",
                   "Status": 1,
-                  "weight": 3026
+                  "weight": 3384
                 }
               },
               {
@@ -413,7 +413,7 @@
                   "SkillIcon": "Icon_skill_passive_5205",
                   "icon": "Icon_skill_passive_5205",
                   "Status": 1,
-                  "weight": 3027
+                  "weight": 3385
                 }
               },
               {
@@ -428,11 +428,11 @@
                   "ID": "600846",
                   "name": "老骥伏枥4",
                   "SpecificEffects": "部署的<terrian ID=6008501 />持续时间结束时，对领域及其周围<color=#F74848>1</color>圈范围内敌机的所有部位造成最大耐久值<color=#F74848>15%</color>的<buf ID=900017>[固定伤害]</buf>",
-                  "BufCarried": "6008461",
+                  "BufCarried": "6008461/6008462",
                   "SkillIcon": "Icon_skill_passive_5205",
                   "icon": "Icon_skill_passive_5205",
                   "Status": 1,
-                  "weight": 3028
+                  "weight": 3386
                 }
               }
             ],
@@ -467,7 +467,7 @@
       ],
       "Introduction": "「被困期间，我因左大腿的两处枪伤而失去了移动能力。当时和我一起被困的还有另一位军官，他的手臂骨折，关节因为发炎异常肿大，受条件所限此时也只能草草固定。『任务还没有完成，不能坐以待毙。』——他这么说着，用仅剩的一只手拖着我离开了那，在雪中跋涉了九公里，最终找到援军完成了任务。我欠他一条命，后来就一直跟着他，跟了几十年，看着他一路从普通的军官成为赫赫有名的战争英雄，所指挥的米尔萨斯战役足以写入军事教材，『提费斯·穆勒』的威名让所有人都景仰，这是何等荣光。但他总会冷峻地反驳：『赞扬用生命堆积的荣誉，这又是何等的傲慢。』」——晨星同盟防卫军高级军官回忆录",
       "Status": 1,
-      "weight": 48,
+      "weight": 49,
       "manji": {
         "quality": "SSR",
         "InitialPilotAPValue_PilotAPInitBase": "5",
@@ -496,7 +496,7 @@
           "skill3": "600001",
           "icon": "Icon_pilotclass_006_l",
           "Status": 1,
-          "weight": 1628,
+          "weight": 1664,
           "skill": {
             "ID": "600001",
             "name": "据守作战1",
@@ -505,7 +505,7 @@
             "SkillIcon": "Icon_skill_passive_2001",
             "icon": "Icon_skill_passive_2001",
             "Status": 1,
-            "weight": 2949
+            "weight": 3307
           }
         },
         {
@@ -521,7 +521,7 @@
           "AttributeBonus": "PilotGammaChipBandwidthAdd:3",
           "icon": "Icon_zoneskill_0003",
           "Status": 1,
-          "weight": 1629
+          "weight": 1665
         },
         {
           "ID": "1010313102",
@@ -536,7 +536,7 @@
           "AttributeBonus": "PilotAlphaChipBandwidthAdd:3",
           "icon": "Icon_zoneskill_0001",
           "Status": 1,
-          "weight": 1630
+          "weight": 1666
         },
         {
           "ID": "1010313103",
@@ -551,7 +551,7 @@
           "AttributeBonus": "PilotGammaChipBandwidthAdd:3",
           "icon": "Icon_zoneskill_0003",
           "Status": 1,
-          "weight": 1631
+          "weight": 1667
         },
         {
           "ID": "1010313104",
@@ -566,7 +566,7 @@
           "AttributeBonus": "PilotBetaChipBandwidthAdd:3",
           "icon": "Icon_zoneskill_0002",
           "Status": 1,
-          "weight": 1632
+          "weight": 1668
         },
         {
           "ID": "1010313105",
@@ -581,7 +581,7 @@
           "AttributeBonus": "PilotGammaChipBandwidthAdd:3",
           "icon": "Icon_zoneskill_0003",
           "Status": 1,
-          "weight": 1633
+          "weight": 1669
         },
         {
           "ID": "1010313106",
@@ -596,7 +596,7 @@
           "AttributeBonus": "PilotGammaChipBandwidthAdd:3",
           "icon": "Icon_zoneskill_0003",
           "Status": 1,
-          "weight": 1634
+          "weight": 1670
         },
         {
           "ID": "1010313107",
@@ -611,7 +611,7 @@
           "AttributeBonus": "PilotGammaChipBandwidthAdd:3",
           "icon": "Icon_zoneskill_0003",
           "Status": 1,
-          "weight": 1635
+          "weight": 1671
         },
         {
           "ID": "1010313108",
@@ -626,7 +626,7 @@
           "describe": "神经驱动解锁α分区，初始α算力为4\n\n达到算力<color=#F74848>1</color>可激活：\n· 发动<buf ID=900022>[援护防御]</buf>时，遭受伤害降低<color=#F74848>10%</color>\n达到算力<color=#F74848>4</color>可激活：\n· 反击伤害提升<color=#F74848>20%</color>\n达到算力<color=#F74848>7</color>可激活：\n· AP的初始值<color=#F74848>+1</color>\n",
           "icon": "Icon_zoneskill_0001",
           "Status": 1,
-          "weight": 1636
+          "weight": 1672
         },
         {
           "ID": "1010313109",
@@ -641,7 +641,7 @@
           "describe": "神经驱动解锁β分区，初始β算力为4\n\n达到算力<color=#F74848>1</color>可激活：\n· <buf ID=900022>[援护防御]</buf>每回合可发动的次数<color=#F74848>+1</color>\n达到算力<color=#F74848>4</color>可激活：\n· 发动<buf ID=900022>[援护防御]</buf>时，战后回复<color=#F74848>1</color>AP，每回合最多发动<color=#F74848>1</color>次\n达到算力<color=#F74848>7</color>可激活：\n· AP的上限值<color=#F74848>+1</color>\n",
           "icon": "Icon_zoneskill_0002",
           "Status": 1,
-          "weight": 1637
+          "weight": 1673
         },
         {
           "ID": "1010313110",
@@ -656,7 +656,7 @@
           "describe": "神经驱动解锁γ分区，初始γ算力为4\n\n达到算力<color=#F74848>1</color>可激活：\n· 手臂遭受过量伤害时将触发<buf ID=900003>[不屈]</buf>，锁定至<color=#F74848>1</color>点耐久值，该效果每次出击仅可发动<color=#F74848>1</color>次\n达到算力<color=#F74848>4</color>可激活：\n· AP的上限值<color=#F74848>+1</color>\n达到算力<color=#F74848>7</color>可激活：\n· 行动结束时，若本回合未主动攻击，则可以额外移动<color=#F74848>2</color>格\n达到算力<color=#F74848>10</color>可激活：\n· 使触发<buf ID=900003>[不屈]</buf>的部位（包括损毁）在战后恢复<color=#F74848>35%</color>的耐久值\n达到算力<color=#F74848>13</color>可激活：\n· 使<buf ID=6000311>[坚不可摧1]</buf>可以在间隔<color=#F74848>3</color>回合后再次发动，每次出击不再有发动次数限制\n达到算力<color=#F74848>16</color>可激活：\n· 使自身任意部位遭受过量伤害时都将触发<buf ID=6000311>[坚不可摧1]</buf>\n",
           "icon": "Icon_zoneskill_0004",
           "Status": 1,
-          "weight": 1638
+          "weight": 1674
         },
         {
           "ID": "1010313111",
@@ -672,7 +672,7 @@
           "AttributeBonus": "PilotGammaChipBandwidthAdd:4",
           "icon": "Icon_zoneskill_0005",
           "Status": 1,
-          "weight": 1639
+          "weight": 1675
         },
         {
           "ID": "1010313112",
@@ -687,7 +687,7 @@
           "AttributeBonus": "PilotBasePropertyDefenseAdd:15",
           "skill1": "600802",
           "Status": 1,
-          "weight": 1640,
+          "weight": 1676,
           "skill": {
             "ID": "600802",
             "remarks": "提费斯-仿生电脑",
@@ -699,7 +699,7 @@
             "SkillIcon": "Icon_skill_main_1143",
             "icon": "Icon_skill_main_1143",
             "Status": 1,
-            "weight": 429
+            "weight": 475
           }
         },
         {
@@ -715,7 +715,7 @@
           "AttributeBonus": "PilotBasePropertyDefenseAdd:24",
           "skill2": "600803",
           "Status": 1,
-          "weight": 1641,
+          "weight": 1677,
           "skill": {
             "ID": "600803",
             "name": "重振",
@@ -724,7 +724,7 @@
             "SkillIcon": "Icon_skill_passive_3102",
             "icon": "Icon_skill_passive_3102",
             "Status": 1,
-            "weight": 3022
+            "weight": 3380
           }
         },
         {
@@ -740,7 +740,7 @@
           "AttributeBonus": "PilotBasePropertyAssaultAdd:20",
           "skill1": "600804",
           "Status": 1,
-          "weight": 1642,
+          "weight": 1678,
           "skill": {
             "ID": "600804",
             "remarks": "提费斯-仿生电脑",
@@ -752,7 +752,7 @@
             "SkillIcon": "Icon_skill_order_5110",
             "icon": "Icon_skill_order_5110",
             "Status": 1,
-            "weight": 430
+            "weight": 476
           }
         },
         {
@@ -768,7 +768,7 @@
           "AttributeBonus": "PilotBasePropertyAssaultAdd:24",
           "skill2": "600805",
           "Status": 1,
-          "weight": 1643,
+          "weight": 1679,
           "skill": {
             "ID": "600805",
             "name": "地利之便",
@@ -777,7 +777,7 @@
             "SkillIcon": "Icon_skill_passive_1156",
             "icon": "Icon_skill_passive_1156",
             "Status": 1,
-            "weight": 3023
+            "weight": 3381
           }
         },
         {
@@ -793,7 +793,7 @@
           "AttributeBonus": "PilotBasePropertyDefenseAdd:36",
           "skill1": "600806",
           "Status": 1,
-          "weight": 1644,
+          "weight": 1680,
           "skill": {
             "ID": "600806",
             "remarks": "提费斯-仿生电脑",
@@ -804,7 +804,7 @@
             "SkillIcon": "Icon_skill_order_5111",
             "icon": "Icon_skill_order_5111",
             "Status": 1,
-            "weight": 431,
+            "weight": 477,
             "CD": "2"
           }
         },
@@ -821,16 +821,16 @@
           "AttributeBonus": "PilotBasePropertyAssaultAdd:55",
           "skill2": "600807",
           "Status": 1,
-          "weight": 1645,
+          "weight": 1681,
           "skill": {
             "ID": "600807",
             "name": "身先士卒",
             "SpecificEffects": "遭受伤害降低<color=#F74848>10%</color>，<terrian ID=6008501 />内每有<color=#F74848>1</color>名友军，反击伤害提升<color=#F74848>5%</color>，最多提升<color=#F74848>15%</color>",
-            "BufCarried": "6008071/6008072",
+            "BufCarried": "6008071/6008072/6008073/6008074",
             "SkillIcon": "Icon_skill_passive_2118",
             "icon": "Icon_skill_passive_2118",
             "Status": 1,
-            "weight": 3024
+            "weight": 3382
           }
         },
         {
@@ -846,7 +846,7 @@
           "AttributeBonus": "PilotBasePropertyDefenseAdd:125",
           "skill1": "600808",
           "Status": 1,
-          "weight": 1646,
+          "weight": 1682,
           "skill": {
             "ID": "600808",
             "remarks": "提费斯-仿生电脑",
@@ -858,7 +858,7 @@
             "SkillIcon": "Icon_skill_order_1125",
             "icon": "Icon_skill_order_1125",
             "Status": 1,
-            "weight": 432
+            "weight": 478
           }
         },
         {
@@ -874,7 +874,7 @@
           "AttributeBonus": "PilotBasePropertyAssaultAdd:15",
           "icon": "3-1",
           "Status": 1,
-          "weight": 1647
+          "weight": 1683
         },
         {
           "ID": "1010313120",
@@ -889,7 +889,7 @@
           "AttributeBonus": "PilotBasePropertyAssaultAdd:24",
           "icon": "3-1",
           "Status": 1,
-          "weight": 1648
+          "weight": 1684
         },
         {
           "ID": "1010313121",
@@ -904,7 +904,7 @@
           "AttributeBonus": "PilotBasePropertyDefenseAdd:20",
           "icon": "3-1",
           "Status": 1,
-          "weight": 1649
+          "weight": 1685
         },
         {
           "ID": "1010313122",
@@ -919,7 +919,7 @@
           "AttributeBonus": "PilotBasePropertyDefenseAdd:30",
           "icon": "3-1",
           "Status": 1,
-          "weight": 1650
+          "weight": 1686
         },
         {
           "ID": "1010313123",
@@ -934,7 +934,7 @@
           "AttributeBonus": "PilotBasePropertyDefenseAdd:25",
           "icon": "3-1",
           "Status": 1,
-          "weight": 1651
+          "weight": 1687
         },
         {
           "ID": "1010313124",
@@ -949,7 +949,7 @@
           "AttributeBonus": "PilotBasePropertyAssaultAdd:30",
           "icon": "3-1",
           "Status": 1,
-          "weight": 1652
+          "weight": 1688
         },
         {
           "ID": "1010313125",
@@ -964,7 +964,7 @@
           "AttributeBonus": "PilotBasePropertyAssaultAdd:25",
           "icon": "3-1",
           "Status": 1,
-          "weight": 1653
+          "weight": 1689
         },
         {
           "ID": "1010313126",
@@ -979,7 +979,7 @@
           "AttributeBonus": "PilotBasePropertyDefenseAdd:66",
           "icon": "3-1",
           "Status": 1,
-          "weight": 1654
+          "weight": 1690
         },
         {
           "ID": "1010313127",
@@ -994,7 +994,7 @@
           "AttributeBonus": "PilotBasePropertyAssaultAdd:54",
           "icon": "3-1",
           "Status": 1,
-          "weight": 1655
+          "weight": 1691
         },
         {
           "ID": "1010313128",
@@ -1009,7 +1009,7 @@
           "AttributeBonus": "PilotBasePropertyDefenseAdd:55",
           "icon": "3-1",
           "Status": 1,
-          "weight": 1656
+          "weight": 1692
         },
         {
           "ID": "1010313129",
@@ -1024,7 +1024,7 @@
           "AttributeBonus": "PilotBasePropertyAssaultAdd:66",
           "icon": "3-1",
           "Status": 1,
-          "weight": 1657
+          "weight": 1693
         },
         {
           "ID": "1010313130",
@@ -1039,7 +1039,7 @@
           "AttributeBonus": "PilotBasePropertyDefenseAdd:78",
           "icon": "3-1",
           "Status": 1,
-          "weight": 1658
+          "weight": 1694
         },
         {
           "ID": "1010313131",
@@ -1054,7 +1054,7 @@
           "AttributeBonus": "PilotBasePropertyDefenseAdd:65",
           "icon": "3-1",
           "Status": 1,
-          "weight": 1659
+          "weight": 1695
         },
         {
           "ID": "1010313132",
@@ -1069,7 +1069,7 @@
           "AttributeBonus": "PilotBasePropertyDefenseAdd:102",
           "icon": "3-1",
           "Status": 1,
-          "weight": 1660
+          "weight": 1696
         },
         {
           "ID": "1010313133",
@@ -1084,7 +1084,7 @@
           "AttributeBonus": "PilotBasePropertyAssaultAdd:70",
           "icon": "3-1",
           "Status": 1,
-          "weight": 1661
+          "weight": 1697
         },
         {
           "ID": "1010313134",
@@ -1099,7 +1099,7 @@
           "AttributeBonus": "PilotBasePropertyAssaultAdd:126",
           "icon": "3-1",
           "Status": 1,
-          "weight": 1662
+          "weight": 1698
         },
         {
           "ID": "1010313135",
@@ -1114,12 +1114,12 @@
           "AttributeBonus": "PilotBasePropertyAssaultAdd:105",
           "icon": "3-1",
           "Status": 1,
-          "weight": 1663
+          "weight": 1699
         }
       ],
       "biomimetic_computer_type": 2
     },
-    "now": "2025-02-12 00:14:02"
+    "now": "2025-09-16 16:18:54"
   },
   "status": 1,
   "switch": null,

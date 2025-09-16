@@ -25,7 +25,7 @@
             "SkillIcon": "Icon_skill_passive_5155",
             "icon": "Icon_skill_passive_5155",
             "Status": 1,
-            "weight": 896
+            "weight": 1014
           },
           {
             "ID": "53045",
@@ -35,7 +35,7 @@
             "SkillIcon": "Icon_skill_passive_5240",
             "icon": "Icon_skill_passive_5240",
             "Status": 1,
-            "weight": 897
+            "weight": 1015
           },
           {
             "ID": "53043",
@@ -45,17 +45,17 @@
             "SkillIcon": "Icon_skill_passive_1101",
             "icon": "Icon_skill_passive_1101",
             "Status": 1,
-            "weight": 895
+            "weight": 1013
           }
         ],
         "IconResourcePath": "Icon_weapon_10200401",
         "icon": "Icon_weapon_10200401",
         "describe": "「回首向来萧瑟处，归去，也无风雨也无晴。」",
         "Status": 1,
-        "weight": 701
+        "weight": 709
       }
     ],
-    "now": "2025-02-12 00:14:24"
+    "now": "2025-09-16 16:19:49"
   },
   "status": 1,
   "switch": null,

@@ -756,9 +756,105 @@
         "Profession": "Launcher",
         "quality": "SSR",
         "relateTopicIdArray": ""
+      },
+      {
+        "ID": "10103159",
+        "PilotName": "阿黛勒",
+        "name": "阿黛勒",
+        "icon": "Pilot_10103159A_half",
+        "AvatarHeroIcon": "Pilot_10103159A_Raw",
+        "Nickname": "阿黛勒",
+        "RealName": "阿黛勒·马丁",
+        "Profession": "Assault",
+        "quality": "SSR",
+        "relateTopicIdArray": ""
+      },
+      {
+        "ID": "10103158",
+        "PilotName": "怀亚特",
+        "name": "怀亚特",
+        "icon": "Pilot_10103158A_half",
+        "AvatarHeroIcon": "Pilot_10103158A_Raw",
+        "Nickname": "怀亚特",
+        "RealName": "怀亚特·摩根",
+        "Profession": "Striker",
+        "quality": "SSR",
+        "relateTopicIdArray": ""
+      },
+      {
+        "ID": "10103118",
+        "PilotName": "艾达",
+        "name": "艾达",
+        "icon": "Pilot_10103118A_half",
+        "AvatarHeroIcon": "Pilot_10103118A_Raw",
+        "Nickname": "艾达",
+        "RealName": "艾达·迪亚兹",
+        "Profession": "Striker",
+        "quality": "SSR",
+        "relateTopicIdArray": ""
+      },
+      {
+        "ID": "10103157",
+        "PilotName": "萨普里娅",
+        "name": "萨普里娅",
+        "icon": "Pilot_10103157A_half",
+        "AvatarHeroIcon": "Pilot_10103157A_Raw",
+        "Nickname": "萨普里娅",
+        "RealName": "萨普里娅·柯格尼托尼斯",
+        "Profession": "Mechanic",
+        "quality": "SSR",
+        "relateTopicIdArray": ""
+      },
+      {
+        "ID": "10103155",
+        "PilotName": "维罗妮卡",
+        "name": "维罗妮卡",
+        "icon": "Pilot_10103155A_half",
+        "AvatarHeroIcon": "Pilot_10103155A_Raw",
+        "Nickname": "维罗妮卡",
+        "RealName": "维罗妮卡·洛佩斯",
+        "Profession": "Gunner",
+        "quality": "SSR",
+        "relateTopicIdArray": ""
+      },
+      {
+        "ID": "10103144",
+        "PilotName": "维娜",
+        "name": "维娜",
+        "icon": "Pilot_13019A_half",
+        "AvatarHeroIcon": "Pilot_13019A_Raw",
+        "Nickname": "维娜",
+        "RealName": "维娜·卢诺",
+        "Profession": "Defender",
+        "quality": "SSR",
+        "relateTopicIdArray": ""
+      },
+      {
+        "ID": "10103162",
+        "PilotName": "科林",
+        "name": "科林",
+        "icon": "Pilot_10103162A_half",
+        "AvatarHeroIcon": "Pilot_10103162A_Raw",
+        "Nickname": "科林",
+        "RealName": "科林·杜伊尔",
+        "Profession": "Launcher",
+        "quality": "SSR",
+        "relateTopicIdArray": ""
+      },
+      {
+        "ID": "10103161",
+        "PilotName": "佐伊",
+        "name": "佐伊",
+        "icon": "Pilot_10103161A_half",
+        "AvatarHeroIcon": "Pilot_10103161A_Raw",
+        "Nickname": "佐伊",
+        "RealName": "佐伊·斯蒂尔",
+        "Profession": "Defender",
+        "quality": "SSR",
+        "relateTopicIdArray": ""
       }
     ],
-    "now": "2025-02-12 00:13:52"
+    "now": "2025-09-16 16:18:33"
   },
   "status": 1,
   "switch": null,

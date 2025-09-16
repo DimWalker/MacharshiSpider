@@ -28,21 +28,21 @@
         "ID": "500450",
         "name": "自动模块",
         "SpecificEffects": "主动修理后，对目标施加<buf ID=5004502>[常效维护Ⅰ]</buf>，可生效<color=#F74848>2</color>次，持续<color=#F74848>2</color>回合",
-        "BufCarried": "5004501",
+        "BufCarried": "5004501/5004503/5004504/5004505",
         "SkillIcon": "Icon_skill_talent_3102",
         "icon": "Icon_skill_talent_3102",
         "Status": 1,
-        "weight": 2915
+        "weight": 3263
       },
       "Talent3_5Ability": {
         "ID": "500451",
         "name": "自动模块",
         "SpecificEffects": "主动修理后，对目标施加<buf ID=5004502>[常效维护Ⅰ]</buf>，可生效<color=#F74848>2</color>次，持续<color=#F74848>2</color>回合；\n施放单体修理技能后，额外对目标施加<buf ID=5004512>[磁化修复]</buf>，可生效<color=#F74848>1</color>次，持续<color=#F74848>2</color>回合",
-        "BufCarried": "5004511/5004501",
+        "BufCarried": "5004511/5004501/5004503/5004504/5004505",
         "SkillIcon": "Icon_skill_talent_3102",
         "icon": "Icon_skill_talent_3102",
         "Status": 1,
-        "weight": 2916
+        "weight": 3264
       },
       "NeuralDriveTemplate": {
         "ID": "10103111",
@@ -71,7 +71,7 @@
                   "SkillIcon": "Icon_skill_passive_1003",
                   "icon": "Icon_skill_passive_1003",
                   "Status": 1,
-                  "weight": 2873
+                  "weight": 3221
                 }
               },
               {
@@ -90,7 +90,7 @@
                   "SkillIcon": "Icon_skill_passive_5014",
                   "icon": "Icon_skill_passive_5014",
                   "Status": 1,
-                  "weight": 2874
+                  "weight": 3222
                 }
               },
               {
@@ -108,7 +108,7 @@
                   "SkillIcon": "Icon_skill_passive_5004",
                   "icon": "Icon_skill_passive_5004",
                   "Status": 1,
-                  "weight": 2875
+                  "weight": 3223
                 }
               }
             ],
@@ -141,7 +141,7 @@
                   "SkillIcon": "Icon_skill_passive_1003",
                   "icon": "Icon_skill_passive_1003",
                   "Status": 1,
-                  "weight": 2876
+                  "weight": 3224
                 }
               },
               {
@@ -159,7 +159,7 @@
                   "SkillIcon": "Icon_skill_passive_5014",
                   "icon": "Icon_skill_passive_5014",
                   "Status": 1,
-                  "weight": 2877
+                  "weight": 3225
                 }
               },
               {
@@ -177,7 +177,7 @@
                   "SkillIcon": "Icon_skill_passive_5004",
                   "icon": "Icon_skill_passive_5004",
                   "Status": 1,
-                  "weight": 2878
+                  "weight": 3226
                 }
               }
             ],
@@ -210,7 +210,7 @@
                   "SkillIcon": "Icon_skill_passive_3002",
                   "icon": "Icon_skill_passive_3002",
                   "Status": 1,
-                  "weight": 2879
+                  "weight": 3227
                 }
               },
               {
@@ -228,7 +228,7 @@
                   "SkillIcon": "Icon_skill_passive_5004",
                   "icon": "Icon_skill_passive_5004",
                   "Status": 1,
-                  "weight": 2880
+                  "weight": 3228
                 }
               },
               {
@@ -247,7 +247,7 @@
                   "SkillIcon": "Icon_skill_passive_5155",
                   "icon": "Icon_skill_passive_5155",
                   "Status": 1,
-                  "weight": 2881
+                  "weight": 3229
                 }
               },
               {
@@ -266,7 +266,7 @@
                   "SkillIcon": "Icon_skill_passive_3002",
                   "icon": "Icon_skill_passive_3002",
                   "Status": 1,
-                  "weight": 2882
+                  "weight": 3230
                 }
               },
               {
@@ -285,7 +285,7 @@
                   "SkillIcon": "Icon_skill_passive_3002",
                   "icon": "Icon_skill_passive_3002",
                   "Status": 1,
-                  "weight": 2883
+                  "weight": 3231
                 }
               },
               {
@@ -304,7 +304,7 @@
                   "SkillIcon": "Icon_skill_passive_3002",
                   "icon": "Icon_skill_passive_3002",
                   "Status": 1,
-                  "weight": 2884
+                  "weight": 3232
                 }
               }
             ],
@@ -333,11 +333,11 @@
                   "ID": "500441",
                   "name": "金丝雀1",
                   "SpecificEffects": "<buf ID=900038>[常效维护]</buf>的修理量提升至修理背包的<color=#F74848>0.45</color>倍",
-                  "BufCarried": "5004411",
+                  "BufCarried": "5004411/5004413/5004414",
                   "SkillIcon": "Icon_skill_passive_3109",
                   "icon": "Icon_skill_passive_3109",
                   "Status": 1,
-                  "weight": 2911
+                  "weight": 3259
                 }
               },
               {
@@ -355,7 +355,7 @@
                   "SkillIcon": "Icon_skill_passive_5004",
                   "icon": "Icon_skill_passive_5004",
                   "Status": 1,
-                  "weight": 2885
+                  "weight": 3233
                 }
               },
               {
@@ -374,7 +374,7 @@
                   "SkillIcon": "Icon_skill_passive_5014",
                   "icon": "Icon_skill_passive_5014",
                   "Status": 1,
-                  "weight": 2886
+                  "weight": 3234
                 }
               },
               {
@@ -389,11 +389,11 @@
                   "ID": "500444",
                   "name": "金丝雀2",
                   "SpecificEffects": "<buf ID=900038>[常效维护]</buf>的生效次数<color=#F74848>+1</color>",
-                  "BufCarried": "5004441",
+                  "BufCarried": "5004441/5004443/5004444",
                   "SkillIcon": "Icon_skill_passive_3109",
                   "icon": "Icon_skill_passive_3109",
                   "Status": 1,
-                  "weight": 2912
+                  "weight": 3260
                 }
               },
               {
@@ -408,11 +408,11 @@
                   "ID": "500445",
                   "name": "金丝雀3",
                   "SpecificEffects": "<buf ID=900038>[常效维护]</buf>将在遭受攻击后也生效",
-                  "BufCarried": "5004451",
+                  "BufCarried": "5004451/5004453/5004454",
                   "SkillIcon": "Icon_skill_passive_3109",
                   "icon": "Icon_skill_passive_3109",
                   "Status": 1,
-                  "weight": 2913
+                  "weight": 3261
                 }
               },
               {
@@ -427,11 +427,11 @@
                   "ID": "500446",
                   "name": "金丝雀4",
                   "SpecificEffects": "<buf ID=900038>[常效维护]</buf>对耐久值百分比最低部位的修理量提升<color=#F74848>200%</color>",
-                  "BufCarried": "5004461",
+                  "BufCarried": "5004461/5004464/5004465",
                   "SkillIcon": "Icon_skill_passive_3109",
                   "icon": "Icon_skill_passive_3109",
                   "Status": 1,
-                  "weight": 2914
+                  "weight": 3262
                 }
               }
             ],
@@ -466,7 +466,7 @@
       ],
       "Introduction": "「金丝雀，高级赏金猎人，擅长机兵修理与支援，现与特级赏金猎人里贝卡·克洛泽搭档，共同执行任务。\n两人合作至今，共摧毁了五处人数规模达到三十人以上且配备正规机兵的武装团伙，完成了二十余份特级悬赏，具备近乎正规军一个普通排的作战能力，但目前暂未提供主动联络方式，不承接任何形势的定制委托。\n如想尝试进行私人委托，在发布委托时尝试给出三倍于市场价的定价，通常第一个抢单的就是她。不保真。」——《赏金猎人介绍栏》",
       "Status": 1,
-      "weight": 46,
+      "weight": 47,
       "manji": {
         "quality": "SSR",
         "InitialPilotAPValue_PilotAPInitBase": "5",
@@ -504,7 +504,7 @@
             "SkillIcon": "Icon_skill_passive_1003",
             "icon": "Icon_skill_passive_1003",
             "Status": 1,
-            "weight": 2872
+            "weight": 3220
           }
         },
         {
@@ -699,7 +699,7 @@
             "SkillIcon": "Icon_skill_order_3002",
             "icon": "Icon_skill_order_3002",
             "Status": 1,
-            "weight": 449
+            "weight": 505
           }
         },
         {
@@ -724,7 +724,7 @@
             "SkillIcon": "Icon_skill_passive_3106",
             "icon": "Icon_skill_passive_3106",
             "Status": 1,
-            "weight": 2908
+            "weight": 3256
           }
         },
         {
@@ -749,7 +749,7 @@
             "SkillIcon": "Icon_skill_passive_5017",
             "icon": "Icon_skill_passive_5017",
             "Status": 1,
-            "weight": 3057
+            "weight": 3438
           }
         },
         {
@@ -774,7 +774,7 @@
             "SkillIcon": "Icon_skill_passive_3107",
             "icon": "Icon_skill_passive_3107",
             "Status": 1,
-            "weight": 2909
+            "weight": 3257
           }
         },
         {
@@ -803,7 +803,7 @@
             "SkillIcon": "Icon_skill_order_3112",
             "icon": "Icon_skill_order_3112",
             "Status": 1,
-            "weight": 394
+            "weight": 433
           }
         },
         {
@@ -828,7 +828,7 @@
             "SkillIcon": "Icon_skill_passive_5168",
             "icon": "Icon_skill_passive_5168",
             "Status": 1,
-            "weight": 2910
+            "weight": 3258
           }
         },
         {
@@ -857,7 +857,7 @@
             "SkillIcon": "Icon_skill_order_3113",
             "icon": "Icon_skill_order_3113",
             "Status": 1,
-            "weight": 395
+            "weight": 434
           }
         },
         {
@@ -1118,7 +1118,7 @@
       ],
       "biomimetic_computer_type": 2
     },
-    "now": "2025-02-12 00:14:01"
+    "now": "2025-09-16 16:18:51"
   },
   "status": 1,
   "switch": null,

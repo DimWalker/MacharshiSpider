@@ -25,17 +25,17 @@
             "SkillIcon": "Icon_skill_passive_5179",
             "icon": "Icon_skill_passive_5179",
             "Status": 1,
-            "weight": 886
+            "weight": 1004
           }
         ],
         "IconResourcePath": "Icon_weapon_20300401",
         "icon": "Icon_weapon_20300401",
         "describe": "除了在旧型火驭的基础上加装了适性更优良的火控组件外，对机载增压模块的支持也得到了全新升级。是当前量产霰弹武器中的绝对王者。",
         "Status": 1,
-        "weight": 690
+        "weight": 696
       }
     ],
-    "now": "2025-02-12 00:14:21"
+    "now": "2025-09-16 16:19:43"
   },
   "status": 1,
   "switch": null,

@@ -36,7 +36,7 @@
         "mechaIcon": "Icon_wap2020_1",
         "lihuiIcon": "icon_lihui_wap2020",
         "Status": 1,
-        "weight": 104,
+        "weight": 116,
         "manji": {
           "name": "阿拉什",
           "durable": "8576",
@@ -74,7 +74,7 @@
               "SkillIcon": "Icon_entry_40021",
               "icon": "Icon_entry_40021",
               "Status": 1,
-              "weight": 621,
+              "weight": 717,
               "id": "4002",
               "level": 4
             },
@@ -90,13 +90,13 @@
               "SkillIcon": "Icon_entry_10049",
               "icon": "Icon_entry_10049",
               "Status": 1,
-              "weight": 331,
+              "weight": 363,
               "id": "3003",
               "level": 2
             }
           ],
           "Status": 1,
-          "weight": 104
+          "weight": 116
         }
       },
       {
@@ -114,7 +114,7 @@
         "introduce": "LTX-24 阿拉什\n拉尼亚凯亚开发的中型机兵，性能优秀的狙击型号，也是北陆联合机兵战术体系中的重要一环。\n多点协助瞄准系统赋予了阿拉什极高的射击精度，而部分装甲换用高分子材料也有效降低了机体重量，使其拥有足够应对正面战场的机动能力。",
         "mechaIcon": "Icon_wap2020_2",
         "Status": 1,
-        "weight": 105,
+        "weight": 117,
         "manji": {
           "name": "阿拉什",
           "durable": "3529",
@@ -124,7 +124,7 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "1003:1/4002:1/",
           "Status": 1,
-          "weight": 105
+          "weight": 117
         }
       },
       {
@@ -142,7 +142,7 @@
         "introduce": "LTX-24 阿拉什\n拉尼亚凯亚开发的中型机兵，性能优秀的狙击型号，也是北陆联合机兵战术体系中的重要一环。\n多点协助瞄准系统赋予了阿拉什极高的射击精度，而部分装甲换用高分子材料也有效降低了机体重量，使其拥有足够应对正面战场的机动能力。",
         "mechaIcon": "Icon_wap2020_3",
         "Status": 1,
-        "weight": 106,
+        "weight": 118,
         "manji": {
           "name": "阿拉什",
           "durable": "3529",
@@ -152,7 +152,7 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "1003:1/4002:1/",
           "Status": 1,
-          "weight": 106
+          "weight": 118
         }
       },
       {
@@ -171,7 +171,7 @@
         "introduce": "LTX-24 阿拉什\n拉尼亚凯亚开发的中型机兵，性能优秀的狙击型号，也是北陆联合机兵战术体系中的重要一环。\n多点协助瞄准系统赋予了阿拉什极高的射击精度，而部分装甲换用高分子材料也有效降低了机体重量，使其拥有足够应对正面战场的机动能力。",
         "mechaIcon": "Icon_wap2020_4",
         "Status": 1,
-        "weight": 107,
+        "weight": 119,
         "manji": {
           "name": "阿拉什",
           "durable": "5921",
@@ -182,11 +182,11 @@
           "Interface": "Ⅰ型接口",
           "ModuleCarried": "1003:1/3003:1/4002:1/",
           "Status": 1,
-          "weight": 107
+          "weight": 119
         }
       }
     ],
-    "now": "2025-02-12 00:13:45"
+    "now": "2025-09-16 16:18:12"
   },
   "status": 1,
   "switch": null,

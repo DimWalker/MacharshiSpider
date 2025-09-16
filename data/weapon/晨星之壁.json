@@ -25,7 +25,7 @@
             "SkillIcon": "Icon_skill_passive_1144",
             "icon": "Icon_skill_passive_1144",
             "Status": 1,
-            "weight": 905
+            "weight": 1023
           },
           {
             "ID": "53054",
@@ -35,7 +35,7 @@
             "SkillIcon": "Icon_skill_passive_2124",
             "icon": "Icon_skill_passive_2124",
             "Status": 1,
-            "weight": 906
+            "weight": 1024
           },
           {
             "ID": "53052",
@@ -45,17 +45,17 @@
             "SkillIcon": "Icon_skill_passive_3101",
             "icon": "Icon_skill_passive_3101",
             "Status": 1,
-            "weight": 904
+            "weight": 1022
           }
         ],
         "IconResourcePath": "Icon_weapon_10400301",
         "icon": "Icon_weapon_10400301",
         "describe": "根据迪拉卡的描述，这面特制的大盾武器是她在防卫营扳手腕大赛中赢得的战利品。自此之后，扳手腕几乎成了同盟军休闲时期的必备娱乐项目。",
         "Status": 1,
-        "weight": 705
+        "weight": 713
       }
     ],
-    "now": "2025-02-12 00:14:26"
+    "now": "2025-09-16 16:19:53"
   },
   "status": 1,
   "switch": null,

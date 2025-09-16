@@ -1,0 +1,105 @@
+{
+  "data": {
+    "data": {
+      "ID": "30431",
+      "ModuleName": "确暴模组",
+      "name": "确暴模组",
+      "EntryLevel": "1",
+      "quality": "SSR",
+      "ModuleEffects": "30431/30432/30433/30434/30435/30436/30437/30438",
+      "WithPassiveSkills": [
+        {
+          "ID": "30431",
+          "name": "确暴模组",
+          "SpecificEffects": "主动攻击时，暴击率提升<color=#F74848>3%</color>，若本次未暴击，使自身下次主动攻击暴击率提升<color=#F74848>3%</color>，可叠加，持续至暴击时清空",
+          "BufCarried": "304311/304312",
+          "SkillIcon": "Icon_entry_10094",
+          "icon": "Icon_entry_10094",
+          "Status": 1,
+          "weight": 674
+        },
+        {
+          "ID": "30432",
+          "name": "确暴模组",
+          "SpecificEffects": "主动攻击时，暴击率提升<color=#F74848>5%</color>，若本次未暴击，使自身下次主动攻击暴击率提升<color=#F74848>4%</color>，可叠加，持续至暴击时清空",
+          "BufCarried": "304321/304322",
+          "SkillIcon": "Icon_entry_10094",
+          "icon": "Icon_entry_10094",
+          "Status": 1,
+          "weight": 675
+        },
+        {
+          "ID": "30433",
+          "name": "确暴模组",
+          "SpecificEffects": "主动攻击时，暴击率提升<color=#F74848>7%</color>，若本次未暴击，使自身下次主动攻击暴击率提升<color=#F74848>5%</color>，可叠加，持续至暴击时清空",
+          "BufCarried": "304331/304332",
+          "SkillIcon": "Icon_entry_10094",
+          "icon": "Icon_entry_10094",
+          "Status": 1,
+          "weight": 676
+        },
+        {
+          "ID": "30434",
+          "name": "确暴模组",
+          "SpecificEffects": "主动攻击时，暴击率提升<color=#F74848>9%</color>，若本次未暴击，使自身下次主动攻击暴击率提升<color=#F74848>6%</color>，可叠加，持续至暴击时清空",
+          "BufCarried": "304341/304342",
+          "SkillIcon": "Icon_entry_10094",
+          "icon": "Icon_entry_10094",
+          "Status": 1,
+          "weight": 677
+        },
+        {
+          "ID": "30435",
+          "name": "确暴模组",
+          "SpecificEffects": "主动攻击时，暴击率提升<color=#F74848>11%</color>，若本次未暴击，使自身下次主动攻击暴击率提升<color=#F74848>8%</color>，可叠加，持续至暴击时清空",
+          "BufCarried": "304351/304352",
+          "SkillIcon": "Icon_entry_10094",
+          "icon": "Icon_entry_10094",
+          "Status": 1,
+          "weight": 678
+        },
+        {
+          "ID": "30436",
+          "name": "确暴模组",
+          "SpecificEffects": "主动攻击时，暴击率提升<color=#F74848>13%</color>，若本次未暴击，使自身下次主动攻击暴击率提升<color=#F74848>10%</color>，可叠加，持续至暴击时清空",
+          "BufCarried": "304361/304362",
+          "SkillIcon": "Icon_entry_10094",
+          "icon": "Icon_entry_10094",
+          "Status": 1,
+          "weight": 679
+        },
+        {
+          "ID": "30437",
+          "name": "确暴模组",
+          "SpecificEffects": "主动攻击时，暴击率提升<color=#F74848>16%</color>，若本次未暴击，使自身下次主动攻击暴击率提升<color=#F74848>12%</color>，可叠加，持续至暴击时清空",
+          "BufCarried": "304371/304372",
+          "SkillIcon": "Icon_entry_10094",
+          "icon": "Icon_entry_10094",
+          "Status": 1,
+          "weight": 680
+        },
+        {
+          "ID": "30438",
+          "name": "确暴模组",
+          "SpecificEffects": "主动攻击时，暴击率提升<color=#F74848>20%</color>，若本次未暴击，使自身下次主动攻击暴击率提升<color=#F74848>15%</color>，可叠加，持续至暴击时清空；<buf ID=900014>[瞄准]</buf>时，技能倍率<color=#F74848>+0.1</color>",
+          "BufCarried": "304381/304382/304386",
+          "SkillIcon": "Icon_entry_10094",
+          "icon": "Icon_entry_10094",
+          "Status": 1,
+          "weight": 681
+        }
+      ],
+      "introduce": "主动校准攻击瞄点的辅助模组，能有效提升对敌对目标弱点打击效率。",
+      "ModuleIcon": "Icon_entry_10094",
+      "icon": "Icon_entry_10094",
+      "IconType": "GeneralSuit",
+      "ObtainingMethod": "商店购买",
+      "Status": 1,
+      "weight": 79
+    },
+    "now": "2025-09-16 16:21:39"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

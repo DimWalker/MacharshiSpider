@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_40011",
           "icon": "Icon_entry_40011",
           "Status": 1,
-          "weight": 610
+          "weight": 706
         },
         {
           "ID": "40012",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_40011",
           "icon": "Icon_entry_40011",
           "Status": 1,
-          "weight": 611
+          "weight": 707
         },
         {
           "ID": "40013",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_40011",
           "icon": "Icon_entry_40011",
           "Status": 1,
-          "weight": 612
+          "weight": 708
         },
         {
           "ID": "40014",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_40011",
           "icon": "Icon_entry_40011",
           "Status": 1,
-          "weight": 613
+          "weight": 709
         }
       ],
       "introduce": "校准模组在各大机兵配件市场上广为流传，经常有军校的学生托人送到学校，用来应对射击课程的补考。",
@@ -55,9 +55,9 @@
       "IconType": "PropertyA",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 69
+      "weight": 81
     },
-    "now": "2025-02-12 00:15:03"
+    "now": "2025-09-16 16:21:38"
   },
   "status": 1,
   "switch": null,

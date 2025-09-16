@@ -142,7 +142,63 @@ def pilot_to_csv():
                                 , t.Tactics, t.Defense, t.Engineering])
 
 
+def create_json_array_csv(filename, row_headers, col_headers, data):
+    """
+    使用JSON格式序列化数组数据
+    """
+    with open(filename, 'w', newline='', encoding='utf-8-sig') as csvfile:
+        writer = csv.writer(csvfile)
+
+        # 写入列表头
+        writer.writerow([''] + col_headers)
+
+        # 写入数据行
+        for i, row_data in enumerate(data):
+            processed_row = [row_headers[i]]
+            for cell_data in row_data:
+                if isinstance(cell_data, list):
+                    # 将数组转换为JSON字符串
+                    # processed_row.append(json.dumps(cell_data))
+                    processed_row.append("|".join(cell_data))
+                else:
+                    processed_row.append(str(cell_data))
+            writer.writerow(processed_row)
+
+    print(f"CSV文件已保存: {filename}")
+
+
+def module_to_csv():
+    print("正在读取json")
+    with open('data/weapon_rail/weapon_rail_modules.json', 'r', encoding='utf-8') as file:
+        json_data = json.load(file)
+
+    module_list = []
+    rail_list = []
+
+    for rail in json_data["rail"]:
+        for module in rail["modules"]:
+            if module not in module_list:
+                module_list.append(module)
+        rail_list.append(rail["name"])
+    module_list.sort()
+    # print(",".join(module_list))
+    # print(",".join(rail_list))
+
+    data = [[[] for _ in range(len(rail_list))] for _ in range(len(module_list))]
+
+    for idx_col, rail in enumerate(json_data["rail"]):
+        for idx_boss, boss_name in enumerate(rail["boss"]):
+            for module in rail["boss"][boss_name]:
+                idx_row = module_list.index(module)
+                # print(idx_row,idx_col,idx_boss)
+                data[idx_row][idx_col].append(str(idx_boss + 1))
+    # print(data)
+
+    create_json_array_csv("csv/rail_module.csv", module_list, rail_list, data)
+
+
 if __name__ == "__main__":
     aircraft_to_csv()
     aircraft_to_csv_2()
     pilot_to_csv()
+    module_to_csv()

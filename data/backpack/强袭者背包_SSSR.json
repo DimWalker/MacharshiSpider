@@ -1,0 +1,33 @@
+{
+  "data": {
+    "data": {
+      "ID": "60101706",
+      "name": "强袭者背包",
+      "quality": "SSSR",
+      "weight": "150",
+      "BackpackMainType": "BackupEquipment",
+      "AssemblableAirmenType": "Light/Medium/Heavy",
+      "BackpackIcon": "Icon_backpack_61400101",
+      "icon": "Icon_backpack_61400101",
+      "WithPassiveSkills": [
+        {
+          "ID": "62304",
+          "name": "强袭者驱动·增伤",
+          "SpecificEffects": "可以使用<skill mainSkill=62304>[武器切换]</skill>指令，每回合最多使用<color=#F74848>1</color>次；行动结束时，若双手完好，可以额外使用<skill mainSkill=62304>[武器切换]</skill>指令，每<color=#F74848>2</color>回合最多使用<color=#F74848>1</color>次；\n对战时，使敌人遭受伤害提升<color=#F74848>10%</color>；\n机兵获得额外<color=#F74848>300</color>出力，躯干耐久值提升<color=#F74848>10%</color>，造成伤害提升<color=#F74848>5%</color>",
+          "BufCarried": "623041/623043/601531",
+          "SkillIcon": "Icon_skill_passive_5234",
+          "icon": "Icon_skill_passive_5234",
+          "Status": 1,
+          "weight": 1343
+        }
+      ],
+      "HowGet": "无",
+      "RelatedDescription": "旧式出力干扰背包的改良升级款，通过外部挂载的小型功能装置为机兵提供额外的出力，使其拥有更高的作战全重上限。同时集成了对敌机遭受伤害提升和创新性的武器切换功能。",
+      "Status": 1
+    },
+    "now": "2025-09-16 16:20:55"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

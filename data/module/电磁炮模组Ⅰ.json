@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_40201",
           "icon": "Icon_entry_40201",
           "Status": 1,
-          "weight": 762
+          "weight": 858
         },
         {
           "ID": "40202",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_40201",
           "icon": "Icon_entry_40201",
           "Status": 1,
-          "weight": 763
+          "weight": 859
         },
         {
           "ID": "40203",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_40201",
           "icon": "Icon_entry_40201",
           "Status": 1,
-          "weight": 764
+          "weight": 860
         },
         {
           "ID": "40204",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_40201",
           "icon": "Icon_entry_40201",
           "Status": 1,
-          "weight": 765
+          "weight": 861
         }
       ],
       "introduce": "电磁炮模组能够进一步榨干供能的机兵，让电磁炮射出的弹药有更可怕的穿透力，追求一举击溃一条线上的敌人。",
@@ -55,9 +55,9 @@
       "IconType": "PropertyA",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 107
+      "weight": 119
     },
-    "now": "2025-02-12 00:14:57"
+    "now": "2025-09-16 16:21:23"
   },
   "status": 1,
   "switch": null,

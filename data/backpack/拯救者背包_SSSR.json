@@ -13,12 +13,12 @@
         {
           "ID": "62303",
           "name": "拯救者驱动·攻击",
-          "SpecificEffects": "行动开始时对自身及周围<color=#F74848>1</color>圈的友军释放<color=#F74848>1</color>次<color=#F74848>0.6</color>倍修理量的修理，不可修复破损的部位；\n对战时，使敌人伤害降低<color=#F74848>10%</color>；",
+          "SpecificEffects": "行动开始时对自身及周围<color=#F74848>1</color>圈的友军释放<color=#F74848>1</color>次<color=#F74848>0.6</color>倍修理量的修理，不可修复破损的部位；\n对战时，使敌人伤害降低<color=#F74848>10%</color>",
           "BufCarried": "623031/600931",
           "SkillIcon": "Icon_skill_passive_3130",
           "icon": "Icon_skill_passive_3130",
           "Status": 1,
-          "weight": 1176
+          "weight": 1342
         }
       ],
       "HowGet": "无",
@@ -26,7 +26,7 @@
       "AmountOfRepair": "211",
       "Status": 1
     },
-    "now": "2025-02-12 00:14:29"
+    "now": "2025-09-16 16:20:07"
   },
   "status": 1,
   "switch": null,

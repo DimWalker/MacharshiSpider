@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_10072",
           "icon": "Icon_entry_10072",
           "Status": 1,
-          "weight": 514
+          "weight": 546
         },
         {
           "ID": "30262",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_10072",
           "icon": "Icon_entry_10072",
           "Status": 1,
-          "weight": 515
+          "weight": 547
         },
         {
           "ID": "30263",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_10072",
           "icon": "Icon_entry_10072",
           "Status": 1,
-          "weight": 516
+          "weight": 548
         },
         {
           "ID": "30264",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_10072",
           "icon": "Icon_entry_10072",
           "Status": 1,
-          "weight": 517
+          "weight": 549
         },
         {
           "ID": "30265",
@@ -56,7 +56,7 @@
           "SkillIcon": "Icon_entry_10072",
           "icon": "Icon_entry_10072",
           "Status": 1,
-          "weight": 518
+          "weight": 550
         },
         {
           "ID": "30266",
@@ -66,7 +66,7 @@
           "SkillIcon": "Icon_entry_10072",
           "icon": "Icon_entry_10072",
           "Status": 1,
-          "weight": 519
+          "weight": 551
         },
         {
           "ID": "30267",
@@ -76,7 +76,7 @@
           "SkillIcon": "Icon_entry_10072",
           "icon": "Icon_entry_10072",
           "Status": 1,
-          "weight": 520
+          "weight": 552
         },
         {
           "ID": "30268",
@@ -86,7 +86,7 @@
           "SkillIcon": "Icon_entry_10072",
           "icon": "Icon_entry_10072",
           "Status": 1,
-          "weight": 521
+          "weight": 553
         }
       ],
       "introduce": "统筹全机所有武器的中枢型火控模组，能在机体完好时发挥出色性能。",
@@ -95,9 +95,9 @@
       "IconType": "GeneralSuit",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 67
+      "weight": 75
     },
-    "now": "2025-02-12 00:15:03"
+    "now": "2025-09-16 16:21:41"
   },
   "status": 1,
   "switch": null,

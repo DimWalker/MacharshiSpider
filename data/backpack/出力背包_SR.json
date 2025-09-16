@@ -13,18 +13,18 @@
         {
           "ID": "60002",
           "name": "出力增幅Ⅱ",
-          "SpecificEffects": "机兵获得额外<color=#F74848>250</color>出力；\n机兵躯干耐久值提升<color=#F74848>8%</color>,，造成伤害提升<color=#F74848>3%</color>；",
+          "SpecificEffects": "机兵获得额外<color=#F74848>250</color>出力；\n机兵躯干耐久值提升<color=#F74848>8%</color>，造成伤害提升<color=#F74848>3%</color>",
           "SkillIcon": "Icon_skill_passive_5148",
           "icon": "Icon_skill_passive_5148",
           "Status": 1,
-          "weight": 985
+          "weight": 1151
         }
       ],
       "HowGet": "无",
       "RelatedDescription": "通过外部挂载的小型功能装置为机兵提供额外的出力，使其拥有更高的作战全重上限。",
       "Status": 1
     },
-    "now": "2025-02-12 00:14:48"
+    "now": "2025-09-16 16:20:59"
   },
   "status": 1,
   "switch": null,

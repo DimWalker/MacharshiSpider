@@ -1,0 +1,33 @@
+{
+  "data": {
+    "data": {
+      "ID": "60902106",
+      "name": "补给者背包",
+      "quality": "SSSR",
+      "weight": "150",
+      "BackpackMainType": "Ammo",
+      "AssemblableAirmenType": "Medium",
+      "BackpackIcon": "Icon_backpack_61100101",
+      "icon": "Icon_backpack_61100101",
+      "WithPassiveSkills": [
+        {
+          "ID": "62306",
+          "name": "补给者驱动·再攻击",
+          "SpecificEffects": "战术武器弹量<color=#F74848>+2</color>；\n再攻击时，命中率提升<color=#F74848>10%</color>，暴击率提升<color=#F74848>5%</color>；\n可以使用<skill mainSkill=62306>[快速装填]</skill>指令，与其他战术武器装填类技能共享冷却回合数；\n机兵躯干耐久值提升<color=#F74848>10%</color>，造成伤害提升<color=#F74848>5%</color>",
+          "BufCarried": "600131/623061",
+          "SkillIcon": "Icon_skill_passive_5163",
+          "icon": "Icon_skill_passive_5163",
+          "Status": 1,
+          "weight": 1345
+        }
+      ],
+      "HowGet": "无",
+      "RelatedDescription": "旧式弹药强化背包的改良升级款，储存了战术武器弹药，让机兵火箭或导弹有了更多的发射机会。同时集成了强化机兵再攻击能力的功能。",
+      "Status": 1
+    },
+    "now": "2025-09-16 16:20:56"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

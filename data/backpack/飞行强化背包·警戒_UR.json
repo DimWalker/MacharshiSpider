@@ -13,19 +13,19 @@
         {
           "ID": "61239",
           "name": "飞行装置Ⅰ·警戒",
-          "SpecificEffects": "机兵移动方式变为漂浮，可翻越低障碍；\n警戒射击时，命中率提升<color=#F74848>15%</color>，暴击率提升<color=#F74848>10%</color>；\n机兵躯干耐久值提升<color=#F74848>10%</color>，造成伤害提升<color=#F74848>5%</color>；",
+          "SpecificEffects": "机兵移动方式变为漂浮，可翻越低障碍；\n警戒射击时，命中率提升<color=#F74848>15%</color>，暴击率提升<color=#F74848>10%</color>；\n机兵躯干耐久值提升<color=#F74848>10%</color>，造成伤害提升<color=#F74848>5%</color>",
           "BufCarried": "602111/600331",
           "SkillIcon": "Icon_skill_passive_5127",
           "icon": "Icon_skill_passive_5127",
           "Status": 1,
-          "weight": 1144
+          "weight": 1310
         }
       ],
       "HowGet": "无",
       "RelatedDescription": "喷射装置能够驱动机兵在短距离上飞行，快速越过障碍，前往难以抵达的战场角落。同时集成了强化机兵警戒射击能力的功能。",
       "Status": 1
     },
-    "now": "2025-02-12 00:14:45"
+    "now": "2025-09-16 16:20:48"
   },
   "status": 1,
   "switch": null,

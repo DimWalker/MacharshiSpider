@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "20521",
+      "ModuleName": "守望者模块",
+      "name": "守望者模块",
+      "EntryLevel": "1",
+      "quality": "SSR",
+      "ModuleEffects": "20521/20522/20523/20524",
+      "WithPassiveSkills": [
+        {
+          "ID": "20521",
+          "name": "守望者模块",
+          "SpecificEffects": "主动修理后，对所有修理目标施加<buf ID=7100301>[伤害提升Ⅰ]</buf>，持续<color=#F74848>2</color>回合；若目标已携带[伤害提升]效果，则提升<color=#F74848>1</color>级效果，最多提升至<buf ID=7100303>[伤害提升Ⅱ]</buf>",
+          "BufCarried": "205211/205212",
+          "SkillIcon": "Icon_skill_passive_5261",
+          "icon": "Icon_skill_passive_5261",
+          "Status": 1,
+          "weight": 326
+        },
+        {
+          "ID": "20522",
+          "name": "守望者模块",
+          "SpecificEffects": "主动修理后，对所有修理目标施加<buf ID=7100301>[伤害提升Ⅰ]</buf>，持续<color=#F74848>2</color>回合；若目标已携带[伤害提升]效果，则提升<color=#F74848>1</color>级效果，最多提升至<buf ID=7100305>[伤害提升Ⅲ]</buf>",
+          "BufCarried": "205221/205222",
+          "SkillIcon": "Icon_skill_passive_5261",
+          "icon": "Icon_skill_passive_5261",
+          "Status": 1,
+          "weight": 327
+        },
+        {
+          "ID": "20523",
+          "name": "守望者模块",
+          "SpecificEffects": "主动修理后，对所有修理目标施加<buf ID=7100303>[伤害提升Ⅱ]</buf>，持续<color=#F74848>2</color>回合；若目标已携带[伤害提升]效果，则提升<color=#F74848>1</color>级效果，最多提升至<buf ID=7100307>[伤害提升Ⅳ]</buf>",
+          "BufCarried": "205231/205232",
+          "SkillIcon": "Icon_skill_passive_5261",
+          "icon": "Icon_skill_passive_5261",
+          "Status": 1,
+          "weight": 328
+        },
+        {
+          "ID": "20524",
+          "name": "守望者模块",
+          "SpecificEffects": "主动修理后，对所有修理目标施加<buf ID=7100305>[伤害提升Ⅲ]</buf>，持续<color=#F74848>2</color>回合；若目标已携带[伤害提升]效果，则提升<color=#F74848>1</color>级效果，最多提升至<buf ID=7100309>[伤害提升Ⅴ]</buf>",
+          "BufCarried": "205241/205242",
+          "SkillIcon": "Icon_skill_passive_5261",
+          "icon": "Icon_skill_passive_5261",
+          "Status": 1,
+          "weight": 329
+        }
+      ],
+      "introduce": "基于岚质神经智械设计的自动分析模块，能在完成维修作业的同时对被检方的武装与火控系统进行最优调整，还不会增添机师的操作负担。",
+      "ModuleIcon": "Icon_skill_passive_5261",
+      "icon": "Icon_skill_passive_5261",
+      "IconType": "SuitS",
+      "ObtainingMethod": "模组生产",
+      "Status": 1,
+      "weight": 46
+    },
+    "now": "2025-09-16 16:21:53"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

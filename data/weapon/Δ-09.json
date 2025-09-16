@@ -1,0 +1,63 @@
+{
+  "data": {
+    "data": [
+      {
+        "ID": "10915121",
+        "name": "Δ-09",
+        "quality": "SSSR",
+        "grade": "70",
+        "WeaponType1": "Melee",
+        "WeaponType2": "Blade",
+        "type": "Blade",
+        "LimitedModelOfWeapon": "Light/Medium/Heavy",
+        "RestrictionsPositionOfWeapon": "Hand",
+        "range": "1（可斜向）",
+        "WeaponWeight": "350",
+        "WeaponBasicAttackingPower": "646",
+        "WeaponHitPoint": "3369",
+        "WeaponUnderstanding": "4603",
+        "PassiveSkill": [
+          {
+            "ID": "53071",
+            "name": "威势",
+            "SpecificEffects": "触发<buf ID=900109>[处决]</buf>效果后，对目标及周围<color=#F74848>1</color>圈敌机施加<buf ID=7101203>[伤害降低Ⅱ]</buf>和<buf ID=7101803>[遭受伤害提升Ⅱ]</buf>，持续<color=#F74848>1</color>回合",
+            "BufCarried": "530711",
+            "SkillIcon": "Icon_skill_passive_5149",
+            "icon": "Icon_skill_passive_5149",
+            "Status": 1,
+            "weight": 1041
+          },
+          {
+            "ID": "53072",
+            "name": "∑-04Ω",
+            "SpecificEffects": "强化<buf ID=900134>[∑-04]</buf>效果：使用刀剑连续攻击同一目标时，对首次命中的部位命中权重提升<color=#F74848>50</color>，目标行动结束时移除此效果；\n行动开始时，仅移除<color=#F74848>1</color>层<buf ID=900100>[看破]</buf>；携带<color=#F74848>3</color>层<buf ID=900100>[看破]</buf>时，伤害提升<color=#F74848>15%</color>，遭受伤害降低<color=#F74848>15%</color>",
+            "BufCarried": "530721/530722/530727",
+            "SkillIcon": "Icon_skill_passive_5262",
+            "icon": "Icon_skill_passive_5262",
+            "Status": 1,
+            "weight": 1042
+          },
+          {
+            "ID": "53070",
+            "name": "再斩",
+            "SpecificEffects": "<buf ID=900004>[再攻击]</buf>时，伤害和命中率提升<color=#F74848>10%</color>",
+            "BufCarried": "530701",
+            "SkillIcon": "Icon_skill_passive_4127",
+            "icon": "Icon_skill_passive_4127",
+            "Status": 1,
+            "weight": 1040
+          }
+        ],
+        "IconResourcePath": "Icon_weapon_10700401",
+        "icon": "Icon_weapon_10700401",
+        "describe": "北陆联合第九研究所打造的试制动力剑，∑-04奥菲利亚消灭失控实验体Δ-09后缴获并使用至今的战利品……有传闻说她们曾是朋友，但奥菲利亚本人对此从未做出过任何回应。",
+        "Status": 1,
+        "weight": 732
+      }
+    ],
+    "now": "2025-09-16 16:19:58"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

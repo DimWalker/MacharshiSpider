@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_40301",
           "icon": "Icon_entry_40301",
           "Status": 1,
-          "weight": 827
+          "weight": 923
         },
         {
           "ID": "40302",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_40301",
           "icon": "Icon_entry_40301",
           "Status": 1,
-          "weight": 828
+          "weight": 924
         },
         {
           "ID": "40303",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_40301",
           "icon": "Icon_entry_40301",
           "Status": 1,
-          "weight": 829
+          "weight": 925
         },
         {
           "ID": "40304",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_40301",
           "icon": "Icon_entry_40301",
           "Status": 1,
-          "weight": 830
+          "weight": 926
         }
       ],
       "introduce": "对于刀剑武器的使用者来说，适配传统格斗武器的控制模组已经不能满足他们的需求。因此更灵活、更轻便、定制化程度更高的斩击芯片应运而生。",
@@ -55,9 +55,9 @@
       "IconType": "PropertyA",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 125
+      "weight": 137
     },
-    "now": "2025-02-12 00:14:54"
+    "now": "2025-09-16 16:21:15"
   },
   "status": 1,
   "switch": null,

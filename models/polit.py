@@ -5,7 +5,7 @@ class Pilot:
 
     def __init__(self, ID=None, name=None, RealName=None, Gender=None, Profession=None,
                  quality=None, Occupation=None, MechaDriveLevel=None, Combat=None, Assault=None,
-                 Shooting=None, Tactics=None, Defense=None, Engineering=None
+                 Shooting=None, Tactics=None, Defense=None, Engineering=None, icon=None
                  , **kwargs):  # 字典比类字段多时报错，需要
         self.ID = ID
         self.name = name
@@ -21,6 +21,7 @@ class Pilot:
         self.Tactics = Tactics
         self.Defense = Defense
         self.Engineering = Engineering
+        self.icon = icon
 
     @classmethod
     def from_dict(cls, data):

@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_40071",
           "icon": "Icon_entry_40071",
           "Status": 1,
-          "weight": 658
+          "weight": 754
         },
         {
           "ID": "40072",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_40071",
           "icon": "Icon_entry_40071",
           "Status": 1,
-          "weight": 659
+          "weight": 755
         },
         {
           "ID": "40073",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_40071",
           "icon": "Icon_entry_40071",
           "Status": 1,
-          "weight": 660
+          "weight": 756
         },
         {
           "ID": "40074",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_40071",
           "icon": "Icon_entry_40071",
           "Status": 1,
-          "weight": 661
+          "weight": 757
         }
       ],
       "introduce": "承伤模组大多是对机兵原有装甲的强化，能让其硬度得到进一步提升，增强战场的生存能力。",
@@ -55,9 +55,9 @@
       "IconType": "PropertyA",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 81
+      "weight": 93
     },
-    "now": "2025-02-12 00:15:01"
+    "now": "2025-09-16 16:21:33"
   },
   "status": 1,
   "switch": null,

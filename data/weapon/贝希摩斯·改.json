@@ -25,17 +25,17 @@
             "SkillIcon": "Icon_skill_passive_5126",
             "icon": "Icon_skill_passive_5126",
             "Status": 1,
-            "weight": 874
+            "weight": 992
           }
         ],
         "IconResourcePath": "Icon_weapon_20400302",
         "icon": "Icon_weapon_20400302",
         "describe": "搭载了新式外附冷却管和多匣弹仓，在提升武器自冷却的同时支持外接机兵冷却系统。在安全性和耐用性上都得到了全面升级。",
         "Status": 1,
-        "weight": 689
+        "weight": 694
       }
     ],
-    "now": "2025-02-12 00:14:20"
+    "now": "2025-09-16 16:19:40"
   },
   "status": 1,
   "switch": null,

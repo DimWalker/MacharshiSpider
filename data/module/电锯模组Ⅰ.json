@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_40291",
           "icon": "Icon_entry_40291",
           "Status": 1,
-          "weight": 823
+          "weight": 919
         },
         {
           "ID": "40292",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_40291",
           "icon": "Icon_entry_40291",
           "Status": 1,
-          "weight": 824
+          "weight": 920
         },
         {
           "ID": "40293",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_40291",
           "icon": "Icon_entry_40291",
           "Status": 1,
-          "weight": 825
+          "weight": 921
         },
         {
           "ID": "40294",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_40291",
           "icon": "Icon_entry_40291",
           "Status": 1,
-          "weight": 826
+          "weight": 922
         }
       ],
       "introduce": "为了更加精确地控制电锯武器的刃轮转速，各大机兵厂商开发了针对电锯武器专研的控制芯片，推出后便广受电锯武器用户的好评。",
@@ -55,9 +55,9 @@
       "IconType": "PropertyA",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 123
+      "weight": 135
     },
-    "now": "2025-02-12 00:14:54"
+    "now": "2025-09-16 16:21:16"
   },
   "status": 1,
   "switch": null,

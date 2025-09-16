@@ -36,7 +36,7 @@
         "mechaIcon": "Icon_wap2023_1",
         "lihuiIcon": "icon_lihui_wap2023",
         "Status": 1,
-        "weight": 112,
+        "weight": 124,
         "manji": {
           "name": "走鹃",
           "durable": "7788",
@@ -74,7 +74,7 @@
               "SkillIcon": "Icon_entry_40051",
               "icon": "Icon_entry_40051",
               "Status": 1,
-              "weight": 645,
+              "weight": 741,
               "id": "4005",
               "level": 4
             },
@@ -90,13 +90,13 @@
               "SkillIcon": "Icon_entry_10011",
               "icon": "Icon_entry_10011",
               "Status": 1,
-              "weight": 483,
+              "weight": 515,
               "id": "3022",
               "level": 2
             }
           ],
           "Status": 1,
-          "weight": 112
+          "weight": 124
         }
       },
       {
@@ -114,7 +114,7 @@
         "introduce": "OS-10R 走鹃\n黑曜石开发的中型维修机兵，拥有显著优于同时代同类型机兵的极高性价比。\n该机型安装了前置观测仪，机身插接外置钢架，可搭载更多维修设备。此外还采用了“莫霍面防护系统”，在进一步提升防护的同时降低了成本，这使其最终赢得了市场的广泛认可。\n据悉，相关技术最初来自奥维特公国。",
         "mechaIcon": "Icon_wap2023_2",
         "Status": 1,
-        "weight": 113,
+        "weight": 125,
         "manji": {
           "name": "走鹃",
           "durable": "3996",
@@ -124,7 +124,7 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "1005:1/4005:1/",
           "Status": 1,
-          "weight": 113
+          "weight": 125
         }
       },
       {
@@ -142,7 +142,7 @@
         "introduce": "OS-10R 走鹃\n黑曜石开发的中型维修机兵，拥有显著优于同时代同类型机兵的极高性价比。\n该机型安装了前置观测仪，机身插接外置钢架，可搭载更多维修设备。此外还采用了“莫霍面防护系统”，在进一步提升防护的同时降低了成本，这使其最终赢得了市场的广泛认可。\n据悉，相关技术最初来自奥维特公国。",
         "mechaIcon": "Icon_wap2023_3",
         "Status": 1,
-        "weight": 114,
+        "weight": 126,
         "manji": {
           "name": "走鹃",
           "durable": "3996",
@@ -152,7 +152,7 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "1005:1/4005:1/",
           "Status": 1,
-          "weight": 114
+          "weight": 126
         }
       },
       {
@@ -171,7 +171,7 @@
         "introduce": "OS-10R 走鹃\n黑曜石开发的中型维修机兵，拥有显著优于同时代同类型机兵的极高性价比。\n该机型安装了前置观测仪，机身插接外置钢架，可搭载更多维修设备。此外还采用了“莫霍面防护系统”，在进一步提升防护的同时降低了成本，这使其最终赢得了市场的广泛认可。\n据悉，相关技术最初来自奥维特公国。",
         "mechaIcon": "Icon_wap2023_4",
         "Status": 1,
-        "weight": 115,
+        "weight": 127,
         "manji": {
           "name": "走鹃",
           "durable": "6242",
@@ -182,11 +182,11 @@
           "Interface": "Ⅰ型接口",
           "ModuleCarried": "1005:1/3022:1/4005:1/",
           "Status": 1,
-          "weight": 115
+          "weight": 127
         }
       }
     ],
-    "now": "2025-02-12 00:13:45"
+    "now": "2025-09-16 16:18:13"
   },
   "status": 1,
   "switch": null,

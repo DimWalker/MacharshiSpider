@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "20511",
+      "ModuleName": "闪光阵列",
+      "name": "闪光阵列",
+      "EntryLevel": "1",
+      "quality": "SSR",
+      "ModuleEffects": "20511/20512/20513/20514",
+      "WithPassiveSkills": [
+        {
+          "ID": "20511",
+          "name": "闪光阵列",
+          "SpecificEffects": "伤害提升<color=#F74848>3%</color>；攻击时伤害额外提升<color=#F74848>5%</color>，每次攻击后减少<color=#F74848>1%</color>，击毁任意目标后重置",
+          "BufCarried": "205111/205112/205116",
+          "SkillIcon": "Icon_skill_passive_1157",
+          "icon": "Icon_skill_passive_1157",
+          "Status": 1,
+          "weight": 322
+        },
+        {
+          "ID": "20512",
+          "name": "闪光阵列",
+          "SpecificEffects": "伤害提升<color=#F74848>5%</color>；攻击时伤害额外提升<color=#F74848>10%</color>，每次攻击后减少<color=#F74848>2%</color>，击毁任意目标后重置",
+          "BufCarried": "205121/205122/205126",
+          "SkillIcon": "Icon_skill_passive_1157",
+          "icon": "Icon_skill_passive_1157",
+          "Status": 1,
+          "weight": 323
+        },
+        {
+          "ID": "20513",
+          "name": "闪光阵列",
+          "SpecificEffects": "伤害提升<color=#F74848>5%</color>；攻击时伤害额外提升<color=#F74848>20%</color>，每次攻击后减少<color=#F74848>4%</color>，击毁任意目标后重置",
+          "BufCarried": "205131/205132/205136",
+          "SkillIcon": "Icon_skill_passive_1157",
+          "icon": "Icon_skill_passive_1157",
+          "Status": 1,
+          "weight": 324
+        },
+        {
+          "ID": "20514",
+          "name": "闪光阵列",
+          "SpecificEffects": "伤害提升<color=#F74848>10%</color>；攻击时伤害额外提升<color=#F74848>25%</color>，每次攻击后减少<color=#F74848>5%</color>，击毁任意目标后重置",
+          "BufCarried": "205141/205142/205146",
+          "SkillIcon": "Icon_skill_passive_1157",
+          "icon": "Icon_skill_passive_1157",
+          "Status": 1,
+          "weight": 325
+        }
+      ],
+      "introduce": "多核微型仿生智能框架组成的自动演算阵列，能最优化机兵接敌时的攻击策略，大幅提升歼敌效率，令单机扫荡战场成为可能。",
+      "ModuleIcon": "Icon_skill_passive_1157",
+      "icon": "Icon_skill_passive_1157",
+      "IconType": "SuitS",
+      "ObtainingMethod": "模组生产",
+      "Status": 1,
+      "weight": 45
+    },
+    "now": "2025-09-16 16:21:53"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

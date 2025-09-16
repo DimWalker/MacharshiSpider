@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_10058",
           "icon": "Icon_entry_10058",
           "Status": 1,
-          "weight": 434
+          "weight": 466
         },
         {
           "ID": "30162",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_10058",
           "icon": "Icon_entry_10058",
           "Status": 1,
-          "weight": 435
+          "weight": 467
         },
         {
           "ID": "30163",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_10058",
           "icon": "Icon_entry_10058",
           "Status": 1,
-          "weight": 436
+          "weight": 468
         },
         {
           "ID": "30164",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_10058",
           "icon": "Icon_entry_10058",
           "Status": 1,
-          "weight": 437
+          "weight": 469
         },
         {
           "ID": "30165",
@@ -56,7 +56,7 @@
           "SkillIcon": "Icon_entry_10058",
           "icon": "Icon_entry_10058",
           "Status": 1,
-          "weight": 438
+          "weight": 470
         },
         {
           "ID": "30166",
@@ -66,7 +66,7 @@
           "SkillIcon": "Icon_entry_10058",
           "icon": "Icon_entry_10058",
           "Status": 1,
-          "weight": 439
+          "weight": 471
         },
         {
           "ID": "30167",
@@ -76,7 +76,7 @@
           "SkillIcon": "Icon_entry_10058",
           "icon": "Icon_entry_10058",
           "Status": 1,
-          "weight": 440
+          "weight": 472
         },
         {
           "ID": "30168",
@@ -86,7 +86,7 @@
           "SkillIcon": "Icon_entry_10058",
           "icon": "Icon_entry_10058",
           "Status": 1,
-          "weight": 441
+          "weight": 473
         }
       ],
       "introduce": "整备模组更关注于机兵的完整性，减少整体为应对攻击的预留性能，充分发挥其应有的能力，但这也使其在被动迎战时显得极为乏力。",
@@ -95,9 +95,9 @@
       "IconType": "GeneralSuit",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 58
+      "weight": 66
     },
-    "now": "2025-02-12 00:15:05"
+    "now": "2025-09-16 16:21:44"
   },
   "status": 1,
   "switch": null,

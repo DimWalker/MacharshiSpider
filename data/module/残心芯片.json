@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "20501",
+      "ModuleName": "残心芯片",
+      "name": "残心芯片",
+      "EntryLevel": "1",
+      "quality": "SSR",
+      "ModuleEffects": "20501/20502/20503/20504",
+      "WithPassiveSkills": [
+        {
+          "ID": "20501",
+          "name": "残心芯片",
+          "SpecificEffects": "每台敌机受到包含<buf ID=900017>[固定伤害]</buf>或溅射伤害的攻击时，获得伤害提升<color=#F74848>2%</color>，可叠加<color=#F74848>3</color>层，持续<color=#F74848>2</color>回合",
+          "BufCarried": "205011",
+          "SkillIcon": "Icon_skill_passive_1171",
+          "icon": "Icon_skill_passive_1171",
+          "Status": 1,
+          "weight": 318
+        },
+        {
+          "ID": "20502",
+          "name": "残心芯片",
+          "SpecificEffects": "每台敌机受到包含<buf ID=900017>[固定伤害]</buf>或溅射伤害的攻击时，获得伤害提升<color=#F74848>4%</color>，可叠加<color=#F74848>3</color>层，持续<color=#F74848>2</color>回合",
+          "BufCarried": "205021",
+          "SkillIcon": "Icon_skill_passive_1171",
+          "icon": "Icon_skill_passive_1171",
+          "Status": 1,
+          "weight": 319
+        },
+        {
+          "ID": "20503",
+          "name": "残心芯片",
+          "SpecificEffects": "每台敌机受到包含<buf ID=900017>[固定伤害]</buf>或溅射伤害的攻击时，获得伤害提升<color=#F74848>4%</color>，可叠加<color=#F74848>5</color>层，持续<color=#F74848>2</color>回合",
+          "BufCarried": "205031",
+          "SkillIcon": "Icon_skill_passive_1171",
+          "icon": "Icon_skill_passive_1171",
+          "Status": 1,
+          "weight": 320
+        },
+        {
+          "ID": "20504",
+          "name": "残心芯片",
+          "SpecificEffects": "每台敌机受到包含<buf ID=900017>[固定伤害]</buf>或溅射伤害的攻击时，获得伤害提升<color=#F74848>6%</color>，可叠加<color=#F74848>5</color>层，持续<color=#F74848>2</color>回合",
+          "BufCarried": "205041",
+          "SkillIcon": "Icon_skill_passive_1171",
+          "icon": "Icon_skill_passive_1171",
+          "Status": 1,
+          "weight": 321
+        }
+      ],
+      "introduce": "由KATANA研发的机载芯片，能根据战斗中的实际情况，转换增压出力，提高机兵的持续作战能力。",
+      "ModuleIcon": "Icon_skill_passive_1171",
+      "icon": "Icon_skill_passive_1171",
+      "IconType": "SuitS",
+      "ObtainingMethod": "模组生产",
+      "Status": 1,
+      "weight": 44
+    },
+    "now": "2025-09-16 16:21:53"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

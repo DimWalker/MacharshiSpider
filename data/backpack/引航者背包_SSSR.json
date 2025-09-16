@@ -1,0 +1,33 @@
+{
+  "data": {
+    "data": {
+      "ID": "60802406",
+      "name": "引航者背包",
+      "quality": "SSSR",
+      "weight": "150",
+      "BackpackMainType": "Radar",
+      "AssemblableAirmenType": "Light/Medium/Heavy",
+      "BackpackIcon": "Icon_backpack_60800201",
+      "icon": "Icon_backpack_60800201",
+      "WithPassiveSkills": [
+        {
+          "ID": "62305",
+          "name": "引航者驱动·首攻",
+          "SpecificEffects": "使机兵周围<color=#F74848>2</color>格范围，成为友方导弹、火箭的可攻击区域，通过背包效果诱导的攻击命中率提升<color=#F74848>25%</color>\n每回合第<color=#F74848>1</color>次主动攻击对战时，伤害提升<color=#F74848>7.5%</color>，暴击率提升<color=#F74848>5%</color>；\n机兵躯干耐久值提升<color=#F74848>10%</color>，造成伤害提升<color=#F74848>5%</color>",
+          "BufCarried": "623051/600431/601821",
+          "SkillIcon": "Icon_skill_passive_5237",
+          "icon": "Icon_skill_passive_5237",
+          "Status": 1,
+          "weight": 1344
+        }
+      ],
+      "HowGet": "无",
+      "RelatedDescription": "旧式雷达强化背包的改良升级款，小型化的机兵定位装置，开启能让友方机兵获得定位，引导飞弹对范围内目标进行精准打击。同时集成了强化机兵每回合首次攻击能力的功能。",
+      "Status": 1
+    },
+    "now": "2025-09-16 16:20:56"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

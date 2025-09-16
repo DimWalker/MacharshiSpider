@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_10013",
           "icon": "Icon_entry_10013",
           "Status": 1,
-          "weight": 498
+          "weight": 530
         },
         {
           "ID": "30242",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_10013",
           "icon": "Icon_entry_10013",
           "Status": 1,
-          "weight": 499
+          "weight": 531
         },
         {
           "ID": "30243",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_10013",
           "icon": "Icon_entry_10013",
           "Status": 1,
-          "weight": 500
+          "weight": 532
         },
         {
           "ID": "30244",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_10013",
           "icon": "Icon_entry_10013",
           "Status": 1,
-          "weight": 501
+          "weight": 533
         },
         {
           "ID": "30245",
@@ -56,7 +56,7 @@
           "SkillIcon": "Icon_entry_10013",
           "icon": "Icon_entry_10013",
           "Status": 1,
-          "weight": 502
+          "weight": 534
         },
         {
           "ID": "30246",
@@ -66,7 +66,7 @@
           "SkillIcon": "Icon_entry_10013",
           "icon": "Icon_entry_10013",
           "Status": 1,
-          "weight": 503
+          "weight": 535
         },
         {
           "ID": "30247",
@@ -76,7 +76,7 @@
           "SkillIcon": "Icon_entry_10013",
           "icon": "Icon_entry_10013",
           "Status": 1,
-          "weight": 504
+          "weight": 536
         },
         {
           "ID": "30248",
@@ -86,7 +86,7 @@
           "SkillIcon": "Icon_entry_10013",
           "icon": "Icon_entry_10013",
           "Status": 1,
-          "weight": 505
+          "weight": 537
         }
       ],
       "introduce": "请保护队伍中搭载群修模组的维修型机兵，只要它还存在，就能为队伍创造近乎可怖的维修量，以这种方式击垮敌人的胜利意志。",
@@ -95,9 +95,9 @@
       "IconType": "GeneralSuit",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 65
+      "weight": 73
     },
-    "now": "2025-02-12 00:15:04"
+    "now": "2025-09-16 16:21:42"
   },
   "status": 1,
   "switch": null,

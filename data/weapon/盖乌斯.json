@@ -1,0 +1,63 @@
+{
+  "data": {
+    "data": [
+      {
+        "ID": "20215122",
+        "name": "盖乌斯",
+        "quality": "SSSR",
+        "grade": "70",
+        "WeaponType1": "Assault",
+        "WeaponType2": "HeavyMachineGun",
+        "type": "HeavyMachineGun",
+        "LimitedModelOfWeapon": "Light/Medium/Heavy",
+        "RestrictionsPositionOfWeapon": "DoubleHand",
+        "range": "1-3",
+        "WeaponWeight": "1000",
+        "WeaponBasicAttackingPower": "1618",
+        "WeaponHitPoint": "1560",
+        "WeaponUnderstanding": "4603",
+        "PassiveSkill": [
+          {
+            "ID": "53077",
+            "name": "谐振机关",
+            "SpecificEffects": "使用重机枪主动攻击时，若击破敌机部位，战后获得<color=#F74848>1</color>个随机增益效果，持续<color=#F74848>2</color>回合，每回合最多发动<color=#F74848>3</color>次",
+            "BufCarried": "530771",
+            "SkillIcon": "Icon_skill_passive_5129",
+            "icon": "Icon_skill_passive_5129",
+            "Status": 1,
+            "weight": 1047
+          },
+          {
+            "ID": "53078",
+            "name": "希望福音",
+            "SpecificEffects": "强化<buf ID=900139>[第三适格者]</buf>效果：重机枪射程<color=#F74848>+1</color>，<buf ID=1014820>[同步率]</buf>修正效果增加<color=#F74848>25%</color>；每次发动<buf ID=900004>[再攻击]</buf>时，<buf ID=1014820>[同步率]</buf><color=#F74848>+3%</color>；主动攻击后，自身获得<buf ID=530786>[同调奇迹]</buf>，每回合最多生效<color=#F74848>1</color>次",
+            "BufCarried": "530781/530782/530783/530785",
+            "SkillIcon": "Icon_skill_passive_5267",
+            "icon": "Icon_skill_passive_5267",
+            "Status": 1,
+            "weight": 1048
+          },
+          {
+            "ID": "53076",
+            "name": "优势火力",
+            "SpecificEffects": "主动攻击时，伤害提升<color=#F74848>15%</color>，从距离<color=#F74848>1</color>格起，目标距离每增加<color=#F74848>1</color>格，伤害额外提升<color=#F74848>5%</color>，最多<color=#F74848>25%</color>",
+            "BufCarried": "530761/530762",
+            "SkillIcon": "Icon_skill_passive_1146",
+            "icon": "Icon_skill_passive_1146",
+            "Status": 1,
+            "weight": 1046
+          }
+        ],
+        "IconResourcePath": "Icon_weapon_20400401",
+        "icon": "Icon_weapon_20400401",
+        "describe": "突然出现在路德维希旧实验室的特制武装。其开发者与开发时间一概不明，技术也难以溯源，仅能根据残留的测试数据确定——它是为了某位少年而存在的。",
+        "Status": 1,
+        "weight": 735
+      }
+    ],
+    "now": "2025-09-16 16:20:00"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

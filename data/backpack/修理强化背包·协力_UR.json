@@ -13,12 +13,12 @@
         {
           "ID": "61230",
           "name": "修理装置Ⅰ·协力",
-          "SpecificEffects": "行动开始时对自己释放<color=#F74848>1</color>次<color=#F74848>0.6</color>倍修理量的修理，不可修复破损的部位\n协力攻击时，伤害提升<color=#F74848>15%</color>，暴击率提升<color=#F74848>10%</color>；",
+          "SpecificEffects": "行动开始时对自己释放<color=#F74848>1</color>次<color=#F74848>0.6</color>倍修理量的修理，不可修复破损的部位\n协力攻击时，伤害提升<color=#F74848>15%</color>，暴击率提升<color=#F74848>10%</color>",
           "BufCarried": "602311/600731",
           "SkillIcon": "Icon_skill_passive_3102",
           "icon": "Icon_skill_passive_3102",
           "Status": 1,
-          "weight": 1164
+          "weight": 1330
         }
       ],
       "HowGet": "无",
@@ -26,7 +26,7 @@
       "AmountOfRepair": "204",
       "Status": 1
     },
-    "now": "2025-02-12 00:14:28"
+    "now": "2025-09-16 16:20:04"
   },
   "status": 1,
   "switch": null,

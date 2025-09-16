@@ -13,19 +13,19 @@
         {
           "ID": "61009",
           "name": "出力增幅Ⅲ·警戒",
-          "SpecificEffects": "机兵获得额外<color=#F74848>300</color>出力；\n警戒射击时，命中率提升<color=#F74848>15%</color>，暴击率提升<color=#F74848>10%</color>；\n机兵躯干耐久值提升<color=#F74848>10%</color>，造成伤害提升<color=#F74848>5%</color>；",
+          "SpecificEffects": "机兵获得额外<color=#F74848>300</color>出力；\n警戒射击时，命中率提升<color=#F74848>15%</color>，暴击率提升<color=#F74848>10%</color>；\n机兵躯干耐久值提升<color=#F74848>10%</color>，造成伤害提升<color=#F74848>5%</color>",
           "BufCarried": "600331",
           "SkillIcon": "Icon_skill_passive_5148",
           "icon": "Icon_skill_passive_5148",
           "Status": 1,
-          "weight": 1054
+          "weight": 1220
         }
       ],
       "HowGet": "无",
       "RelatedDescription": "通过外部挂载的小型功能装置为机兵提供额外的出力，使其拥有更高的作战全重上限。同时集成了强化机兵警戒射击能力的功能。",
       "Status": 1
     },
-    "now": "2025-02-12 00:14:42"
+    "now": "2025-09-16 16:20:41"
   },
   "status": 1,
   "switch": null,

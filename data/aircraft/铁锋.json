@@ -36,7 +36,7 @@
         "mechaIcon": "Icon_wap2028_1",
         "lihuiIcon": "icon_lihui_wap2028",
         "Status": 1,
-        "weight": 128,
+        "weight": 140,
         "manji": {
           "name": "铁锋",
           "durable": "7905",
@@ -58,7 +58,7 @@
               "SkillIcon": "Icon_entry_40011",
               "icon": "Icon_entry_40011",
               "Status": 1,
-              "weight": 613,
+              "weight": 709,
               "id": "4001",
               "level": 4
             },
@@ -90,13 +90,13 @@
               "SkillIcon": "Icon_entry_10047",
               "icon": "Icon_entry_10047",
               "Status": 1,
-              "weight": 315,
+              "weight": 347,
               "id": "3001",
               "level": 2
             }
           ],
           "Status": 1,
-          "weight": 128
+          "weight": 140
         }
       },
       {
@@ -114,7 +114,7 @@
         "introduce": "LTX-29 铁锋\n拉尼亚凯亚开发的中型突击机兵，多由北陆联合山地部队使用。\n该机采用了特殊爪型足部和自动调节式液压传动系统，并在手臂轻量化处理的基础上配置了追击型快速反应击发器，最大程度保证其在复杂地形下的突击能力。同时，归功于合理的装甲结构，其对中远距离攻击仍有一定防护能力。",
         "mechaIcon": "Icon_wap2028_2",
         "Status": 1,
-        "weight": 129,
+        "weight": 141,
         "manji": {
           "name": "铁锋",
           "durable": "3967",
@@ -124,7 +124,7 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "1002:1/4001:1/",
           "Status": 1,
-          "weight": 129
+          "weight": 141
         }
       },
       {
@@ -142,7 +142,7 @@
         "introduce": "LTX-29 铁锋\n拉尼亚凯亚开发的中型突击机兵，多由北陆联合山地部队使用。\n该机采用了特殊爪型足部和自动调节式液压传动系统，并在手臂轻量化处理的基础上配置了追击型快速反应击发器，最大程度保证其在复杂地形下的突击能力。同时，归功于合理的装甲结构，其对中远距离攻击仍有一定防护能力。",
         "mechaIcon": "Icon_wap2028_3",
         "Status": 1,
-        "weight": 130,
+        "weight": 142,
         "manji": {
           "name": "铁锋",
           "durable": "3967",
@@ -152,7 +152,7 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "1002:1/4001:1/",
           "Status": 1,
-          "weight": 130
+          "weight": 142
         }
       },
       {
@@ -171,7 +171,7 @@
         "introduce": "LTX-29 铁锋\n拉尼亚凯亚开发的中型突击机兵，多由北陆联合山地部队使用。\n该机采用了特殊爪型足部和自动调节式液压传动系统，并在手臂轻量化处理的基础上配置了追击型快速反应击发器，最大程度保证其在复杂地形下的突击能力。同时，归功于合理的装甲结构，其对中远距离攻击仍有一定防护能力。",
         "mechaIcon": "Icon_wap2028_4",
         "Status": 1,
-        "weight": 131,
+        "weight": 143,
         "manji": {
           "name": "铁锋",
           "durable": "5950",
@@ -182,11 +182,11 @@
           "Interface": "Ⅰ型接口",
           "ModuleCarried": "1002:1/3001:1/4001:1/",
           "Status": 1,
-          "weight": 131
+          "weight": 143
         }
       }
     ],
-    "now": "2025-02-12 00:13:46"
+    "now": "2025-09-16 16:18:14"
   },
   "status": 1,
   "switch": null,

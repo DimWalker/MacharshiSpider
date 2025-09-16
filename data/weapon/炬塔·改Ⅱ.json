@@ -1,0 +1,60 @@
+{
+  "data": {
+    "data": [
+      {
+        "ID": "50114122",
+        "name": "炬塔·改Ⅱ",
+        "quality": "UR",
+        "grade": "70",
+        "WeaponType1": "Heavy",
+        "WeaponType2": "RailGun",
+        "type": "RailGun",
+        "LimitedModelOfWeapon": "Medium",
+        "RestrictionsPositionOfWeapon": "Back",
+        "range": "1-5",
+        "WeaponWeight": "1100",
+        "WeaponBasicAttackingPower": "773",
+        "WeaponHitPoint": "4943",
+        "WeaponUnderstanding": "4558",
+        "NumberOfBullets": "3",
+        "InitiativeSkill": [
+          {
+            "ID": "5011",
+            "remarks": "电磁炮攻击",
+            "name": "电磁激荡",
+            "describe": "使用电磁炮攻击纵向<color=#F74848>5</color>格范围内的所有目标，造成<color=#F74848>1.0</color>倍范围伤害",
+            "type": "SpecialAssault",
+            "CD": "0",
+            "Ap": "3",
+            "matchingWeaponType": "电磁炮",
+            "SkillIcon": "Icon_skill_order_1005",
+            "icon": "Icon_skill_order_1005",
+            "Status": 1,
+            "weight": 591
+          }
+        ],
+        "PassiveSkill": [
+          {
+            "ID": "53067",
+            "name": "弹药再生",
+            "SpecificEffects": "使用电磁炮主动攻击目标时，若打击的目标大于等于<color=#F74848>3</color>个，战后回复<color=#F74848>1</color>枚弹药，每<color=#F74848>2</color>回合最多发动<color=#F74848>1</color>次",
+            "BufCarried": "530671",
+            "SkillIcon": "Icon_skill_passive_5150",
+            "icon": "Icon_skill_passive_5150",
+            "Status": 1,
+            "weight": 1037
+          }
+        ],
+        "IconResourcePath": "Icon_weapon_50100101",
+        "icon": "Icon_weapon_50100101",
+        "describe": "将电浆弹与推射弹同时集成在一款电磁炮上的炬塔改款，能根据具体的作战环境与战术需求选择更多样的打击形式。",
+        "Status": 1,
+        "weight": 705
+      }
+    ],
+    "now": "2025-09-16 16:19:56"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

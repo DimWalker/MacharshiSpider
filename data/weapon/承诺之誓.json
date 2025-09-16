@@ -1,0 +1,62 @@
+{
+  "data": {
+    "data": [
+      {
+        "ID": "10415123",
+        "name": "承诺之誓",
+        "quality": "SSSR",
+        "grade": "70",
+        "WeaponType1": "Melee",
+        "WeaponType2": "Shield",
+        "type": "Shield",
+        "LimitedModelOfWeapon": "Heavy",
+        "RestrictionsPositionOfWeapon": "Hand",
+        "range": "1",
+        "WeaponWeight": "390",
+        "WeaponBasicAttackingPower": "385",
+        "WeaponHitPoint": "3494",
+        "ShieldbloodBase": "4854",
+        "PassiveSkill": [
+          {
+            "ID": "53065",
+            "name": "再生臂铠",
+            "SpecificEffects": "对战后，若持盾手臂损毁，立即修复持盾手臂，并恢复<color=#F74848>50%</color>的耐久值，间隔<color=#F74848>3</color>回合后可再次发动",
+            "BufCarried": "530651",
+            "SkillIcon": "Icon_skill_passive_3124",
+            "icon": "Icon_skill_passive_3124",
+            "Status": 1,
+            "weight": 1035
+          },
+          {
+            "ID": "53066",
+            "name": "誓言",
+            "SpecificEffects": "强化<buf ID=900131>[第一适格者]</buf>的效果：<buf ID=900022>[援护防御]</buf>范围内友军遭受指令和范围攻击伤害降低<color=#F74848>25%</color>；<buf ID=1014820>[同步率]</buf>高于<color=#F74848>65%</color>时，造成伤害和<buf ID=900017>[固定伤害]</buf>提升<color=#F74848>25%</color>",
+            "BufCarried": "530662/530663/530664/530665",
+            "SkillIcon": "Icon_skill_passive_5256",
+            "icon": "Icon_skill_passive_5256",
+            "Status": 1,
+            "weight": 1036
+          },
+          {
+            "ID": "53064",
+            "name": "增幅合金",
+            "SpecificEffects": "盾牌提供的基础耐久值提升<color=#F74848>100%</color>",
+            "SkillIcon": "Icon_skill_passive_2118",
+            "icon": "Icon_skill_passive_2118",
+            "Status": 1,
+            "weight": 1034
+          }
+        ],
+        "IconResourcePath": "Icon_weapon_10400601",
+        "icon": "Icon_weapon_10400601",
+        "describe": "「我会保护你。」",
+        "Status": 1,
+        "weight": 731
+      }
+    ],
+    "now": "2025-09-16 16:19:57"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

@@ -32,7 +32,7 @@
         "SkillIcon": "Icon_skill_talent_5102",
         "icon": "Icon_skill_talent_5102",
         "Status": 1,
-        "weight": 2395
+        "weight": 2692
       },
       "Talent3_5Ability": {
         "ID": "100451",
@@ -42,7 +42,7 @@
         "SkillIcon": "Icon_skill_talent_5102",
         "icon": "Icon_skill_talent_5102",
         "Status": 1,
-        "weight": 2396
+        "weight": 2693
       },
       "NeuralDriveTemplate": {
         "ID": "10102109",
@@ -71,7 +71,7 @@
                   "SkillIcon": "Icon_skill_passive_5010",
                   "icon": "Icon_skill_passive_5010",
                   "Status": 1,
-                  "weight": 2359
+                  "weight": 2656
                 }
               },
               {
@@ -89,7 +89,7 @@
                   "SkillIcon": "Icon_skill_passive_5006",
                   "icon": "Icon_skill_passive_5006",
                   "Status": 1,
-                  "weight": 2360
+                  "weight": 2657
                 }
               },
               {
@@ -107,7 +107,7 @@
                   "SkillIcon": "Icon_skill_passive_5004",
                   "icon": "Icon_skill_passive_5004",
                   "Status": 1,
-                  "weight": 2361
+                  "weight": 2658
                 }
               }
             ],
@@ -140,7 +140,7 @@
                   "SkillIcon": "Icon_skill_passive_5010",
                   "icon": "Icon_skill_passive_5010",
                   "Status": 1,
-                  "weight": 2362
+                  "weight": 2659
                 }
               },
               {
@@ -159,7 +159,7 @@
                   "SkillIcon": "Icon_skill_passive_5006",
                   "icon": "Icon_skill_passive_5006",
                   "Status": 1,
-                  "weight": 2363
+                  "weight": 2660
                 }
               },
               {
@@ -177,7 +177,7 @@
                   "SkillIcon": "Icon_skill_passive_5004",
                   "icon": "Icon_skill_passive_5004",
                   "Status": 1,
-                  "weight": 2364
+                  "weight": 2661
                 }
               }
             ],
@@ -210,7 +210,7 @@
                   "SkillIcon": "Icon_skill_passive_5011",
                   "icon": "Icon_skill_passive_5011",
                   "Status": 1,
-                  "weight": 2365
+                  "weight": 2662
                 }
               },
               {
@@ -228,7 +228,7 @@
                   "SkillIcon": "Icon_skill_passive_5004",
                   "icon": "Icon_skill_passive_5004",
                   "Status": 1,
-                  "weight": 2366
+                  "weight": 2663
                 }
               },
               {
@@ -247,7 +247,7 @@
                   "SkillIcon": "Icon_skill_passive_5010",
                   "icon": "Icon_skill_passive_5010",
                   "Status": 1,
-                  "weight": 2367
+                  "weight": 2664
                 }
               },
               {
@@ -266,7 +266,7 @@
                   "SkillIcon": "Icon_skill_passive_5011",
                   "icon": "Icon_skill_passive_5011",
                   "Status": 1,
-                  "weight": 2368
+                  "weight": 2665
                 }
               },
               {
@@ -285,7 +285,7 @@
                   "SkillIcon": "Icon_skill_passive_5011",
                   "icon": "Icon_skill_passive_5011",
                   "Status": 1,
-                  "weight": 2369
+                  "weight": 2666
                 }
               },
               {
@@ -304,7 +304,7 @@
                   "SkillIcon": "Icon_skill_passive_5011",
                   "icon": "Icon_skill_passive_5011",
                   "Status": 1,
-                  "weight": 2370
+                  "weight": 2667
                 }
               }
             ],
@@ -337,7 +337,7 @@
                   "SkillIcon": "Icon_skill_passive_5104",
                   "icon": "Icon_skill_passive_5104",
                   "Status": 1,
-                  "weight": 2391
+                  "weight": 2688
                 }
               },
               {
@@ -355,7 +355,7 @@
                   "SkillIcon": "Icon_skill_passive_5004",
                   "icon": "Icon_skill_passive_5004",
                   "Status": 1,
-                  "weight": 2371
+                  "weight": 2668
                 }
               },
               {
@@ -374,7 +374,7 @@
                   "SkillIcon": "Icon_skill_passive_5006",
                   "icon": "Icon_skill_passive_5006",
                   "Status": 1,
-                  "weight": 2372
+                  "weight": 2669
                 }
               },
               {
@@ -393,7 +393,7 @@
                   "SkillIcon": "Icon_skill_passive_5104",
                   "icon": "Icon_skill_passive_5104",
                   "Status": 1,
-                  "weight": 2392
+                  "weight": 2689
                 }
               },
               {
@@ -412,7 +412,7 @@
                   "SkillIcon": "Icon_skill_passive_5104",
                   "icon": "Icon_skill_passive_5104",
                   "Status": 1,
-                  "weight": 2393
+                  "weight": 2690
                 }
               },
               {
@@ -431,7 +431,7 @@
                   "SkillIcon": "Icon_skill_passive_5104",
                   "icon": "Icon_skill_passive_5104",
                   "Status": 1,
-                  "weight": 2394
+                  "weight": 2691
                 }
               }
             ],
@@ -458,7 +458,7 @@
       ],
       "Introduction": "混迹在西北丛林的佣兵，过去曾是自立门户的小型佣兵团团长，与蒙福梅关系交恶。在一系列机缘巧合之下成为了芙烈达的手下，自称是「电鳗佣兵团」的二号人物。\n狡狯势利，喜欢耍帅。猎豹物流初入西北丛林之时将凯登视作生命中的宿敌，在猎豹物流退出西北丛林后单方面宣称自己胜利。",
       "Status": 1,
-      "weight": 23,
+      "weight": 24,
       "manji": {
         "quality": "SR",
         "InitialPilotAPValue_PilotAPInitBase": "4",
@@ -496,7 +496,7 @@
             "SkillIcon": "Icon_skill_passive_5010",
             "icon": "Icon_skill_passive_5010",
             "Status": 1,
-            "weight": 2358
+            "weight": 2655
           }
         },
         {
@@ -690,7 +690,7 @@
             "SkillIcon": "Icon_skill_main_1104",
             "icon": "Icon_skill_main_1104",
             "Status": 1,
-            "weight": 187
+            "weight": 201
           }
         },
         {
@@ -715,7 +715,7 @@
             "SkillIcon": "Icon_skill_passive_1103",
             "icon": "Icon_skill_passive_1103",
             "Status": 1,
-            "weight": 2389
+            "weight": 2686
           }
         },
         {
@@ -743,7 +743,7 @@
             "SkillIcon": "Icon_skill_main_1107",
             "icon": "Icon_skill_main_1107",
             "Status": 1,
-            "weight": 188
+            "weight": 202
           }
         },
         {
@@ -768,7 +768,7 @@
             "SkillIcon": "Icon_skill_passive_1011",
             "icon": "Icon_skill_passive_1011",
             "Status": 1,
-            "weight": 3045
+            "weight": 3426
           }
         },
         {
@@ -796,7 +796,7 @@
             "SkillIcon": "Icon_skill_main_1102",
             "icon": "Icon_skill_main_1102",
             "Status": 1,
-            "weight": 189
+            "weight": 203
           }
         },
         {
@@ -821,7 +821,7 @@
             "SkillIcon": "Icon_skill_passive_5183",
             "icon": "Icon_skill_passive_5183",
             "Status": 1,
-            "weight": 2390
+            "weight": 2687
           }
         },
         {
@@ -849,7 +849,7 @@
             "SkillIcon": "Icon_skill_main_1108",
             "icon": "Icon_skill_main_1108",
             "Status": 1,
-            "weight": 190
+            "weight": 204
           }
         },
         {
@@ -1110,7 +1110,7 @@
       ],
       "biomimetic_computer_type": 2
     },
-    "now": "2025-02-12 00:13:56"
+    "now": "2025-09-16 16:18:42"
   },
   "status": 1,
   "switch": null,

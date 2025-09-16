@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_40011",
           "icon": "Icon_entry_40011",
           "Status": 1,
-          "weight": 610
+          "weight": 706
         },
         {
           "ID": "40012",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_40011",
           "icon": "Icon_entry_40011",
           "Status": 1,
-          "weight": 611
+          "weight": 707
         },
         {
           "ID": "40013",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_40011",
           "icon": "Icon_entry_40011",
           "Status": 1,
-          "weight": 612
+          "weight": 708
         },
         {
           "ID": "40014",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_40011",
           "icon": "Icon_entry_40011",
           "Status": 1,
-          "weight": 613
+          "weight": 709
         }
       ],
       "introduce": "为了确保一些射击任务的万无一失，些许部队会为一些顶尖机兵装配Ⅱ型校准模组，大幅提升射击的命中率。",
@@ -55,9 +55,9 @@
       "IconType": "PropertyS",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 70
+      "weight": 82
     },
-    "now": "2025-02-12 00:15:03"
+    "now": "2025-09-16 16:21:38"
   },
   "status": 1,
   "switch": null,

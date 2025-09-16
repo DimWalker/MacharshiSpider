@@ -13,19 +13,19 @@
         {
           "ID": "61008",
           "name": "出力增幅Ⅲ·增伤",
-          "SpecificEffects": "机兵获得额外<color=#F74848>300</color>出力；\n对战时，使敌人遭受伤害提升<color=#F74848>10%</color>；\n机兵躯干耐久值提升<color=#F74848>10%</color>，造成伤害提升<color=#F74848>5%</color>；",
+          "SpecificEffects": "机兵获得额外<color=#F74848>300</color>出力；\n对战时，使敌人遭受伤害提升<color=#F74848>10%</color>；\n机兵躯干耐久值提升<color=#F74848>10%</color>，造成伤害提升<color=#F74848>5%</color>",
           "BufCarried": "601531",
           "SkillIcon": "Icon_skill_passive_5148",
           "icon": "Icon_skill_passive_5148",
           "Status": 1,
-          "weight": 1053
+          "weight": 1219
         }
       ],
       "HowGet": "无",
       "RelatedDescription": "通过外部挂载的小型功能装置为机兵提供额外的出力，使其拥有更高的作战全重上限。同时集成了对敌机遭受伤害提升的功能。",
       "Status": 1
     },
-    "now": "2025-02-12 00:14:33"
+    "now": "2025-09-16 16:20:19"
   },
   "status": 1,
   "switch": null,

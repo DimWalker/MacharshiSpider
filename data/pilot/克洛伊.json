@@ -32,7 +32,7 @@
         "SkillIcon": "Icon_skill_talent_3101",
         "icon": "Icon_skill_talent_3101",
         "Status": 1,
-        "weight": 2891
+        "weight": 3239
       },
       "Talent3_5Ability": {
         "ID": "500151",
@@ -42,7 +42,7 @@
         "SkillIcon": "Icon_skill_talent_3101",
         "icon": "Icon_skill_talent_3101",
         "Status": 1,
-        "weight": 2892
+        "weight": 3240
       },
       "NeuralDriveTemplate": {
         "ID": "10101103",
@@ -71,7 +71,7 @@
                   "SkillIcon": "Icon_skill_passive_1003",
                   "icon": "Icon_skill_passive_1003",
                   "Status": 1,
-                  "weight": 2873
+                  "weight": 3221
                 }
               },
               {
@@ -90,7 +90,7 @@
                   "SkillIcon": "Icon_skill_passive_5014",
                   "icon": "Icon_skill_passive_5014",
                   "Status": 1,
-                  "weight": 2874
+                  "weight": 3222
                 }
               },
               {
@@ -108,7 +108,7 @@
                   "SkillIcon": "Icon_skill_passive_5004",
                   "icon": "Icon_skill_passive_5004",
                   "Status": 1,
-                  "weight": 2875
+                  "weight": 3223
                 }
               }
             ],
@@ -141,7 +141,7 @@
                   "SkillIcon": "Icon_skill_passive_1003",
                   "icon": "Icon_skill_passive_1003",
                   "Status": 1,
-                  "weight": 2876
+                  "weight": 3224
                 }
               },
               {
@@ -159,7 +159,7 @@
                   "SkillIcon": "Icon_skill_passive_5014",
                   "icon": "Icon_skill_passive_5014",
                   "Status": 1,
-                  "weight": 2877
+                  "weight": 3225
                 }
               },
               {
@@ -177,7 +177,7 @@
                   "SkillIcon": "Icon_skill_passive_5004",
                   "icon": "Icon_skill_passive_5004",
                   "Status": 1,
-                  "weight": 2878
+                  "weight": 3226
                 }
               }
             ],
@@ -210,7 +210,7 @@
                   "SkillIcon": "Icon_skill_passive_3002",
                   "icon": "Icon_skill_passive_3002",
                   "Status": 1,
-                  "weight": 2879
+                  "weight": 3227
                 }
               },
               {
@@ -228,7 +228,7 @@
                   "SkillIcon": "Icon_skill_passive_5004",
                   "icon": "Icon_skill_passive_5004",
                   "Status": 1,
-                  "weight": 2880
+                  "weight": 3228
                 }
               },
               {
@@ -247,7 +247,7 @@
                   "SkillIcon": "Icon_skill_passive_5155",
                   "icon": "Icon_skill_passive_5155",
                   "Status": 1,
-                  "weight": 2881
+                  "weight": 3229
                 }
               },
               {
@@ -266,7 +266,7 @@
                   "SkillIcon": "Icon_skill_passive_3002",
                   "icon": "Icon_skill_passive_3002",
                   "Status": 1,
-                  "weight": 2882
+                  "weight": 3230
                 }
               },
               {
@@ -285,7 +285,7 @@
                   "SkillIcon": "Icon_skill_passive_3002",
                   "icon": "Icon_skill_passive_3002",
                   "Status": 1,
-                  "weight": 2883
+                  "weight": 3231
                 }
               },
               {
@@ -304,7 +304,7 @@
                   "SkillIcon": "Icon_skill_passive_3002",
                   "icon": "Icon_skill_passive_3002",
                   "Status": 1,
-                  "weight": 2884
+                  "weight": 3232
                 }
               }
             ],
@@ -326,7 +326,7 @@
       "AdditionalInformation": [],
       "Introduction": "克洛伊·施密特是个什么样的人？灰烬之子的成员会说，她既是个尽职尽责的好军医，也是个严格的小队长。而叶夫根尼则会说，她是个真正的战士。听闻这些答案，克洛伊本人则会以一句「谁知道呢」掩盖笑容，然后继续手头一丝不苟的工作。",
       "Status": 1,
-      "weight": 43,
+      "weight": 44,
       "manji": {
         "quality": "R",
         "InitialPilotAPValue_PilotAPInitBase": "3",
@@ -364,7 +364,7 @@
             "SkillIcon": "Icon_skill_passive_1003",
             "icon": "Icon_skill_passive_1003",
             "Status": 1,
-            "weight": 2872
+            "weight": 3220
           }
         },
         {
@@ -509,7 +509,7 @@
             "SkillIcon": "Icon_skill_passive_3101",
             "icon": "Icon_skill_passive_3101",
             "Status": 1,
-            "weight": 2887
+            "weight": 3235
           }
         },
         {
@@ -538,7 +538,7 @@
             "SkillIcon": "Icon_skill_order_3003",
             "icon": "Icon_skill_order_3003",
             "Status": 1,
-            "weight": 453
+            "weight": 509
           }
         },
         {
@@ -563,7 +563,7 @@
             "SkillIcon": "Icon_skill_passive_5169",
             "icon": "Icon_skill_passive_5169",
             "Status": 1,
-            "weight": 2889
+            "weight": 3237
           }
         },
         {
@@ -588,7 +588,7 @@
             "SkillIcon": "Icon_skill_passive_3116",
             "icon": "Icon_skill_passive_3116",
             "Status": 1,
-            "weight": 2890
+            "weight": 3238
           }
         },
         {
@@ -617,7 +617,7 @@
             "SkillIcon": "Icon_skill_order_3103",
             "icon": "Icon_skill_order_3103",
             "Status": 1,
-            "weight": 388
+            "weight": 427
           }
         },
         {
@@ -803,7 +803,7 @@
       ],
       "biomimetic_computer_type": 1
     },
-    "now": "2025-02-12 00:14:00"
+    "now": "2025-09-16 16:18:50"
   },
   "status": 1,
   "switch": null,

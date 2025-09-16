@@ -18,14 +18,14 @@
           "SkillIcon": "Icon_skill_passive_5233",
           "icon": "Icon_skill_passive_5233",
           "Status": 1,
-          "weight": 1095
+          "weight": 1261
         }
       ],
       "HowGet": "无",
       "RelatedDescription": "旧式移动干扰背包的改良升级款，直接将额外动能输送到腿部传动装置，无论是使用滑轮还是步行，机兵的移动力都能得到提升。同时集成了影响敌机护甲的功能。",
       "Status": 1
     },
-    "now": "2025-02-12 00:14:47"
+    "now": "2025-09-16 16:20:53"
   },
   "status": 1,
   "switch": null,

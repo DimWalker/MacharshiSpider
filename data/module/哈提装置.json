@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data": {
+      "ID": "20491",
+      "ModuleName": "哈提装置",
+      "name": "哈提装置",
+      "EntryLevel": "1",
+      "quality": "SSR",
+      "ModuleEffects": "20491/20492/20493/20494",
+      "WithPassiveSkills": [
+        {
+          "ID": "20491",
+          "name": "哈提装置",
+          "SpecificEffects": "主动攻击对战时<color=#F74848>4%</color>概率触发<buf ID=900001>[追击]</buf>，造成<color=#F74848>0.25</color>倍伤害，自身耐久值百分比每降低<color=#F74848>15%</color>，触发概率提升<color=#F74848>4%</color>",
+          "BufCarried": "204911/204912/204913/204914/204915/204916/204917",
+          "SkillIcon": "Icon_skill_passive_5242",
+          "icon": "Icon_skill_passive_5242",
+          "Status": 1,
+          "weight": 314
+        },
+        {
+          "ID": "20492",
+          "name": "哈提装置",
+          "SpecificEffects": "主动攻击对战时<color=#F74848>8%</color>概率触发<buf ID=900001>[追击]</buf>，造成<color=#F74848>0.25</color>倍伤害，自身耐久值百分比每降低<color=#F74848>15%</color>，触发概率提升<color=#F74848>8%</color>",
+          "BufCarried": "204921/204922/204923/204924/204925/204926/204927",
+          "SkillIcon": "Icon_skill_passive_5242",
+          "icon": "Icon_skill_passive_5242",
+          "Status": 1,
+          "weight": 315
+        },
+        {
+          "ID": "20493",
+          "name": "哈提装置",
+          "SpecificEffects": "主动攻击对战时<color=#F74848>14%</color>概率触发<buf ID=900001>[追击]</buf>，造成<color=#F74848>0.25</color>倍伤害，自身耐久值百分比每降低<color=#F74848>15%</color>，触发概率提升<color=#F74848>14%</color>",
+          "BufCarried": "204931/204932/204933/204934/204935/204936/204937",
+          "SkillIcon": "Icon_skill_passive_5242",
+          "icon": "Icon_skill_passive_5242",
+          "Status": 1,
+          "weight": 316
+        },
+        {
+          "ID": "20494",
+          "name": "哈提装置",
+          "SpecificEffects": "主动攻击对战时<color=#F74848>20%</color>概率触发<buf ID=900001>[追击]</buf>，造成<color=#F74848>0.25</color>倍伤害，自身耐久值百分比每降低<color=#F74848>15%</color>，触发概率提升<color=#F74848>20%</color>",
+          "BufCarried": "204941/204942/204943/204944/204945",
+          "SkillIcon": "Icon_skill_passive_5242",
+          "icon": "Icon_skill_passive_5242",
+          "Status": 1,
+          "weight": 317
+        }
+      ],
+      "introduce": "与海拉搭载的加姆装置相近的机兵核心，能绕过绝大多数的机载干扰系统，对敌机进行追击锁定。",
+      "ModuleIcon": "Icon_skill_passive_5242",
+      "icon": "Icon_skill_passive_5242",
+      "IconType": "SuitS",
+      "ObtainingMethod": "模组生产",
+      "Status": 1,
+      "weight": 43
+    },
+    "now": "2025-09-16 16:21:54"
+  },
+  "status": 1,
+  "switch": null,
+  "info": 0
+}

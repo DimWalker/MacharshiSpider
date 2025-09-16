@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_40051",
           "icon": "Icon_entry_40051",
           "Status": 1,
-          "weight": 642
+          "weight": 738
         },
         {
           "ID": "40052",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_40051",
           "icon": "Icon_entry_40051",
           "Status": 1,
-          "weight": 643
+          "weight": 739
         },
         {
           "ID": "40053",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_40051",
           "icon": "Icon_entry_40051",
           "Status": 1,
-          "weight": 644
+          "weight": 740
         },
         {
           "ID": "40054",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_40051",
           "icon": "Icon_entry_40051",
           "Status": 1,
-          "weight": 645
+          "weight": 741
         }
       ],
       "introduce": "市场上的耐久模组总是卖到脱销，无论什么机兵，都不会嫌弃额外的耐久值。",
@@ -55,9 +55,9 @@
       "IconType": "PropertyA",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 77
+      "weight": 89
     },
-    "now": "2025-02-12 00:15:02"
+    "now": "2025-09-16 16:21:35"
   },
   "status": 1,
   "switch": null,

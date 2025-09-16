@@ -142,3 +142,4 @@ cython_debug/
 
 # 日志
 other/file_monitor.log
+images/

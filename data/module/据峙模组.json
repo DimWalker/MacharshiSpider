@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_skill_passive_1143",
           "icon": "Icon_skill_passive_1143",
           "Status": 1,
-          "weight": 538
+          "weight": 570
         },
         {
           "ID": "30302",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_skill_passive_1143",
           "icon": "Icon_skill_passive_1143",
           "Status": 1,
-          "weight": 539
+          "weight": 571
         },
         {
           "ID": "30303",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_skill_passive_1143",
           "icon": "Icon_skill_passive_1143",
           "Status": 1,
-          "weight": 540
+          "weight": 572
         },
         {
           "ID": "30304",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_skill_passive_1143",
           "icon": "Icon_skill_passive_1143",
           "Status": 1,
-          "weight": 541
+          "weight": 573
         },
         {
           "ID": "30305",
@@ -56,7 +56,7 @@
           "SkillIcon": "Icon_skill_passive_1143",
           "icon": "Icon_skill_passive_1143",
           "Status": 1,
-          "weight": 542
+          "weight": 574
         },
         {
           "ID": "30306",
@@ -66,7 +66,7 @@
           "SkillIcon": "Icon_skill_passive_1143",
           "icon": "Icon_skill_passive_1143",
           "Status": 1,
-          "weight": 543
+          "weight": 575
         },
         {
           "ID": "30307",
@@ -76,7 +76,7 @@
           "SkillIcon": "Icon_skill_passive_1143",
           "icon": "Icon_skill_passive_1143",
           "Status": 1,
-          "weight": 544
+          "weight": 576
         },
         {
           "ID": "30308",
@@ -86,7 +86,7 @@
           "SkillIcon": "Icon_skill_passive_1143",
           "icon": "Icon_skill_passive_1143",
           "Status": 1,
-          "weight": 545
+          "weight": 577
         }
       ],
       "introduce": "为了适应比拼火力的对峙场景而研发的机兵模组，在针对突击武器的方向上做出了特别优化。",
@@ -95,9 +95,9 @@
       "IconType": "GeneralSuit",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 68
+      "weight": 76
     },
-    "now": "2025-02-12 00:15:03"
+    "now": "2025-09-16 16:21:41"
   },
   "status": 1,
   "switch": null,

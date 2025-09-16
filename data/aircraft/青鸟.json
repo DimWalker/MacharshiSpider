@@ -43,7 +43,7 @@
             "SkillIcon": "Icon_entry_40031",
             "icon": "Icon_entry_40031",
             "Status": 1,
-            "weight": 627,
+            "weight": 723,
             "id": "4003",
             "level": 2
           },
@@ -59,7 +59,7 @@
             "SkillIcon": "Icon_entry_10022",
             "icon": "Icon_entry_10022",
             "Status": 1,
-            "weight": 387,
+            "weight": 419,
             "id": "3010",
             "level": 2
           }
@@ -69,7 +69,7 @@
         "mechaIcon": "Icon_wap2022_1",
         "lihuiIcon": "icon_lihui_wap2022",
         "Status": 1,
-        "weight": 108,
+        "weight": 120,
         "manji": {
           "name": "青鸟",
           "durable": "10370",
@@ -107,7 +107,7 @@
               "SkillIcon": "Icon_entry_40031",
               "icon": "Icon_entry_40031",
               "Status": 1,
-              "weight": 629,
+              "weight": 725,
               "id": "4003",
               "level": 4
             },
@@ -123,13 +123,13 @@
               "SkillIcon": "Icon_entry_10022",
               "icon": "Icon_entry_10022",
               "Status": 1,
-              "weight": 393,
+              "weight": 425,
               "id": "3010",
               "level": 8
             }
           ],
           "Status": 1,
-          "weight": 108
+          "weight": 120
         }
       },
       {
@@ -148,7 +148,7 @@
         "introduce": "OS-79 青鸟\n黑曜石开发的新锐中型机兵，因其优异性能和独特外形备受关注。\n配备B·M战场感知与分析模块，该模块来自传奇机兵XR的实验室配置，最终在青鸟上完成性能验证。通过接收来自多种侦察设备的实时信息，特制OS将迅速生成详细的势态分析图，分析敌方机兵行为模式，从而使得机师能及时完成战术调整，并对敌方阵线薄弱处发起有力打击。",
         "mechaIcon": "Icon_wap2022_2",
         "Status": 1,
-        "weight": 109,
+        "weight": 121,
         "manji": {
           "name": "青鸟",
           "durable": "4392",
@@ -158,7 +158,7 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "2002:1/3010:2/4003:1/",
           "Status": 1,
-          "weight": 109
+          "weight": 121
         }
       },
       {
@@ -177,7 +177,7 @@
         "introduce": "OS-79 青鸟\n黑曜石开发的新锐中型机兵，因其优异性能和独特外形备受关注。\n配备B·M战场感知与分析模块，该模块来自传奇机兵XR的实验室配置，最终在青鸟上完成性能验证。通过接收来自多种侦察设备的实时信息，特制OS将迅速生成详细的势态分析图，分析敌方机兵行为模式，从而使得机师能及时完成战术调整，并对敌方阵线薄弱处发起有力打击。",
         "mechaIcon": "Icon_wap2022_3",
         "Status": 1,
-        "weight": 110,
+        "weight": 122,
         "manji": {
           "name": "青鸟",
           "durable": "4392",
@@ -187,7 +187,7 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "2002:1/3010:2/4003:1/",
           "Status": 1,
-          "weight": 110
+          "weight": 122
         }
       },
       {
@@ -207,7 +207,7 @@
         "introduce": "OS-79 青鸟\n黑曜石开发的新锐中型机兵，因其优异性能和独特外形备受关注。\n配备B·M战场感知与分析模块，该模块来自传奇机兵XR的实验室配置，最终在青鸟上完成性能验证。通过接收来自多种侦察设备的实时信息，特制OS将迅速生成详细的势态分析图，分析敌方机兵行为模式，从而使得机师能及时完成战术调整，并对敌方阵线薄弱处发起有力打击。",
         "mechaIcon": "Icon_wap2022_4",
         "Status": 1,
-        "weight": 111,
+        "weight": 123,
         "manji": {
           "name": "青鸟",
           "durable": "7312",
@@ -218,11 +218,11 @@
           "Interface": "Ⅱ型接口",
           "ModuleCarried": "2002:1/3010:2/4003:1/",
           "Status": 1,
-          "weight": 111
+          "weight": 123
         }
       }
     ],
-    "now": "2025-02-12 00:13:45"
+    "now": "2025-09-16 16:18:12"
   },
   "status": 1,
   "switch": null,

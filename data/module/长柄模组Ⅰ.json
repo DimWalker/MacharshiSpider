@@ -16,7 +16,7 @@
           "SkillIcon": "Icon_entry_40121",
           "icon": "Icon_entry_40121",
           "Status": 1,
-          "weight": 698
+          "weight": 794
         },
         {
           "ID": "40122",
@@ -26,7 +26,7 @@
           "SkillIcon": "Icon_entry_40121",
           "icon": "Icon_entry_40121",
           "Status": 1,
-          "weight": 699
+          "weight": 795
         },
         {
           "ID": "40123",
@@ -36,7 +36,7 @@
           "SkillIcon": "Icon_entry_40121",
           "icon": "Icon_entry_40121",
           "Status": 1,
-          "weight": 700
+          "weight": 796
         },
         {
           "ID": "40124",
@@ -46,7 +46,7 @@
           "SkillIcon": "Icon_entry_40121",
           "icon": "Icon_entry_40121",
           "Status": 1,
-          "weight": 701
+          "weight": 797
         }
       ],
       "introduce": "为了让你的机兵更流畅地使用长柄武器这最沉重的格斗武器，长柄模组是不可或缺的，它能巧妙地利用惯性以减少机兵的出力负担。",
@@ -55,9 +55,9 @@
       "IconType": "PropertyA",
       "ObtainingMethod": "商店购买",
       "Status": 1,
-      "weight": 91
+      "weight": 103
     },
-    "now": "2025-02-12 00:14:59"
+    "now": "2025-09-16 16:21:30"
   },
   "status": 1,
   "switch": null,
